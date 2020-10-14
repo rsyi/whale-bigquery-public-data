@@ -1,0 +1,4 @@
+bin/
+logs/
+config/config.yaml
+libexec/

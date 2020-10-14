@@ -1,0 +1,69 @@
+# `world_bank_global_population.population_by_country`
+`bigquery`| `bigquery-public-data`
+
+## Column details
+* [STRING]    `country`
+* [STRING]    `country_code`
+* [INTEGER]   `year_1960`
+* [INTEGER]   `year_1961`
+* [INTEGER]   `year_1962`
+* [INTEGER]   `year_1963`
+* [INTEGER]   `year_1964`
+* [INTEGER]   `year_1965`
+* [INTEGER]   `year_1966`
+* [INTEGER]   `year_1967`
+* [INTEGER]   `year_1968`
+* [INTEGER]   `year_1969`
+* [INTEGER]   `year_1970`
+* [INTEGER]   `year_1971`
+* [INTEGER]   `year_1972`
+* [INTEGER]   `year_1973`
+* [INTEGER]   `year_1974`
+* [INTEGER]   `year_1975`
+* [INTEGER]   `year_1976`
+* [INTEGER]   `year_1977`
+* [INTEGER]   `year_1978`
+* [INTEGER]   `year_1979`
+* [INTEGER]   `year_1980`
+* [INTEGER]   `year_1981`
+* [INTEGER]   `year_1982`
+* [INTEGER]   `year_1983`
+* [INTEGER]   `year_1984`
+* [INTEGER]   `year_1985`
+* [INTEGER]   `year_1986`
+* [INTEGER]   `year_1987`
+* [INTEGER]   `year_1988`
+* [INTEGER]   `year_1989`
+* [INTEGER]   `year_1990`
+* [INTEGER]   `year_1991`
+* [INTEGER]   `year_1992`
+* [INTEGER]   `year_1993`
+* [INTEGER]   `year_1994`
+* [INTEGER]   `year_1995`
+* [INTEGER]   `year_1996`
+* [INTEGER]   `year_1997`
+* [INTEGER]   `year_1998`
+* [INTEGER]   `year_1999`
+* [INTEGER]   `year_2000`
+* [INTEGER]   `year_2001`
+* [INTEGER]   `year_2002`
+* [INTEGER]   `year_2003`
+* [INTEGER]   `year_2004`
+* [INTEGER]   `year_2005`
+* [INTEGER]   `year_2006`
+* [INTEGER]   `year_2007`
+* [INTEGER]   `year_2008`
+* [INTEGER]   `year_2009`
+* [INTEGER]   `year_2010`
+* [INTEGER]   `year_2011`
+* [INTEGER]   `year_2012`
+* [INTEGER]   `year_2013`
+* [INTEGER]   `year_2014`
+* [INTEGER]   `year_2015`
+* [INTEGER]   `year_2016`
+* [INTEGER]   `year_2017`
+* [INTEGER]   `year_2018`
+* [INTEGER]   `year_2019`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*

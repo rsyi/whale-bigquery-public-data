@@ -1,0 +1,73 @@
+# `wikipedia.wikidata`
+`bigquery`| `bigquery-public-data`
+
+## Column details
+* [STRING]    `id`
+* [INTEGER]   `numeric_id`
+* [STRING]    `en_label`
+* [STRING]    `en_wiki`
+* [STRING]    `en_description`
+* [STRING]    `ja_label`
+* [STRING]    `ja_wiki`
+* [STRING]    `ja_description`
+* [STRING]    `es_label`
+* [STRING]    `es_wiki`
+* [STRING]    `es_description`
+* [STRING]    `fr_label`
+* [STRING]    `fr_wiki`
+* [STRING]    `fr_description`
+* [STRING]    `de_label`
+* [STRING]    `de_wiki`
+* [STRING]    `de_description`
+* [STRING]    `type`
+* [RECORD]    `sitelinks`
+* [STRING]    `sitelinks.site`
+* [STRING]    `sitelinks.title`
+* [STRING]    `sitelinks.encoded`
+* [RECORD]    `descriptions`
+* [STRING]    `descriptions.language`
+* [STRING]    `descriptions.value`
+* [RECORD]    `labels`
+* [STRING]    `labels.language`
+* [STRING]    `labels.value`
+* [RECORD]    `aliases`
+* [STRING]    `aliases.language`
+* [STRING]    `aliases.value`
+* [RECORD]    `instance_of`
+* [INTEGER]   `instance_of.numeric_id`
+* [RECORD]    `gender`
+* [INTEGER]   `gender.numeric_id`
+* [RECORD]    `date_of_birth`
+* [STRING]    `date_of_birth.time`
+* [RECORD]    `date_of_death`
+* [STRING]    `date_of_death.time`
+* [RECORD]    `place_of_birth`
+* [INTEGER]   `place_of_birth.numeric_id`
+* [RECORD]    `country_of_citizenship`
+* [INTEGER]   `country_of_citizenship.numeric_id`
+* [RECORD]    `country`
+* [INTEGER]   `country.numeric_id`
+* [RECORD]    `occupation`
+* [INTEGER]   `occupation.numeric_id`
+* [RECORD]    `instrument`
+* [INTEGER]   `instrument.numeric_id`
+* [RECORD]    `genre`
+* [INTEGER]   `genre.numeric_id`
+* [RECORD]    `industry`
+* [INTEGER]   `industry.numeric_id`
+* [RECORD]    `subclass_of`
+* [INTEGER]   `subclass_of.numeric_id`
+* [RECORD]    `coordinate_location`
+* [FLOAT]     `coordinate_location.latitude`
+* [FLOAT]     `coordinate_location.longitude`
+* [RECORD]    `iso_3166_alpha3`
+* [STRING]    `iso_3166_alpha3.value`
+* [RECORD]    `member_of`
+* [INTEGER]   `member_of.numeric_id`
+* [RECORD]    `from_fictional_universe`
+* [INTEGER]   `from_fictional_universe.numeric_id`
+* [STRING]    `item`
+* [DATE]      `fake_date`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*
