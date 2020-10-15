@@ -3,19 +3,19 @@
 
 ## Column details
 * [TIMESTAMP] `timestamp`
- - Timestamp in UTC
+  - Timestamp in UTC
 * [STRING]    `time`
- - Hour in UTC
+  - Hour in UTC
 * [INTEGER]   `size`
- - Size in 1/100 of an Inch (175 = 1.75")
+  - Size in 1/100 of an Inch (175 = 1.75")
 * [STRING]    `location`
- - Location of report
+  - Location of report
 * [STRING]    `county`
 * [STRING]    `state`
 * [FLOAT]     `latitude`
- - Latitude to two decimal places
+  - Latitude to two decimal places
 * [FLOAT]     `longitude`
- - Longitude to two decimal places
+  - Longitude to two decimal places
 * [STRING]    `comments`
 * [GEOGRAPHY] `report_point`
 

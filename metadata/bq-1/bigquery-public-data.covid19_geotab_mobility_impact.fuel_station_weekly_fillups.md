@@ -4,17 +4,17 @@ Percentage of normal number of fuelling events at fuel stations in North America
 
 ## Column details
 * [DATE]      `week_start`
- - The start of the week in which fuelling events at fuel stations was measured.
+  - The start of the week in which fuelling events at fuel stations was measured.
 * [DATE]      `week_end`
- - The end of the week in which fuelling events at fuel stations was measured.
+  - The end of the week in which fuelling events at fuel stations was measured.
 * [STRING]    `state_province`
- - The state where fuelling events was measured.
+  - The state where fuelling events was measured.
 * [STRING]    `country_iso_code_2`
- - ISO 3166-2 code representing the county and state/province of the aggregation
+  - ISO 3166-2 code representing the county and state/province of the aggregation
 * [FLOAT]     `percent_of_normal_volume`
- - The percentage of fuelling events at fuel stations relative to the baseline period.
+  - The percentage of fuelling events at fuel stations relative to the baseline period.
 * [STRING]    `version`
- - Version of the table
+  - Version of the table
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

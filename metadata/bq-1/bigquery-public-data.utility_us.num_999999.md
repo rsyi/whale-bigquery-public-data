@@ -3,7 +3,7 @@
 
 ## Column details
 * [INTEGER]   `num`
- - Num as INTEGER - [0, 999999]
+  - Num as INTEGER - [0, 999999]
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

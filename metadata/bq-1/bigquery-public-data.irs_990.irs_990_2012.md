@@ -3,129 +3,129 @@
 
 ## Column details
 * [STRING]    `ein`
- - Employer Identification Number
+  - Employer Identification Number
 * [STRING]    `tax_pd`
- - Tax period
+  - Tax period
 * [STRING]    `subseccd`
- - Subsection code
+  - Subsection code
 * [STRING]    `unrelbusinccd`
- - Unrelated business income question
+  - Unrelated business income question
 * [INTEGER]   `initiationfees`
- - Initiation fees amount
+  - Initiation fees amount
 * [INTEGER]   `grsrcptspublicuse`
- - Gross receipts amount
+  - Gross receipts amount
 * [INTEGER]   `grsincmembers`
- - Gross income from members
+  - Gross income from members
 * [INTEGER]   `grsincother`
- - Gross income from other sources
+  - Gross income from other sources
 * [INTEGER]   `totcntrbgfts`
- - Total contributions
+  - Total contributions
 * [INTEGER]   `totprgmrevnue`
- - Program service revenue
+  - Program service revenue
 * [INTEGER]   `invstmntinc`
- - Investment income
+  - Investment income
 * [INTEGER]   `txexmptbndsproceeds`
- - Tax-exempt bond proceeds
+  - Tax-exempt bond proceeds
 * [INTEGER]   `royaltsinc`
- - Royalties
+  - Royalties
 * [INTEGER]   `grsrntsreal`
- - Gross rents -- Real estate
+  - Gross rents -- Real estate
 * [INTEGER]   `grsrntsprsnl`
- - Gross rents -- Personal property
+  - Gross rents -- Personal property
 * [INTEGER]   `rntlexpnsreal`
- - Rental expense -- Real estate
+  - Rental expense -- Real estate
 * [INTEGER]   `rntlexpnsprsnl`
- - Rental expense -- Personal property
+  - Rental expense -- Personal property
 * [INTEGER]   `rntlincreal`
- - Net rent -- Real estate
+  - Net rent -- Real estate
 * [INTEGER]   `rntlincprsnl`
- - Net rent -- Personal property
+  - Net rent -- Personal property
 * [INTEGER]   `netrntlinc`
- - Net rental income
+  - Net rental income
 * [INTEGER]   `grsalesecur`
- - Gross sales -- Securities
+  - Gross sales -- Securities
 * [INTEGER]   `grsalesothr`
- - Gross sales -- Other assets
+  - Gross sales -- Other assets
 * [INTEGER]   `cstbasisecur`
- - Sales expense -- Securities
+  - Sales expense -- Securities
 * [INTEGER]   `cstbasisothr`
- - Sales expense -- Other assets
+  - Sales expense -- Other assets
 * [INTEGER]   `gnlsecur`
- - Net gain from sales -- Securities
+  - Net gain from sales -- Securities
 * [INTEGER]   `gnlsothr`
- - Net gain from sales -- Other assets
+  - Net gain from sales -- Other assets
 * [INTEGER]   `netgnls`
- - Sales of assets
+  - Sales of assets
 * [INTEGER]   `grsincfndrsng`
- - Gross fundraising
+  - Gross fundraising
 * [INTEGER]   `lessdirfndrsng`
- - Fundraising expenses
+  - Fundraising expenses
 * [INTEGER]   `netincfndrsng`
- - Fundraising income
+  - Fundraising income
 * [INTEGER]   `grsincgaming`
- - Gross income from gaming
+  - Gross income from gaming
 * [INTEGER]   `lessdirgaming`
- - Gaming expenses
+  - Gaming expenses
 * [INTEGER]   `netincgaming`
- - Gaming income
+  - Gaming income
 * [INTEGER]   `grsalesinvent`
- - Gross sales of inventory
+  - Gross sales of inventory
 * [INTEGER]   `lesscstofgoods`
- - Cost of goods sold (inventory)
+  - Cost of goods sold (inventory)
 * [INTEGER]   `netincsales`
- - Income from sales of inventory
+  - Income from sales of inventory
 * [INTEGER]   `miscrevtot11e`
- - Other revenue
+  - Other revenue
 * [INTEGER]   `totrevenue`
- - Total revenue
+  - Total revenue
 * [INTEGER]   `compnsatncurrofcr`
- - Compensation of current officers, directors, etc
+  - Compensation of current officers, directors, etc
 * [INTEGER]   `othrsalwages`
- - Other salaries and wages
+  - Other salaries and wages
 * [INTEGER]   `payrolltx`
- - Payroll taxes
+  - Payroll taxes
 * [INTEGER]   `profndraising`
- - Professional fundraising fees
+  - Professional fundraising fees
 * [INTEGER]   `totfuncexpns`
- - Total functional expenses
+  - Total functional expenses
 * [INTEGER]   `totassetsend`
- - Total assets -- eoy
+  - Total assets -- eoy
 * [INTEGER]   `txexmptbndsend`
- - Tax-exempt bond liabilities -- eoy
+  - Tax-exempt bond liabilities -- eoy
 * [INTEGER]   `secrdmrtgsend`
- - Secured mortgages and notes payable -- eoy
+  - Secured mortgages and notes payable -- eoy
 * [INTEGER]   `unsecurednotesend`
- - Unsecured mortgages and notes payable -- eoy
+  - Unsecured mortgages and notes payable -- eoy
 * [INTEGER]   `totliabend`
- - Total liabilities -- eoy
+  - Total liabilities -- eoy
 * [INTEGER]   `retainedearnend`
- - Paid-in or capital surplus -- eoy
+  - Paid-in or capital surplus -- eoy
 * [INTEGER]   `totnetassetend`
- - Total Net Assets -- eoy
+  - Total Net Assets -- eoy
 * [STRING]    `nonpfrea`
- - Reason for non-PF status
+  - Reason for non-PF status
 * [INTEGER]   `gftgrntsrcvd170`
- - Gifts grants membership fees received (170)
+  - Gifts grants membership fees received (170)
 * [INTEGER]   `txrevnuelevied170`
- - Tax revenues levied (170)
+  - Tax revenues levied (170)
 * [INTEGER]   `srvcsval170`
- - Services or facilities furnished by gov (170)
+  - Services or facilities furnished by gov (170)
 * [INTEGER]   `grsinc170`
- - Gross income from interest etc (170)
+  - Gross income from interest etc (170)
 * [INTEGER]   `grsrcptsrelated170`
- - Gross receipts from related activities (170)
+  - Gross receipts from related activities (170)
 * [INTEGER]   `totgftgrntrcvd509`
- - Gifts grants membership fees received (509)
+  - Gifts grants membership fees received (509)
 * [INTEGER]   `grsrcptsadmissn509`
- - Receipts from admissions merchandise etc (509)
+  - Receipts from admissions merchandise etc (509)
 * [INTEGER]   `txrevnuelevied509`
- - Tax revenues levied (509)
+  - Tax revenues levied (509)
 * [INTEGER]   `srvcsval509`
- - Services or facilities furnished by gov (509)
+  - Services or facilities furnished by gov (509)
 * [INTEGER]   `subtotsuppinc509`
- - Subtotal total support (509)
+  - Subtotal total support (509)
 * [INTEGER]   `totsupp509`
- - Total support (509)
+  - Total support (509)
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -3,25 +3,25 @@
 
 ## Column details
 * [STRING]    `country_code`
- - Federal Information Processing Standard (FIPS) country/area code
+  - Federal Information Processing Standard (FIPS) country/area code
 * [STRING]    `country_name`
- - Country or area name
+  - Country or area name
 * [INTEGER]   `year`
- - Year
+  - Year
 * [STRING]    `total_flag`
- - Total flag: "*"=Total, all ages; "A"=Individual age group
+  - Total flag: "*"=Total, all ages; "A"=Individual age group
 * [INTEGER]   `starting_age`
- - Starting age (0 to 100)
+  - Starting age (0 to 100)
 * [STRING]    `age_group_indicator`
- - Age group indicator: "-"=5-year age group; "+"=open-ended age group
+  - Age group indicator: "-"=5-year age group; "+"=open-ended age group
 * [INTEGER]   `ending_age`
- - Ending age (4 to 99; set to 0 if G="+")
+  - Ending age (4 to 99; set to 0 if G="+")
 * [INTEGER]   `midyear_population`
- - Both sexes midyear population in the age group
+  - Both sexes midyear population in the age group
 * [INTEGER]   `midyear_population_male`
- - Male midyear population in the age group
+  - Male midyear population in the age group
 * [INTEGER]   `midyear_population_female`
- - Female midyear population in the age group
+  - Female midyear population in the age group
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -8,17 +8,17 @@ For New Zealand, this information is provided during our verification process.
 
 ## Column details
 * [STRING]    `advertiser_id`
- - ID of the advertiser who purchased the ad.
+  - ID of the advertiser who purchased the ad.
 * [STRING]    `advertiser_declared_name`
- - The advertiser’s committee declared name.
+  - The advertiser’s committee declared name.
 * [STRING]    `advertiser_declared_regulatory_id`
- - Committee declared identification number.
+  - Committee declared identification number.
 * [STRING]    `advertiser_declared_scope`
- - Committee-provided information about the candidate and office or ballot proposition and jurisdiction to which the advertisement refers, which is separate from our verification process.
+  - Committee-provided information about the candidate and office or ballot proposition and jurisdiction to which the advertisement refers, which is separate from our verification process.
 * [STRING]    `advertiser_declared_promoter_name`
- - The New Zealand advertiser’s declared Promoter Statement name.
+  - The New Zealand advertiser’s declared Promoter Statement name.
 * [STRING]    `advertiser_declared_promoter_address`
- - The New Zealand advertiser’s declared Promoter Statement address.
+  - The New Zealand advertiser’s declared Promoter Statement address.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

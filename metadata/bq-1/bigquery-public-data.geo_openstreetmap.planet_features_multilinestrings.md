@@ -6,15 +6,15 @@
 * [INTEGER]   `osm_version`
 * [INTEGER]   `osm_way_id`
 * [TIMESTAMP] `osm_timestamp`
- - Last-modified timestamp for this object.
+  - Last-modified timestamp for this object.
 * [GEOGRAPHY] `geometry`
- - GEOGRAPHY-encoded point
+  - GEOGRAPHY-encoded point
 * [RECORD]    `all_tags`
- - Unstructured key=value attributes for this object.
+  - Unstructured key=value attributes for this object.
 * [STRING]    `all_tags.key`
- - Attribute key.
+  - Attribute key.
 * [STRING]    `all_tags.value`
- - Attribute value.
+  - Attribute value.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

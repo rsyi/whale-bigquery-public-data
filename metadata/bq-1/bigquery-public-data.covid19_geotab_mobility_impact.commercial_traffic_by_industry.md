@@ -4,17 +4,17 @@ The commercial traffic dataset measures the volume of commercial activity each d
 
 ## Column details
 * [STRING]    `alpha_code_3`
- - If the record contains country-level stats: 3-letter Country code
+  - If the record contains country-level stats: 3-letter Country code
 * [STRING]    `region`
- - If the record contains region-level stats: region description as found in `bigquery-public-data.covid19_geotab_mobility_impact.lookup_region`
+  - If the record contains region-level stats: region description as found in `bigquery-public-data.covid19_geotab_mobility_impact.lookup_region`
 * [STRING]    `industry`
- - Major industry impacted by COVID.
+  - Major industry impacted by COVID.
 * [DATE]      `date`
- - Date of the data
+  - Date of the data
 * [FLOAT]     `percent_of_baseline`
- - Percent of baseline activity for the corresponding industry and region.
+  - Percent of baseline activity for the corresponding industry and region.
 * [STRING]    `version`
- - Version of the table
+  - Version of the table
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -3,29 +3,29 @@
 
 ## Column details
 * [TIMESTAMP] `date`
- - Date of notification
+  - Date of notification
 * [STRING]    `country`
- - Country of reference
+  - Country of reference
 * [STRING]    `region_code`
- - Code of the Region (ISTAT 2019)
+  - Code of the Region (ISTAT 2019)
 * [STRING]    `region_name`
- - Name of the Region
+  - Name of the Region
 * [STRING]    `province_code`
- - Code of the Province
+  - Code of the Province
 * [STRING]    `province_name`
- - Name of the Province
+  - Name of the Province
 * [STRING]    `province_abbreviation`
- - Province abbreviation
+  - Province abbreviation
 * [FLOAT]     `latitude`
- - Latitude
+  - Latitude
 * [FLOAT]     `longitude`
- - Longitude
+  - Longitude
 * [GEOGRAPHY] `location_geom`
- - Geographic representation of the longitude and latitude
+  - Geographic representation of the longitude and latitude
 * [INTEGER]   `confirmed_cases`
- - Total amount of positive cases
+  - Total amount of positive cases
 * [STRING]    `note`
- - Notes in english language
+  - Notes in english language
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

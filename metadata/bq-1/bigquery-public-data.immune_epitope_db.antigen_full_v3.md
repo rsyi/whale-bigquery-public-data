@@ -3,19 +3,19 @@
 
 ## Column details
 * [STRING]    `antigen_name`
- - Antigen/Antigen Name
+  - Antigen/Antigen Name
 * [STRING]    `antigen_id`
- - Antigen/Antigen ID
+  - Antigen/Antigen ID
 * [STRING]    `organism_name`
- - Antigen/Organism Name
+  - Antigen/Organism Name
 * [STRING]    `organism_id`
- - Antigen/Organism ID
+  - Antigen/Organism ID
 * [INTEGER]   `number_of_epitopes`
- - Antigen/# Epitopes
+  - Antigen/# Epitopes
 * [INTEGER]   `number_of_assays`
- - Antigen/# Assays
+  - Antigen/# Assays
 * [INTEGER]   `number_of_references`
- - Antigen/# References
+  - Antigen/# References
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

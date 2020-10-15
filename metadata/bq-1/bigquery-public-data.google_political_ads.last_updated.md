@@ -5,7 +5,7 @@ Ads report. All dates provided are per UTC time zone.
 
 ## Column details
 * [DATE]      `report_data_updated_date`
- - The date the report data was most reecntly updated
+  - The date the report data was most reecntly updated
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -3,7 +3,7 @@
 
 ## Column details
 * [INTEGER]   `unique_key`
- - The unique incident number for this accident.
+  - The unique incident number for this accident.
 * [STRING]    `descript`
 * [DATE]      `date`
 * [TIME]      `time`
@@ -11,7 +11,7 @@
 * [FLOAT]     `longitude`
 * [FLOAT]     `latitude`
 * [STRING]    `location`
- - Latitude/Longitude
+  - Latitude/Longitude
 * [TIMESTAMP] `timestamp`
 
 -------------------------------------------------------------------------------

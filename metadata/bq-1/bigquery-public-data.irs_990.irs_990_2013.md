@@ -3,495 +3,495 @@
 
 ## Column details
 * [STRING]    `ein`
- - Employer Identification Number
+  - Employer Identification Number
 * [INTEGER]   `tax_pd`
- - Tax period
+  - Tax period
 * [INTEGER]   `subseccd`
- - Subsection code
+  - Subsection code
 * [STRING]    `s501c3or4947a1cd`
- - Described in 501(c)(3)?
+  - Described in 501(c)(3)?
 * [STRING]    `schdbind`
- - Schedule B required?
+  - Schedule B required?
 * [STRING]    `politicalactvtscd`
- - Political activities?
+  - Political activities?
 * [STRING]    `lbbyingactvtscd`
- - Lobbying activities?
+  - Lobbying activities?
 * [STRING]    `subjto6033cd`
- - Subject to proxy tax?
+  - Subject to proxy tax?
 * [STRING]    `dnradvisedfundscd`
- - Donor advised funds?
+  - Donor advised funds?
 * [STRING]    `prptyintrcvdcd`
- - Conservation easements?
+  - Conservation easements?
 * [STRING]    `maintwrkofartcd`
- - Collections of art?
+  - Collections of art?
 * [STRING]    `crcounselingqstncd`
- - Credit counseling?
+  - Credit counseling?
 * [STRING]    `hldassetsintermpermcd`
- - Term or permanent endowments?
+  - Term or permanent endowments?
 * [STRING]    `rptlndbldgeqptcd`
- - Land buildings and equipment reported?
+  - Land buildings and equipment reported?
 * [STRING]    `rptinvstothsecd`
- - Investments in other securities reported?
+  - Investments in other securities reported?
 * [STRING]    `rptinvstprgrelcd`
- - Program related investments reported?
+  - Program related investments reported?
 * [STRING]    `rptothasstcd`
- - Other assets reported?
+  - Other assets reported?
 * [STRING]    `rptothliabcd`
- - Other liabilities reported?
+  - Other liabilities reported?
 * [STRING]    `sepcnsldtfinstmtcd`
- - Separate consolidated financial statement
+  - Separate consolidated financial statement
 * [STRING]    `sepindaudfinstmtcd`
- - Separate audited financial statement
+  - Separate audited financial statement
 * [STRING]    `inclinfinstmtcd`
- - Included in consolidated financial statements?
+  - Included in consolidated financial statements?
 * [STRING]    `operateschools170cd`
- - School?
+  - School?
 * [STRING]    `frgnofficecd`
- - Foreign office?
+  - Foreign office?
 * [STRING]    `frgnrevexpnscd`
- - Foreign activities, etc?
+  - Foreign activities, etc?
 * [STRING]    `frgngrntscd`
- - More than $5000 to organizations Part IX, line 3?
+  - More than $5000 to organizations Part IX, line 3?
 * [STRING]    `frgnaggragrntscd`
- - More than $5000 to individuals Part IX, line 3?
+  - More than $5000 to individuals Part IX, line 3?
 * [STRING]    `rptprofndrsngfeescd`
- - Professional fundraising?
+  - Professional fundraising?
 * [STRING]    `rptincfnndrsngcd`
- - Fundraising activities?
+  - Fundraising activities?
 * [STRING]    `rptincgamingcd`
- - Gaming?
+  - Gaming?
 * [STRING]    `operatehosptlcd`
- - Hospital?
+  - Hospital?
 * [STRING]    `hospaudfinstmtcd`
- - Hospital audited financial statement included?
+  - Hospital audited financial statement included?
 * [STRING]    `rptgrntstogovtcd`
- - Grants to organizations?
+  - Grants to organizations?
 * [STRING]    `rptgrntstoindvcd`
- - Grants to individuals?
+  - Grants to individuals?
 * [STRING]    `rptyestocompnstncd`
- - Schedule J required?
+  - Schedule J required?
 * [STRING]    `txexmptbndcd`
- - Tax exempt bonds?
+  - Tax exempt bonds?
 * [STRING]    `invstproceedscd`
- - Investment income?
+  - Investment income?
 * [STRING]    `maintescrwaccntcd`
- - Escrow account?
+  - Escrow account?
 * [STRING]    `actonbehalfcd`
- - On behalf of issuer?
+  - On behalf of issuer?
 * [STRING]    `engageexcessbnftcd`
- - Excess benefit transaction?
+  - Excess benefit transaction?
 * [STRING]    `awarexcessbnftcd`
- - Prior excess benefit transaction?
+  - Prior excess benefit transaction?
 * [STRING]    `loantofficercd`
- - Loan to officer or DQP?
+  - Loan to officer or DQP?
 * [STRING]    `grantoofficercd`
- - Grant to related person?
+  - Grant to related person?
 * [STRING]    `dirbusnreltdcd`
- - Business relationship with organization?
+  - Business relationship with organization?
 * [STRING]    `fmlybusnreltdcd`
- - Business relationship thru family member?
+  - Business relationship thru family member?
 * [STRING]    `servasofficercd`
- - Officer, etc. of entity with business relationship?
+  - Officer, etc. of entity with business relationship?
 * [STRING]    `recvnoncashcd`
- - Deductible non-cash contributions?
+  - Deductible non-cash contributions?
 * [STRING]    `recvartcd`
- - Deductible contributions of art, etc?
+  - Deductible contributions of art, etc?
 * [STRING]    `ceaseoperationscd`
- - Terminated?
+  - Terminated?
 * [STRING]    `sellorexchcd`
- - Partial liquidation?
+  - Partial liquidation?
 * [STRING]    `ownsepentcd`
- - Disregarded entity?
+  - Disregarded entity?
 * [STRING]    `reltdorgcd`
- - Related entity?
+  - Related entity?
 * [STRING]    `intincntrlcd`
- - Related organization a controlled entity?
+  - Related organization a controlled entity?
 * [STRING]    `orgtrnsfrcd`
- - Any transfers to exempt non-charitable org?
+  - Any transfers to exempt non-charitable org?
 * [STRING]    `conduct5percentcd`
- - Activities conducted thru partnership?
+  - Activities conducted thru partnership?
 * [STRING]    `compltschocd`
- - Schedule O completed?
+  - Schedule O completed?
 * [INTEGER]   `f1096cnt`
- - Number forms transmitted with 1096
+  - Number forms transmitted with 1096
 * [INTEGER]   `fw2gcnt`
- - Number W-2Gs included in 1a
+  - Number W-2Gs included in 1a
 * [STRING]    `wthldngrulescd`
- - Compliance with backup witholding?
+  - Compliance with backup witholding?
 * [INTEGER]   `noemplyeesw3cnt`
- - Number of employees
+  - Number of employees
 * [STRING]    `filerqrdrtnscd`
- - Employment tax returns filed?
+  - Employment tax returns filed?
 * [STRING]    `unrelbusinccd`
- - Unrelated business income?
+  - Unrelated business income?
 * [STRING]    `filedf990tcd`
- - Form 990-T filed?
+  - Form 990-T filed?
 * [STRING]    `frgnacctcd`
- - Foreign financial account?
+  - Foreign financial account?
 * [STRING]    `prohibtdtxshltrcd`
- - Prohibited tax shelter transaction?
+  - Prohibited tax shelter transaction?
 * [STRING]    `prtynotifyorgcd`
- - Taxable party notification?
+  - Taxable party notification?
 * [STRING]    `filedf8886tcd`
- - Form 8886-T filed?
+  - Form 8886-T filed?
 * [STRING]    `solicitcntrbcd`
- - Non-deductible contributions?
+  - Non-deductible contributions?
 * [STRING]    `exprstmntcd`
- - Non-deduct. disclosure?
+  - Non-deduct. disclosure?
 * [STRING]    `providegoodscd`
- - Quid pro quo contributions?
+  - Quid pro quo contributions?
 * [STRING]    `notfydnrvalcd`
- - Quid pro quo disclosure?
+  - Quid pro quo disclosure?
 * [STRING]    `filedf8282cd`
- - Form 8282 property disposed of?
+  - Form 8282 property disposed of?
 * [INTEGER]   `f8282cnt`
- - Number of 8282s filed
+  - Number of 8282s filed
 * [STRING]    `fndsrcvdcd`
- - Funds to pay premiums?
+  - Funds to pay premiums?
 * [STRING]    `premiumspaidcd`
- - Premiums paid?
+  - Premiums paid?
 * [STRING]    `filedf8899cd`
- - Form 8899 filed?
+  - Form 8899 filed?
 * [STRING]    `filedf1098ccd`
- - Form 1098-C filed?
+  - Form 1098-C filed?
 * [STRING]    `excbushldngscd`
- - Excess business holdings?
+  - Excess business holdings?
 * [STRING]    `s4966distribcd`
- - Taxable distributions?
+  - Taxable distributions?
 * [STRING]    `distribtodonorcd`
- - Distribution to donor?
+  - Distribution to donor?
 * [INTEGER]   `initiationfees`
- - Initiation fees amount
+  - Initiation fees amount
 * [INTEGER]   `grsrcptspublicuse`
- - Gross receipts amount
+  - Gross receipts amount
 * [INTEGER]   `grsincmembers`
- - Gross income from members
+  - Gross income from members
 * [INTEGER]   `grsincother`
- - Gross income from other sources
+  - Gross income from other sources
 * [STRING]    `filedlieuf1041cd`
- - Form 990 in lieu of 1041?
+  - Form 990 in lieu of 1041?
 * [INTEGER]   `txexmptint`
- - Tax exempt interest in lieu of 1041
+  - Tax exempt interest in lieu of 1041
 * [STRING]    `qualhlthplncd`
- - Qualified health plan in multiple states
+  - Qualified health plan in multiple states
 * [INTEGER]   `qualhlthreqmntn`
- - Qualified health plan reserves required
+  - Qualified health plan reserves required
 * [INTEGER]   `qualhlthonhnd`
- - Qualified health plan reserves on hand
+  - Qualified health plan reserves on hand
 * [STRING]    `rcvdpdtngcd`
- - Payments for indoor tanning
+  - Payments for indoor tanning
 * [STRING]    `filedf720cd`
- - Filed Form 720 for tanning
+  - Filed Form 720 for tanning
 * [INTEGER]   `totreprtabled`
- - Reportable compensation from organization
+  - Reportable compensation from organization
 * [INTEGER]   `totcomprelatede`
- - Reportable compensation from related orgs
+  - Reportable compensation from related orgs
 * [INTEGER]   `totestcompf`
- - Other compensation
+  - Other compensation
 * [INTEGER]   `noindiv100kcnt`
- - Number individuals greater than $100K
+  - Number individuals greater than $100K
 * [INTEGER]   `nocontractor100kcnt`
- - Number of contractors greater than $100K
+  - Number of contractors greater than $100K
 * [INTEGER]   `totcntrbgfts`
- - Total contributions
+  - Total contributions
 * [INTEGER]   `prgmservcode2acd`
- - Program service revenue code 2a
+  - Program service revenue code 2a
 * [INTEGER]   `totrev2acola`
- - Program service revenue amount 2a
+  - Program service revenue amount 2a
 * [INTEGER]   `prgmservcode2bcd`
- - Program service revenue code 2b
+  - Program service revenue code 2b
 * [INTEGER]   `totrev2bcola`
- - Program service revenue amount 2b
+  - Program service revenue amount 2b
 * [INTEGER]   `prgmservcode2ccd`
- - Program service revenue code 2c
+  - Program service revenue code 2c
 * [INTEGER]   `totrev2ccola`
- - Program service revenue amount 2c
+  - Program service revenue amount 2c
 * [INTEGER]   `prgmservcode2dcd`
- - Program service revenue code 2d
+  - Program service revenue code 2d
 * [INTEGER]   `totrev2dcola`
- - Program service revenue amount 2d
+  - Program service revenue amount 2d
 * [INTEGER]   `prgmservcode2ecd`
- - Program service revenue code 2e
+  - Program service revenue code 2e
 * [INTEGER]   `totrev2ecola`
- - Program service revenue amount 2e
+  - Program service revenue amount 2e
 * [INTEGER]   `totrev2fcola`
- - Program service revenue amount 2f
+  - Program service revenue amount 2f
 * [INTEGER]   `totprgmrevnue`
- - Program service revenue
+  - Program service revenue
 * [INTEGER]   `invstmntinc`
- - Investment income
+  - Investment income
 * [INTEGER]   `txexmptbndsproceeds`
- - Tax-exempt bond proceeds
+  - Tax-exempt bond proceeds
 * [INTEGER]   `royaltsinc`
- - Royalties
+  - Royalties
 * [INTEGER]   `grsrntsreal`
- - Gross rents -- Real estate
+  - Gross rents -- Real estate
 * [INTEGER]   `grsrntsprsnl`
- - Gross rents -- Personal property
+  - Gross rents -- Personal property
 * [INTEGER]   `rntlexpnsreal`
- - Rental expense -- Real estate
+  - Rental expense -- Real estate
 * [INTEGER]   `rntlexpnsprsnl`
- - Rental expense -- Personal property
+  - Rental expense -- Personal property
 * [INTEGER]   `rntlincreal`
- - Net rent -- Real estate
+  - Net rent -- Real estate
 * [INTEGER]   `rntlincprsnl`
- - Net rent -- Personal property
+  - Net rent -- Personal property
 * [INTEGER]   `netrntlinc`
- - Net rental income
+  - Net rental income
 * [INTEGER]   `grsalesecur`
- - Gross sales -- Securities
+  - Gross sales -- Securities
 * [INTEGER]   `grsalesothr`
- - Gross sales -- Other assets
+  - Gross sales -- Other assets
 * [INTEGER]   `cstbasisecur`
- - Sales expense -- Securities
+  - Sales expense -- Securities
 * [INTEGER]   `cstbasisothr`
- - Sales expense -- Other assets
+  - Sales expense -- Other assets
 * [INTEGER]   `gnlsecur`
- - Net gain from sales -- Securities
+  - Net gain from sales -- Securities
 * [INTEGER]   `gnlsothr`
- - Net gain from sales -- Other assets
+  - Net gain from sales -- Other assets
 * [INTEGER]   `netgnls`
- - Sales of assets
+  - Sales of assets
 * [INTEGER]   `grsincfndrsng`
- - Gross fundraising
+  - Gross fundraising
 * [INTEGER]   `lessdirfndrsng`
- - Fundraising expenses
+  - Fundraising expenses
 * [INTEGER]   `netincfndrsng`
- - Fundraising income
+  - Fundraising income
 * [INTEGER]   `grsincgaming`
- - Gross income from gaming
+  - Gross income from gaming
 * [INTEGER]   `lessdirgaming`
- - Gaming expenses
+  - Gaming expenses
 * [INTEGER]   `netincgaming`
- - Gaming income
+  - Gaming income
 * [INTEGER]   `grsalesinvent`
- - Gross sales of inventory
+  - Gross sales of inventory
 * [INTEGER]   `lesscstofgoods`
- - Cost of goods sold (inventory)
+  - Cost of goods sold (inventory)
 * [INTEGER]   `netincsales`
- - Income from sales of inventory
+  - Income from sales of inventory
 * [INTEGER]   `miscrev11acd`
- - Other revenue code 11a
+  - Other revenue code 11a
 * [INTEGER]   `miscrevtota`
- - Other revenue amount 11a
+  - Other revenue amount 11a
 * [INTEGER]   `miscrev11bcd`
- - Other revenue code 11b
+  - Other revenue code 11b
 * [INTEGER]   `miscrevtot11b`
- - Other revenue amount 11b
+  - Other revenue amount 11b
 * [INTEGER]   `miscrev11ccd`
- - Other revenue code 11c
+  - Other revenue code 11c
 * [INTEGER]   `miscrevtot11c`
- - Other revenue amount 11c
+  - Other revenue amount 11c
 * [INTEGER]   `miscrevtot11d`
- - Other revenue amount 11d
+  - Other revenue amount 11d
 * [INTEGER]   `miscrevtot11e`
- - Other revenue
+  - Other revenue
 * [INTEGER]   `totrevenue`
- - Total revenue
+  - Total revenue
 * [INTEGER]   `grntstogovt`
- - Grants to governments/orgs in the US
+  - Grants to governments/orgs in the US
 * [INTEGER]   `grnsttoindiv`
- - Grants to individuals in the US
+  - Grants to individuals in the US
 * [INTEGER]   `grntstofrgngovt`
- - Grants to orgs and individuals outside the US
+  - Grants to orgs and individuals outside the US
 * [INTEGER]   `benifitsmembrs`
- - Benefits paid to or for members
+  - Benefits paid to or for members
 * [INTEGER]   `compnsatncurrofcr`
- - Compensation of current officers, directors, etc
+  - Compensation of current officers, directors, etc
 * [INTEGER]   `compnsatnandothr`
- - Compensation of disqualified persons
+  - Compensation of disqualified persons
 * [INTEGER]   `othrsalwages`
- - Other salaries and wages
+  - Other salaries and wages
 * [INTEGER]   `pensionplancontrb`
- - Pension plan contributions
+  - Pension plan contributions
 * [INTEGER]   `othremplyeebenef`
- - Other employee benefits
+  - Other employee benefits
 * [INTEGER]   `payrolltx`
- - Payroll taxes
+  - Payroll taxes
 * [INTEGER]   `feesforsrvcmgmt`
- - Management fees
+  - Management fees
 * [INTEGER]   `legalfees`
- - Legal fees
+  - Legal fees
 * [INTEGER]   `accntingfees`
- - Accounting fees
+  - Accounting fees
 * [INTEGER]   `feesforsrvclobby`
- - Lobbying fees
+  - Lobbying fees
 * [INTEGER]   `profndraising`
- - Professional fundraising fees
+  - Professional fundraising fees
 * [INTEGER]   `feesforsrvcinvstmgmt`
- - Investment management feed
+  - Investment management feed
 * [INTEGER]   `feesforsrvcothr`
- - Other fees
+  - Other fees
 * [INTEGER]   `advrtpromo`
- - Advertising and promotion
+  - Advertising and promotion
 * [INTEGER]   `officexpns`
- - Office expenses
+  - Office expenses
 * [INTEGER]   `infotech`
- - Information technology
+  - Information technology
 * [INTEGER]   `royaltsexpns`
- - Royalties
+  - Royalties
 * [INTEGER]   `occupancy`
- - Occupancy
+  - Occupancy
 * [INTEGER]   `travel`
- - Travel
+  - Travel
 * [INTEGER]   `travelofpublicoffcl`
- - Travel/entertainment expenses to public officials
+  - Travel/entertainment expenses to public officials
 * [INTEGER]   `converconventmtng`
- - Conferences, conventions, meetings
+  - Conferences, conventions, meetings
 * [INTEGER]   `interestamt`
- - Interest expense
+  - Interest expense
 * [INTEGER]   `pymtoaffiliates`
- - Payments to affiliates
+  - Payments to affiliates
 * [INTEGER]   `deprcatndepletn`
- - Depreciation, depletion, amortization
+  - Depreciation, depletion, amortization
 * [INTEGER]   `insurance`
- - Insurance
+  - Insurance
 * [INTEGER]   `othrexpnsa`
- - Other expenses 24a
+  - Other expenses 24a
 * [INTEGER]   `othrexpnsb`
- - Other expenses 24b
+  - Other expenses 24b
 * [INTEGER]   `othrexpnsc`
- - Other expenses 24c
+  - Other expenses 24c
 * [INTEGER]   `othrexpnsd`
- - Other expenses 24d
+  - Other expenses 24d
 * [INTEGER]   `othrexpnse`
- - Other expenses 24e
+  - Other expenses 24e
 * [INTEGER]   `othrexpnsf`
- - Other expenses 24f
+  - Other expenses 24f
 * [INTEGER]   `totfuncexpns`
- - Total functional expenses
+  - Total functional expenses
 * [INTEGER]   `nonintcashend`
- - Cash -- non-interest bearing -- eoy
+  - Cash -- non-interest bearing -- eoy
 * [INTEGER]   `svngstempinvend`
- - Savings and temporary cash investments -- eoy
+  - Savings and temporary cash investments -- eoy
 * [INTEGER]   `pldgegrntrcvblend`
- - Pledges and grants receivable -- eoy
+  - Pledges and grants receivable -- eoy
 * [INTEGER]   `accntsrcvblend`
- - Accounts receivable -- eoy
+  - Accounts receivable -- eoy
 * [INTEGER]   `currfrmrcvblend`
- - Receivables from officers, directors, etc. -- eoy
+  - Receivables from officers, directors, etc. -- eoy
 * [INTEGER]   `rcvbldisqualend`
- - Receivables from disqualified persons -- eoy
+  - Receivables from disqualified persons -- eoy
 * [INTEGER]   `notesloansrcvblend`
- - Notes and loans receivables -- eoy
+  - Notes and loans receivables -- eoy
 * [INTEGER]   `invntriesalesend`
- - Inventories for sale or use -- eoy
+  - Inventories for sale or use -- eoy
 * [INTEGER]   `prepaidexpnsend`
- - Prepaid expenses or deferred charges -- eoy
+  - Prepaid expenses or deferred charges -- eoy
 * [INTEGER]   `lndbldgsequipend`
- - Land, buildings, & equipment (net) -- eoy
+  - Land, buildings, & equipment (net) -- eoy
 * [INTEGER]   `invstmntsend`
- - Investments in publicly traded securities -- eoy
+  - Investments in publicly traded securities -- eoy
 * [INTEGER]   `invstmntsothrend`
- - Investments in other securities -- eoy
+  - Investments in other securities -- eoy
 * [INTEGER]   `invstmntsprgmend`
- - Program-related investments -- eoy
+  - Program-related investments -- eoy
 * [INTEGER]   `intangibleassetsend`
- - Intangible assets -- eoy
+  - Intangible assets -- eoy
 * [INTEGER]   `othrassetsend`
- - Other assets -- eoy
+  - Other assets -- eoy
 * [INTEGER]   `totassetsend`
- - Total assets -- eoy
+  - Total assets -- eoy
 * [INTEGER]   `accntspayableend`
- - Accounts payable and accrued expenses -- eoy
+  - Accounts payable and accrued expenses -- eoy
 * [INTEGER]   `grntspayableend`
- - Grants payable -- eoy
+  - Grants payable -- eoy
 * [INTEGER]   `deferedrevnuend`
- - Deferred revenue -- eoy
+  - Deferred revenue -- eoy
 * [INTEGER]   `txexmptbndsend`
- - Tax-exempt bond liabilities -- eoy
+  - Tax-exempt bond liabilities -- eoy
 * [INTEGER]   `escrwaccntliabend`
- - Escrow account liability -- eoy
+  - Escrow account liability -- eoy
 * [INTEGER]   `paybletoffcrsend`
- - Payables to officers, directors, etc. -- eoy
+  - Payables to officers, directors, etc. -- eoy
 * [INTEGER]   `secrdmrtgsend`
- - Secured mortgages and notes payable -- eoy
+  - Secured mortgages and notes payable -- eoy
 * [INTEGER]   `unsecurednotesend`
- - Unsecured mortgages and notes payable -- eoy
+  - Unsecured mortgages and notes payable -- eoy
 * [INTEGER]   `othrliabend`
- - Other liabilities -- eoy
+  - Other liabilities -- eoy
 * [INTEGER]   `totliabend`
- - Total liabilities -- eoy
+  - Total liabilities -- eoy
 * [INTEGER]   `unrstrctnetasstsend`
- - Unrestricted net assets -- eoy
+  - Unrestricted net assets -- eoy
 * [INTEGER]   `temprstrctnetasstsend`
- - Temporarily restricted net assets -- eoy
+  - Temporarily restricted net assets -- eoy
 * [INTEGER]   `permrstrctnetasstsend`
- - Permanently restricted net assets -- eoy
+  - Permanently restricted net assets -- eoy
 * [INTEGER]   `capitalstktrstend`
- - Retained earnings -- eoy
+  - Retained earnings -- eoy
 * [INTEGER]   `paidinsurplusend`
- - Permanently restricted net assets -- eoy
+  - Permanently restricted net assets -- eoy
 * [INTEGER]   `retainedearnend`
- - Paid-in or capital surplus -- eoy
+  - Paid-in or capital surplus -- eoy
 * [INTEGER]   `totnetassetend`
- - Total Net Assets -- eoy
+  - Total Net Assets -- eoy
 * [INTEGER]   `totnetliabastend`
- - Total Liabilities + Net Assets -- eoy
+  - Total Liabilities + Net Assets -- eoy
 * [INTEGER]   `nonpfrea`
- - Reason for non-PF status
+  - Reason for non-PF status
 * [INTEGER]   `totnooforgscnt`
- - Number of organizations supported
+  - Number of organizations supported
 * [INTEGER]   `totsupport`
- - Sum of amounts of support
+  - Sum of amounts of support
 * [INTEGER]   `gftgrntsrcvd170`
- - Gifts grants membership fees received (170)
+  - Gifts grants membership fees received (170)
 * [INTEGER]   `txrevnuelevied170`
- - Tax revenues levied (170)
+  - Tax revenues levied (170)
 * [INTEGER]   `srvcsval170`
- - Services or facilities furnished by gov (170)
+  - Services or facilities furnished by gov (170)
 * [INTEGER]   `pubsuppsubtot170`
- - Public support subtotal (170)
+  - Public support subtotal (170)
 * [INTEGER]   `exceeds2pct170`
- - Amount support exceeds total (170)
+  - Amount support exceeds total (170)
 * [INTEGER]   `pubsupplesspct170`
- - Public support (170)
+  - Public support (170)
 * [INTEGER]   `samepubsuppsubtot170`
- - Public support from line 4 (170)
+  - Public support from line 4 (170)
 * [INTEGER]   `grsinc170`
- - Gross income from interest etc (170)
+  - Gross income from interest etc (170)
 * [INTEGER]   `netincunreltd170`
- - Net UBI (170)
+  - Net UBI (170)
 * [INTEGER]   `othrinc170`
- - Other income (170)
+  - Other income (170)
 * [INTEGER]   `totsupp170`
- - Total support (170)
+  - Total support (170)
 * [INTEGER]   `grsrcptsrelated170`
- - Gross receipts from related activities (170)
+  - Gross receipts from related activities (170)
 * [INTEGER]   `totgftgrntrcvd509`
- - Gifts grants membership fees received (509)
+  - Gifts grants membership fees received (509)
 * [INTEGER]   `grsrcptsadmissn509`
- - Receipts from admissions merchandise etc (509)
+  - Receipts from admissions merchandise etc (509)
 * [INTEGER]   `grsrcptsactivities509`
- - Gross receipts from related activities (509)
+  - Gross receipts from related activities (509)
 * [INTEGER]   `txrevnuelevied509`
- - Tax revenues levied (509)
+  - Tax revenues levied (509)
 * [INTEGER]   `srvcsval509`
- - Services or facilities furnished by gov (509)
+  - Services or facilities furnished by gov (509)
 * [INTEGER]   `pubsuppsubtot509`
- - Public support subtotal (509)
+  - Public support subtotal (509)
 * [INTEGER]   `rcvdfrmdisqualsub509`
- - Amounts from disqualified persons (509)
+  - Amounts from disqualified persons (509)
 * [INTEGER]   `exceeds1pct509`
- - Amount support exceeds total (509)
+  - Amount support exceeds total (509)
 * [INTEGER]   `subtotpub509`
- - Public support subtotal (509)
+  - Public support subtotal (509)
 * [INTEGER]   `pubsupplesub509`
- - Public support (509)
+  - Public support (509)
 * [INTEGER]   `samepubsuppsubtot509`
- - Public support from line 6 (509)
+  - Public support from line 6 (509)
 * [INTEGER]   `grsinc509`
- - Gross income from interest etc (509)
+  - Gross income from interest etc (509)
 * [INTEGER]   `unreltxincls511tx509`
- - Net UBI (509)
+  - Net UBI (509)
 * [INTEGER]   `subtotsuppinc509`
- - Subtotal total support (509)
+  - Subtotal total support (509)
 * [INTEGER]   `netincunrelatd509`
- - Net income from UBI not in 10b (509)
+  - Net income from UBI not in 10b (509)
 * [INTEGER]   `othrinc509`
- - Other income (509)
+  - Other income (509)
 * [INTEGER]   `totsupp509`
- - Total support (509)
+  - Total support (509)
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

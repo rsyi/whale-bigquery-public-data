@@ -8,31 +8,31 @@ Combining a variety of sources, mainly from the Census Bureau (such as National 
 
 ## Column details
 * [STRING]    `zipcode`
- - Five digit ZIP Code Tabulation Area Census Code
+  - Five digit ZIP Code Tabulation Area Census Code
 * [INTEGER]   `area_land_meters`
- - Land Area (square meters) - Created for statistical purposes only
+  - Land Area (square meters) - Created for statistical purposes only
 * [INTEGER]   `area_water_meters`
- - Water Area (square meters) - Created for statistical purposes only
+  - Water Area (square meters) - Created for statistical purposes only
 * [FLOAT]     `area_land_miles`
- - Land Area (square miles) - Created for statistical purposes only
+  - Land Area (square miles) - Created for statistical purposes only
 * [FLOAT]     `area_water_miles`
- - Water Area (square miles) - Created for statistical purposes only
+  - Water Area (square miles) - Created for statistical purposes only
 * [FLOAT]     `latitude`
- - Latitude (decimal degrees) First character is blank or "-" denoting North or South latitude respectively
+  - Latitude (decimal degrees) First character is blank or "-" denoting North or South latitude respectively
 * [FLOAT]     `longitude`
- - Longitude (decimal degrees) First character is blank or "-" denoting East or West longitude respectively
+  - Longitude (decimal degrees) First character is blank or "-" denoting East or West longitude respectively
 * [STRING]    `state_code`
- - Abbreviations of the state for the zipcode
+  - Abbreviations of the state for the zipcode
 * [STRING]    `state_name`
- - Name of the state for the zipcode
+  - Name of the state for the zipcode
 * [STRING]    `city`
- - Comma-separated list of cities
+  - Comma-separated list of cities
 * [STRING]    `county`
- - Comma-separated list of counties
+  - Comma-separated list of counties
 * [STRING]    `state_fips`
- - FIPS state code for the zipcode
+  - FIPS state code for the zipcode
 * [STRING]    `zipcode_geom`
- - Generalized areal representations of United States Postal Service (USPS) ZIP Codes as polygons
+  - Generalized areal representations of United States Postal Service (USPS) ZIP Codes as polygons
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

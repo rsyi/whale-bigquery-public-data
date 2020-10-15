@@ -6,117 +6,117 @@ Retrieved from: https://publicfiles.fcc.gov/developer/!/service/get_serviceType_
 
 ## Column details
 * [STRING]    `stationId`
- - 
+  - 
       Unique identifier specifying the TV or radio broadcasting station who ran
       the ads described in this receipt.
 * [STRING]    `callSign`
- - Call Sign
+  - Call Sign
 * [STRING]    `service`
- - Service
+  - Service
 * [STRING]    `rfChannel`
- - RF Channel
+  - RF Channel
 * [STRING]    `virtualChannel`
- - Virtual Channel
+  - Virtual Channel
 * [STRING]    `licenseExpirationDate`
- - License Expiration Date
+  - License Expiration Date
 * [STRING]    `statusDate`
- - Status Date
+  - Status Date
 * [STRING]    `status`
- - Status
+  - Status
 * [STRING]    `communityCity`
- - Community City
+  - Community City
 * [STRING]    `communityState`
- - Community State
+  - Community State
 * [STRING]    `facilityType`
- - Facility Type
+  - Facility Type
 * [STRING]    `frequency`
- - Frequency
+  - Frequency
 * [STRING]    `activeInd`
- - Active Indicator
+  - Active Indicator
 * [STRING]    `scannedLetterIds`
- - Scanned Letter Ids
+  - Scanned Letter Ids
 * [STRING]    `partyName`
- - Party Name
+  - Party Name
 * [STRING]    `partyAddress1`
- - Party Address1
+  - Party Address1
 * [STRING]    `partyAddress2`
- - Party Address2
+  - Party Address2
 * [STRING]    `partyCity`
- - Party City
+  - Party City
 * [STRING]    `partyZip1`
- - Party Zipcode1
+  - Party Zipcode1
 * [STRING]    `partyZip2`
- - Party Zipcode2
+  - Party Zipcode2
 * [STRING]    `partyState`
- - Party State
+  - Party State
 * [STRING]    `partyPhone`
- - Party Phone Number
+  - Party Phone Number
 * [STRING]    `nielsenDma`
- - Nielsen DMA
+  - Nielsen DMA
 * [STRING]    `networkAfil`
- - Network Affiliated To
+  - Network Affiliated To
 * [STRING]    `band`
- - Band
+  - Band
 * [STRING]    `authAppId`
- - Auth App ID
+  - Auth App ID
 * [STRING]    `postCardId`
- - PostCard ID
+  - PostCard ID
 * [RECORD]    `mainStudioContact`
- - Main Studio Contact
+  - Main Studio Contact
 * [STRING]    `mainStudioContact.address1`
- - Main Studio Contact Address 1
+  - Main Studio Contact Address 1
 * [STRING]    `mainStudioContact.address2`
- - Main Studio Contact Address 2
+  - Main Studio Contact Address 2
 * [STRING]    `mainStudioContact.city`
- - Main Studio Contact City
+  - Main Studio Contact City
 * [STRING]    `mainStudioContact.email`
- - Main Studio Contact Email
+  - Main Studio Contact Email
 * [STRING]    `mainStudioContact.fax`
- - Main Studio Contact Fax
+  - Main Studio Contact Fax
 * [STRING]    `mainStudioContact.name`
- - Main Studio Contact Name
+  - Main Studio Contact Name
 * [STRING]    `mainStudioContact.phone`
- - Main Studio Contact Phone Number
+  - Main Studio Contact Phone Number
 * [STRING]    `mainStudioContact.phoneExt`
- - Main Studio Contact Phone Extension
+  - Main Studio Contact Phone Extension
 * [STRING]    `mainStudioContact.state`
- - Main Studio Contact State
+  - Main Studio Contact State
 * [STRING]    `mainStudioContact.title`
- - Main Studio Contact Title
+  - Main Studio Contact Title
 * [STRING]    `mainStudioContact.website`
- - Main Studio Contact website
+  - Main Studio Contact website
 * [STRING]    `mainStudioContact.zip`
- - Main Studio Contact Zip Code
+  - Main Studio Contact Zip Code
 * [STRING]    `mainStudioContact.zipExt`
- - Main Studio Contact Zip Code Extension
+  - Main Studio Contact Zip Code Extension
 * [RECORD]    `ccContact`
- - CC Contact
+  - CC Contact
 * [STRING]    `ccContact.address1`
- - CC Contact Address 1
+  - CC Contact Address 1
 * [STRING]    `ccContact.address2`
- - CC Contact Address 2
+  - CC Contact Address 2
 * [STRING]    `ccContact.city`
- - CC Contact City
+  - CC Contact City
 * [STRING]    `ccContact.email`
- - CC Contact Email
+  - CC Contact Email
 * [STRING]    `ccContact.fax`
- - CC Contact Fax
+  - CC Contact Fax
 * [STRING]    `ccContact.name`
- - CC Contact Name
+  - CC Contact Name
 * [STRING]    `ccContact.phone`
- - CC Contact Phone Number
+  - CC Contact Phone Number
 * [STRING]    `ccContact.phoneExt`
- - CC Contact Phone Number Extension
+  - CC Contact Phone Number Extension
 * [STRING]    `ccContact.state`
- - CC Contact State
+  - CC Contact State
 * [STRING]    `ccContact.title`
- - CC Contact Title
+  - CC Contact Title
 * [STRING]    `ccContact.website`
- - CC Contact website
+  - CC Contact website
 * [STRING]    `ccContact.zip`
- - CC Contact Zip Code
+  - CC Contact Zip Code
 * [STRING]    `ccContact.zipExt`
- - CC Contact Zip Code Extension
+  - CC Contact Zip Code Extension
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

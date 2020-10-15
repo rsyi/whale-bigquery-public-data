@@ -3,31 +3,31 @@
 
 ## Column details
 * [STRING]    `by`
- - Username of commenter or submitter
+  - Username of commenter or submitter
 * [INTEGER]   `score`
- - Story score
+  - Story score
 * [INTEGER]   `time`
- - Unix time
+  - Unix time
 * [STRING]    `title`
- - Story title
+  - Story title
 * [STRING]    `type`
- - Type of details (comment, comment_ranking, poll, story, job, pollopt)
+  - Type of details (comment, comment_ranking, poll, story, job, pollopt)
 * [STRING]    `url`
- - Story url
+  - Story url
 * [STRING]    `text`
- - Story or comment text
+  - Story or comment text
 * [INTEGER]   `parent`
- - Parent comment ID
+  - Parent comment ID
 * [BOOLEAN]   `deleted`
- - Is deleted?
+  - Is deleted?
 * [BOOLEAN]   `dead`
- - Is dead?
+  - Is dead?
 * [INTEGER]   `descendants`
- - Number of story or poll descendants
+  - Number of story or poll descendants
 * [INTEGER]   `id`
- - Unique type ID
+  - Unique type ID
 * [INTEGER]   `ranking`
- - Comment ranking
+  - Comment ranking
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

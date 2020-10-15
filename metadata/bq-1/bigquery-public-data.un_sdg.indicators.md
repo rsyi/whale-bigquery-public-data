@@ -3,29 +3,29 @@
 
 ## Column details
 * [INTEGER]   `goal`
- - High-level goal for sustainable development
+  - High-level goal for sustainable development
 * [STRING]    `target`
- - Each goal has multiple targets. Specific data points that, when achieved, indicate substantial progress toward a goal
+  - Each goal has multiple targets. Specific data points that, when achieved, indicate substantial progress toward a goal
 * [STRING]    `indicator`
- - Quantifiable metric used to determine progress towards reaching a target. Each target has between 1 and 3 indicators
+  - Quantifiable metric used to determine progress towards reaching a target. Each target has between 1 and 3 indicators
 * [STRING]    `seriescode`
- - Abbreviated string of characters for each specific indicator
+  - Abbreviated string of characters for each specific indicator
 * [STRING]    `seriesdescription`
- - Full text description of indicator
+  - Full text description of indicator
 * [INTEGER]   `geoareacode`
- - Numeric code of GeoArea
+  - Numeric code of GeoArea
 * [STRING]    `geoareaname`
- - Full text of GeoArea. Includes countries, regions, and continents
+  - Full text of GeoArea. Includes countries, regions, and continents
 * [STRING]    `timeperiod`
- - Time period for which the value is relevant
+  - Time period for which the value is relevant
 * [STRING]    `value`
- - Numeric value of GeoArea
+  - Numeric value of GeoArea
 * [STRING]    `time_detail`
- - Time period in which the data was collected to calculate value
+  - Time period in which the data was collected to calculate value
 * [STRING]    `source`
- - Original source of data
+  - Original source of data
 * [STRING]    `footnote`
- - Specific details regarding data for individual observation
+  - Specific details regarding data for individual observation
 * [STRING]    `nature`
 * [STRING]    `age`
 * [STRING]    `bounds`

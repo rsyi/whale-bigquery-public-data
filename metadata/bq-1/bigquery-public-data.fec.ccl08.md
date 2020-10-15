@@ -3,19 +3,19 @@
 
 ## Column details
 * [STRING]    `cand_id`
- - Candidate Identification
+  - Candidate Identification
 * [INTEGER]   `cand_election_yr`
- - Candidate Election Year
+  - Candidate Election Year
 * [INTEGER]   `fec_election_yr`
- - FEC Election Year
+  - FEC Election Year
 * [STRING]    `cmte_id`
- - Committee Identification
+  - Committee Identification
 * [STRING]    `cmte_tp`
- - Committee Type
+  - Committee Type
 * [STRING]    `cmte_design`
- - Committee Designation
+  - Committee Designation
 * [INTEGER]   `linkage_id`
- - Linkage ID
+  - Linkage ID
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

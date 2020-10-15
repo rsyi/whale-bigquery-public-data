@@ -3,13 +3,13 @@
 
 ## Column details
 * [STRING]    `zone_id`
- - Unique ID number of each taxi zone. Corresponds with the pickup_location_id and dropoff_location_id in each of the trips tables
+  - Unique ID number of each taxi zone. Corresponds with the pickup_location_id and dropoff_location_id in each of the trips tables
 * [STRING]    `zone_name`
- - Full text name of the taxi zone
+  - Full text name of the taxi zone
 * [STRING]    `borough`
- - Borough containing the taxi zone
+  - Borough containing the taxi zone
 * [GEOGRAPHY] `zone_geom`
- - Geometric outline that defines the taxi zone suitable for GIS analysis.
+  - Geometric outline that defines the taxi zone suitable for GIS analysis.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

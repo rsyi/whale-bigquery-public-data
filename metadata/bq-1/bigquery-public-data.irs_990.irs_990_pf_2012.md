@@ -3,243 +3,243 @@
 
 ## Column details
 * [STRING]    `ein`
- - Employer Identification Number
+  - Employer Identification Number
 * [STRING]    `tax_prd`
- - Tax period
+  - Tax period
 * [STRING]    `eostatus`
- - EO Status Code
+  - EO Status Code
 * [INTEGER]   `tax_yr`
- - SOI Year
+  - SOI Year
 * [STRING]    `operatingcd`
- - Record code
+  - Record code
 * [STRING]    `assetcdgen`
- - Asset code
+  - Asset code
 * [STRING]    `transinccd`
- - Income code
+  - Income code
 * [STRING]    `subcd`
- - Subsection code
+  - Subsection code
 * [INTEGER]   `grscontrgifts`
- - Contributions received
+  - Contributions received
 * [INTEGER]   `intrstrvnue`
- - Interest revenue
+  - Interest revenue
 * [INTEGER]   `dividndsamt`
- - Dividends
+  - Dividends
 * [INTEGER]   `totexcapgn`
- - Net gain – sales of assets
+  - Net gain – sales of assets
 * [INTEGER]   `totexcapls`
- - Net loss – sales of assets
+  - Net loss – sales of assets
 * [INTEGER]   `grsprofitbus`
- - Gross profit
+  - Gross profit
 * [INTEGER]   `otherincamt`
- - Other income
+  - Other income
 * [INTEGER]   `compofficers`
- - Compensation of officers
+  - Compensation of officers
 * [INTEGER]   `contrpdpbks`
- - Contributions paid
+  - Contributions paid
 * [INTEGER]   `totrcptperbks`
- - Total revenue
+  - Total revenue
 * [INTEGER]   `totexpnspbks`
- - Total expenses
+  - Total expenses
 * [INTEGER]   `excessrcpts`
- - Net income less deficit
+  - Net income less deficit
 * [INTEGER]   `totexpnsexempt`
- - Total expenses – exempt purpose
+  - Total expenses – exempt purpose
 * [INTEGER]   `netinvstinc`
- - Net investment income
+  - Net investment income
 * [INTEGER]   `totaxpyr`
- - Total excise tax
+  - Total excise tax
 * [INTEGER]   `adjnetinc`
- - Adjusted net income
+  - Adjusted net income
 * [INTEGER]   `totassetsend`
- - Total assets – e-o-y book value
+  - Total assets – e-o-y book value
 * [INTEGER]   `invstgovtoblig`
- - Investments in U.S. & state government obligations – e-o-y book value
+  - Investments in U.S. & state government obligations – e-o-y book value
 * [INTEGER]   `invstcorpstk`
- - Investments in corporate stock – e-o-y book value
+  - Investments in corporate stock – e-o-y book value
 * [INTEGER]   `invstcorpbnd`
- - Investments in corporate bonds– e-o-y book value
+  - Investments in corporate bonds– e-o-y book value
 * [INTEGER]   `totinvstsec`
- - Total investments in securities – e-o-y book value
+  - Total investments in securities – e-o-y book value
 * [INTEGER]   `totliabend`
- - Total liabilities – e-o-y book value
+  - Total liabilities – e-o-y book value
 * [INTEGER]   `fairmrktvalamt`
- - Total assets – e-o-y fair market value
+  - Total assets – e-o-y fair market value
 * [INTEGER]   `undistribincyr`
- - Undistributed income
+  - Undistributed income
 * [INTEGER]   `cmpmininvstret`
- - Minimum investment return
+  - Minimum investment return
 * [STRING]    `sec4940notxcd`
- - 4940 – no tax
+  - 4940 – no tax
 * [STRING]    `sec4940redtxcd`
- - 4940 – 1 % tax
+  - 4940 – 1 % tax
 * [STRING]    `infleg`
- - Influence legislation question
+  - Influence legislation question
 * [STRING]    `contractncd`
- - Contraction question
+  - Contraction question
 * [STRING]    `claimstatcd`
- - Claiming status question
+  - Claiming status question
 * [STRING]    `propexchcd`
- - Property exchange question
+  - Property exchange question
 * [STRING]    `brwlndmnycd`
- - Borrow lend money question
+  - Borrow lend money question
 * [STRING]    `furngoodscd`
- - Furnished goods question
+  - Furnished goods question
 * [STRING]    `paidcmpncd`
- - Paid compensation question
+  - Paid compensation question
 * [STRING]    `trnsothasstscd`
- - Transfer question
+  - Transfer question
 * [STRING]    `agremkpaycd`
- - Agree to make pay question
+  - Agree to make pay question
 * [STRING]    `undistrinccd`
- - Undistributed income question
+  - Undistributed income question
 * [STRING]    `dirindirintcd`
- - Direct indirect interest question
+  - Direct indirect interest question
 * [STRING]    `invstjexmptcd`
- - Jeopardizing investments question
+  - Jeopardizing investments question
 * [STRING]    `propgndacd`
- - Propaganda question
+  - Propaganda question
 * [STRING]    `excesshldcd`
- - Influence public election question
+  - Influence public election question
 * [STRING]    `grntindivcd`
- - Grant individual question
+  - Grant individual question
 * [STRING]    `nchrtygrntcd`
- - Non-charity grant question
+  - Non-charity grant question
 * [STRING]    `nreligiouscd`
- - Non-religious question
+  - Non-religious question
 * [INTEGER]   `grsrents`
- - Gross rents
+  - Gross rents
 * [INTEGER]   `costsold`
- - Cost-of-goods-sold
+  - Cost-of-goods-sold
 * [INTEGER]   `totrcptnetinc`
- - Total receipts net investment income
+  - Total receipts net investment income
 * [INTEGER]   `trcptadjnetinc`
- - Total receipts adjusted net income
+  - Total receipts adjusted net income
 * [INTEGER]   `topradmnexpnsa`
- - Total operating and administrative expenses column a
+  - Total operating and administrative expenses column a
 * [INTEGER]   `topradmnexpnsb`
- - Total operating and administrative expenses column b
+  - Total operating and administrative expenses column b
 * [INTEGER]   `topradmnexpnsd`
- - Total operating and administrative expenses column d
+  - Total operating and administrative expenses column d
 * [INTEGER]   `totexpnsnetinc`
- - Total expenses net investment income
+  - Total expenses net investment income
 * [INTEGER]   `totexpnsadjnet`
- - Total expenses adjusted net income
+  - Total expenses adjusted net income
 * [INTEGER]   `othrcashamt`
- - Cash non-interest-bearing – e-o-y book value
+  - Cash non-interest-bearing – e-o-y book value
 * [INTEGER]   `mrtgloans`
- - Investments mortgage loans – e-o-y book value
+  - Investments mortgage loans – e-o-y book value
 * [INTEGER]   `othrinvstend`
- - Other investments – e-o-y book value
+  - Other investments – e-o-y book value
 * [INTEGER]   `fairmrktvaleoy`
- - Total assets – e-o-y fair market value
+  - Total assets – e-o-y fair market value
 * [INTEGER]   `mrtgnotespay`
- - Mortgage loans payable – e-o-y book value
+  - Mortgage loans payable – e-o-y book value
 * [INTEGER]   `tfundnworth`
- - Total fund net worth – e-o-y book value
+  - Total fund net worth – e-o-y book value
 * [INTEGER]   `invstexcisetx`
- - Excise tax on net investment income
+  - Excise tax on net investment income
 * [INTEGER]   `sect511tx`
- - Section 511 tax
+  - Section 511 tax
 * [INTEGER]   `subtitleatx`
- - Subtitle A tax
+  - Subtitle A tax
 * [INTEGER]   `esttaxcr`
- - Estimated tax credit
+  - Estimated tax credit
 * [INTEGER]   `txwithldsrc`
- - Tax withheld at source
+  - Tax withheld at source
 * [INTEGER]   `txpaidf2758`
- - Tax paid with Form 2758 (filing extension)
+  - Tax paid with Form 2758 (filing extension)
 * [INTEGER]   `erronbkupwthld`
- - Erroneous backup withholding credit amount
+  - Erroneous backup withholding credit amount
 * [INTEGER]   `estpnlty`
- - Estimated tax penalty
+  - Estimated tax penalty
 * [INTEGER]   `balduopt`
- - Balance due or overpayment
+  - Balance due or overpayment
 * [INTEGER]   `crelamt`
- - Credit elect amount
+  - Credit elect amount
 * [INTEGER]   `tfairmrktunuse`
- - Fair market value of assets not used for charitable purposes
+  - Fair market value of assets not used for charitable purposes
 * [INTEGER]   `distribamt`
- - Distributable amount
+  - Distributable amount
 * [INTEGER]   `adjnetinccola`
- - Adjusted net income column a
+  - Adjusted net income column a
 * [INTEGER]   `adjnetinccolb`
- - Adjusted net income column b
+  - Adjusted net income column b
 * [INTEGER]   `adjnetinccolc`
- - Adjusted net income column c
+  - Adjusted net income column c
 * [INTEGER]   `adjnetinccold`
- - Adjusted net income column d
+  - Adjusted net income column d
 * [INTEGER]   `adjnetinctot`
- - Adjusted net income total
+  - Adjusted net income total
 * [INTEGER]   `qlfydistriba`
- - Qualifying distributions column a
+  - Qualifying distributions column a
 * [INTEGER]   `qlfydistribb`
- - Qualifying distributions column b
+  - Qualifying distributions column b
 * [INTEGER]   `qlfydistribc`
- - Qualifying distributions column c
+  - Qualifying distributions column c
 * [INTEGER]   `qlfydistribd`
- - Qualifying distributions column d
+  - Qualifying distributions column d
 * [INTEGER]   `qlfydistribtot`
- - Qualifying distributions total
+  - Qualifying distributions total
 * [INTEGER]   `valassetscola`
- - Value assets column a
+  - Value assets column a
 * [INTEGER]   `valassetscolb`
- - Value assets column b
+  - Value assets column b
 * [INTEGER]   `valassetscolc`
- - Value assets column c
+  - Value assets column c
 * [INTEGER]   `valassetscold`
- - Value assets column d
+  - Value assets column d
 * [INTEGER]   `valassetstot`
- - Value assets total
+  - Value assets total
 * [INTEGER]   `qlfyasseta`
- - Qualifying assets column a
+  - Qualifying assets column a
 * [INTEGER]   `qlfyassetb`
- - Qualifying assets column b
+  - Qualifying assets column b
 * [INTEGER]   `qlfyassetc`
- - Qualifying assets column c
+  - Qualifying assets column c
 * [INTEGER]   `qlfyassetd`
- - Qualifying assets column d
+  - Qualifying assets column d
 * [INTEGER]   `qlfyassettot`
- - Qualifying assets total
+  - Qualifying assets total
 * [INTEGER]   `endwmntscola`
- - Endowments column a
+  - Endowments column a
 * [INTEGER]   `endwmntscolb`
- - Endowments column b
+  - Endowments column b
 * [INTEGER]   `endwmntscolc`
- - Endowments column c
+  - Endowments column c
 * [INTEGER]   `endwmntscold`
- - Endowments column d
+  - Endowments column d
 * [INTEGER]   `endwmntstot`
- - Endowments total
+  - Endowments total
 * [INTEGER]   `totsuprtcola`
- - Total support column a
+  - Total support column a
 * [INTEGER]   `totsuprtcolb`
- - Total support column b
+  - Total support column b
 * [INTEGER]   `totsuprtcolc`
- - Total support column c
+  - Total support column c
 * [INTEGER]   `totsuprtcold`
- - Total support column d
+  - Total support column d
 * [INTEGER]   `totsuprttot`
- - Total support total
+  - Total support total
 * [INTEGER]   `pubsuprtcola`
- - Public support column a
+  - Public support column a
 * [INTEGER]   `pubsuprtcolb`
- - Public support column b
+  - Public support column b
 * [INTEGER]   `pubsuprtcolc`
- - Public support column c
+  - Public support column c
 * [INTEGER]   `pubsuprtcold`
- - Public support column d
+  - Public support column d
 * [INTEGER]   `pubsuprttot`
- - Public support total
+  - Public support total
 * [INTEGER]   `grsinvstinca`
- - Gross investment income column a
+  - Gross investment income column a
 * [INTEGER]   `grsinvstincb`
- - Gross investment income column b
+  - Gross investment income column b
 * [INTEGER]   `grsinvstincc`
- - Gross investment income column c
+  - Gross investment income column c
 * [INTEGER]   `grsinvstincd`
- - Gross investment income column d
+  - Gross investment income column d
 * [INTEGER]   `grsinvstinctot`
- - Gross investment income total
+  - Gross investment income total
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

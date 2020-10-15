@@ -16,17 +16,17 @@ While some acceptable methods of combining ZIP codes and Census geography exist,
 
 ## Column details
 * [STRING]    `zip_code`
- - 5 digit USPS Zip Code.
+  - 5 digit USPS Zip Code.
 * [STRING]    `census_tract_geoid`
- - 11 digit unique 2000 or 2010 Census tract GEOID consisting of state FIPS + county FIPS + tract code. The decimal is implied and leading and trailing zeros have been preserved. These can map to multiple USPS ZIPs. Maps to 'geo_id' in tables with Census Tract data
+  - 11 digit unique 2000 or 2010 Census tract GEOID consisting of state FIPS + county FIPS + tract code. The decimal is implied and leading and trailing zeros have been preserved. These can map to multiple USPS ZIPs. Maps to 'geo_id' in tables with Census Tract data
 * [NUMERIC]   `residential_ratio`
- - The ratio of residential addresses in the ZIP – Tract part to the total number of residential addresses in the entire ZIP.
+  - The ratio of residential addresses in the ZIP – Tract part to the total number of residential addresses in the entire ZIP.
 * [NUMERIC]   `business_ratio`
- - 	The ratio of business addresses in the ZIP – Tractpart to the total number of business addresses in the entire ZIP.
+  - 	The ratio of business addresses in the ZIP – Tractpart to the total number of business addresses in the entire ZIP.
 * [NUMERIC]   `other_ratio`
- - The ratio of other addresses in the ZIP – Tractpart to the total number of business addresses in the entire ZIP.
+  - The ratio of other addresses in the ZIP – Tractpart to the total number of business addresses in the entire ZIP.
 * [NUMERIC]   `total_ratio`
- - The ratio of all addresses in the ZIP – Tractpart to the total number of business addresses in the entire ZIP.
+  - The ratio of all addresses in the ZIP – Tractpart to the total number of business addresses in the entire ZIP.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

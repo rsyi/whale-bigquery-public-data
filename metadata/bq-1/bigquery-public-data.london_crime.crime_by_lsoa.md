@@ -76,12 +76,12 @@ Violence Against the Person: Wounding/GBH
 
 ## Column details
 * [STRING]    `lsoa_code`
- - Lower Layer Super Output Area code according to the Office for National Statistics
+  - Lower Layer Super Output Area code according to the Office for National Statistics
 * [STRING]    `borough`
 * [STRING]    `major_category`
 * [STRING]    `minor_category`
 * [INTEGER]   `value`
- - Summary of the number of crimes for the month
+  - Summary of the number of crimes for the month
 * [INTEGER]   `year`
 * [INTEGER]   `month`
 

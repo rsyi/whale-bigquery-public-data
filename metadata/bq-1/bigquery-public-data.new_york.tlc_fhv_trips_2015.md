@@ -3,11 +3,11 @@
 
 ## Column details
 * [INTEGER]   `location_id`
- - The TLC taxi zone of the trip pick-up.
+  - The TLC taxi zone of the trip pick-up.
 * [TIMESTAMP] `pickup_datetime`
- - The date and time of the trip pick-up.
+  - The date and time of the trip pick-up.
 * [STRING]    `dispatching_base_num`
- - The TLC Base License Number of the base that dispatched the trip.
+  - The TLC Base License Number of the base that dispatched the trip.
 * [STRING]    `borough`
 * [STRING]    `zone`
 * [STRING]    `service_zone`

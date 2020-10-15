@@ -3,19 +3,19 @@
 
 ## Column details
 * [TIMESTAMP] `timestamp`
- - Timestamp in UTC
+  - Timestamp in UTC
 * [STRING]    `time`
- - Hour in UTC
+  - Hour in UTC
 * [INTEGER]   `speed`
- - Speed in Miles per hour
+  - Speed in Miles per hour
 * [STRING]    `location`
- - Location of report
+  - Location of report
 * [STRING]    `county`
 * [STRING]    `state`
 * [FLOAT]     `latitude`
- - Latitude to two decimal places
+  - Latitude to two decimal places
 * [FLOAT]     `longitude`
- - Longitude to two decimal places
+  - Longitude to two decimal places
 * [STRING]    `comments`
 * [GEOGRAPHY] `report_point`
 

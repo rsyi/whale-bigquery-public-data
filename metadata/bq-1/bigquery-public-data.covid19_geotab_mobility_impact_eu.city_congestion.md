@@ -4,11 +4,11 @@ This dataset presents the relative level of congestion in eight select cities on
 
 ## Column details
 * [STRING]    `city_name`
- - Name of city
+  - Name of city
 * [DATETIME]  `date_time`
- - Date and time of the measurement
+  - Date and time of the measurement
 * [FLOAT]     `percent_congestion`
- - Percent of congestion relative to the baseline
+  - Percent of congestion relative to the baseline
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

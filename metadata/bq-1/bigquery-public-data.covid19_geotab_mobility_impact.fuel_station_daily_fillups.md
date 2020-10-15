@@ -4,13 +4,13 @@ Percentage of normal number of fuelling events at fuel stations in North America
 
 ## Column details
 * [DATE]      `date`
- - Date of the data
+  - Date of the data
 * [STRING]    `vehicle_class`
- - Vehicle class
+  - Vehicle class
 * [FLOAT]     `percent_of_normal_volume`
- - The percentage of fuelling events at fuel stations relative to the baseline period.
+  - The percentage of fuelling events at fuel stations relative to the baseline period.
 * [STRING]    `version`
- - Version of the table
+  - Version of the table
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

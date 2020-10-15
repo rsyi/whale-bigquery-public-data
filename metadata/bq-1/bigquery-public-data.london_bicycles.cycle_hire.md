@@ -4,7 +4,7 @@
 ## Column details
 * [INTEGER]   `rental_id`
 * [INTEGER]   `duration`
- - Duration of the bike trip in seconds.
+  - Duration of the bike trip in seconds.
 * [INTEGER]   `bike_id`
 * [TIMESTAMP] `end_date`
 * [INTEGER]   `end_station_id`

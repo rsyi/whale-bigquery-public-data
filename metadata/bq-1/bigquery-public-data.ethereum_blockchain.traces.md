@@ -6,43 +6,43 @@ Data is exported using https://github.com/medvedev1088/ethereum-etl
 
 ## Column details
 * [STRING]    `transaction_hash`
- - Transaction hash where this trace was in
+  - Transaction hash where this trace was in
 * [INTEGER]   `transaction_index`
- - Integer of the transactions index position in the block
+  - Integer of the transactions index position in the block
 * [STRING]    `from_address`
- - Address of the sender, null when trace_type is genesis or reward
+  - Address of the sender, null when trace_type is genesis or reward
 * [STRING]    `to_address`
- - Address of the receiver if trace_type is call, address of new contract or null if trace_type is create, beneficiary address if trace_type is suicide, miner address if trace_type is reward, shareholder address if trace_type is genesis, WithdrawDAO address if trace_type is daofork
+  - Address of the receiver if trace_type is call, address of new contract or null if trace_type is create, beneficiary address if trace_type is suicide, miner address if trace_type is reward, shareholder address if trace_type is genesis, WithdrawDAO address if trace_type is daofork
 * [NUMERIC]   `value`
- - Value transferred in Wei
+  - Value transferred in Wei
 * [STRING]    `input`
- - The data sent along with the message call
+  - The data sent along with the message call
 * [STRING]    `output`
- - The output of the message call, bytecode of contract when trace_type is create
+  - The output of the message call, bytecode of contract when trace_type is create
 * [STRING]    `trace_type`
- - One of call, create, suicide, reward, genesis, daofork
+  - One of call, create, suicide, reward, genesis, daofork
 * [STRING]    `call_type`
- - One of call, callcode, delegatecall, staticcall
+  - One of call, callcode, delegatecall, staticcall
 * [STRING]    `reward_type`
- - One of block, uncle
+  - One of block, uncle
 * [INTEGER]   `gas`
- - Gas provided with the message call
+  - Gas provided with the message call
 * [INTEGER]   `gas_used`
- - Gas used by the message call
+  - Gas used by the message call
 * [INTEGER]   `subtraces`
- - Number of subtraces
+  - Number of subtraces
 * [STRING]    `trace_address`
- - Comma separated list of trace address in call tree
+  - Comma separated list of trace address in call tree
 * [STRING]    `error`
- - Error if message call failed. This field doesn't contain top-level trace errors.
+  - Error if message call failed. This field doesn't contain top-level trace errors.
 * [INTEGER]   `status`
- - Either 1 (success) or 0 (failure, due to any operation that can cause the call itself or any top-level call to revert)
+  - Either 1 (success) or 0 (failure, due to any operation that can cause the call itself or any top-level call to revert)
 * [TIMESTAMP] `block_timestamp`
- - Timestamp of the block where this trace was in
+  - Timestamp of the block where this trace was in
 * [INTEGER]   `block_number`
- - Block number where this trace was in
+  - Block number where this trace was in
 * [STRING]    `block_hash`
- - Hash of the block where this trace was in
+  - Hash of the block where this trace was in
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

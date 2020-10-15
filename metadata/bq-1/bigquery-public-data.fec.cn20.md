@@ -3,35 +3,35 @@
 
 ## Column details
 * [STRING]    `cand_id`
- - Candidate Identification
+  - Candidate Identification
 * [STRING]    `cand_name`
- - Candidate Name
+  - Candidate Name
 * [STRING]    `cand_pty_affiliation`
- - Party Affiliation
+  - Party Affiliation
 * [INTEGER]   `cand_election_yr`
- - Year of Election
+  - Year of Election
 * [STRING]    `cand_office_st`
- - Candidate State
+  - Candidate State
 * [STRING]    `cand_office`
- - Candidate Office
+  - Candidate Office
 * [STRING]    `cand_office_district`
- - Candidate District
+  - Candidate District
 * [STRING]    `cand_ici`
- - Incumbent Challenger Status
+  - Incumbent Challenger Status
 * [STRING]    `cand_status`
- - Candidate Status
+  - Candidate Status
 * [STRING]    `cand_pcc`
- - Principal Campaign Committee
+  - Principal Campaign Committee
 * [STRING]    `cand_st1`
- - Mailing Address - Street
+  - Mailing Address - Street
 * [STRING]    `cand_st2`
- - Mailing Address - Street 2
+  - Mailing Address - Street 2
 * [STRING]    `cand_city`
- - Mailing Address - City
+  - Mailing Address - City
 * [STRING]    `cand_st`
- - Mailing Address - State
+  - Mailing Address - State
 * [STRING]    `cand_zip`
- - Mailing Address - Zip Code
+  - Mailing Address - Zip Code
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

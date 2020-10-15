@@ -4,29 +4,29 @@ This document presents counts of Medicare-Medicaid dual enrollees (including tho
 
 ## Column details
 * [STRING]    `State_Abbr`
- - State of Beneficiary
+  - State of Beneficiary
 * [STRING]    `County_Name`
- - County of Beneficiary
+  - County of Beneficiary
 * [INTEGER]   `QMB_Only`
- - Number of Qualified Medicare Beneficiary Program (QMB) Only Enrollees
+  - Number of Qualified Medicare Beneficiary Program (QMB) Only Enrollees
 * [INTEGER]   `QMB_plus_Full`
- - Number of Qualified Medicare Beneficiary Program (QMB) plus Full Medicaid Enrollees
+  - Number of Qualified Medicare Beneficiary Program (QMB) plus Full Medicaid Enrollees
 * [INTEGER]   `SLMB_only`
- - Number of Specified Low-Income Medicare Beneficiary (SLMB) Program Only Enrollees
+  - Number of Specified Low-Income Medicare Beneficiary (SLMB) Program Only Enrollees
 * [INTEGER]   `SLMB_plus_Full`
- - Number of Specified Low-Income Medicare Beneficiary (SMLB) plus Full Medicaid Enrollees
+  - Number of Specified Low-Income Medicare Beneficiary (SMLB) plus Full Medicaid Enrollees
 * [INTEGER]   `QDWI`
- - Number of Qualifying Disabled Working Individual (QDWI) Enrollees
+  - Number of Qualifying Disabled Working Individual (QDWI) Enrollees
 * [INTEGER]   `QI`
- - Number of Qualifying Individual (QI) Enrollees
+  - Number of Qualifying Individual (QI) Enrollees
 * [INTEGER]   `Other_full`
- - Number of Other Dual Full Medicaid Enrollees
+  - Number of Other Dual Full Medicaid Enrollees
 * [INTEGER]   `Public_Total`
- - Total Enrollees Across All Dual Eligible Programs
+  - Total Enrollees Across All Dual Eligible Programs
 * [DATE]      `Date`
- - Date of Enrollment Snapshot
+  - Date of Enrollment Snapshot
 * [STRING]    `FIPS`
- - Geo FIPS Code
+  - Geo FIPS Code
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

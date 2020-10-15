@@ -6,21 +6,21 @@ Data is exported using https://github.com/medvedev1088/ethereum-etl
 
 ## Column details
 * [STRING]    `address`
- - Address of the contract
+  - Address of the contract
 * [STRING]    `bytecode`
- - Bytecode of the contract
+  - Bytecode of the contract
 * [STRING]    `function_sighashes`
- - 4-byte function signature hashes
+  - 4-byte function signature hashes
 * [BOOLEAN]   `is_erc20`
- - Whether this contract is an ERC20 contract
+  - Whether this contract is an ERC20 contract
 * [BOOLEAN]   `is_erc721`
- - Whether this contract is an ERC721 contract
+  - Whether this contract is an ERC721 contract
 * [TIMESTAMP] `block_timestamp`
- - Timestamp of the block where this contract was created
+  - Timestamp of the block where this contract was created
 * [INTEGER]   `block_number`
- - Block number where this contract was created
+  - Block number where this contract was created
 * [STRING]    `block_hash`
- - Hash of the block where this contract was created
+  - Hash of the block where this contract was created
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

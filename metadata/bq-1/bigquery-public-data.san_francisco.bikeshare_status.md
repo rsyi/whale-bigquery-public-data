@@ -3,13 +3,13 @@
 
 ## Column details
 * [INTEGER]   `station_id`
- - Station ID number
+  - Station ID number
 * [INTEGER]   `bikes_available`
- - Number of available bikes
+  - Number of available bikes
 * [INTEGER]   `docks_available`
- - Number of available docks
+  - Number of available docks
 * [TIMESTAMP] `time`
- - Date and time, PST
+  - Date and time, PST
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

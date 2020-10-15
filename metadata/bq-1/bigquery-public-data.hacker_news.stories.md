@@ -3,29 +3,29 @@
 
 ## Column details
 * [INTEGER]   `id`
- - Unique story ID
+  - Unique story ID
 * [STRING]    `by`
- - Username of submitter
+  - Username of submitter
 * [INTEGER]   `score`
- - Story score
+  - Story score
 * [INTEGER]   `time`
- - Unix time
+  - Unix time
 * [TIMESTAMP] `time_ts`
- - Human readable time in UTC (format: YYYY-MM-DD hh:mm:ss)
+  - Human readable time in UTC (format: YYYY-MM-DD hh:mm:ss)
 * [STRING]    `title`
- - Story title
+  - Story title
 * [STRING]    `url`
- - Story url
+  - Story url
 * [STRING]    `text`
- - Story text
+  - Story text
 * [BOOLEAN]   `deleted`
- - Is deleted?
+  - Is deleted?
 * [BOOLEAN]   `dead`
- - Is dead?
+  - Is dead?
 * [INTEGER]   `descendants`
- - Number of story descendants
+  - Number of story descendants
 * [STRING]    `author`
- - Username of author
+  - Username of author
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

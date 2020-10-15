@@ -3,149 +3,149 @@
 
 ## Column details
 * [INTEGER]   `group_receptor_id`
- - Group Receptor ID
+  - Group Receptor ID
 * [INTEGER]   `receptor_id`
- - Receptor ID
+  - Receptor ID
 * [STRING]    `reference_iri`
- - Reference IRI
+  - Reference IRI
 * [STRING]    `epitope_iri`
- - Epitope IRI
+  - Epitope IRI
 * [STRING]    `description`
- - Description
+  - Description
 * [STRING]    `antigen`
- - Antigen
+  - Antigen
 * [STRING]    `organism`
- - Organism
+  - Organism
 * [STRING]    `response_type`
- - Response Type
+  - Response Type
 * [STRING]    `assay_ids`
- - Assay IDs
+  - Assay IDs
 * [STRING]    `mhc_allele_names`
- - MHC Allele Names
+  - MHC Allele Names
 * [STRING]    `reference_name`
- - Reference Name
+  - Reference Name
 * [STRING]    `stable_id`
- - STABLE ID
+  - STABLE ID
 * [STRING]    `synonyms`
- - Synonyms
+  - Synonyms
 * [STRING]    `receptor_type`
- - Receptor Type
+  - Receptor Type
 * [STRING]    `chain_1_type`
- - Chain 1 Type
+  - Chain 1 Type
 * [INTEGER]   `chain_1_species`
- - Chain 1 Species
+  - Chain 1 Species
 * [STRING]    `chain_1_nucleotide`
- - Chain 1 Nucleotide
+  - Chain 1 Nucleotide
 * [STRING]    `curated_chain_1_v_gene`
- - Curated Chain 1 V Gene
+  - Curated Chain 1 V Gene
 * [STRING]    `calculated_chain_1_v_gene`
- - Calculated Chain 1 V Gene
+  - Calculated Chain 1 V Gene
 * [STRING]    `curated_chain_1_d_gene`
- - Curated Chain 1 D Gene
+  - Curated Chain 1 D Gene
 * [STRING]    `calculated_chain_1_d_gene`
- - Calculated Chain 1 D Gene
+  - Calculated Chain 1 D Gene
 * [STRING]    `curated_chain_1_j_gene`
- - Curated Chain 1 J Gene
+  - Curated Chain 1 J Gene
 * [STRING]    `calculated_chain_1_j_gene`
- - Calculated Chain 1 J Gene
+  - Calculated Chain 1 J Gene
 * [STRING]    `chain_1_full_sequence`
- - Chain 1 Full Sequence
+  - Chain 1 Full Sequence
 * [STRING]    `chain_1_accession`
- - Chain 1 Accession
+  - Chain 1 Accession
 * [STRING]    `chain_1_cdr3_curated`
- - Chain 1 CDR3 Curated
+  - Chain 1 CDR3 Curated
 * [STRING]    `chain_1_cdr3_calculated`
- - Chain 1 CDR3 Calculated
+  - Chain 1 CDR3 Calculated
 * [INTEGER]   `chain_1_cdr3_start_curated`
- - Chain 1 CDR3 Start Curated
+  - Chain 1 CDR3 Start Curated
 * [INTEGER]   `chain_1_cdr3_end_curated`
- - Chain 1 CDR3 End Curated
+  - Chain 1 CDR3 End Curated
 * [INTEGER]   `chain_1_cdr3_start_calculated`
- - Chain 1 CDR3 Start Calculated
+  - Chain 1 CDR3 Start Calculated
 * [INTEGER]   `chain_1_cdr3_end_calculated`
- - Chain 1 CDR3 End Calculated
+  - Chain 1 CDR3 End Calculated
 * [STRING]    `chain_1_cdr1_curated`
- - Chain 1 CDR1 Curated
+  - Chain 1 CDR1 Curated
 * [STRING]    `chain_1_cdr1_calculated`
- - Chain 1 CDR1 Calculated
+  - Chain 1 CDR1 Calculated
 * [INTEGER]   `chain_1_cdr1_start_curated`
- - Chain 1 CDR1 Start Curated
+  - Chain 1 CDR1 Start Curated
 * [INTEGER]   `chain_1_cdr1_end_curated`
- - Chain 1 CDR1 End Curated
+  - Chain 1 CDR1 End Curated
 * [INTEGER]   `chain_1_cdr1_start_calculated`
- - Chain 1 CDR1 Start Calculated
+  - Chain 1 CDR1 Start Calculated
 * [INTEGER]   `chain_1_cdr1_end_calculated`
- - Chain 1 CDR1 End Calculated
+  - Chain 1 CDR1 End Calculated
 * [STRING]    `chain_1_cdr2_curated`
- - Chain 1 CDR2 Curated
+  - Chain 1 CDR2 Curated
 * [STRING]    `chain_1_cdr2_calculated`
- - Chain 1 CDR2 Calculated
+  - Chain 1 CDR2 Calculated
 * [INTEGER]   `chain_1_cdr2_start_curated`
- - Chain 1 CDR2 Start Curated
+  - Chain 1 CDR2 Start Curated
 * [INTEGER]   `chain_1_cdr2_end_curated`
- - Chain 1 CDR2 End Curated
+  - Chain 1 CDR2 End Curated
 * [INTEGER]   `chain_1_cdr2_start_calculated`
- - Chain 1 CDR2 Start Calculated
+  - Chain 1 CDR2 Start Calculated
 * [INTEGER]   `chain_1_cdr2_end_calculated`
- - Chain 1 CDR2 End Calculated
+  - Chain 1 CDR2 End Calculated
 * [STRING]    `chain_2_type`
- - Chain 2 Type
+  - Chain 2 Type
 * [INTEGER]   `chain_2_species`
- - Chain 2 Species
+  - Chain 2 Species
 * [STRING]    `chain_2_nucleotide`
- - Chain 2 Nucleotide
+  - Chain 2 Nucleotide
 * [STRING]    `curated_chain_2_v_gene`
- - Curated Chain 2 V Gene
+  - Curated Chain 2 V Gene
 * [STRING]    `calculated_chain_2_v_gene`
- - Calculated Chain 2 V Gene
+  - Calculated Chain 2 V Gene
 * [STRING]    `curated_chain_2_d_gene`
- - Curated Chain 2 D Gene
+  - Curated Chain 2 D Gene
 * [STRING]    `calculated_chain_2_d_gene`
- - Calculated Chain 2 D Gene
+  - Calculated Chain 2 D Gene
 * [STRING]    `curated_chain_2_j_gene`
- - Curated Chain 2 J Gene
+  - Curated Chain 2 J Gene
 * [STRING]    `calculated_chain_2_j_gene`
- - Calculated Chain 2 J Gene
+  - Calculated Chain 2 J Gene
 * [STRING]    `chain_2_full_sequence`
- - Chain 2 Full Sequence
+  - Chain 2 Full Sequence
 * [STRING]    `chain_2_accession`
- - Chain 2 Accession
+  - Chain 2 Accession
 * [STRING]    `chain_2_cdr3_curated`
- - Chain 2 CDR3 Curated
+  - Chain 2 CDR3 Curated
 * [STRING]    `chain_2_cdr3_calculated`
- - Chain 2 CDR3 Calculated
+  - Chain 2 CDR3 Calculated
 * [INTEGER]   `chain_2_cdr3_start_curated`
- - Chain 2 CDR3 Start Curated
+  - Chain 2 CDR3 Start Curated
 * [INTEGER]   `chain_2_cdr3_end_curated`
- - Chain 2 CDR3 End Curated
+  - Chain 2 CDR3 End Curated
 * [INTEGER]   `chain_2_cdr3_start_calculated`
- - Chain 2 CDR3 Start Calculated
+  - Chain 2 CDR3 Start Calculated
 * [INTEGER]   `chain_2_cdr3_end_calculated`
- - Chain 2 CDR3 End Calculated
+  - Chain 2 CDR3 End Calculated
 * [STRING]    `chain_2_cdr1_curated`
- - Chain 2 CDR1 Curated
+  - Chain 2 CDR1 Curated
 * [STRING]    `chain_2_cdr1_calculated`
- - Chain 2 CDR1 Calculated
+  - Chain 2 CDR1 Calculated
 * [INTEGER]   `chain_2_cdr1_start_curated`
- - Chain 2 CDR1 Start Curated
+  - Chain 2 CDR1 Start Curated
 * [INTEGER]   `chain_2_cdr1_end_curated`
- - Chain 2 CDR1 End Curated
+  - Chain 2 CDR1 End Curated
 * [INTEGER]   `chain_2_cdr1_start_calculated`
- - Chain 2 CDR1 Start Calculated
+  - Chain 2 CDR1 Start Calculated
 * [INTEGER]   `chain_2_cdr1_end_calculated`
- - Chain 2 CDR1 End Calculated
+  - Chain 2 CDR1 End Calculated
 * [STRING]    `chain_2_cdr2_curated`
- - Chain 2 CDR2 Curated
+  - Chain 2 CDR2 Curated
 * [STRING]    `chain_2_cdr2_calculated`
- - Chain 2 CDR2 Calculated
+  - Chain 2 CDR2 Calculated
 * [INTEGER]   `chain_2_cdr2_start_curated`
- - Chain 2 CDR2 Start Curated
+  - Chain 2 CDR2 Start Curated
 * [INTEGER]   `chain_2_cdr2_end_curated`
- - Chain 2 CDR2 End Curated
+  - Chain 2 CDR2 End Curated
 * [INTEGER]   `chain_2_cdr2_start_calculated`
- - Chain 2 CDR2 Start Calculated
+  - Chain 2 CDR2 Start Calculated
 * [INTEGER]   `chain_2_cdr2_end_calculated`
- - Chain 2 CDR2 End Calculated
+  - Chain 2 CDR2 End Calculated
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -6,15 +6,15 @@ source: http://www.ssa.gov/OACT/babynames/limits.html
 
 ## Column details
 * [STRING]    `state`
- - 2-digit state code
+  - 2-digit state code
 * [STRING]    `gender`
- - Sex (M=male or F=female)
+  - Sex (M=male or F=female)
 * [INTEGER]   `year`
- - 4-digit year of birth
+  - 4-digit year of birth
 * [STRING]    `name`
- - Given name of a person at birth
+  - Given name of a person at birth
 * [INTEGER]   `number`
- - Number of occurrences of the name
+  - Number of occurrences of the name
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

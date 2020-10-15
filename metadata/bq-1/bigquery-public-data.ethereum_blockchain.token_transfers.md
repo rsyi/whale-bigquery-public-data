@@ -5,23 +5,23 @@ Data is exported using https://github.com/medvedev1088/ethereum-etl
 
 ## Column details
 * [STRING]    `token_address`
- - ERC20 token address
+  - ERC20 token address
 * [STRING]    `from_address`
- - Address of the sender
+  - Address of the sender
 * [STRING]    `to_address`
- - Address of the receiver
+  - Address of the receiver
 * [STRING]    `value`
- - Amount of tokens transferred (ERC20) / id of the token transferred (ERC721). Use safe_cast for casting to NUMERIC or FLOAT64
+  - Amount of tokens transferred (ERC20) / id of the token transferred (ERC721). Use safe_cast for casting to NUMERIC or FLOAT64
 * [STRING]    `transaction_hash`
- - Transaction hash
+  - Transaction hash
 * [INTEGER]   `log_index`
- - Log index in the transaction receipt
+  - Log index in the transaction receipt
 * [TIMESTAMP] `block_timestamp`
- - Timestamp of the block where this transfer was in
+  - Timestamp of the block where this transfer was in
 * [INTEGER]   `block_number`
- - Block number where this transfer was in
+  - Block number where this transfer was in
 * [STRING]    `block_hash`
- - Hash of the block where this transfer was in
+  - Hash of the block where this transfer was in
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

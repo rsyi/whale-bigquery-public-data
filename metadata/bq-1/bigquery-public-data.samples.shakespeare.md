@@ -3,13 +3,13 @@
 
 ## Column details
 * [STRING]    `word`
- - A single unique word (where whitespace is the delimiter) extracted from a corpus.
+  - A single unique word (where whitespace is the delimiter) extracted from a corpus.
 * [INTEGER]   `word_count`
- - The number of times this word appears in this corpus.
+  - The number of times this word appears in this corpus.
 * [STRING]    `corpus`
- - The work from which this word was extracted.
+  - The work from which this word was extracted.
 * [INTEGER]   `corpus_date`
- - The year in which this corpus was published.
+  - The year in which this corpus was published.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

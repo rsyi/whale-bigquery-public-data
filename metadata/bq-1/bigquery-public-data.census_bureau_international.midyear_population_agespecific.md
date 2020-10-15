@@ -3,17 +3,17 @@
 
 ## Column details
 * [STRING]    `country_code`
- - Federal Information Processing Standard (FIPS) country/area code
+  - Federal Information Processing Standard (FIPS) country/area code
 * [STRING]    `country_name`
- - Country or area name
+  - Country or area name
 * [INTEGER]   `year`
- - Year
+  - Year
 * [STRING]    `sex`
- - Gender
+  - Gender
 * [INTEGER]   `population`
- - Total count of individuals
+  - Total count of individuals
 * [INTEGER]   `age`
- - Age in years
+  - Age in years
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

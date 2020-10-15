@@ -3,25 +3,25 @@
 
 ## Column details
 * [INTEGER]   `id`
- - Unique comment ID
+  - Unique comment ID
 * [STRING]    `by`
- - Username of commenter
+  - Username of commenter
 * [STRING]    `author`
- - Username of author
+  - Username of author
 * [INTEGER]   `time`
- - Unix time
+  - Unix time
 * [TIMESTAMP] `time_ts`
- - Human readable time in UTC (format: YYYY-MM-DD hh:mm:ss)
+  - Human readable time in UTC (format: YYYY-MM-DD hh:mm:ss)
 * [STRING]    `text`
- - Comment text
+  - Comment text
 * [INTEGER]   `parent`
- - Parent comment ID
+  - Parent comment ID
 * [BOOLEAN]   `deleted`
- - Is deleted?
+  - Is deleted?
 * [BOOLEAN]   `dead`
- - Is dead?
+  - Is dead?
 * [INTEGER]   `ranking`
- - Comment ranking
+  - Comment ranking
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

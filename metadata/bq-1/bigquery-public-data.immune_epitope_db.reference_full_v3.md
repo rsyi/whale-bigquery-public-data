@@ -3,23 +3,23 @@
 
 ## Column details
 * [STRING]    `reference_iri`
- - Reference/Reference IRI
+  - Reference/Reference IRI
 * [STRING]    `type`
- - Reference/Type
+  - Reference/Type
 * [INTEGER]   `pubmed_id`
- - Reference/PubMed ID
+  - Reference/PubMed ID
 * [INTEGER]   `submission_id`
- - Reference/Submission ID
+  - Reference/Submission ID
 * [STRING]    `authors`
- - Reference/Authors
+  - Reference/Authors
 * [STRING]    `journal`
- - Reference/Journal
+  - Reference/Journal
 * [INTEGER]   `date`
- - Reference/Date
+  - Reference/Date
 * [STRING]    `title`
- - Reference/Title
+  - Reference/Title
 * [STRING]    `abstract`
- - Reference/Abstract
+  - Reference/Abstract
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -3,47 +3,47 @@
 
 ## Column details
 * [STRING]    `cmte_id`
- - Filer Identification Number
+  - Filer Identification Number
 * [STRING]    `amndt_ind`
- - Amendment Indicator
+  - Amendment Indicator
 * [STRING]    `rpt_tp`
- - Report Type
+  - Report Type
 * [STRING]    `transaction_pgi`
- - Primary-General Indicator
+  - Primary-General Indicator
 * [STRING]    `image_num`
- - Image Number
+  - Image Number
 * [STRING]    `transaction_tp`
- - Transaction Type
+  - Transaction Type
 * [STRING]    `entity_tp`
- - Entity Type
+  - Entity Type
 * [STRING]    `name`
- - Contributor/Lender/Transfer Name
+  - Contributor/Lender/Transfer Name
 * [STRING]    `city`
- - City/Town
+  - City/Town
 * [STRING]    `state`
- - State
+  - State
 * [STRING]    `zip_code`
- - Zip Code
+  - Zip Code
 * [STRING]    `employer`
- - Employer
+  - Employer
 * [STRING]    `occupation`
- - Occupation
+  - Occupation
 * [DATE]      `transaction_dt`
- - Transaction Date
+  - Transaction Date
 * [FLOAT]     `transaction_amt`
- - Transaction Amount
+  - Transaction Amount
 * [STRING]    `other_id`
- - Other Identification Number
+  - Other Identification Number
 * [STRING]    `tran_id`
- - Transaction ID
+  - Transaction ID
 * [INTEGER]   `file_num`
- - File Number / Report ID
+  - File Number / Report ID
 * [STRING]    `memo_cd`
- - Memo Code
+  - Memo Code
 * [STRING]    `memo_text`
- - Memo Text
+  - Memo Text
 * [INTEGER]   `sub_id`
- - FEC Record Number
+  - FEC Record Number
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

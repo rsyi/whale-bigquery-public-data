@@ -5,21 +5,21 @@ gs://gnomad-public/legacy/exacv1_downloads/release1/ExAC.r1.sites.vep.vcf.gz
 
 ## Column details
 * [STRING]    `reference_name`
- - An identifier from the reference genome or an angle-bracketed ID string pointing to a contig in the assembly file.
+  - An identifier from the reference genome or an angle-bracketed ID string pointing to a contig in the assembly file.
 * [INTEGER]   `start`
- - The reference position, with the first base having position 0.
+  - The reference position, with the first base having position 0.
 * [INTEGER]   `end`
- - End position of the variant described in this record.
+  - End position of the variant described in this record.
 * [STRING]    `reference_bases`
- - Each base must be one of A,C,G,T,N (case insensitive). Multiple bases are permitted. The value in the 'start' field refers to the position of the first base in the string.
+  - Each base must be one of A,C,G,T,N (case insensitive). Multiple bases are permitted. The value in the 'start' field refers to the position of the first base in the string.
 * [STRING]    `alternate_bases`
- - List of alternate non-reference alleles.
+  - List of alternate non-reference alleles.
 * [STRING]    `variant_id`
- - Google Genomics variant id.
+  - Google Genomics variant id.
 * [FLOAT]     `quality`
- - Phred-scaled quality score for the assertion made in ALT.
+  - Phred-scaled quality score for the assertion made in ALT.
 * [STRING]    `filter`
- - InbreedingCoeff_Filter
+  - InbreedingCoeff_Filter
 LowQual
 NewCut_Filter
 VQSRTrancheINDEL95.00to96.00
@@ -37,199 +37,199 @@ VQSRTrancheSNP99.95to100.00+
 VQSRTrancheSNP99.95to100.00
 AC_Adj0_Filter
 * [STRING]    `names`
- - List of unique identifiers for the variant where available.
+  - List of unique identifiers for the variant where available.
 * [RECORD]    `call`
- - Per-sample measurements.
+  - Per-sample measurements.
 * [STRING]    `call.call_set_id`
- - The id of the callset from which this data was exported from the Google Genomics Variants API.
+  - The id of the callset from which this data was exported from the Google Genomics Variants API.
 * [STRING]    `call.call_set_name`
- - Sample identifier from source data.
+  - Sample identifier from source data.
 * [INTEGER]   `call.genotype`
- - List of genotypes.
+  - List of genotypes.
 * [STRING]    `call.phaseset`
- - If this value is null, the data is unphased.  Otherwise it is phased.
+  - If this value is null, the data is unphased.  Otherwise it is phased.
 * [FLOAT]     `call.genotype_likelihood`
- - List of genotype likelihoods.
+  - List of genotype likelihoods.
 * [INTEGER]   `AC`
- - Allele count in genotypes, for each ALT allele, in the same order as listed
+  - Allele count in genotypes, for each ALT allele, in the same order as listed
 * [INTEGER]   `AC_AFR`
- - African/African American Allele Counts
+  - African/African American Allele Counts
 * [INTEGER]   `AC_AMR`
- - American Allele Counts
+  - American Allele Counts
 * [INTEGER]   `AC_Adj`
- - Adjusted Allele Counts
+  - Adjusted Allele Counts
 * [STRING]    `AC_CONSANGUINEOUS`
- - Allele count among individuals with F > 0.05
+  - Allele count among individuals with F > 0.05
 * [INTEGER]   `AC_EAS`
- - East Asian Allele Counts
+  - East Asian Allele Counts
 * [STRING]    `AC_FEMALE`
- - Allele count among females
+  - Allele count among females
 * [INTEGER]   `AC_FIN`
- - Finnish Allele Counts
+  - Finnish Allele Counts
 * [INTEGER]   `AC_Hemi`
- - Adjusted Hemizygous Counts
+  - Adjusted Hemizygous Counts
 * [INTEGER]   `AC_Het`
- - Adjusted Heterozygous Counts
+  - Adjusted Heterozygous Counts
 * [INTEGER]   `AC_Hom`
- - Adjusted Homozygous Counts
+  - Adjusted Homozygous Counts
 * [STRING]    `AC_MALE`
- - Allele count among males
+  - Allele count among males
 * [INTEGER]   `AC_NFE`
- - Non-Finnish European Allele Counts
+  - Non-Finnish European Allele Counts
 * [INTEGER]   `AC_OTH`
- - Other Allele Counts
+  - Other Allele Counts
 * [STRING]    `AC_POPMAX`
- - AC in the population with the max AF
+  - AC in the population with the max AF
 * [INTEGER]   `AC_SAS`
- - South Asian Allele Counts
+  - South Asian Allele Counts
 * [FLOAT]     `AF`
- - Allele Frequency, for each ALT allele, in the same order as listed
+  - Allele Frequency, for each ALT allele, in the same order as listed
 * [STRING]    `AGE_HISTOGRAM_HET`
- - Histogram of ages of allele carriers; Bins: <30|30|35|40|45|50|55|60|65|70|75|80+
+  - Histogram of ages of allele carriers; Bins: <30|30|35|40|45|50|55|60|65|70|75|80+
 * [STRING]    `AGE_HISTOGRAM_HOM`
- - Histogram of ages of homozygous allele carriers; Bins: <30|30|35|40|45|50|55|60|65|70|75|80+
+  - Histogram of ages of homozygous allele carriers; Bins: <30|30|35|40|45|50|55|60|65|70|75|80+
 * [INTEGER]   `AN`
- - Total number of alleles in called genotypes
+  - Total number of alleles in called genotypes
 * [INTEGER]   `AN_AFR`
- - African/African American Chromosome Count
+  - African/African American Chromosome Count
 * [INTEGER]   `AN_AMR`
- - American Chromosome Count
+  - American Chromosome Count
 * [INTEGER]   `AN_Adj`
- - Adjusted Chromosome Count
+  - Adjusted Chromosome Count
 * [INTEGER]   `AN_CONSANGUINEOUS`
- - Allele number among individuals with F > 0.05
+  - Allele number among individuals with F > 0.05
 * [INTEGER]   `AN_EAS`
- - East Asian Chromosome Count
+  - East Asian Chromosome Count
 * [INTEGER]   `AN_FEMALE`
- - Allele number among females
+  - Allele number among females
 * [INTEGER]   `AN_FIN`
- - Finnish Chromosome Count
+  - Finnish Chromosome Count
 * [INTEGER]   `AN_MALE`
- - Allele number among males
+  - Allele number among males
 * [INTEGER]   `AN_NFE`
- - Non-Finnish European Chromosome Count
+  - Non-Finnish European Chromosome Count
 * [INTEGER]   `AN_OTH`
- - Other Chromosome Count
+  - Other Chromosome Count
 * [STRING]    `AN_POPMAX`
- - AN in the population with the max AF
+  - AN in the population with the max AF
 * [INTEGER]   `AN_SAS`
- - South Asian Chromosome Count
+  - South Asian Chromosome Count
 * [FLOAT]     `BaseQRankSum`
- - Z-score from Wilcoxon rank sum test of Alt Vs. Ref base qualities
+  - Z-score from Wilcoxon rank sum test of Alt Vs. Ref base qualities
 * [STRING]    `CSQ`
- - Consequence annotations from Ensembl VEP. Format: Allele|Consequence|IMPACT|SYMBOL|Gene|Feature_type|Feature|BIOTYPE|EXON|INTRON|HGVSc|HGVSp|cDNA_position|CDS_position|Protein_position|Amino_acids|Codons|Existing_variation|ALLELE_NUM|DISTANCE|STRAND|FLAGS|VARIANT_CLASS|MINIMISED|SYMBOL_SOURCE|HGNC_ID|CANONICAL|TSL|APPRIS|CCDS|ENSP|SWISSPROT|TREMBL|UNIPARC|GENE_PHENO|SIFT|PolyPhen|DOMAINS|HGVS_OFFSET|GMAF|AFR_MAF|AMR_MAF|EAS_MAF|EUR_MAF|SAS_MAF|AA_MAF|EA_MAF|ExAC_MAF|ExAC_Adj_MAF|ExAC_AFR_MAF|ExAC_AMR_MAF|ExAC_EAS_MAF|ExAC_FIN_MAF|ExAC_NFE_MAF|ExAC_OTH_MAF|ExAC_SAS_MAF|CLIN_SIG|SOMATIC|PHENO|PUBMED|MOTIF_NAME|MOTIF_POS|HIGH_INF_POS|MOTIF_SCORE_CHANGE|LoF|LoF_filter|LoF_flags|LoF_info|context|ancestral
+  - Consequence annotations from Ensembl VEP. Format: Allele|Consequence|IMPACT|SYMBOL|Gene|Feature_type|Feature|BIOTYPE|EXON|INTRON|HGVSc|HGVSp|cDNA_position|CDS_position|Protein_position|Amino_acids|Codons|Existing_variation|ALLELE_NUM|DISTANCE|STRAND|FLAGS|VARIANT_CLASS|MINIMISED|SYMBOL_SOURCE|HGNC_ID|CANONICAL|TSL|APPRIS|CCDS|ENSP|SWISSPROT|TREMBL|UNIPARC|GENE_PHENO|SIFT|PolyPhen|DOMAINS|HGVS_OFFSET|GMAF|AFR_MAF|AMR_MAF|EAS_MAF|EUR_MAF|SAS_MAF|AA_MAF|EA_MAF|ExAC_MAF|ExAC_Adj_MAF|ExAC_AFR_MAF|ExAC_AMR_MAF|ExAC_EAS_MAF|ExAC_FIN_MAF|ExAC_NFE_MAF|ExAC_OTH_MAF|ExAC_SAS_MAF|CLIN_SIG|SOMATIC|PHENO|PUBMED|MOTIF_NAME|MOTIF_POS|HIGH_INF_POS|MOTIF_SCORE_CHANGE|LoF|LoF_filter|LoF_flags|LoF_info|context|ancestral
 * [FLOAT]     `ClippingRankSum`
- - Z-score From Wilcoxon rank sum test of Alt vs. Ref number of hard clipped bases
+  - Z-score From Wilcoxon rank sum test of Alt vs. Ref number of hard clipped bases
 * [BOOLEAN]   `DB`
- - dbSNP Membership
+  - dbSNP Membership
 * [STRING]    `DOUBLETON_DIST`
- - Euclidean distance of carriers of doubletons
+  - Euclidean distance of carriers of doubletons
 * [INTEGER]   `DP`
- - Approximate read depth; some reads may have been filtered
+  - Approximate read depth; some reads may have been filtered
 * [STRING]    `DP_HIST`
- - Histogram for DP; Mids: 2.5|7.5|12.5|17.5|22.5|27.5|32.5|37.5|42.5|47.5|52.5|57.5|62.5|67.5|72.5|77.5|82.5|87.5|92.5|97.5
+  - Histogram for DP; Mids: 2.5|7.5|12.5|17.5|22.5|27.5|32.5|37.5|42.5|47.5|52.5|57.5|62.5|67.5|72.5|77.5|82.5|87.5|92.5|97.5
 * [STRING]    `ESP_AC`
- - Allele Count in ESP
+  - Allele Count in ESP
 * [STRING]    `ESP_AF_GLOBAL`
- - Overall allele frequency in ESP
+  - Overall allele frequency in ESP
 * [STRING]    `ESP_AF_POPMAX`
- - Max allele frequency across populations in ESP
+  - Max allele frequency across populations in ESP
 * [FLOAT]     `FS`
- - Phred-scaled p-value using Fisher's exact test to detect strand bias
+  - Phred-scaled p-value using Fisher's exact test to detect strand bias
 * [STRING]    `GQ_HIST`
- - Histogram for GQ; Mids: 2.5|7.5|12.5|17.5|22.5|27.5|32.5|37.5|42.5|47.5|52.5|57.5|62.5|67.5|72.5|77.5|82.5|87.5|92.5|97.5
+  - Histogram for GQ; Mids: 2.5|7.5|12.5|17.5|22.5|27.5|32.5|37.5|42.5|47.5|52.5|57.5|62.5|67.5|72.5|77.5|82.5|87.5|92.5|97.5
 * [FLOAT]     `GQ_MEAN`
- - Mean of all GQ values
+  - Mean of all GQ values
 * [FLOAT]     `GQ_STDDEV`
- - Standard deviation of all GQ values
+  - Standard deviation of all GQ values
 * [INTEGER]   `Hemi_AFR`
- - African/African American Hemizygous Counts
+  - African/African American Hemizygous Counts
 * [INTEGER]   `Hemi_AMR`
- - American Hemizygous Counts
+  - American Hemizygous Counts
 * [INTEGER]   `Hemi_EAS`
- - East Asian Hemizygous Counts
+  - East Asian Hemizygous Counts
 * [INTEGER]   `Hemi_FIN`
- - Finnish Hemizygous Counts
+  - Finnish Hemizygous Counts
 * [INTEGER]   `Hemi_NFE`
- - Non-Finnish European Hemizygous Counts
+  - Non-Finnish European Hemizygous Counts
 * [INTEGER]   `Hemi_OTH`
- - Other Hemizygous Counts
+  - Other Hemizygous Counts
 * [INTEGER]   `Hemi_SAS`
- - South Asian Hemizygous Counts
+  - South Asian Hemizygous Counts
 * [INTEGER]   `Het_AFR`
- - African/African American Heterozygous Counts
+  - African/African American Heterozygous Counts
 * [INTEGER]   `Het_AMR`
- - American Heterozygous Counts
+  - American Heterozygous Counts
 * [INTEGER]   `Het_EAS`
- - East Asian Heterozygous Counts
+  - East Asian Heterozygous Counts
 * [INTEGER]   `Het_FIN`
- - Finnish Heterozygous Counts
+  - Finnish Heterozygous Counts
 * [INTEGER]   `Het_NFE`
- - Non-Finnish European Heterozygous Counts
+  - Non-Finnish European Heterozygous Counts
 * [INTEGER]   `Het_OTH`
- - Other Heterozygous Counts
+  - Other Heterozygous Counts
 * [INTEGER]   `Het_SAS`
- - South Asian Heterozygous Counts
+  - South Asian Heterozygous Counts
 * [INTEGER]   `Hom_AFR`
- - African/African American Homozygous Counts
+  - African/African American Homozygous Counts
 * [INTEGER]   `Hom_AMR`
- - American Homozygous Counts
+  - American Homozygous Counts
 * [STRING]    `Hom_CONSANGUINEOUS`
- - Homozygote count among individuals with F > 0.05
+  - Homozygote count among individuals with F > 0.05
 * [INTEGER]   `Hom_EAS`
- - East Asian Homozygous Counts
+  - East Asian Homozygous Counts
 * [INTEGER]   `Hom_FIN`
- - Finnish Homozygous Counts
+  - Finnish Homozygous Counts
 * [INTEGER]   `Hom_NFE`
- - Non-Finnish European Homozygous Counts
+  - Non-Finnish European Homozygous Counts
 * [INTEGER]   `Hom_OTH`
- - Other Homozygous Counts
+  - Other Homozygous Counts
 * [INTEGER]   `Hom_SAS`
- - South Asian Homozygous Counts
+  - South Asian Homozygous Counts
 * [FLOAT]     `InbreedingCoeff`
- - Inbreeding coefficient as estimated from the genotype likelihoods per-sample when compared against the Hardy-Weinberg expectation
+  - Inbreeding coefficient as estimated from the genotype likelihoods per-sample when compared against the Hardy-Weinberg expectation
 * [STRING]    `K1_RUN`
- - Number of ensuing single nucleotide repeats.
+  - Number of ensuing single nucleotide repeats.
 * [STRING]    `K2_RUN`
- - Number of ensuing di-nucleotide repeats.
+  - Number of ensuing di-nucleotide repeats.
 * [STRING]    `K3_RUN`
- - Number of ensuing tri-nucleotide repeats.
+  - Number of ensuing tri-nucleotide repeats.
 * [STRING]    `KG_AC`
- - Allele Count in 1000 Genomes
+  - Allele Count in 1000 Genomes
 * [STRING]    `KG_AF_GLOBAL`
- - Overall allele frequency in 1000 Genomes
+  - Overall allele frequency in 1000 Genomes
 * [STRING]    `KG_AF_POPMAX`
- - Max allele frequency across populations in 1000 Genomes
+  - Max allele frequency across populations in 1000 Genomes
 * [FLOAT]     `MQ`
- - RMS Mapping Quality
+  - RMS Mapping Quality
 * [INTEGER]   `MQ0`
- - Total Mapping Quality Zero Reads
+  - Total Mapping Quality Zero Reads
 * [FLOAT]     `MQRankSum`
- - Z-score From Wilcoxon rank sum test of Alt vs. Ref read mapping qualities
+  - Z-score From Wilcoxon rank sum test of Alt vs. Ref read mapping qualities
 * [INTEGER]   `NCC`
- - Number of no-called samples
+  - Number of no-called samples
 * [BOOLEAN]   `NEGATIVE_TRAIN_SITE`
- - This variant was used to build the negative training set of bad variants
+  - This variant was used to build the negative training set of bad variants
 * [STRING]    `POPMAX`
- - Population with max AF
+  - Population with max AF
 * [BOOLEAN]   `POSITIVE_TRAIN_SITE`
- - This variant was used to build the positive training set of good variants
+  - This variant was used to build the positive training set of good variants
 * [FLOAT]     `QD`
- - Variant Confidence/Quality by Depth
+  - Variant Confidence/Quality by Depth
 * [FLOAT]     `ReadPosRankSum`
- - Z-score from Wilcoxon rank sum test of Alt vs. Ref read position bias
+  - Z-score from Wilcoxon rank sum test of Alt vs. Ref read position bias
 * [FLOAT]     `VQSLOD`
- - Log odds ratio of being a true variant versus being false under the trained gaussian mixture model
+  - Log odds ratio of being a true variant versus being false under the trained gaussian mixture model
 * [STRING]    `clinvar_conflicted`
- - Clinvar Conflicted Status
+  - Clinvar Conflicted Status
 * [STRING]    `clinvar_measureset_id`
- - Clinvar Measureset ID
+  - Clinvar Measureset ID
 * [STRING]    `clinvar_mut`
- - Clinvar MUT Flag (is disease allele REF?)
+  - Clinvar MUT Flag (is disease allele REF?)
 * [STRING]    `clinvar_pathogenic`
- - Clinvar Pathogenic Status
+  - Clinvar Pathogenic Status
 * [STRING]    `culprit`
- - The annotation which was the worst performing in the Gaussian mixture model, likely the reason why the variant was filtered out
+  - The annotation which was the worst performing in the Gaussian mixture model, likely the reason why the variant was filtered out
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

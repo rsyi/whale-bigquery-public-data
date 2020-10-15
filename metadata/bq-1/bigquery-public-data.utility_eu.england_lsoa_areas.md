@@ -6,7 +6,7 @@ Contains OS data © Crown copyright and database right 2017
 
 ## Column details
 * [STRING]    `lsoa`
- - Lower Layer Super Output Area
+  - Lower Layer Super Output Area
 * [STRING]    `lsoa_name`
 * [FLOAT]     `st_area_shape`
 * [FLOAT]     `st_length_shape`

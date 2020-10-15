@@ -3,35 +3,35 @@
 
 ## Column details
 * [STRING]    `cmte_id`
- - Committee Identification
+  - Committee Identification
 * [STRING]    `cmte_nm`
- - Committee Name
+  - Committee Name
 * [STRING]    `tres_nm`
- - Treasurer's Name
+  - Treasurer's Name
 * [STRING]    `cmte_st1`
- - Street One
+  - Street One
 * [STRING]    `cmte_st2`
- - Street Two
+  - Street Two
 * [STRING]    `cmte_city`
- - City or Town
+  - City or Town
 * [STRING]    `cmte_st`
- - State
+  - State
 * [STRING]    `cmte_zip`
- - Zip Code
+  - Zip Code
 * [STRING]    `cmte_dsgn`
- - Committee Designation
+  - Committee Designation
 * [STRING]    `cmte_tp`
- - Committee Type
+  - Committee Type
 * [STRING]    `cmte_pty_affiliation`
- - Committee Party
+  - Committee Party
 * [STRING]    `cmte_filing_freq`
- - Filing Frequency
+  - Filing Frequency
 * [STRING]    `org_tp`
- - Interest Group Category
+  - Interest Group Category
 * [STRING]    `connected_org_nm`
- - Connected Organization's Name
+  - Connected Organization's Name
 * [STRING]    `cand_id`
- - Candidate Identification
+  - Candidate Identification
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

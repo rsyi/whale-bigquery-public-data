@@ -11,7 +11,7 @@
 * [STRING]    `cctlds`
 * [STRING]    `continent_code`
 * [STRING]    `continent_name`
- - Note: Australia has been grouped into the Oceania region.
+  - Note: Australia has been grouped into the Oceania region.
 * [STRING]    `sub_continent_name`
 
 -------------------------------------------------------------------------------

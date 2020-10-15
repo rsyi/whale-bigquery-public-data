@@ -3,55 +3,55 @@
 
 ## Column details
 * [STRING]    `cmte_id`
- - Filer Identification Number
+  - Filer Identification Number
 * [STRING]    `amndt_ind`
- - Amendment Indicator
+  - Amendment Indicator
 * [INTEGER]   `rpt_yr`
- - Report Year
+  - Report Year
 * [STRING]    `rpt_tp`
- - Report Type
+  - Report Type
 * [INTEGER]   `image_num`
- - Image Number
+  - Image Number
 * [STRING]    `line_num`
- - Line Number
+  - Line Number
 * [STRING]    `form_tp_cd`
- - Form Type
+  - Form Type
 * [STRING]    `sched_tp_cd`
- - Schedule Type
+  - Schedule Type
 * [STRING]    `name`
- - Contributor/Lender/Transfer Name
+  - Contributor/Lender/Transfer Name
 * [STRING]    `city`
- - City/Town
+  - City/Town
 * [STRING]    `state`
- - State
+  - State
 * [STRING]    `zip_code`
- - Zip Code
+  - Zip Code
 * [DATE]      `transaction_dt`
- - Transaction Date(MMDDYYYY)
+  - Transaction Date(MMDDYYYY)
 * [FLOAT]     `transaction_amt`
- - Transaction Amount
+  - Transaction Amount
 * [STRING]    `transaction_pgi`
- - Primary General Indicator
+  - Primary General Indicator
 * [STRING]    `purpose`
- - Purpose
+  - Purpose
 * [STRING]    `category`
- - Disbursement Category Code
+  - Disbursement Category Code
 * [STRING]    `category_desc`
- - Disbursement Category Code Description
+  - Disbursement Category Code Description
 * [STRING]    `memo_cd`
- - Memo Code
+  - Memo Code
 * [STRING]    `memo_text`
- - Memo Text
+  - Memo Text
 * [STRING]    `entity_tp`
- - Entity Type
+  - Entity Type
 * [INTEGER]   `sub_id`
- - FEC Record Number
+  - FEC Record Number
 * [INTEGER]   `file_num`
- - File Number / Report ID
+  - File Number / Report ID
 * [STRING]    `tran_id`
- - Transaction ID
+  - Transaction ID
 * [STRING]    `back_ref_tran_id`
- - Back Reference Transaction ID
+  - Back Reference Transaction ID
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

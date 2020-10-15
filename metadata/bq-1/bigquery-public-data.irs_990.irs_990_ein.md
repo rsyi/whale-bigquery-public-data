@@ -3,61 +3,61 @@
 
 ## Column details
 * [STRING]    `ein`
- - Employer Identification Number (EIN)
+  - Employer Identification Number (EIN)
 * [STRING]    `name`
- - Primary Name of Organization
+  - Primary Name of Organization
 * [STRING]    `ico`
- - In Care of Name
+  - In Care of Name
 * [STRING]    `street`
- - Street Address
+  - Street Address
 * [STRING]    `city`
- - City
+  - City
 * [STRING]    `state`
- - State
+  - State
 * [STRING]    `zip`
- - Zip Code
+  - Zip Code
 * [INTEGER]   `group`
- - Group Exemption Number
+  - Group Exemption Number
 * [INTEGER]   `subsection`
- - Subsection Code
+  - Subsection Code
 * [INTEGER]   `affiliation`
- - Affiliation Code
+  - Affiliation Code
 * [INTEGER]   `classification`
- - Classification Code(s)
+  - Classification Code(s)
 * [INTEGER]   `ruling`
- - Ruling Date
+  - Ruling Date
 * [INTEGER]   `deductibility`
- - Deductibility Code
+  - Deductibility Code
 * [INTEGER]   `foundation`
- - Foundation Code
+  - Foundation Code
 * [INTEGER]   `activity`
- - Activity Codes
+  - Activity Codes
 * [INTEGER]   `organization`
- - Organization Code
+  - Organization Code
 * [INTEGER]   `status`
- - Exempt Organization Status Code
+  - Exempt Organization Status Code
 * [INTEGER]   `tax_period`
- - Tax Period
+  - Tax Period
 * [INTEGER]   `asset_cd`
- - Asset Code
+  - Asset Code
 * [INTEGER]   `income_cd`
- - Income Code
+  - Income Code
 * [INTEGER]   `filing_req_cd`
- - Filing Requirement Code
+  - Filing Requirement Code
 * [INTEGER]   `pf_filing_req_cd`
- - PF Filing Requirement Code
+  - PF Filing Requirement Code
 * [INTEGER]   `acct_pd`
- - Accounting Period
+  - Accounting Period
 * [INTEGER]   `asset_amt`
- - Asset Amount
+  - Asset Amount
 * [INTEGER]   `income_amt`
- - Income Amount (includes negative sign if amount is negative)
+  - Income Amount (includes negative sign if amount is negative)
 * [INTEGER]   `revenue_amt`
- - Form 990 Revenue Amount (includes negative sign if amount is negative)
+  - Form 990 Revenue Amount (includes negative sign if amount is negative)
 * [STRING]    `ntee_cd`
- - National Taxonomy of Exempt Entities (NTEE) Code
+  - National Taxonomy of Exempt Entities (NTEE) Code
 * [STRING]    `sort_name`
- - Sort Name (Secondary Name Line)
+  - Sort Name (Secondary Name Line)
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
