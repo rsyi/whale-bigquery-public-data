@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Copy to ~/.whale
         run: |
-          cp -r . ~/.whale
+          cp -r . ~/.whale/
       - uses: actions/checkout@v2
         with:
           repository: dataframehq/whale
@@ -32,6 +32,9 @@ jobs:
           echo ${BIGQUERY_JSON} > ~/.whale/credentials.json
           make python
           source ~/.whale/libexec/env/bin/activate
+          pip3 install google-api-python-client
+          pip3 install google-auth-httplib2
+          pip3 install google-auth-oauthlib
           python3 ~/.whale/libexec/build_script.py
 
       # Push to git
