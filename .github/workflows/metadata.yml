@@ -15,7 +15,7 @@ jobs:
       # Setup python + clone repos
       - uses: actions/setup-python@v2
         with:
-          python-version: '3.7'
+          python-version: '3.8'
       - uses: actions/checkout@v2
       - name: Copy to ~/.whale
         run: |
@@ -32,7 +32,7 @@ jobs:
           echo ${BIGQUERY_JSON} > ~/.whale/credentials.json
           make python
           source ~/.whale/libexec/env/bin/activate
-          python ~/.whale/libexec/build_script.py
+          python3 ~/.whale/libexec/build_script.py
 
       # Push to git
       - name: push-to-git
