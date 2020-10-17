@@ -17,8 +17,9 @@ jobs:
         with:
           python-version: '3.8'
       - uses: actions/checkout@v2
-        with:
-          path: ~/.whale
+      - name: Copy to ~/.whale
+        run: |
+          cp -r . ~/.whale
       - uses: actions/checkout@v2
         with:
           repository: dataframehq/whale
