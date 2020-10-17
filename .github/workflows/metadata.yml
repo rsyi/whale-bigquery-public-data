@@ -29,10 +29,9 @@ jobs:
       - name: etl
         working-directory: ./whale
         run: |
-          echo ${BIGQUERY_JSON} > ~/.whale/credentials.json
+          echo '${{ secrets.BIGQUERY_JSON }}' > ~/.whale/credentials.json
           make python
           source ~/.whale/libexec/env/bin/activate
-          pip3 install requests
           python3 ~/.whale/libexec/build_script.py
 
       # Push to git
@@ -44,5 +43,3 @@ jobs:
           git add metadata manifests metrics
           git commit -m "Automated push." || echo "No changes to commit"
           git push
-        env:
-          BIGQUERY_JSON: ${{ secrets.BIGQUERY_JSON }}
