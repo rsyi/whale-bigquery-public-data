@@ -25,10 +25,11 @@ jobs:
       - name: etl
         working-directory: ./whale
         run: |
-          echo '${{ secrets.BIGQUERY_JSON }}' > ~/.whale/credentials.json
+          echo '${{ secrets.BIGQUERY_JSON }}' > ~/credentials.json
           make python
           source ~/.whale/libexec/env/bin/activate
           python3 ~/.whale/libexec/build_script.py
+          rm ~/.whale/credentials.json
 
       # Push to git
       - name: push-to-git
@@ -36,6 +37,6 @@ jobs:
         run: |
           git config user.name 'GHA Runner'
           git config user.email '<your_username>@users.noreply.github.com'
-          git add metadata manifests metrics
+          git add .
           git commit -m "Automated push." || echo "No changes to commit"
           git push

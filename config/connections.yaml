@@ -1,6 +1,6 @@
 ---
 name: bq-1
 metadata_source: Bigquery
-key_path: ~/.whale/credentials.json
+key_path: ~/credentials.json
 project_credentials: ~
 project_id: bigquery-public-data
