@@ -1,0 +1,29 @@
+name: Whale Runner
+on:
+  push:
+    branches:
+      - rsyi/fix-broken-git-push
+
+jobs:
+  run-etl:
+    runs-on: ubuntu-latest
+    steps:
+
+      # Setup python + clone repos
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+      - uses: actions/checkout@v2
+      - name: Copy to ~/.whale
+        run: |
+          cp -r . ~/.whale/
+
+      # Push to git
+      - name: push-to-git
+        working-directory: ~/.whale
+        run: |
+          git config user.name 'GHA Runner'
+          git config user.email '<your_username>@users.noreply.github.com'
+          git add .
+          git commit -m "Automated push." || echo "No changes to commit"
+          git push
