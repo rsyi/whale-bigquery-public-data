@@ -29,7 +29,6 @@ jobs:
           make python
           source ~/.whale/libexec/env/bin/activate
           python3 ~/.whale/libexec/build_script.py
-          rm ~/.whale/credentials.json
 
       # Push to git
       - name: push-to-git
