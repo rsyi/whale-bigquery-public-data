@@ -287,6 +287,7 @@ Deaths COVID-19 cases, aggregated by country/region and province/state. See the 
 * [INTEGER]   `_10_24_20`
 * [INTEGER]   `_10_25_20`
 * [INTEGER]   `_10_26_20`
+* [INTEGER]   `_10_27_20`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
