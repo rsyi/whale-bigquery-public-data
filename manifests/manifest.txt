@@ -1913,6 +1913,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_10_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_11_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_11_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_11_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_11_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_12_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_12_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichanges_current
