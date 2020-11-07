@@ -1,5 +1,5 @@
 # `genomics_cannabis.MNPR01_transcriptome_201703`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 MNPR01_transcriptome_201703: similar to MNPR01, but includes only the subset transcriptomic samples.  In contrast to the larger table, this is useful for transcribed gene-level analysis of the Cannabis genome.
 
 ## Column details

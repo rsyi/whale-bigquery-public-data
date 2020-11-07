@@ -1,5 +1,5 @@
 # `crypto_bitcoin.transactions`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 All transactions.
 Data is exported using https://github.com/blockchain-etl/bitcoin-etl
 

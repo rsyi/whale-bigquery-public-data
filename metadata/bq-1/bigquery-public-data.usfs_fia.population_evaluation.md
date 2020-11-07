@@ -1,5 +1,5 @@
 # `usfs_fia.population_evaluation`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Describes the evaluation area, which is often a State. 
 Pages in FIA Documentation:	7-7
 

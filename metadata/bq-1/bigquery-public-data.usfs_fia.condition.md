@@ -1,5 +1,5 @@
 # `usfs_fia.condition`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Condition of the plot.
 
 Conditions are defined by changes in land use or changes in vegetation that occur along more-or-less distinct boundaries. 

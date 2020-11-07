@@ -1,5 +1,5 @@
 # `san_francisco_transit_muni.stop_monitoring`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [TIMESTAMP] `time_recorded`

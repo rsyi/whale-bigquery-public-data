@@ -1,5 +1,5 @@
 # `census_utility.fips_codes_states`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_fips_code`

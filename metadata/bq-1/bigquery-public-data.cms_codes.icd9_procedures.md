@@ -1,5 +1,5 @@
 # `cms_codes.icd9_procedures`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `PROCEDURE_CODE`

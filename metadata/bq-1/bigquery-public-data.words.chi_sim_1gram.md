@@ -1,5 +1,5 @@
 # `words.chi_sim_1gram`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `ngram`

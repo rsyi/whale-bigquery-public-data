@@ -1,5 +1,5 @@
 # `fhir_synthea.basic`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `author`

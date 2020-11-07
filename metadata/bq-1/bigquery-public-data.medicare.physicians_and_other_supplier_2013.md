@@ -1,5 +1,5 @@
 # `medicare.physicians_and_other_supplier_2013`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `npi`

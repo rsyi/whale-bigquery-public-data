@@ -1,5 +1,5 @@
 # `new_york.311_service_requests`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `unique_key`

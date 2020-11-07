@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.damage_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about all of the areas on
 this vehicle that were damaged in the crash. There is one record per damaged area.
 

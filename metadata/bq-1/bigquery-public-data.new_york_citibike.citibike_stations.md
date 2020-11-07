@@ -1,5 +1,5 @@
 # `new_york_citibike.citibike_stations`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `station_id`

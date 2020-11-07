@@ -1,5 +1,5 @@
 # `noaa_historic_severe_storms.tornado_paths`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [DATE]      `storm_date`

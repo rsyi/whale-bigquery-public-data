@@ -1,5 +1,5 @@
 # `google_political_ads.advertiser_geo_spend`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This file contains total US advertiser spend on political ads, per US state and
 the District of Columbia.
 

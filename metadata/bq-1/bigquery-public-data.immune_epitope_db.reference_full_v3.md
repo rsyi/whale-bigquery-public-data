@@ -1,5 +1,5 @@
 # `immune_epitope_db.reference_full_v3`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `reference_iri`

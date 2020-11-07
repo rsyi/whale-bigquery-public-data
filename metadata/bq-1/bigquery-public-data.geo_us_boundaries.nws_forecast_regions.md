@@ -1,5 +1,5 @@
 # `geo_us_boundaries.nws_forecast_regions`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state`

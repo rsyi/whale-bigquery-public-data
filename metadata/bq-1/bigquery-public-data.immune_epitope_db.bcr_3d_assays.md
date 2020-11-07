@@ -1,5 +1,5 @@
 # `immune_epitope_db.bcr_3d_assays`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `b_cell_assay_iri`

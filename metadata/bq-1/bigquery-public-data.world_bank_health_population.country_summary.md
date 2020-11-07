@@ -1,5 +1,5 @@
 # `world_bank_health_population.country_summary`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_code`

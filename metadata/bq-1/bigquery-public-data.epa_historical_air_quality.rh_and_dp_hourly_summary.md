@@ -1,5 +1,5 @@
 # `epa_historical_air_quality.rh_and_dp_hourly_summary`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_code`

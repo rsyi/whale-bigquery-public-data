@@ -1,5 +1,5 @@
 # `covid19_nyt.mask_use_by_county`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `county_fips_code`

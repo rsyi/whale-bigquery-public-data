@@ -1,5 +1,5 @@
 # `covid19_geotab_mobility_impact_eu.commercial_traffic`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 The commercial traffic dataset measures the volume of commercial activity each day (at local time) from March 16 onwards, as measured by number of trips taken. Volume of activity is calculated on a relative basis using data from Feb. 1st and March 15th, 2020 as a benchmark, controlled for day-of-week. Activity is further classified by industry based on the destination location of each trip, using OpenStreetMap's building tag; no classification are made if the trip does not end around a building, though the trip will count towards PercentOfBaselineActivity.
 
 ## Column details

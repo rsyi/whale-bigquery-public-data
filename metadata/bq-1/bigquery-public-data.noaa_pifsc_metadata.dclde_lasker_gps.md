@@ -1,5 +1,5 @@
 # `noaa_pifsc_metadata.dclde_lasker_gps`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [TIMESTAMP] `utc_time`

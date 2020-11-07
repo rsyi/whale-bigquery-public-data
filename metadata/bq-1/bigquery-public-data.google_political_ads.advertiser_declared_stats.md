@@ -1,5 +1,5 @@
 # `google_political_ads.advertiser_declared_stats`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Certain California and New Zealand advertisers are required to submit additional data about themselves. The advertiser is responsible for the accuracy of this information, which Google has not confirmed.
 
 For California, this information is provided from our express notification process required for certain California advertisers, which is separate from our verification process.

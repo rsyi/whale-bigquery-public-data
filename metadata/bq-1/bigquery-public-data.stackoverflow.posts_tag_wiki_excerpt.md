@@ -1,5 +1,5 @@
 # `stackoverflow.posts_tag_wiki_excerpt`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

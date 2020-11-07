@@ -1,5 +1,5 @@
 # `noaa_tsunami.historical_runups`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

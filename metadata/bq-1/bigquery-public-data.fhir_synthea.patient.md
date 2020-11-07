@@ -1,5 +1,5 @@
 # `fhir_synthea.patient`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [BOOLEAN]   `active`

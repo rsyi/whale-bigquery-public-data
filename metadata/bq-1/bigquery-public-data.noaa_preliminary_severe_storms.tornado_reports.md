@@ -1,5 +1,5 @@
 # `noaa_preliminary_severe_storms.tornado_reports`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [TIMESTAMP] `timestamp`

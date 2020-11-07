@@ -1,5 +1,5 @@
 # `world_bank_wdi.indicators_data`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_name`

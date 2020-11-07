@@ -1,5 +1,5 @@
 # `ghcn_m.ghcnm_tmax`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

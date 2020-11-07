@@ -1,5 +1,5 @@
 # `covid19_usafacts.confirmed_cases`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `county_fips_code`

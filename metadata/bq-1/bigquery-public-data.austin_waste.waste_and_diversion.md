@@ -1,5 +1,5 @@
 # `austin_waste.waste_and_diversion`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `load_id`

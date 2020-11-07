@@ -1,5 +1,5 @@
 # `cloud_storage_geo_index.sentinel_2_index`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `granule_id`

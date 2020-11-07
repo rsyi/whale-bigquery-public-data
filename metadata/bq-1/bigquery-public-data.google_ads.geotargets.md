@@ -1,5 +1,5 @@
 # `google_ads.geotargets`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `criteria_id`

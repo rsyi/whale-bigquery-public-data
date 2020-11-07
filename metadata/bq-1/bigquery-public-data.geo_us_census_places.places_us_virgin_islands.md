@@ -1,5 +1,5 @@
 # `geo_us_census_places.places_us_virgin_islands`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_fips_code`

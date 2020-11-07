@@ -1,5 +1,5 @@
 # `covid19_ecdc.covid_19_geographic_distribution_worldwide`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [DATE]      `date`

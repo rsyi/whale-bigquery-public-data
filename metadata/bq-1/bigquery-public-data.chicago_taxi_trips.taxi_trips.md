@@ -1,5 +1,5 @@
 # `chicago_taxi_trips.taxi_trips`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `unique_key`

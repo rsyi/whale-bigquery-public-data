@@ -1,5 +1,5 @@
 # `geo_us_boundaries.adjacent_states`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state`

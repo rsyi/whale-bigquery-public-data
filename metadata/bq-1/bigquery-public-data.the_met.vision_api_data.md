@@ -1,5 +1,5 @@
 # `the_met.vision_api_data`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `object_id`

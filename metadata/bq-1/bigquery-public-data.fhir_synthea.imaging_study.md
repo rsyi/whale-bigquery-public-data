@@ -1,5 +1,5 @@
 # `fhir_synthea.imaging_study`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `accession`

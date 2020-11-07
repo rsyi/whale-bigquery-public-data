@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.concept`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `concept_id`

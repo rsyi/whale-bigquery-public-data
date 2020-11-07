@@ -1,5 +1,5 @@
 # `new_york.tlc_green_trips_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `vendor_id`

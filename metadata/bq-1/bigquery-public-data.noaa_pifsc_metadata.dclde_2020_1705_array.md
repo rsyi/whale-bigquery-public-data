@@ -1,5 +1,5 @@
 # `noaa_pifsc_metadata.dclde_2020_1705_array`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [DATETIME]  `array_start_local`

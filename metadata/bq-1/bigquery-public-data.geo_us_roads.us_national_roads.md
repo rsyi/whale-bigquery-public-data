@@ -1,5 +1,5 @@
 # `geo_us_roads.us_national_roads`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `road_id`

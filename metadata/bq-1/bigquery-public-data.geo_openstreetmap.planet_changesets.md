@@ -1,5 +1,5 @@
 # `geo_openstreetmap.planet_changesets`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

@@ -1,5 +1,5 @@
 # `github_repos.licenses`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Open source license SPDX code for each repository as detected by https://developer.github.com/v3/licenses/
 
 ## Column details

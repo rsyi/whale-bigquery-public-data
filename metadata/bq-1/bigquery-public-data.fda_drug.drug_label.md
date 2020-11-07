@@ -1,5 +1,5 @@
 # `fda_drug.drug_label`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `openfda_spl_set_id`

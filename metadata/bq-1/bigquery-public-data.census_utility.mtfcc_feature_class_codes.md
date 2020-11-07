@@ -1,5 +1,5 @@
 # `census_utility.mtfcc_feature_class_codes`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `feature_class_code`

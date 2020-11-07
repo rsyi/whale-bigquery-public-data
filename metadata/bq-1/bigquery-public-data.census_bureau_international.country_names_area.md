@@ -1,5 +1,5 @@
 # `census_bureau_international.country_names_area`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_code`

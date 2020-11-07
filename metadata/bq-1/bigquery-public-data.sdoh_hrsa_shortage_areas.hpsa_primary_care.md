@@ -1,5 +1,5 @@
 # `sdoh_hrsa_shortage_areas.hpsa_primary_care`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Metadata on the table is available here: https://data.hrsa.gov//DataDownload/DD_Files/HPSA_DATAMART_METADATA.XLSX
 
 ## Column details

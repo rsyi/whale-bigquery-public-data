@@ -1,5 +1,5 @@
 # `geo_us_boundaries.zip_codes`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `zip_code`

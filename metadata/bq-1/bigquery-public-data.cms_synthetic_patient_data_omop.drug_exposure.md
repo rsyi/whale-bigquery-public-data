@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.drug_exposure`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `drug_type_concept_id`

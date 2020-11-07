@@ -1,5 +1,5 @@
 # `worldpop.population_grid_1km`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_name`

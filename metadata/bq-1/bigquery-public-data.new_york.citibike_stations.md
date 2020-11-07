@@ -1,5 +1,5 @@
 # `new_york.citibike_stations`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Citibike Stations
 
 ## Column details

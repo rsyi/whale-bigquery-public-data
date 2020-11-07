@@ -1,5 +1,5 @@
 # `catalonian_mobile_coverage_eu.mobile_data_2015_2017`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Data collected by the Catalonia Mobile Coverage application 2015-2017
 
 ## Column details

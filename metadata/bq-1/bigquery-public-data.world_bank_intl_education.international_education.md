@@ -1,5 +1,5 @@
 # `world_bank_intl_education.international_education`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_name`

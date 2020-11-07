@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.distract_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about driver distractions.
 There is at least one record per in-transport motor vehicle. Each distraction is a separate
 record.

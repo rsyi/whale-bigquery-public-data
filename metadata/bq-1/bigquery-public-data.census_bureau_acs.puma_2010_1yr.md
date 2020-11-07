@@ -1,5 +1,5 @@
 # `census_bureau_acs.puma_2010_1yr`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geo_id`

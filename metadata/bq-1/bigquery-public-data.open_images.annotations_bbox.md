@@ -1,5 +1,5 @@
 # `open_images.annotations_bbox`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `image_id`

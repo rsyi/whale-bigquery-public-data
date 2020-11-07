@@ -1,5 +1,5 @@
 # `human_variant_annotation.ensembl_esp6500_ea_hg38_release93`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Source: http://ftp.ensembl.org/pub/release-93/variation/vcf/homo_sapiens/ESP6500-European_American.vcf.gz
 
 ## Column details

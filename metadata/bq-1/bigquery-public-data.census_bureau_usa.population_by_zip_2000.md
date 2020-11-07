@@ -1,5 +1,5 @@
 # `census_bureau_usa.population_by_zip_2000`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `zipcode`

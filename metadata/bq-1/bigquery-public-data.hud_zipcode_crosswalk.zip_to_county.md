@@ -1,5 +1,5 @@
 # `hud_zipcode_crosswalk.zip_to_county`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `zip_code`

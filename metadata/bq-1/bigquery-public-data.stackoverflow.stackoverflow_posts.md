@@ -1,5 +1,5 @@
 # `stackoverflow.stackoverflow_posts`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Don't use this table - use posts_* instead
 
 ## Column details

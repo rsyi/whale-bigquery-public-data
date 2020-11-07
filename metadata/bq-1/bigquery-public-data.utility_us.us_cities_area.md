@@ -1,5 +1,5 @@
 # `utility_us.us_cities_area`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This dataset has moved!
 
 You can find all of the datasets that define the polygons of US political and statistical boundaries, including this one, in the new bigquery-public-data:geo_us_boundaries dataset.

@@ -1,5 +1,5 @@
 # `crypto_ethereum.tokens`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Token data.
 Data is exported using https://github.com/medvedev1088/ethereum-etl
 

@@ -1,5 +1,5 @@
 # `geo_us_boundaries.adjacent_counties`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `county`

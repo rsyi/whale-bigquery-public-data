@@ -1,5 +1,5 @@
 # `fhir_synthea.claim`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `accident`

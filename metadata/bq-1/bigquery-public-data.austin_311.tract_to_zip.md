@@ -1,5 +1,5 @@
 # `austin_311.tract_to_zip`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Census tract crosswalk to USPS ZIP code.
 This file is not 1-1; please use ratio columns when aggregating to zips.
 

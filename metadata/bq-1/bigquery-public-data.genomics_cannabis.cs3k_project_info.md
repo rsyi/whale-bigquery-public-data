@@ -1,5 +1,5 @@
 # `genomics_cannabis.cs3k_project_info`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `AvgSpotLen`

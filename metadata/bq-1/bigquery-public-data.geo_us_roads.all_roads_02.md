@@ -1,5 +1,5 @@
 # `geo_us_roads.all_roads_02`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Alaska Roads
 
 ## Column details

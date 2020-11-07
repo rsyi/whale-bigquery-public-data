@@ -1,5 +1,5 @@
 # `geo_openstreetmap.planet_layers`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 The planet_layers table contains semantically typed geography objects using the Layered GIS format, see:
 https://www.geofabrik.de/data/geofabrik-osm-gis-standard-0.7.pdf
 

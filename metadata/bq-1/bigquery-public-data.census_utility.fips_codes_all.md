@@ -1,5 +1,5 @@
 # `census_utility.fips_codes_all`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `summary_level`

@@ -1,5 +1,5 @@
 # `ghcn_d.ghcnd_2000`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 http://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
 
 ## Column details

@@ -1,5 +1,5 @@
 # `gnomAD_asiane1.v2_1_1_genomes__chr17`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `reference_name`

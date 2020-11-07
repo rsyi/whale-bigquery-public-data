@@ -1,5 +1,5 @@
 # `fcc_political_ads.broadcast_tv_radio_station`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This table contains information about broadcast TV and radio stations that have submitted files, including the call sign, Nielsen dma, city and state. 
 
 Retrieved from: https://publicfiles.fcc.gov/developer/!/service/get_serviceType_facility_id_entityID_format

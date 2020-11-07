@@ -1,5 +1,5 @@
 # `geo_us_roads.all_roads_30`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [GEOGRAPHY] `road_geom`

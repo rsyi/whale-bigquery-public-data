@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.observation_period`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `observation_period_id`

@@ -1,5 +1,5 @@
 # `new_york_trees.tree_species`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `species_scientific_name`

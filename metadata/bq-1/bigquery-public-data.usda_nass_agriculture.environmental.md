@@ -1,5 +1,5 @@
 # `usda_nass_agriculture.environmental`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `source_desc`

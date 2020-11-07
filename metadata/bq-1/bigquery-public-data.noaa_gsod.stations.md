@@ -1,5 +1,5 @@
 # `noaa_gsod.stations`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `usaf`

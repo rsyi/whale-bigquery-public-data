@@ -1,5 +1,5 @@
 # `umiami_lincs.model_system`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Model system connecting table, important to interpret the readout values
 
 ## Column details

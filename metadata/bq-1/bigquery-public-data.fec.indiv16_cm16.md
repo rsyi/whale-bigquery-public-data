@@ -1,5 +1,5 @@
 # `fec.indiv16_cm16`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `amndt_ind`

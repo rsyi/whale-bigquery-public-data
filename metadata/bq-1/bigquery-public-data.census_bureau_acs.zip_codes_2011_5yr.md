@@ -1,5 +1,5 @@
 # `census_bureau_acs.zip_codes_2011_5yr`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geo_id`

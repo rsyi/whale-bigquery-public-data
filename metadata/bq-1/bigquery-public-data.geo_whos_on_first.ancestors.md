@@ -1,5 +1,5 @@
 # `geo_whos_on_first.ancestors`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geoid`

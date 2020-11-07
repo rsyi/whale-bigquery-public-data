@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.parkwork_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about parked and working
 vehicles that were involved in FARS crashes. A parked vehicle is a motor vehicle which
 is stopped off the roadway. A working vehicle is used to indicate that this is a motor

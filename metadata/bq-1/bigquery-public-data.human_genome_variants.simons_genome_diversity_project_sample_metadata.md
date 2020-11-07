@@ -1,5 +1,5 @@
 # `human_genome_variants.simons_genome_diversity_project_sample_metadata`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Source:
 http://simonsfoundation.s3.amazonaws.com/share/SCDA/datasets/10_24_2014_SGDP_metainformation_update.txt
 

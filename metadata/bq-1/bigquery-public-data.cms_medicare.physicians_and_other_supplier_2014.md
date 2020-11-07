@@ -1,5 +1,5 @@
 # `cms_medicare.physicians_and_other_supplier_2014`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `npi`

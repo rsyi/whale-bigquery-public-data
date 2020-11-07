@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.vindecode_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains vehicle descriptors for all vehicles,
 mainly passenger vehicles, trucks and motorcycles, based on the vehicle’s VIN which is
 decoded using the VINtelligence program. There is one record per vehicle.

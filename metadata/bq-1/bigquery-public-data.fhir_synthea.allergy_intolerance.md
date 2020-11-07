@@ -1,5 +1,5 @@
 # `fhir_synthea.allergy_intolerance`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `asserter`

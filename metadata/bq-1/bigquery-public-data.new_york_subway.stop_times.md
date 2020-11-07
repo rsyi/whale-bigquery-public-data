@@ -1,5 +1,5 @@
 # `new_york_subway.stop_times`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `trip_id`

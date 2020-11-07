@@ -1,5 +1,5 @@
 # `human_genome_variants.1000_genomes_phase_3_variants_`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 1000 genomes (phase 3) VCF files from [1] loaded using Variant Transforms v0.4.2 [2].
 See ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/README_phase3_callset_20150220 and https://cloud.google.com/genomics/docs/public-datasets/1000-genomes for more details about the dataset.
 

@@ -1,5 +1,5 @@
 # `utility_eu.num_999999`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `num`

@@ -1,5 +1,5 @@
 # `ncaa_basketball.mbb_teams_games_sr`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Team-level box scores from every men's basketball game from the 2013-14 season to the 2017-18 season. Each row shows a single team's stats in one game. This data is identical to mbb_games_sr, but is organized differently to make it easier to calculate a single team's statistics.
 
 Data provided by Sportradar LLC, see www.sportradar.com for more details.

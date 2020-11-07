@@ -1,5 +1,5 @@
 # `libraries_io.projects_with_repository_fields`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

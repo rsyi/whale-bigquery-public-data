@@ -1,5 +1,5 @@
 # `fhir_synthea.care_plan`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `author`

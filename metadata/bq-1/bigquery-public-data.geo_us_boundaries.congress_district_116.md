@@ -1,5 +1,5 @@
 # `geo_us_boundaries.congress_district_116`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geo_id`

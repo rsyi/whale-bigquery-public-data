@@ -1,5 +1,5 @@
 # `ml_datasets.credit_card_default`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [FLOAT]     `id`

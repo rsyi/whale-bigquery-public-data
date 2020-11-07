@@ -1,5 +1,5 @@
 # `new_york_subway.routes`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `route_id`

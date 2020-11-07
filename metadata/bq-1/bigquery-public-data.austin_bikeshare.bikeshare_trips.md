@@ -1,5 +1,5 @@
 # `austin_bikeshare.bikeshare_trips`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `trip_id`

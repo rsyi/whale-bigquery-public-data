@@ -1,5 +1,5 @@
 # `covid19_symptom_search.counties_weekly_2017`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_region_code`

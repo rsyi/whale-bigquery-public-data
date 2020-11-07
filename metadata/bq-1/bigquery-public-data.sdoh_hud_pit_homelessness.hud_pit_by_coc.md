@@ -1,5 +1,5 @@
 # `sdoh_hud_pit_homelessness.hud_pit_by_coc`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Methodology: https://files.hudexchange.info/resources/documents/PIT-Count-Methodology-Guide.pdf; this table combines count information from 2012 through 2018
 
 ## Column details

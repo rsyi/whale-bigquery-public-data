@@ -1,5 +1,5 @@
 # `world_bank_intl_debt.international_debt`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_name`

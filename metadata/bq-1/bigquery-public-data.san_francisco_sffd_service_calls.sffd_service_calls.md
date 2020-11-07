@@ -1,5 +1,5 @@
 # `san_francisco_sffd_service_calls.sffd_service_calls`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `call_number`

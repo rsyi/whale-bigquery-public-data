@@ -1,5 +1,5 @@
 # `human_genome_variants.1000_genomes_pedigree`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Source:
 http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/working/20130606_sample_info/20130606_g1k.ped
 

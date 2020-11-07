@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.cevent_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information for all of the qualifying events (i.e., both harmful and non-harmful involving in-transport motor vehicles) which occurred in the crash. It details the chronological sequence of events resulting from an unstabilized situation that constitutes a motor vehicle traffic crash. There is one record per event. Included in each record is a description of the event or object contacted (e.g.,
 ran off road-right, crossed center line, guardrail, parked motor vehicle), the vehicles involved, and the vehicles’ area of impact
 

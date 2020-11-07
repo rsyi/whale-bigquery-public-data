@@ -1,5 +1,5 @@
 # `san_francisco.street_trees`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `tree_id`

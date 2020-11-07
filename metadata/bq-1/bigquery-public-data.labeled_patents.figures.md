@@ -1,5 +1,5 @@
 # `labeled_patents.figures`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `gcs_path`

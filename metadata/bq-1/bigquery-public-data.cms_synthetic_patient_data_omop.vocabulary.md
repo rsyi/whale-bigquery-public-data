@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.vocabulary`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `vocabulary_id`

@@ -1,5 +1,5 @@
 # `geolite2.ipv4_city_blocks`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `network`

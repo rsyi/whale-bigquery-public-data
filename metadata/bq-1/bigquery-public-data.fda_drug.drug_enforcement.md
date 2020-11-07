@@ -1,5 +1,5 @@
 # `fda_drug.drug_enforcement`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `classification`

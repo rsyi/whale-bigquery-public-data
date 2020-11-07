@@ -1,5 +1,5 @@
 # `crypto_dogecoin.inputs` [view]
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Inputs from all transactions.
 Data is exported using https://github.com/blockchain-etl/bitcoin-etl
 

@@ -1,5 +1,5 @@
 # `gnomAD_eu.v2_1_1_exomes__chr5`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `reference_name`

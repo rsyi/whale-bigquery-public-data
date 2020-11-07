@@ -1,5 +1,5 @@
 # `un_sdg.indicators`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `goal`

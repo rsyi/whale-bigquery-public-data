@@ -1,5 +1,5 @@
 # `noaa_pifsc_metadata.dclde_2020_species_lookup`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `code`

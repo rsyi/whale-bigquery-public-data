@@ -1,5 +1,5 @@
 # `san_francisco_transit_muni.stop_times`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `stop_id`

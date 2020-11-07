@@ -1,5 +1,5 @@
 # `covid19_weathersource_com.postal_code_day_history`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Daily weather observations by global postal codes to help understand the impact of weather on COVID-19
 
 ## Column details

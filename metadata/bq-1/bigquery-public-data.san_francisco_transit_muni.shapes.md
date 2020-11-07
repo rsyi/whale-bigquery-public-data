@@ -1,5 +1,5 @@
 # `san_francisco_transit_muni.shapes`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `shape_id`

@@ -1,5 +1,5 @@
 # `libraries_io.tags`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

@@ -1,5 +1,5 @@
 # `samples.github_nested`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `repository`

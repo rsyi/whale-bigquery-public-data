@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.condition_occurrence`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `condition_occurrence_id`

@@ -1,5 +1,5 @@
 # `utility_us.date_greg`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [DATE]      `date`

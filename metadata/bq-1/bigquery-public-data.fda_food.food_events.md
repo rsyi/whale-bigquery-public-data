@@ -1,5 +1,5 @@
 # `fda_food.food_events`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `report_number`

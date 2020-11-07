@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.vision_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about circumstances which
 may have obscured the driver’s vision. There is at least one record per in-transport
 motor vehicle. Each obstruction is a separate record.

@@ -1,5 +1,5 @@
 # `census_bureau_usa.population_by_zip_2010`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geo_id`

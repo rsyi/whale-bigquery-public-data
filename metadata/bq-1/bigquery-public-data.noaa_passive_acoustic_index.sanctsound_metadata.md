@@ -1,5 +1,5 @@
 # `noaa_passive_acoustic_index.sanctsound_metadata`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `file_name`

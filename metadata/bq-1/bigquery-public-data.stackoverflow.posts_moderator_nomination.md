@@ -1,5 +1,5 @@
 # `stackoverflow.posts_moderator_nomination`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

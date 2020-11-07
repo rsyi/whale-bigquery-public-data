@@ -1,5 +1,5 @@
 # `new_york_subway.geo_nyc_borough_boundaries`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `borough_code`

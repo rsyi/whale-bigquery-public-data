@@ -1,5 +1,5 @@
 # `census_bureau_international.midyear_population_age_sex`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_code`

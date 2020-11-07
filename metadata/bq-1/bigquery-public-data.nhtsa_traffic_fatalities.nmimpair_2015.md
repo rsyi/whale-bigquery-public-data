@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.nmimpair_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about physical
 impairments of people who are not occupants of motor vehicles. There is one record per
 impairment and there is at least one record for each person who is not an occupant of a

@@ -1,5 +1,5 @@
 # `census_bureau_international.mortality_life_expectancy`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_code`

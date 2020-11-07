@@ -1,5 +1,5 @@
 # `covid19_nyt.us_states`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [DATE]      `date`

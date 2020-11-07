@@ -1,5 +1,5 @@
 # `census_bureau_acs.state_2015_5yr`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geo_id`

@@ -1,5 +1,5 @@
 # `samples.wikipedia`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `title`

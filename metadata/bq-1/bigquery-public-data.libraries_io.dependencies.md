@@ -1,5 +1,5 @@
 # `libraries_io.dependencies`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

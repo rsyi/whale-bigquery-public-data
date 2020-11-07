@@ -1,5 +1,5 @@
 # `eclipse_megamovie.astrometry_match_v_0_4`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `NFIELD`

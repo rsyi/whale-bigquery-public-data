@@ -1,5 +1,5 @@
 # `crypto_ethereum_classic.balances`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This table contains Ether balances of all addresses, updated daily.
 Data is exported using https://github.com/medvedev1088/ethereum-etl
 

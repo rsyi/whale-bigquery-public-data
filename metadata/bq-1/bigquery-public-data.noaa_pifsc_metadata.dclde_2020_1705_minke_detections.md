@@ -1,5 +1,5 @@
 # `noaa_pifsc_metadata.dclde_2020_1705_minke_detections`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [DATETIME]  `detection_time_start_local`

@@ -1,5 +1,5 @@
 # `noaa_goes16.all_files` [view]
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `total_size`

@@ -1,5 +1,5 @@
 # `bls_qcew.2012_q3`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geoid`

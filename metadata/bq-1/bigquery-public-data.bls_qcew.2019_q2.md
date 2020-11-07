@@ -1,5 +1,5 @@
 # `bls_qcew.2019_q2`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geoid`

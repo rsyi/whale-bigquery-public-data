@@ -1,5 +1,5 @@
 # `epa_historical_air_quality.pm25_speciation_daily_summary`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_code`

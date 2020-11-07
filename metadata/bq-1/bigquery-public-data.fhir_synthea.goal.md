@@ -1,5 +1,5 @@
 # `fhir_synthea.goal`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `addresses`

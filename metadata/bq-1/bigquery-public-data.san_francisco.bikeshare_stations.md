@@ -1,5 +1,5 @@
 # `san_francisco.bikeshare_stations`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `station_id`

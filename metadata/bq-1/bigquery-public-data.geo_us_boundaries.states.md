@@ -1,5 +1,5 @@
 # `geo_us_boundaries.states`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geo_id`

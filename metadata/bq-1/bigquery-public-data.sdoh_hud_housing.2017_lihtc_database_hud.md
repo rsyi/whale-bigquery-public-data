@@ -1,5 +1,5 @@
 # `sdoh_hud_housing.2017_lihtc_database_hud`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This is a list of all of the housing units that are covered by HUDs LITC program from the mid-1980s through 2017.
 
 ## Column details

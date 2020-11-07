@@ -1,5 +1,5 @@
 # `world_bank_intl_education.country_series_definitions`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_code`

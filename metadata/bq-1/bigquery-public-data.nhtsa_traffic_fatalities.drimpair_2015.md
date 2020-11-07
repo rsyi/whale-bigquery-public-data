@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.drimpair_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about physical impairments
 of drivers of motor vehicles. There is one record per impairment and there is at least one
 record for each driver of an in-transport motor vehicle

@@ -1,5 +1,5 @@
 # `github_repos.sample_repos`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Top 400k GitHub repositories with more than 2 stars received during Jan-May 2016.
 
 This set is used to select entries for sample_files and sample_contents.

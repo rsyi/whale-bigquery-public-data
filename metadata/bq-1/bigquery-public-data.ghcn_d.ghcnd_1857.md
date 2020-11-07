@@ -1,5 +1,5 @@
 # `ghcn_d.ghcnd_1857`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `id`

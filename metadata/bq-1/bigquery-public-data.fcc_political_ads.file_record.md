@@ -1,5 +1,5 @@
 # `fcc_political_ads.file_record`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 The  file_record table represents original files retrieved from the FCC, with extra
 fields added such as a path to a plain text version of the file.  Each file is a receipt showing how much someone spent to run a political ad.
 

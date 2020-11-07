@@ -1,5 +1,5 @@
 # `medicare.inpatient_charges_2012`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `drg_definition`

@@ -1,5 +1,5 @@
 # `covid19_aha.staffing`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `county_fips_code`

@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.dose_era`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `dose_era_id`

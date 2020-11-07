@@ -1,5 +1,5 @@
 # `bls.employment_hours_earnings`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `series_id`

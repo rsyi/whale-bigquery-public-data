@@ -1,5 +1,5 @@
 # `open_images.images`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `image_id`

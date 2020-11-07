@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.person`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `race_concept_id`

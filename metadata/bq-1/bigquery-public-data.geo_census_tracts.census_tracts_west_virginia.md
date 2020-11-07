@@ -1,5 +1,5 @@
 # `geo_census_tracts.census_tracts_west_virginia`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_fips_code`

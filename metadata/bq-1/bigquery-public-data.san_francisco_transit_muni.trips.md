@@ -1,5 +1,5 @@
 # `san_francisco_transit_muni.trips`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `trip_id`

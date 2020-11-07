@@ -1,5 +1,5 @@
 # `nlm_rxnorm.rxn_all_pathways_09_17`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `SOURCE_RXCUI`

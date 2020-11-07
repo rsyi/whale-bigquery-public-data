@@ -1,5 +1,5 @@
 # `cms_medicare.nursing_facilities_2013`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `provider_id`

@@ -1,5 +1,5 @@
 # `ncaa_basketball.mascots`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `id`

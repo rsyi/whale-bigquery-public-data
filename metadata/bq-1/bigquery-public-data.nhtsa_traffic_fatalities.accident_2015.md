@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.accident_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about crash characteristics
 and environmental conditions at the time of the crash. There is one record per crash.
 

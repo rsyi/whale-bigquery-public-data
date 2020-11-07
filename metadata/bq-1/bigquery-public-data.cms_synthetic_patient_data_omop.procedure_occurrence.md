@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.procedure_occurrence`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `procedure_type_concept_id`

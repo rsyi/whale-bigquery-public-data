@@ -1,5 +1,5 @@
 # `labeled_patents.invention_types`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `gcs_path`

@@ -1,5 +1,5 @@
 # `human_variant_annotation.gnomad_gnomad_exomes_hg19_release_2_0_2`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Source: gs://gnomad-public/release/2.0.2/vcf/exomes/gnomad.exomes.r2.0.2.sites.vcf.bgz
 
 ## Column details

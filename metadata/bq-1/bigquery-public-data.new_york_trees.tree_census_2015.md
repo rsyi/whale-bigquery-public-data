@@ -1,5 +1,5 @@
 # `new_york_trees.tree_census_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `tree_id`

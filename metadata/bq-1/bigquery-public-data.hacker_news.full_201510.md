@@ -1,5 +1,5 @@
 # `hacker_news.full_201510`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `by`

@@ -1,5 +1,5 @@
 # `usfs_fia.plot`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Description of the plot sampled on the ground. Note that locations are not exact, please see pg 1-6 of FIA documentation for full description. 
 
 Pages in FIA documentation: 1-6, 2-9

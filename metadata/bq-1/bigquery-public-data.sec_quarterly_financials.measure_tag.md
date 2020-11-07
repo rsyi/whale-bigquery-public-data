@@ -1,5 +1,5 @@
 # `sec_quarterly_financials.measure_tag`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `measure_tag`

@@ -1,5 +1,5 @@
 # `new_york_taxi_trips.taxi_zone_geom`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `zone_id`

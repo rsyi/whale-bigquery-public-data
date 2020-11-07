@@ -1,5 +1,5 @@
 # `broadstreet_adi.area_deprivation_index_by_census_block_group`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geo_id`

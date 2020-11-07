@@ -1,5 +1,5 @@
 # `wise_all_sky_data_release.mep_wise`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `source_id_mf`

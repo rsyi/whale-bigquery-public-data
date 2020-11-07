@@ -1,5 +1,5 @@
 # `wikipedia.pageviews_2016`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Wikipedia pageviews from http://dumps.wikimedia.your.org/other/pageviews/, partitioned by date, clustered by (wiki, title)
 
 ## Column details

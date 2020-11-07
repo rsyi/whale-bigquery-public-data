@@ -1,5 +1,5 @@
 # `world_bank_global_population.population_by_country`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country`

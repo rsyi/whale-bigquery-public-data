@@ -1,5 +1,5 @@
 # `covid19_public_forecasts.japan_prefecture_28d`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This predicts the value for key metrics for COVID-19 impacts over a 28-day horizon at the US county level.
 
 ## Column details

@@ -1,5 +1,5 @@
 # `new_york_subway.station_complexes`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `complex_id`

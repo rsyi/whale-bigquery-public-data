@@ -1,5 +1,5 @@
 # `fec.cn80`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `cand_id`

@@ -1,11 +1,15 @@
 # `covid19_govt_response.oxford_policy_tracker`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_name`
   - Name of the country
 * [STRING]    `alpha_3_code`
   - 3-letter alpha code abbreviation of the country/region. See `bigquery-public-data.utility_us.country_code_iso` for more details
+* [STRING]    `region_name`
+  - Name of the region within the country
+* [STRING]    `region_code`
+  - Code of the region within the country
 * [DATE]      `date`
   - Date of the measured policy action status
 * [STRING]    `school_closing`

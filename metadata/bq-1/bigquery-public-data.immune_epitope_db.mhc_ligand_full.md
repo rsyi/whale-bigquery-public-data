@@ -1,5 +1,5 @@
 # `immune_epitope_db.mhc_ligand_full`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `assay_iri`

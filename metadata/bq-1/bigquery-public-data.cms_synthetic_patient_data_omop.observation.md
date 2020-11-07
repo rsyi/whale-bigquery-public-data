@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.observation`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `observation_id`

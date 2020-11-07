@@ -1,5 +1,5 @@
 # `fdic_banks.institutions`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `fdic_certificate_number`

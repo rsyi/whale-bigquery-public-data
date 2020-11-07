@@ -1,5 +1,5 @@
 # `samples.trigrams`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `ngram`

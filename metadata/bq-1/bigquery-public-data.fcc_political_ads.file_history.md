@@ -1,5 +1,5 @@
 # `fcc_political_ads.file_history`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Broadcasters may upload revised versions of receipts that they have previously uploaded. A copy of the history of all versions of a given receipt that have been uploaded is kept and stored in Google Cloud Storage.The file_history table contains one entry per revision of a given file_record row. Each row in the  file_record table has at least one corresponding file_history row, linked by the
 fileId field.
 

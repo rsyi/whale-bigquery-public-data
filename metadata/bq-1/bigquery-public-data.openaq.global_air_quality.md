@@ -1,5 +1,5 @@
 # `openaq.global_air_quality`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `location`

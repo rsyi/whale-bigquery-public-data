@@ -1,5 +1,5 @@
 # `nppes.npi_optimized`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `npi`

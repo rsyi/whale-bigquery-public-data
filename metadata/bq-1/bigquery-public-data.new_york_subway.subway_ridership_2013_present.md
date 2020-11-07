@@ -1,5 +1,5 @@
 # `new_york_subway.subway_ridership_2013_present`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `station_name`

@@ -1,5 +1,5 @@
 # `moon_phases.moon_phases`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Data provided by the US Navy. 
 
 Original Source: http://aa.usno.navy.mil/data/docs/MoonPhase.php

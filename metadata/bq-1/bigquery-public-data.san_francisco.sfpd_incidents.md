@@ -1,5 +1,5 @@
 # `san_francisco.sfpd_incidents`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `unique_key`

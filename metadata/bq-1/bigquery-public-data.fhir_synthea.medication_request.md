@@ -1,5 +1,5 @@
 # `fhir_synthea.medication_request`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `basedOn`

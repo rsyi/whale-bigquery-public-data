@@ -1,5 +1,5 @@
 # `covid19_geotab_mobility_impact_eu.port_traffic`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This dataset shows the average percentage week-on-week volume changes and the average weekly wait times for ports. It includes aggregate metrics for the ports as a whole, broken down by each vehicle type and for 2 high-level vehicle type groupings.
 
 ## Column details

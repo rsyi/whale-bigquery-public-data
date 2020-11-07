@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.maneuver_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about actions taken by
 the driver to avoid something or someone in the road. There is at least one record per
 in-transport motor vehicle. Each maneuver is a separate record.

@@ -1,5 +1,5 @@
 # `stackoverflow.posts_answers`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

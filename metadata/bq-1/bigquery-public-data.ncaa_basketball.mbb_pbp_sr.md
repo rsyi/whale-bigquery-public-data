@@ -1,5 +1,5 @@
 # `ncaa_basketball.mbb_pbp_sr`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Play-by-play information from men's basketball games, starting with the 2013-14 season. Each row shows a single event in a game. 
 
 

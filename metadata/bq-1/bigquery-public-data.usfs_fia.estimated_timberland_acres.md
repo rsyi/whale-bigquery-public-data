@@ -1,5 +1,5 @@
 # `usfs_fia.estimated_timberland_acres` [view]
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `plot_sequence_number`

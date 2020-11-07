@@ -1,5 +1,5 @@
 # `samples.natality`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `source_year`

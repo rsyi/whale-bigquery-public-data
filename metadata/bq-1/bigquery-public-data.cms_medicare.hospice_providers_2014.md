@@ -1,5 +1,5 @@
 # `cms_medicare.hospice_providers_2014`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `provider_id`

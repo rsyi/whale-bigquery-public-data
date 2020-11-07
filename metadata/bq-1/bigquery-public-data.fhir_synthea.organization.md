@@ -1,5 +1,5 @@
 # `fhir_synthea.organization`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [BOOLEAN]   `active`

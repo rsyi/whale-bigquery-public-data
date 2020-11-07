@@ -1,5 +1,5 @@
 # `cms_medicare.inpatient_charges_2012`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `provider_id`

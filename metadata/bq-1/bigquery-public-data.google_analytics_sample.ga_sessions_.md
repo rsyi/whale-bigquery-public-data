@@ -1,5 +1,5 @@
 # `google_analytics_sample.ga_sessions_`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `visitorId`

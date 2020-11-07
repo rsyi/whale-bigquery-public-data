@@ -1,5 +1,5 @@
 # `covid19_jhu_csse.recovered_cases`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 Recovered COVID-19 cases, aggregated by country/region and province/state. See the original source file here: https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Recovered.csv
 
 ## Column details

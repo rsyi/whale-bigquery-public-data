@@ -1,5 +1,5 @@
 # `sec_quarterly_financials.sic_codes`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `sic_code`

@@ -1,5 +1,5 @@
 # `stackoverflow.post_history`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

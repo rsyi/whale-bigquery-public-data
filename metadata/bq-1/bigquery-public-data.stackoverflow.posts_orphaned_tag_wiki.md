@@ -1,5 +1,5 @@
 # `stackoverflow.posts_orphaned_tag_wiki`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

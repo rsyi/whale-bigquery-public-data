@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.nmprior_2015`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 This data file contains information about the actions of people
 who are not occupants of motor vehicles (e.g., pedestrians and bicyclists) at the time of
 their involvement in the crash. There is one record per action and there is at least one

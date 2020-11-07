@@ -1,5 +1,5 @@
 # `census_utility.fips_class_code`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `fips_class_code`

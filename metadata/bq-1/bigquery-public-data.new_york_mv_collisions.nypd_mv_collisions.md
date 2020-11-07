@@ -1,5 +1,5 @@
 # `new_york_mv_collisions.nypd_mv_collisions`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `borough`

@@ -1,5 +1,5 @@
 # `utility_eu.time`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [TIME]      `time`

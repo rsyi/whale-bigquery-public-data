@@ -1,5 +1,5 @@
 # `fec.oth88`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `cmte_id`

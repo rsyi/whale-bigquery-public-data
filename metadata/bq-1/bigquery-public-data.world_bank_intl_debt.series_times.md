@@ -1,5 +1,5 @@
 # `world_bank_intl_debt.series_times`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `series_code`

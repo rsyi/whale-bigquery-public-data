@@ -1,5 +1,5 @@
 # `covid19_nyt.excess_deaths`
-`bigquery`| `bigquery-public-data`
+`bigquery` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country`
