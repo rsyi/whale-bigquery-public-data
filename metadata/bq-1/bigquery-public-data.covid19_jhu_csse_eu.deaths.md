@@ -299,6 +299,7 @@ Confirmed COVID-19 deaths, aggregated by country/region and province/state. See 
 * [INTEGER]   `_11_5_20`
 * [INTEGER]   `_11_6_20`
 * [INTEGER]   `_11_7_20`
+* [INTEGER]   `_11_8_20`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
