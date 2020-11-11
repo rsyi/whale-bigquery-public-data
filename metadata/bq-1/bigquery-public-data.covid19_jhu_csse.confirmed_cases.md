@@ -301,6 +301,7 @@ Confirmed COVID-19 cases, aggregated by country/region and province/state. See t
 * [INTEGER]   `_11_7_20`
 * [INTEGER]   `_11_8_20`
 * [INTEGER]   `_11_9_20`
+* [INTEGER]   `_11_10_20`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
