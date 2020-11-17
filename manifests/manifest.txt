@@ -1,6 +1,4 @@
-bq-1/bigquery-public-data.austin_311.311_request
 bq-1/bigquery-public-data.austin_311.311_service_requests
-bq-1/bigquery-public-data.austin_311.tract_to_zip
 bq-1/bigquery-public-data.austin_bikeshare.bikeshare_stations
 bq-1/bigquery-public-data.austin_bikeshare.bikeshare_trips
 bq-1/bigquery-public-data.austin_crime.crime
@@ -503,6 +501,11 @@ bq-1/bigquery-public-data.covid19_public_forecasts.county_28d
 bq-1/bigquery-public-data.covid19_public_forecasts.japan_prefecture_28d
 bq-1/bigquery-public-data.covid19_public_forecasts.state_14d
 bq-1/bigquery-public-data.covid19_public_forecasts.state_28d
+bq-1/bigquery-public-data.covid19_public_forecasts_asia_ne1.county_14d
+bq-1/bigquery-public-data.covid19_public_forecasts_asia_ne1.county_28d
+bq-1/bigquery-public-data.covid19_public_forecasts_asia_ne1.japan_prefecture_28d
+bq-1/bigquery-public-data.covid19_public_forecasts_asia_ne1.state_14d
+bq-1/bigquery-public-data.covid19_public_forecasts_asia_ne1.state_28d
 bq-1/bigquery-public-data.covid19_rxrx19.rxrx19a_embeddings
 bq-1/bigquery-public-data.covid19_rxrx19.rxrx19a_metadata
 bq-1/bigquery-public-data.covid19_rxrx19.rxrx19b_embeddings
@@ -2361,6 +2364,7 @@ bq-1/bigquery-public-data.open_images.dict
 bq-1/bigquery-public-data.open_images.images
 bq-1/bigquery-public-data.open_images.labels
 bq-1/bigquery-public-data.openaq.global_air_quality
+bq-1/bigquery-public-data.safegraph.neighborhood_patterns
 bq-1/bigquery-public-data.samples.github_nested
 bq-1/bigquery-public-data.samples.github_timeline
 bq-1/bigquery-public-data.samples.gsod
