@@ -19,6 +19,8 @@ To learn more about the dataset, the place categories and how we calculate these
   - First geographic sub-region in which the data is aggregated. This varies by country/region to ensure privacy and public health value in consultation with local public health authorities
 * [STRING]    `sub_region_2`
   - Second geographic sub-region in which the data is aggregated. This varies by country/region to ensure privacy and public health value in consultation with local public health authorities
+* [STRING]    `metro_area`
+  - A specific metro area to measure mobility within a given city/metro area. This varies by country/region to ensure privacy and public health value in consultation with local public health authorities
 * [STRING]    `iso_3166_2_code`
   - Unique identifier for the geographic region as defined by ISO Standard 3166-2.
 * [STRING]    `census_fips_code`
