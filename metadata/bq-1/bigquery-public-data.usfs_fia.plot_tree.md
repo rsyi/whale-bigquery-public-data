@@ -1,5 +1,5 @@
 # `usfs_fia.plot_tree`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Join of the plot and tree table. Joined on the plot sequence number and tree.plot_sequence_number fields. 	
 
 Pages in FIA Documentation: 2-9, 3-3

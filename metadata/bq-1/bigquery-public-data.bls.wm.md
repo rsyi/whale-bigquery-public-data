@@ -1,5 +1,5 @@
 # `bls.wm`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Modeled Wage Estimates
 
 ## Column details

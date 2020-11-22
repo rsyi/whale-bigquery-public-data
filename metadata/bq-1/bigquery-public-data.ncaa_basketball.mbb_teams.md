@@ -1,5 +1,5 @@
 # `ncaa_basketball.mbb_teams`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 General information about the 351 current men's D1 basketball teams.
 
 ## Column details

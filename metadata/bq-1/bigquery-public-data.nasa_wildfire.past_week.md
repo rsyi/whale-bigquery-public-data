@@ -1,5 +1,5 @@
 # `nasa_wildfire.past_week`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [FLOAT]     `latitude`

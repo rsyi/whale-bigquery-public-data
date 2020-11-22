@@ -1,5 +1,5 @@
 # `eclipse_megamovie.astrometry_rdls_v_0_4`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `id`

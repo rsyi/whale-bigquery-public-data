@@ -1,5 +1,5 @@
 # `genomics_rice.Rice3K_DeepVariant_Os_Nipponbare_Reference_IRGSP_1_0`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `reference_name`

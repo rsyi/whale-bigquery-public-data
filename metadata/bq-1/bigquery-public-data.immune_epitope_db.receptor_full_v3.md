@@ -1,5 +1,5 @@
 # `immune_epitope_db.receptor_full_v3`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `group_receptor_id`

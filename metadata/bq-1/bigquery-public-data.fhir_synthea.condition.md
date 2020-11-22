@@ -1,5 +1,5 @@
 # `fhir_synthea.condition`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `asserter`

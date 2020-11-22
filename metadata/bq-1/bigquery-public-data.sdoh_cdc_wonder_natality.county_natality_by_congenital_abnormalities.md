@@ -1,5 +1,5 @@
 # `sdoh_cdc_wonder_natality.county_natality_by_congenital_abnormalities`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [DATE]      `Year`

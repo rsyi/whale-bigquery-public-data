@@ -1,5 +1,5 @@
 # `london_bicycles.cycle_hire`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `rental_id`

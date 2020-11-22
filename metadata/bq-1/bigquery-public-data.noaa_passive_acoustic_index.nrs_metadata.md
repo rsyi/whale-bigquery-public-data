@@ -1,5 +1,5 @@
 # `noaa_passive_acoustic_index.nrs_metadata`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `file_name`

@@ -1,5 +1,5 @@
 # `london_fire_brigade.fire_brigade_service_calls`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `incident_number`

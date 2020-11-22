@@ -1,5 +1,5 @@
 # `noaa_goes17.abi_l2_cmip`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `dataset_name`

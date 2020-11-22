@@ -1,5 +1,5 @@
 # `geo_census_tracts.census_tracts_arkansas`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_fips_code`

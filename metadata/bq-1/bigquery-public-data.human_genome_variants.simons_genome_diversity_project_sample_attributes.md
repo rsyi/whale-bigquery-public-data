@@ -1,5 +1,5 @@
 # `human_genome_variants.simons_genome_diversity_project_sample_attributes`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 For more information see http://www.nature.com/nature/journal/v538/n7624/full/nature18964.html and https://cloud.google.com/genomics/docs/public-datasets/simons
 
 ## Column details

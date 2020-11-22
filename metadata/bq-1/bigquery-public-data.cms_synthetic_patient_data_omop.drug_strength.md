@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.drug_strength`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `drug_concept_id`

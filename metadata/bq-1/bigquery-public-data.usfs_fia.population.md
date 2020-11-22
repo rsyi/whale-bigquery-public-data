@@ -1,5 +1,5 @@
 # `usfs_fia.population`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Join of all the population tables, so each row has all of the information for a plot. Can be joined to the plot_tree table on plot sequence number.
 
 ## Column details

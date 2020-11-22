@@ -1,5 +1,5 @@
 # `human_variant_annotation.gnomad_exac_hg19_release1_legacy`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Source: 
 gs://gnomad-public/legacy/exacv1_downloads/release1/ExAC.r1.sites.vep.vcf.gz
 

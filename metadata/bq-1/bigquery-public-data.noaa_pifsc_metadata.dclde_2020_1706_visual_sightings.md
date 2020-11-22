@@ -1,5 +1,5 @@
 # `noaa_pifsc_metadata.dclde_2020_1706_visual_sightings`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [DATE]      `local_ship_date`

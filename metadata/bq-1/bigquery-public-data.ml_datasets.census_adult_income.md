@@ -1,5 +1,5 @@
 # `ml_datasets.census_adult_income`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `age`

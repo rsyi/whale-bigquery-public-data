@@ -1,5 +1,5 @@
 # `bitcoin_blockchain.blocks`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 ****NOTE: This dataset has been migrated to `bigquery-public-data.crypto_bitcoin`. Updates to the data are being sent to the new version of this dataset, whose schema is better aligned with our other cryptocurrency offerings. 
 
 This version of the data is no longer being updated and will be removed within the next 15 days.

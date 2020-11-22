@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.person_2015`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This data file contains information describing all persons
 involved in the crash including motorists (i.e., drivers and passengers of in-transport
 motor vehicles) and non-motorists (e.g., pedestrians and pedalcyclists). It provides

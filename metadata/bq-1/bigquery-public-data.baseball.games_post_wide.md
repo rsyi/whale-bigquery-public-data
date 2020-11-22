@@ -1,5 +1,5 @@
 # `baseball.games_post_wide`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `gameId`

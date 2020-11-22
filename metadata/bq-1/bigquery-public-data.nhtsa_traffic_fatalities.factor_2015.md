@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.factor_2015`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This data file contains information about vehicle circumstances
 which may have contributed to the crash. There is at least one record per in-transport
 motor vehicle. Each factor is a separate record.

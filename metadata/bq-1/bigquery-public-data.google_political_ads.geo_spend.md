@@ -1,5 +1,5 @@
 # `google_political_ads.geo_spend`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This table contains the information for how much is spent buying election ads on Google Ads Services. The data is aggregated by Congressional district. The primary key is state, congressional_district.
 
 ## Column details

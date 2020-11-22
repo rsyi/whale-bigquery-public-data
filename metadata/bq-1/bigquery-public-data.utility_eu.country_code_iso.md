@@ -1,5 +1,5 @@
 # `utility_eu.country_code_iso`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_name`

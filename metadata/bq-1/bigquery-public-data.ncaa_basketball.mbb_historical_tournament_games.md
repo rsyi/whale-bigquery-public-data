@@ -1,5 +1,5 @@
 # `ncaa_basketball.mbb_historical_tournament_games`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Game score information from Men's Basketball games, starting with the 1984-85 tournament. Each row shows one game.
 
 ## Column details

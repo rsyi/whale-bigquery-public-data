@@ -1,5 +1,5 @@
 # `sdoh_hrsa_shortage_areas.hpsa_mua`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Metadata on the table is available here: https://data.hrsa.gov//DataDownload/DD_Files/MUA_DATAMART_METADATA.XLSX
 
 ## Column details

@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.accident_2016`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `state_number`

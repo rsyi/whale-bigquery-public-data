@@ -1,5 +1,5 @@
 # `noaa_significant_earthquakes.earthquakes`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 The Significant Earthquake Database is a global listing of over 5,700 earthquakes from 2150 BC to the present. The database provides information on the date and time of occurrence, latitude and longitude, focal depth, magnitude, maximum MMI intensity, and socio-economic data such as the total number of casualties, injuries, houses destroyed, and houses damaged, and $ dollage damage estimates. References, political geography, and additional comments are also provided for each earthquake. If the earthquake was associated with a tsunami or volcanic eruption, it is flagged and linked to the related tsunami event or significant volcanic eruption.
 
 Update frequency: Weekly

@@ -1,5 +1,5 @@
 # `geo_us_boundaries.national_outline`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [GEOGRAPHY] `us_outline_geom`

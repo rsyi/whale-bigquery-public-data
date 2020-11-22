@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.payer_plan_period`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `payer_concept_id`

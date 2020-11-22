@@ -1,5 +1,5 @@
 # `umiami_lincs.readout`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `signature_id`

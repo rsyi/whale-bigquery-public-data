@@ -1,5 +1,5 @@
 # `san_francisco_transit_muni.fares`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `fare_id`

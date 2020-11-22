@@ -1,5 +1,5 @@
 # `new_york_taxi_trips.tlc_yellow_trips_2018`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `vendor_id`

@@ -1,5 +1,5 @@
 # `covid19_open_data.covid19_open_data`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This dataset contains country-level datasets of daily time-series data related to COVID-19 globally. You can find the list of sources available here: https://github.com/open-covid-19/data
 
 ## Column details

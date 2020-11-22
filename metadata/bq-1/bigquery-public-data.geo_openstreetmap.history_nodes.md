@@ -1,5 +1,5 @@
 # `geo_openstreetmap.history_nodes`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

@@ -1,5 +1,5 @@
 # `noaa_lightning.lightning_2004`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [DATE]      `date`

@@ -1,5 +1,5 @@
 # `samples.gsod`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `station_number`

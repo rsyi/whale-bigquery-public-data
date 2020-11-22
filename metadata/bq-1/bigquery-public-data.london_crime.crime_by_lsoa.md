@@ -1,5 +1,5 @@
 # `london_crime.crime_by_lsoa`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This data counts the number of crimes at two different geographic levels of London (LSOA and borough) by year, according to crime type.  
 
 Below is a list of the crime types covered (*not available at LSOA level):

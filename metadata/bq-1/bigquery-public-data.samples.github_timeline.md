@@ -1,5 +1,5 @@
 # `samples.github_timeline`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `repository_url`

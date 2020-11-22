@@ -1,5 +1,5 @@
 # `covid19_weathersource_com.county_day_forecast`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Daily weather observations by US county to help understand the impact of weather on COVID-19
 
 ## Column details

@@ -1,5 +1,5 @@
 # `noaa_goes16.abi_l1b_radiance`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `dataset_name`

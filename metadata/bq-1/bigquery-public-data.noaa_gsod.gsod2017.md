@@ -1,5 +1,5 @@
 # `noaa_gsod.gsod2017`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `stn`

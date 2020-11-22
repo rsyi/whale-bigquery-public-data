@@ -1,5 +1,5 @@
 # `covid19_geotab_mobility_impact.us_border_wait_times`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This dataset shows hourly average border crossing duration for US-Canada and US-Mexico borders starting from 2020-03-16. Hourly trip volume is compared to average trip volume calculated between Feb.1st and Mar.15th, 2020 as a control group in each country.
 
 ## Column details

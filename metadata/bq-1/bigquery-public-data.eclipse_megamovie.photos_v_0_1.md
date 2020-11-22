@@ -1,5 +1,5 @@
 # `eclipse_megamovie.photos_v_0_1`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `upload_session_id`

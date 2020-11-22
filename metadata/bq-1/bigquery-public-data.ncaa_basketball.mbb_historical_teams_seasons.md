@@ -1,5 +1,5 @@
 # `ncaa_basketball.mbb_historical_teams_seasons`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Season record information for Men's Basketball, starting with the 1894-95 season. Each game is included twice, with one entry per team. 
 
 Data provided by the NCAA.

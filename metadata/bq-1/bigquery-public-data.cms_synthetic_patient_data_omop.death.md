@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.death`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `person_id`

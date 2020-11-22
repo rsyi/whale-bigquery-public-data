@@ -1,5 +1,5 @@
 # `cfpb_complaints.complaint_database`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [DATE]      `date_received`

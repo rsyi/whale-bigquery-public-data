@@ -1,5 +1,5 @@
 # `ml_datasets.iris`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [FLOAT]     `sepal_length`

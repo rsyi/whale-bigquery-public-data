@@ -1,5 +1,5 @@
 # `usfs_fia.tree`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Trees measured on the plots. 	
 
 Pages in FIA Documentation: 3-3

@@ -1,5 +1,5 @@
 # `covid19_geotab_mobility_impact.lookup_region`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 A reference table to group states in the US and provinces in Canada into regions; using official federal regions from the Office of Management and Budget for the regions in the US.
 
 ## Column details

@@ -1,5 +1,5 @@
 # `github_repos.sample_commits`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Sample of [bigquery-public-data:github_repos.commits] table.
 
 SELECT *

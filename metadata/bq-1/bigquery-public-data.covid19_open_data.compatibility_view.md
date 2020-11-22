@@ -1,5 +1,5 @@
 # `covid19_open_data.compatibility_view` [view]
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `province_state`

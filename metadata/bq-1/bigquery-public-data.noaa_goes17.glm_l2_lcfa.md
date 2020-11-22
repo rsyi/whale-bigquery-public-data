@@ -1,5 +1,5 @@
 # `noaa_goes17.glm_l2_lcfa`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `dataset_name`

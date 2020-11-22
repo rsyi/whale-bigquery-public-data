@@ -1,5 +1,5 @@
 # `ghcn_m.ghcnm_tavg_stations`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Station metadata for the Average Temperature details
 
 ## Column details

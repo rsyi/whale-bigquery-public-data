@@ -1,5 +1,5 @@
 # `sdoh_hrsa_shortage_areas.hpsa_dental_health`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Metadata on the table is available here: https://data.hrsa.gov//DataDownload/DD_Files/HPSA_DATAMART_METADATA.XLSX
 
 ## Column details

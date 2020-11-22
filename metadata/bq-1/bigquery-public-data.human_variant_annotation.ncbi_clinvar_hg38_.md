@@ -1,5 +1,5 @@
 # `human_variant_annotation.ncbi_clinvar_hg38_`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Source: http://ftp.ncbi.nih.gov/pub/clinvar/vcf_GRCh38/archive/2017/clinvar_20170705.vcf.gz
 
 ## Column details

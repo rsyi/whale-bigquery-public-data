@@ -1,5 +1,5 @@
 # `sunroof_solar.solar_potential_by_postal_code`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `region_name`

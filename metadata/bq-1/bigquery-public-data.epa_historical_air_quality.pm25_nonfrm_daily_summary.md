@@ -1,5 +1,5 @@
 # `epa_historical_air_quality.pm25_nonfrm_daily_summary`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_code`

@@ -1,5 +1,5 @@
 # `genomics_cannabis.cs10_gff`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Genome annotation from GCF_900626175.1_cs10_genomic.gff.gz
 
 ## Column details

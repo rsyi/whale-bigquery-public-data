@@ -1,5 +1,5 @@
 # `covid19_rxrx19.rxrx19b_embeddings`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `site_id`

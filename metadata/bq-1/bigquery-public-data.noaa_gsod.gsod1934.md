@@ -1,5 +1,5 @@
 # `noaa_gsod.gsod1934`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Global summary of day data for 18 surface meteorological elements are derived from the synoptic/hourly observations
 
 ## Column details

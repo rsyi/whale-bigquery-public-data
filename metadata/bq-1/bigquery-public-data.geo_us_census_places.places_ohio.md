@@ -1,5 +1,5 @@
 # `geo_us_census_places.places_ohio`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_fips_code`

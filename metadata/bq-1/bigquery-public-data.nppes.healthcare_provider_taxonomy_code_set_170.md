@@ -1,5 +1,5 @@
 # `nppes.healthcare_provider_taxonomy_code_set_170`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `code`

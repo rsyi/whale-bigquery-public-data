@@ -1,5 +1,5 @@
 # `usfs_fia.population_estimation_unit`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Describes the estimation unit.	
 
 Pages in FIA Documentation: 7-3

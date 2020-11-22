@@ -1,5 +1,5 @@
 # `noaa_pifsc_metadata.dclde_2020_detection_readme`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `table`

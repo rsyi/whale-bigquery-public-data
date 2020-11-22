@@ -1,5 +1,5 @@
 # `usda_nass_agriculture.demographics`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `source_desc`

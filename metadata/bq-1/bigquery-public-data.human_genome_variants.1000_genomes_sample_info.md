@@ -1,5 +1,5 @@
 # `human_genome_variants.1000_genomes_sample_info`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Source: 
 http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/working/20130606_sample_info/20130606_sample_info.txt
 

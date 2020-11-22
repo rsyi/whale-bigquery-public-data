@@ -1,5 +1,5 @@
 # `san_francisco_transit_muni.calendar`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `service_id`

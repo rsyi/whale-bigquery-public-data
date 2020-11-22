@@ -1,5 +1,5 @@
 # `cloud_storage_geo_index.landsat_index`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `scene_id`

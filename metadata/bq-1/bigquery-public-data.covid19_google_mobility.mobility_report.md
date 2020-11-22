@@ -1,5 +1,5 @@
 # `covid19_google_mobility.mobility_report`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Terms of use
 By downloading or using the data, you agree to Google's Terms of Service: https://policies.google.com/terms
 

@@ -1,5 +1,5 @@
 # `geo_us_boundaries.coastline`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `name`

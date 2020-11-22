@@ -1,5 +1,5 @@
 # `hacker_news.full`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 A full daily update of all the stories and comments in Hacker News.
 
 ## Column details

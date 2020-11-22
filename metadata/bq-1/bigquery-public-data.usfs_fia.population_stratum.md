@@ -1,5 +1,5 @@
 # `usfs_fia.population_stratum`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Describes the stratum used in the estimation unit.	
 
 Pages in FIA Documentation: 7-21

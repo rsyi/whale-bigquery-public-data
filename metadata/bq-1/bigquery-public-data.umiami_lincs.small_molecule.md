@@ -1,5 +1,5 @@
 # `umiami_lincs.small_molecule`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Compound metadata
 
 ## Column details

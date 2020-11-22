@@ -1,5 +1,5 @@
 # `usfs_fia.population_evaluation_type`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Describes the type of evaluation. Evaluation type is needed to generate summary reports for an inventory.	
 
 Pages in FIA Documentation: 7-15

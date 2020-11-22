@@ -1,5 +1,5 @@
 # `fhir_synthea.diagnostic_report`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `basedOn`

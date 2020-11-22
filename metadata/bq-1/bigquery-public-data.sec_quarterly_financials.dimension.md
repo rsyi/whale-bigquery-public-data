@@ -1,5 +1,5 @@
 # `sec_quarterly_financials.dimension`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `segments_hash`

@@ -1,5 +1,5 @@
 # `chicago_crime.crime`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `unique_key`

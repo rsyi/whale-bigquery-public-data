@@ -1,5 +1,5 @@
 # `ml_datasets.ulb_fraud_detection`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This dataset contains anonymized credit card transactions made over 2 days in September 2013 by European cardholders, with 492 frauds out of 284,807 transactions.
 
 The columns in the table labeled V1-V28 are PCA (Principal Component Analysis) transformed features. Dimensionality reducing techniques, such as PCA, reduce the computational effort required to develop and train models. It ensures the dataset provides appropriate privacy protections in this instance given the sensitive nature of credit card transactions. More detailed information on what variables are used to create these features is not available for this same reason. See the Wikipedia Article on Principal Component Analysis to learn more: https://en.wikipedia.org/wiki/Principal_component_analysis

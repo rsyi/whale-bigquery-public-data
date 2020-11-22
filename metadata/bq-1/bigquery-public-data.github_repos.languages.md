@@ -1,5 +1,5 @@
 # `github_repos.languages`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Programming languages by repository as reported by GitHub's https://developer.github.com/v3/repos/#list-languages API
 
 ## Column details

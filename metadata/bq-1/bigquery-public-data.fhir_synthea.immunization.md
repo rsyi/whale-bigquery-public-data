@@ -1,5 +1,5 @@
 # `fhir_synthea.immunization`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [RECORD]    `doseQuantity`

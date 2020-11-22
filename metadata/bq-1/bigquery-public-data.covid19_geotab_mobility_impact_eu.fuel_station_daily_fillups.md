@@ -1,5 +1,5 @@
 # `covid19_geotab_mobility_impact_eu.fuel_station_daily_fillups`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Percentage of normal number of fuelling events at fuel stations in North America relative to the period immediately pre-Covid-19. Aggregated by day and vehicle class.
 
 ## Column details

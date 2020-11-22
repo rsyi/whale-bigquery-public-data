@@ -1,5 +1,5 @@
 # `the_met.objects`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `object_number`

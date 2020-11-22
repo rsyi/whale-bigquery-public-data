@@ -1,5 +1,5 @@
 # `crypto_ethereum_classic.traces`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Traces exported using Parity trace module https://wiki.parity.io/JSONRPC-trace-module.
 Data is exported using https://github.com/medvedev1088/ethereum-etl
 

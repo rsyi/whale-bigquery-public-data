@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.pbtype_2015`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This data file contains information about crashes between
 motor vehicles and pedestrians, people on personal conveyances and bicyclists. Data
 from the crash are enter into the Pedestrian and Bicycle Crash Analysis Tool (PBCAT).

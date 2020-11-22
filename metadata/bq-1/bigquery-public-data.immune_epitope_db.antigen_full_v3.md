@@ -1,5 +1,5 @@
 # `immune_epitope_db.antigen_full_v3`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `antigen_name`

@@ -1,5 +1,5 @@
 # `geolite2.ipv4_city_locations`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geoname_id`

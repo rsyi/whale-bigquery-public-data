@@ -1,5 +1,5 @@
 # `wise_all_sky_data_release.all_wise`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `designation`

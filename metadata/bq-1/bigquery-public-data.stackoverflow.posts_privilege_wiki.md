@@ -1,5 +1,5 @@
 # `stackoverflow.posts_privilege_wiki`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `id`

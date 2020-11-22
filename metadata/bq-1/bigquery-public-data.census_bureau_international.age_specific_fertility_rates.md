@@ -1,5 +1,5 @@
 # `census_bureau_international.age_specific_fertility_rates`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_code`

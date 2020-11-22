@@ -1,5 +1,5 @@
 # `geo_census_blockgroups.blockgroups_41`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `geo_id`

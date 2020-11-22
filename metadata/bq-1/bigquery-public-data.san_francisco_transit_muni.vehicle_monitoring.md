@@ -1,5 +1,5 @@
 # `san_francisco_transit_muni.vehicle_monitoring`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [TIMESTAMP] `time_recorded`

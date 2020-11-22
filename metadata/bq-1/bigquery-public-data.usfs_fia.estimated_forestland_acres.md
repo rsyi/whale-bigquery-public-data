@@ -1,5 +1,5 @@
 # `usfs_fia.estimated_forestland_acres` [view]
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `plot_sequence_number`

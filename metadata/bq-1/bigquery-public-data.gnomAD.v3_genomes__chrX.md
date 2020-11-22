@@ -1,5 +1,5 @@
 # `gnomAD.v3_genomes__chrX`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `reference_name`

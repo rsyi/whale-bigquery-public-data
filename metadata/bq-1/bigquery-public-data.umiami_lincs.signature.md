@@ -1,5 +1,5 @@
 # `umiami_lincs.signature`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Non-redundant list of signatures per assays, LINCS dataset Identifiers and LINCS Data and Signature Generation Center DSGC.
 
 ## Column details

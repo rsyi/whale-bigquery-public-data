@@ -1,5 +1,5 @@
 # `noaa_icoads.icoads_core_2007`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `year`

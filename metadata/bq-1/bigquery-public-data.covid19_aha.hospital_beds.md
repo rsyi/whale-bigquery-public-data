@@ -1,5 +1,5 @@
 # `covid19_aha.hospital_beds`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `county_fips_code`

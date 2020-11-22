@@ -1,5 +1,5 @@
 # `crypto_dash.outputs` [view]
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Outputs from all transactions.
 Data is exported using https://github.com/blockchain-etl/bitcoin-etl
 

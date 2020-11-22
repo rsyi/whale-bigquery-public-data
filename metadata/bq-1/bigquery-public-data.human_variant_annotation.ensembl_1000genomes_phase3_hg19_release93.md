@@ -1,5 +1,5 @@
 # `human_variant_annotation.ensembl_1000genomes_phase3_hg19_release93`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Source: http://ftp.ensemblorg.ebi.ac.uk/pub/grch37/release-93/variation/vcf/homo_sapiens/1000GENOMES-phase_3.vcf.gz
 
 ## Column details

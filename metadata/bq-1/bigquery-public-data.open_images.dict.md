@@ -1,5 +1,5 @@
 # `open_images.dict`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `label_name`

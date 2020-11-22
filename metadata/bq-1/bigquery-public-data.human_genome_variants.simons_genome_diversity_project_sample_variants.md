@@ -1,5 +1,5 @@
 # `human_genome_variants.simons_genome_diversity_project_sample_variants`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 VCF files from [1] loaded using Variant Transforms v0.4.2 [2].
 See http://www.nature.com/nature/journal/v538/n7624/full/nature18964.html and https://cloud.google.com/genomics/docs/public-datasets/simons for more details about the dataset.
 

@@ -1,5 +1,5 @@
 # `crypto_ethereum.logs`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Similar to the token_transfers table, the logs table contains data for smart contract events. However, it contains all log data, not only ERC20 token transfers.
 This table is generally useful for reporting on any logged event type on the Ethereum blockchain.
 Data is exported using https://github.com/blockchain-etl/ethereum-etl

@@ -1,5 +1,5 @@
 # `crypto_ethereum.blocks`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 The Ethereum blockchain is composed of a series of blocks. This table contains a set of all blocks in the blockchain and their attributes.
 Data is exported using https://github.com/medvedev1088/ethereum-etl
 

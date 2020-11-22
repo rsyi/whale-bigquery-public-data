@@ -1,5 +1,5 @@
 # `breathe.ncbi_xml`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `body`

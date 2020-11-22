@@ -1,5 +1,5 @@
 # `geo_us_roads.all_roads_01`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Alabama Roads
 
 ## Column details

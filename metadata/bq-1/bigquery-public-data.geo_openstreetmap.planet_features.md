@@ -1,5 +1,5 @@
 # `geo_openstreetmap.planet_features`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 The planet_features table was created by transforming the OSM planet.pbf file's contents of (way, node, relation) records into GDAL-type records (point, line, multilinestring, multpolygon, other_relation) using ogr2ogr.
 
 Software used to perform the ETL is located here:

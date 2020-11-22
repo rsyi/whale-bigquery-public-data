@@ -1,5 +1,5 @@
 # `covid19_symptom_search.states_daily_2020`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_region_code`

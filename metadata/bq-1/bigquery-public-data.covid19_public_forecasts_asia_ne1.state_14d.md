@@ -1,5 +1,5 @@
 # `covid19_public_forecasts_asia_ne1.state_14d`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This predicts the value for key metrics for COVID-19 impacts over a 14-day horizon at the US state level.
 
 ## Column details

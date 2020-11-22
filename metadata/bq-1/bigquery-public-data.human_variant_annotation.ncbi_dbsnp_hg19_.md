@@ -1,5 +1,5 @@
 # `human_variant_annotation.ncbi_dbsnp_hg19_`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Source: http://ftp.ncbi.nih.gov/snp/organisms/human_9606_b150_GRCh37p13/VCF/All_20170710.vcf.gz
 
 ## Column details

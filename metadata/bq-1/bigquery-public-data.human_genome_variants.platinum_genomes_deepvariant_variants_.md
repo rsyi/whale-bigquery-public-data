@@ -1,5 +1,5 @@
 # `human_genome_variants.platinum_genomes_deepvariant_variants_`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This dataset comprises the 6 member CEPH pedigree 1463. See http://www.illumina.com/platinumgenomes/ and https://cloud.google.com/genomics/docs/public-datasets/illumina-platinum-genomes for details.
 
 The BAM files from these samples were retrieved from the European Nucleotide Archive (ENA) accession PRJEB3381 and variants were called using DeepVariant [1] v0.7.0. The VCF files were loaded using GCP Variant Transforms v0.4.2 [2]. The raw VCF files are available in https://console.cloud.google.com/storage/browser/genomics-public-data/platinum-genomes/vcf_deepvariant/0.7.0/ 

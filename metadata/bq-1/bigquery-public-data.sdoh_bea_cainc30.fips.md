@@ -1,5 +1,5 @@
 # `sdoh_bea_cainc30.fips`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 FIPS Information Aggregated at the County Level
 
 ## Column details

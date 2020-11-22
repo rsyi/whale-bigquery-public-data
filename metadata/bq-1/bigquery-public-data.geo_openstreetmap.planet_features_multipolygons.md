@@ -1,5 +1,5 @@
 # `geo_openstreetmap.planet_features_multipolygons`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `osm_id`

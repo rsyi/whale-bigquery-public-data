@@ -1,5 +1,5 @@
 # `medicare.part_d_prescriber_2014`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `npi`

@@ -1,5 +1,5 @@
 # `google_political_ads.last_updated`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This table contains the information of the latest updated date for the Political
 Ads report. All dates provided are per UTC time zone.
 

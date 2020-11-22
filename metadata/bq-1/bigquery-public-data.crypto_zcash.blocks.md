@@ -1,5 +1,5 @@
 # `crypto_zcash.blocks`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 All blocks.
 Data is exported using https://github.com/blockchain-etl/bitcoin-etl
 

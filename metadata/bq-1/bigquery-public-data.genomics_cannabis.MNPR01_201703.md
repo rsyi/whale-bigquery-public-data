@@ -1,5 +1,5 @@
 # `genomics_cannabis.MNPR01_201703`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 MNPR01_201703: contains variant calls for all included samples (see: sample_info) and all types (genomic, transcriptomic) aligned to MNPR01 reference.  This table is exported using the Google Genomics BigQuery Variants Schema.  This is useful for general analysis of the Cannabis genome.
 
 ## Column details

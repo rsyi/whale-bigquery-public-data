@@ -1,5 +1,5 @@
 # `usfs_fia.population_stratum_assign`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Links plot to stratum information and basic information about the stratum. 	
 
 Pages in FIA Documentation: 7-17

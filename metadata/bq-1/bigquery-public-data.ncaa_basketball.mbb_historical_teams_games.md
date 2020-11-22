@@ -1,5 +1,5 @@
 # `ncaa_basketball.mbb_historical_teams_games`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Final scores for men's basketball games, starting with the 1996-97 season. Each game is included twice, with one entry per team. 
 
 Data provided by the NCAA.

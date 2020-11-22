@@ -1,5 +1,5 @@
 # `covid19_usafacts.confirmed_cases`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `county_fips_code`
@@ -309,6 +309,7 @@
 * [INTEGER]   `_11_17_20`
 * [INTEGER]   `_11_18_20`
 * [INTEGER]   `_11_19_20`
+* [INTEGER]   `_11_20_20`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -1,5 +1,5 @@
 # `world_bank_health_population.series_times`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `series_code`

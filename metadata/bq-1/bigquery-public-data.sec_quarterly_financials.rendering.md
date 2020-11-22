@@ -1,5 +1,5 @@
 # `sec_quarterly_financials.rendering`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `submission_number`

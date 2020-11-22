@@ -1,5 +1,5 @@
 # `new_york_subway.stations`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `station_id`

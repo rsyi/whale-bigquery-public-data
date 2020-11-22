@@ -1,5 +1,5 @@
 # `covid19_geotab_mobility_impact.airport_traffic`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This dataset shows traffic to and from the Airport as a Percentage of the Traffic volume during the baseline period. The baseline period used for computing this metric is from 1st Feb to 15th March 2020. The dataset gets updated daily.
 
 ## Column details

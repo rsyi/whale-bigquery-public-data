@@ -1,5 +1,5 @@
 # `google_political_ads.advertiser_weekly_spend`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This table contains the information for how much an advertiser spent on political ads during a given week. The table's primary key is advertiser_id, election_cycle, week_start_date
 
 ## Column details

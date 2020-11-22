@@ -1,5 +1,5 @@
 # `cms_codes.hcpcs`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `HCPC`

@@ -1,5 +1,5 @@
 # `san_francisco_film_locations.film_locations`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `title`

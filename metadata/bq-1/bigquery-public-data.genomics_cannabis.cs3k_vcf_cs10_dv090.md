@@ -1,5 +1,5 @@
 # `genomics_cannabis.cs3k_vcf_cs10_dv090`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `reference_name`

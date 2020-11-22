@@ -1,5 +1,5 @@
 # `cms_codes.icd10_diagnoses_2019`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `order_number`

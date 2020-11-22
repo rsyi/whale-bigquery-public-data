@@ -1,5 +1,5 @@
 # `ncaa_basketball.team_colors`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Hex color codes for the 351 current men's D1 basketball teams.
 
 ## Column details

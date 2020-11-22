@@ -1,5 +1,5 @@
 # `umiami_lincs.nucleic_acid_reagent`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Nucleic acid reagent metadata
 
 ## Column details

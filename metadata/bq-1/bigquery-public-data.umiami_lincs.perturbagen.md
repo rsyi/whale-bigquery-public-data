@@ -1,5 +1,5 @@
 # `umiami_lincs.perturbagen`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Parameters and properties of the perturbagen important to interpret the activity readout values.
 
 ## Column details

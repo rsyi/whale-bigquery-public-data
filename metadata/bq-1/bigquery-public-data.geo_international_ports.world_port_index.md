@@ -1,5 +1,5 @@
 # `geo_international_ports.world_port_index`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `index_number`

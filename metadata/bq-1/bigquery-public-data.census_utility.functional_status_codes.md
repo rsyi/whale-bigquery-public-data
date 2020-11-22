@@ -1,5 +1,5 @@
 # `census_utility.functional_status_codes`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `functional_status_code`

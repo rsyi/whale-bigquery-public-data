@@ -1,5 +1,5 @@
 # `sdoh_cms_dual_eligible_enrollment.dual_eligible_enrollment_by_county_and_program`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This document presents counts of Medicare-Medicaid dual enrollees (including those in Medicare Savings Programs), by eligibility type, who were enrolled in a given month (to be continuously updated on a quarterly basis).  They include numbers of individuals at both the state and county level.   Note that these are monthly snapshots and are inherently lower than ever-enrolled counts which include persons enrolled at any time during a calendar year.  The underlying source data are the Medicare Modernization Act (MMA) data that states submit to CMS on an at-least monthly basis. These data are subject to retroactive adjustment.  Analyses were conducted within the Chronic Condition Data Warehouse (CCW) environment.   For more information on identifying dually eligible beneficiaries within CMS data, please refer to the following website: https://www.cms.gov/Medicare-Medicaid-Coordination/Medicare-and-Medicaid-Coordination/Medicare-Medicaid-Coordination-Office/Downloads/MMCO_Definition_of_Dual_Eligible.pdf.
 
 ## Column details

@@ -1,5 +1,5 @@
 # `noaa_historic_severe_storms.storms_2004`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `episode_id`

@@ -1,5 +1,5 @@
 # `cms_medicare.referring_durable_medical_equip_2014`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `referring_npi`

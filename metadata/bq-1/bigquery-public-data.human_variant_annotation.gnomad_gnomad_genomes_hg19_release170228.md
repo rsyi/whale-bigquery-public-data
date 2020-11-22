@@ -1,5 +1,5 @@
 # `human_variant_annotation.gnomad_gnomad_genomes_hg19_release170228`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Source: gs://gnomad-public/release-170228/vcf/genomes/*.sites.?.vcf.gz
 
 ## Column details

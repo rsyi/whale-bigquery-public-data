@@ -1,5 +1,5 @@
 # `umiami_lincs.cell_line`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Cell line metadata information
 
 ## Column details

@@ -1,5 +1,5 @@
 # `nlm_rxnorm.rxnsat_08_20`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `rxcui`

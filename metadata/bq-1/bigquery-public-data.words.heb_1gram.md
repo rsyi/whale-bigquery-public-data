@@ -1,5 +1,5 @@
 # `words.heb_1gram`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `ngram`

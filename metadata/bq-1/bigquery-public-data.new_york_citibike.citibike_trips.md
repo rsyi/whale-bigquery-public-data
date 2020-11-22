@@ -1,5 +1,5 @@
 # `new_york_citibike.citibike_trips`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `tripduration`

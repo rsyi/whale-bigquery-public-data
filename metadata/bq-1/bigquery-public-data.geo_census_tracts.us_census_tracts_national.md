@@ -1,5 +1,5 @@
 # `geo_census_tracts.us_census_tracts_national`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `state_name`

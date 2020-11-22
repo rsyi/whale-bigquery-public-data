@@ -1,5 +1,5 @@
 # `human_genome_variants.1000_genomes_phase_3_optimized_schema_variants_`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This is the same table as 1000_genomes_phase_3_variants_20150220, except that samples that are homozygous reference or have not been called are compacted into the new "hom_ref_call" and "no_call" columns, respectively. Note that the FORMAT fields for such samples have been dropped.
 
 This makes the table more compact and also makes certain types of queries (e.g. computing allele frequencies) easier to write.

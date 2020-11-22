@@ -1,5 +1,5 @@
 # `github_repos.sample_contents`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Randomly sampled 10% of text file contents from [bigquery-public-data:github_repos.contents].
 
 This sample set can be joined to [bigquery-public-data:github_repos.sample_files] on the id column.

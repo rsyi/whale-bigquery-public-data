@@ -1,5 +1,5 @@
 # `hud_zipcode_crosswalk.zipcode_to_census_tracts`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 USPS ZIP code crosswalk to census tract.
 This file is not 1-1; please use ratio columns when splitting to tracts.
 

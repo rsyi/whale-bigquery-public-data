@@ -1,5 +1,5 @@
 # `github_repos.sample_files`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Sampled file metadata for files at HEAD, from the top 400k repositories listed in sample_repos.
 
 This is a reduced data set from [bigquery-public-data:github_repos.files] to support query experimentation with lower IO costs.

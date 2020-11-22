@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.violatn_2015`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This data file contains information about violations which were
 charged to drivers. There is at least one record per in-transport motor vehicle. Each
 violation is a separate record.

@@ -1,5 +1,5 @@
 # `geo_openstreetmap.history_layers`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `layer_code`

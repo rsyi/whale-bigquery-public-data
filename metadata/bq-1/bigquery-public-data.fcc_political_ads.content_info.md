@@ -1,5 +1,5 @@
 # `fcc_political_ads.content_info`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This data table aims to extract useful information from the raw receipt PDF files available from the FCC. Data in this table has been manually extracted and annotated by ProPublica’s Free the Files Effort or Google. This is an experimental dataset based on humans reading PDFs and extracting data, and there may be errors- please do not use as a complete or comprehensive dataset. Current annotation efforts will omit files that lack gross spend, advertiser or ad air date information.This table will be continually expanded with additional annotated files.
 
 ## Column details

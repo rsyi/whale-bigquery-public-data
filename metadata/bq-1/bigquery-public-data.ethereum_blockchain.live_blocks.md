@@ -1,5 +1,5 @@
 # `ethereum_blockchain.live_blocks` [view]
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Live Ethereum data in bigquery-public-data.crypto_ethereum dataset
 
 ## Column details

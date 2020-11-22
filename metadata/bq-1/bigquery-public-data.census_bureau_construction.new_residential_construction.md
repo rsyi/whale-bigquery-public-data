@@ -1,5 +1,5 @@
 # `census_bureau_construction.new_residential_construction`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Regional construction data from the Census Bureau
 
 ## Column details

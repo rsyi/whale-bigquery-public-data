@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.vsoe_2015`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This data file contains the sequence of events for each intransport
 motor vehicle involved in the crash. This data file has a subset of the data
 elements contained in the Vevent data file (It is a simplified Vevent data file). There is

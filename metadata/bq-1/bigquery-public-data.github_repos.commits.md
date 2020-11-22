@@ -1,5 +1,5 @@
 # `github_repos.commits`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 Unique Git commits from open source repositories on GitHub, pre-grouped by repositories they appear in.
 
 ## Column details

@@ -1,5 +1,5 @@
 # `geo_us_boundaries.designated_market_area`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [GEOGRAPHY] `dma_geom`

@@ -1,5 +1,5 @@
 # `sdoh_snap_enrollment.snap_enrollment`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `GeoDesc`

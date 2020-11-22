@@ -1,5 +1,5 @@
 # `utility_eu.england_lsoa_areas`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This table contains the digital vector boundaries for lower layer super output areas as at 31 December 2011 in England and Wales. 
 Contains National Statistics data © Crown copyright and database right 2017
 Contains OS data © Crown copyright and database right 2017

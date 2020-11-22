@@ -1,5 +1,5 @@
 # `cms_synthetic_patient_data_omop.device_exposure`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `device_exposure_id`

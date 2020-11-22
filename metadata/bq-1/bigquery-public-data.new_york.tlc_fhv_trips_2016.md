@@ -1,5 +1,5 @@
 # `new_york.tlc_fhv_trips_2016`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [INTEGER]   `location_id`

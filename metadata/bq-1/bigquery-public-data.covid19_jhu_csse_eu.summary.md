@@ -1,5 +1,5 @@
 # `covid19_jhu_csse_eu.summary`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `province_state`

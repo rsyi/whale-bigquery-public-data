@@ -1,5 +1,5 @@
 # `covid19_govt_response.oxford_policy_tracker`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_name`

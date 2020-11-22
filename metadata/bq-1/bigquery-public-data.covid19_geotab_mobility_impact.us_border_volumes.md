@@ -1,5 +1,5 @@
 # `covid19_geotab_mobility_impact.us_border_volumes`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This dataset is about daily trip volume and weighted average crossing duration per trip direction. This table is updated daily.
 
 ## Column details

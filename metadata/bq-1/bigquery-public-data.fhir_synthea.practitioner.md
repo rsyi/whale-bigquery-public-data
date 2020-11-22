@@ -1,5 +1,5 @@
 # `fhir_synthea.practitioner`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `birthDate`

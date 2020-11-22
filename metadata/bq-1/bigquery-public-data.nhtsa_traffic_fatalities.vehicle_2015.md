@@ -1,5 +1,5 @@
 # `nhtsa_traffic_fatalities.vehicle_2015`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 This data file contains information describing the in-transport
 motor vehicles and the drivers of in-transport motor vehicle who are involved in the
 crash. There is one record per in-transport motor vehicle. Parked and working vehicle

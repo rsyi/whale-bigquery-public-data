@@ -1,5 +1,5 @@
 # `world_bank_health_population.health_nutrition_population`
-`bigquery` | `bigquery-public-data`
+`bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_name`
