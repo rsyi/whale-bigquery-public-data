@@ -497,10 +497,15 @@ bq-1/bigquery-public-data.covid19_open_data.covid19_open_data
 bq-1/bigquery-public-data.covid19_open_data_eu.compatibility_view
 bq-1/bigquery-public-data.covid19_open_data_eu.covid19_open_data
 bq-1/bigquery-public-data.covid19_public_forecasts.county_14d
+bq-1/bigquery-public-data.covid19_public_forecasts.county_14d_historical_
 bq-1/bigquery-public-data.covid19_public_forecasts.county_28d
+bq-1/bigquery-public-data.covid19_public_forecasts.county_28d_historical_
 bq-1/bigquery-public-data.covid19_public_forecasts.japan_prefecture_28d
+bq-1/bigquery-public-data.covid19_public_forecasts.japan_prefecture_28d_historical_
 bq-1/bigquery-public-data.covid19_public_forecasts.state_14d
+bq-1/bigquery-public-data.covid19_public_forecasts.state_14d_historical_
 bq-1/bigquery-public-data.covid19_public_forecasts.state_28d
+bq-1/bigquery-public-data.covid19_public_forecasts.state_28d_historical_
 bq-1/bigquery-public-data.covid19_public_forecasts_asia_ne1.county_14d
 bq-1/bigquery-public-data.covid19_public_forecasts_asia_ne1.county_28d
 bq-1/bigquery-public-data.covid19_public_forecasts_asia_ne1.japan_prefecture_28d
