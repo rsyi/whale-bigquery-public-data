@@ -546,6 +546,12 @@ bq-1/bigquery-public-data.covid19_symptom_search.states_weekly_2017
 bq-1/bigquery-public-data.covid19_symptom_search.states_weekly_2018
 bq-1/bigquery-public-data.covid19_symptom_search.states_weekly_2019
 bq-1/bigquery-public-data.covid19_symptom_search.states_weekly_2020
+bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_country_daily
+bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_country_weekly
+bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_sub_region_1_daily
+bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_sub_region_1_weekly
+bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_sub_region_2_daily
+bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_sub_region_2_weekly
 bq-1/bigquery-public-data.covid19_usafacts.confirmed_cases
 bq-1/bigquery-public-data.covid19_usafacts.deaths
 bq-1/bigquery-public-data.covid19_usafacts.summary
