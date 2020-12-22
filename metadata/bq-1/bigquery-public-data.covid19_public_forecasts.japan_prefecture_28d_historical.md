@@ -4,7 +4,7 @@ This predicts the value for key metrics for COVID-19 impacts over a 28-day horiz
 
 ## Column details
 * [STRING]    `prefecture_code`
-  - Unique identifer of the prefecture.
+  - Unique identifier of the prefecture.
 * [STRING]    `prefecture_name`
   - Full text name of the prefecture
 * [STRING]    `prefecture_name_kanji`

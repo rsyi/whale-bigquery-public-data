@@ -4,7 +4,7 @@ This predicts the value for key metrics for COVID-19 impacts over a 28-day horiz
 
 ## Column details
 * [STRING]    `county_fips_code`
-  - 5-digit unique identifer of the county.
+  - 5-digit unique identifier of the county.
 * [STRING]    `county_name`
   - Full text name of the county
 * [STRING]    `state_name`

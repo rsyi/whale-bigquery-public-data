@@ -1,6 +1,6 @@
 # `covid19_public_forecasts.state_14d_historical_`
 `bq-1` | `bigquery-public-data`
-This predicts the value for key metrics for COVID-19 impacts over a 28-day horizon at the US state level.
+This predicts the value for key metrics for COVID-19 impacts over a 14-day horizon at the US state level.
 
 ## Column details
 * [STRING]    `state_fips_code`
