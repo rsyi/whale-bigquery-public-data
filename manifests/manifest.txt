@@ -2545,6 +2545,7 @@ bq-1/bigquery-public-data.wikipedia.pageviews_2017
 bq-1/bigquery-public-data.wikipedia.pageviews_2018
 bq-1/bigquery-public-data.wikipedia.pageviews_2019
 bq-1/bigquery-public-data.wikipedia.pageviews_2020
+bq-1/bigquery-public-data.wikipedia.pageviews_2021
 bq-1/bigquery-public-data.wikipedia.wikidata
 bq-1/bigquery-public-data.wise_all_sky_data_release.all_wise
 bq-1/bigquery-public-data.wise_all_sky_data_release.mep_wise
