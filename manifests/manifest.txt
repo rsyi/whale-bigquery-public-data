@@ -1785,6 +1785,7 @@ bq-1/bigquery-public-data.nhtsa_traffic_fatalities.vsoe_2015
 bq-1/bigquery-public-data.nhtsa_traffic_fatalities.vsoe_2016
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_04_17
@@ -1819,6 +1820,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_04_17
@@ -1856,6 +1858,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_04_17
@@ -1892,6 +1895,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxncui_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_04_17
@@ -1928,6 +1932,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxncui_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_04_17
@@ -1965,6 +1970,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichanges_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_04_17
@@ -2002,6 +2008,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_04_17
@@ -2039,6 +2046,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_04_17
@@ -2075,6 +2083,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_12_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsat_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxnsat_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsat_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsat_04_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsat_04_19
@@ -2105,6 +2114,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnsat_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsat_current
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_01_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_02_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_04_17
