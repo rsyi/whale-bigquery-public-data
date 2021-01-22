@@ -1341,6 +1341,7 @@ bq-1/bigquery-public-data.ghcn_d.ghcnd_2017
 bq-1/bigquery-public-data.ghcn_d.ghcnd_2018
 bq-1/bigquery-public-data.ghcn_d.ghcnd_2019
 bq-1/bigquery-public-data.ghcn_d.ghcnd_2020
+bq-1/bigquery-public-data.ghcn_d.ghcnd_2021
 bq-1/bigquery-public-data.ghcn_d.ghcnd_countries
 bq-1/bigquery-public-data.ghcn_d.ghcnd_inventory
 bq-1/bigquery-public-data.ghcn_d.ghcnd_states
