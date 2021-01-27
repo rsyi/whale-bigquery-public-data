@@ -2444,6 +2444,7 @@ bq-1/bigquery-public-data.san_francisco_bikeshare.bikeshare_station_info
 bq-1/bigquery-public-data.san_francisco_bikeshare.bikeshare_station_status
 bq-1/bigquery-public-data.san_francisco_bikeshare.bikeshare_trips
 bq-1/bigquery-public-data.san_francisco_film_locations.film_locations
+bq-1/bigquery-public-data.san_francisco_neighborhoods.boundaries
 bq-1/bigquery-public-data.san_francisco_sffd_service_calls.sffd_service_calls
 bq-1/bigquery-public-data.san_francisco_sfpd_incidents.sfpd_incidents
 bq-1/bigquery-public-data.san_francisco_transit_muni.calendar
