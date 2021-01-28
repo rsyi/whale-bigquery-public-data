@@ -575,6 +575,7 @@ bq-1/bigquery-public-data.crypto_dogecoin.blocks
 bq-1/bigquery-public-data.crypto_dogecoin.inputs
 bq-1/bigquery-public-data.crypto_dogecoin.outputs
 bq-1/bigquery-public-data.crypto_dogecoin.transactions
+bq-1/bigquery-public-data.crypto_ethereum.amended_tokens
 bq-1/bigquery-public-data.crypto_ethereum.balances
 bq-1/bigquery-public-data.crypto_ethereum.blocks
 bq-1/bigquery-public-data.crypto_ethereum.contracts
