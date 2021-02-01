@@ -383,6 +383,7 @@ Confirmed COVID-19 cases, aggregated by country/region and province/state. See t
 * [INTEGER]   `_1_28_21`
 * [INTEGER]   `_1_29_21`
 * [INTEGER]   `_1_30_21`
+* [INTEGER]   `_1_31_21`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
