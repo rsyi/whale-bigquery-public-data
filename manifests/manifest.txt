@@ -2417,6 +2417,9 @@ bq-1/bigquery-public-data.open_images.dict
 bq-1/bigquery-public-data.open_images.images
 bq-1/bigquery-public-data.open_images.labels
 bq-1/bigquery-public-data.openaq.global_air_quality
+bq-1/bigquery-public-data.pypi.distribution_metadata
+bq-1/bigquery-public-data.pypi.file_downloads
+bq-1/bigquery-public-data.pypi.simple_requests
 bq-1/bigquery-public-data.safegraph.neighborhood_patterns
 bq-1/bigquery-public-data.samples.github_nested
 bq-1/bigquery-public-data.samples.github_timeline
