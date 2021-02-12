@@ -10,9 +10,9 @@
   - The spacecraft that acquired this scene: one of 'LANDSAT_4' through 'LANDSAT_8'.
 * [STRING]    `sensor_id`
   - The type of spacecraft sensor that acquired this scene: 'TM' for the Thematic Mapper, 'ETM' for the Enhanced Thematic Mapper+, or 'OLI/TIRS' for the Operational Land Imager and Thermal Infrared Sensor.
-* [STRING]    `date_acquired`
+* [DATE]      `date_acquired`
   - The date on which this scene was acquired (UTC).
-* [STRING]    `sensing_time`
+* [TIMESTAMP] `sensing_time`
   - The approximate time at which this scene was acquired (UTC).
 * [STRING]    `collection_number`
   - The Landsat collection that this image belongs to, e.g. '01' for Collection 1 or 'PRE' for pre-collection data.
