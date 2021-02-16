@@ -584,6 +584,7 @@ bq-1/bigquery-public-data.crypto_zcash.blocks
 bq-1/bigquery-public-data.crypto_zcash.inputs
 bq-1/bigquery-public-data.crypto_zcash.outputs
 bq-1/bigquery-public-data.crypto_zcash.transactions
+bq-1/bigquery-public-data.cymbal_investments.trade_capture_report
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_corr_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_index_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_match_v_0_4
