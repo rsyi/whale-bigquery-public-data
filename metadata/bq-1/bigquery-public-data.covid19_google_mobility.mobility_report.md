@@ -25,6 +25,8 @@ To learn more about the dataset, the place categories and how we calculate these
   - Unique identifier for the geographic region as defined by ISO Standard 3166-2.
 * [STRING]    `census_fips_code`
   - Unique identifier for each US county as defined by the US Census Bureau. Maps to county_fips_code in other tables
+* [STRING]    `place_id`
+  - A textual identifier that uniquely identifies a place in the Google Places database and on Google Maps (details). For example, ChIJd_Y0eVIvkIARuQyDN0F1LBA. For details, see the following link: https://developers.google.com/places/web-service/place-id
 * [DATE]      `date`
   - Changes for a given date as compared to baseline. Baseline is the median value, for the corresponding day of the week, during the 5-week period Jan 3–Feb 6, 2020.
 * [INTEGER]   `retail_and_recreation_percent_change_from_baseline`
