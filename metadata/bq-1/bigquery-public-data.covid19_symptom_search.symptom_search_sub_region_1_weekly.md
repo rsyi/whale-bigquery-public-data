@@ -8,6 +8,7 @@
 * [STRING]    `sub_region_1_code`
 * [STRING]    `sub_region_2`
 * [STRING]    `sub_region_2_code`
+* [STRING]    `place_id`
 * [DATE]      `date`
 * [FLOAT]     `symptom_Abdominal_obesity`
 * [FLOAT]     `symptom_Abdominal_pain`
