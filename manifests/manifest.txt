@@ -1930,6 +1930,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_01_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_01_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_02_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_02_19
+bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_03_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_04_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_04_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_05_17
