@@ -3,7 +3,7 @@
 Token amended with data from https://github.com/blockchain-etl/ethereum-etl-airflow/blob/master/dags/resources/stages/seed/data/token_amendments.csv
 
 ## Column details
-* [STRING]    `f0_`
+* [STRING]    `address`
 * [STRING]    `symbol`
 * [STRING]    `name`
 * [STRING]    `decimals`
