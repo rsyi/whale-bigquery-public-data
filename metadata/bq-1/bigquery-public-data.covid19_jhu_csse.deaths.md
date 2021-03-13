@@ -7,7 +7,7 @@ Deaths COVID-19 cases, aggregated by country/region and province/state. See the 
 * [STRING]    `country_region`
 * [FLOAT]     `latitude`
 * [FLOAT]     `longitude`
-* [STRING]    `location_geom`
+* [GEOGRAPHY] `location_geom`
 * [INTEGER]   `_1_22_20`
 * [INTEGER]   `_1_23_20`
 * [INTEGER]   `_1_24_20`
@@ -423,6 +423,7 @@ Deaths COVID-19 cases, aggregated by country/region and province/state. See the 
 * [INTEGER]   `_3_9_21`
 * [INTEGER]   `_3_10_21`
 * [INTEGER]   `_3_11_21`
+* [INTEGER]   `_3_12_21`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
