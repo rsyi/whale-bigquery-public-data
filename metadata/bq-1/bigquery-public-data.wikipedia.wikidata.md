@@ -47,6 +47,8 @@
 * [INTEGER]   `country_of_citizenship.numeric_id`
 * [RECORD]    `country`
 * [INTEGER]   `country.numeric_id`
+* [RECORD]    `educated_at`
+* [INTEGER]   `educated_at.numeric_id`
 * [RECORD]    `occupation`
 * [INTEGER]   `occupation.numeric_id`
 * [RECORD]    `instrument`
