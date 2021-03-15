@@ -3,17 +3,19 @@
 
 ## Column details
 * [INTEGER]   `station_id`
-  - Unique identifier of a station.
 * [STRING]    `name`
-  - Public name of the station.
 * [STRING]    `status`
-  - Status of the station. Allowed values: active, closed, moved, ACL only
-* [FLOAT]     `latitude`
-  - The latitude of station. The field value must be a valid WGS 84 latitude in decimal degrees format.
-* [FLOAT]     `longitude`
-  - The longitude of station. The field value must be a valid WGS 84 longitude in decimal degrees format.
-* [STRING]    `location`
-  - The latitude and longitude of the station.
+* [STRING]    `address`
+* [STRING]    `alternate_name`
+* [INTEGER]   `city_asset_number`
+* [STRING]    `property_type`
+* [INTEGER]   `number_of_docks`
+* [STRING]    `power_type`
+* [INTEGER]   `footprint_length`
+* [FLOAT]     `footprint_width`
+* [STRING]    `notes`
+* [INTEGER]   `council_district`
+* [DATETIME]  `modified_date`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
