@@ -1,0 +1,10 @@
+# `nih_gudid.premarket_submissions`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `primarydi`
+* [STRING]    `submissionnumber`
+* [STRING]    `supplementnumber`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*
