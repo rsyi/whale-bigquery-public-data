@@ -13,6 +13,7 @@ bq-1/bigquery-public-data.baseball.games_wide
 bq-1/bigquery-public-data.baseball.schedules
 bq-1/bigquery-public-data.bitcoin_blockchain.blocks
 bq-1/bigquery-public-data.bitcoin_blockchain.transactions
+bq-1/bigquery-public-data.blackhole_database.sdss_dr7
 bq-1/bigquery-public-data.bls.c_cpi_u
 bq-1/bigquery-public-data.bls.cpi_u
 bq-1/bigquery-public-data.bls.employment_hours_earnings
