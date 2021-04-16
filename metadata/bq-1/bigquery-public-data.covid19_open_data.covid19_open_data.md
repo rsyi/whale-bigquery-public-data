@@ -80,7 +80,7 @@ This dataset contains country-level datasets of daily time-series data related t
 * [FLOAT]     `snowfall_mm`
 * [FLOAT]     `dew_point`
 * [FLOAT]     `relative_humidity`
-* [INTEGER]   `new_tested`
+* [STRING]    `new_tested`
 * [INTEGER]   `population_largest_city`
 * [INTEGER]   `population_clustered`
 * [FLOAT]     `human_capital_index`
