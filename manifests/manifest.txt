@@ -1667,6 +1667,7 @@ bq-1/bigquery-public-data.medicare.physicians_and_other_supplier_2014
 bq-1/bigquery-public-data.ml_datasets.census_adult_income
 bq-1/bigquery-public-data.ml_datasets.credit_card_default
 bq-1/bigquery-public-data.ml_datasets.iris
+bq-1/bigquery-public-data.ml_datasets.penguins
 bq-1/bigquery-public-data.ml_datasets.ulb_fraud_detection
 bq-1/bigquery-public-data.moon_phases.moon_phases
 bq-1/bigquery-public-data.nasa_wildfire.past_week
