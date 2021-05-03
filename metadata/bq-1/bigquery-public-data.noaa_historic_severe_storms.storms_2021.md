@@ -1,5 +1,6 @@
 # `noaa_historic_severe_storms.storms_2021`
 `bq-1` | `bigquery-public-data`
+ The 2021 files currently are not present at the location.
 
 ## Column details
 * [STRING]    `episode_id`

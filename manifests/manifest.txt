@@ -537,6 +537,15 @@ bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_sub_region_1_dai
 bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_sub_region_1_weekly
 bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_sub_region_2_daily
 bq-1/bigquery-public-data.covid19_symptom_search.symptom_search_sub_region_2_weekly
+bq-1/bigquery-public-data.covid19_tracking.city_level_cases_and_deaths
+bq-1/bigquery-public-data.covid19_tracking.covid_racial_data_tracker
+bq-1/bigquery-public-data.covid19_tracking.national_testing_and_outcomes
+bq-1/bigquery-public-data.covid19_tracking.state_facility_level_long_term_care
+bq-1/bigquery-public-data.covid19_tracking.state_level_aggregate_long_term_care
+bq-1/bigquery-public-data.covid19_tracking.state_level_cumulative_long_term_care
+bq-1/bigquery-public-data.covid19_tracking.state_level_current_outbreak_long_term_care
+bq-1/bigquery-public-data.covid19_tracking.state_screenshots
+bq-1/bigquery-public-data.covid19_tracking.state_testing_and_outcomes
 bq-1/bigquery-public-data.covid19_usafacts.confirmed_cases
 bq-1/bigquery-public-data.covid19_usafacts.deaths
 bq-1/bigquery-public-data.covid19_usafacts.summary
