@@ -691,6 +691,18 @@ This dataset contains country-level datasets of daily time-series data related t
 * [STRING]    `locality_name`
 * [INTEGER]   `new_ventilator_patients`
 * [INTEGER]   `cumulative_ventilator_patients`
+* [INTEGER]   `new_persons_fully_vaccinated_pfizer`
+* [INTEGER]   `cumulative_persons_fully_vaccinated_pfizer`
+* [INTEGER]   `new_vaccine_doses_administered_pfizer`
+* [INTEGER]   `cumulative_vaccine_doses_administered_pfizer`
+* [INTEGER]   `new_persons_fully_vaccinated_moderna`
+* [INTEGER]   `cumulative_persons_fully_vaccinated_moderna`
+* [INTEGER]   `new_vaccine_doses_administered_moderna`
+* [INTEGER]   `cumulative_vaccine_doses_administered_moderna`
+* [INTEGER]   `new_persons_fully_vaccinated_janssen`
+* [INTEGER]   `cumulative_persons_fully_vaccinated_janssen`
+* [INTEGER]   `new_vaccine_doses_administered_janssen`
+* [INTEGER]   `cumulative_vaccine_doses_administered_janssen`
 * [GEOGRAPHY] `location_geometry`
 
 -------------------------------------------------------------------------------
