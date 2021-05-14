@@ -1077,8 +1077,6 @@ bq-1/bigquery-public-data.geo_whos_on_first.concordances
 bq-1/bigquery-public-data.geo_whos_on_first.geojson
 bq-1/bigquery-public-data.geo_whos_on_first.names
 bq-1/bigquery-public-data.geo_whos_on_first.spr
-bq-1/bigquery-public-data.geolite2.ipv4_city_blocks
-bq-1/bigquery-public-data.geolite2.ipv4_city_locations
 bq-1/bigquery-public-data.ghcn_d.ghcnd_1763
 bq-1/bigquery-public-data.ghcn_d.ghcnd_1764
 bq-1/bigquery-public-data.ghcn_d.ghcnd_1765
