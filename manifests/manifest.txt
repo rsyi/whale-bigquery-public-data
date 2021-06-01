@@ -1788,6 +1788,7 @@ bq-1/bigquery-public-data.nih_gudid.identifiers
 bq-1/bigquery-public-data.nih_gudid.premarket_submissions
 bq-1/bigquery-public-data.nih_gudid.product_codes
 bq-1/bigquery-public-data.nih_gudid.sterilization_method_types
+bq-1/bigquery-public-data.nih_sequence_read.sars2_metadata
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_21
