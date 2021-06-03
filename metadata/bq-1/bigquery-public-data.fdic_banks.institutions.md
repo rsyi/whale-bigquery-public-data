@@ -213,8 +213,6 @@
   - The unique number assigned by the Federal Reserve Board to the regulatory high holding company of the institution.
 * [STRING]    `holding_company_state`
   - State location of the regulatory high holding company (either direct or indirect owner).
-* [BOOLEAN]   `interstate_branches`
-  - "A 'yes' indicates that an institution has branches that can accept FDIC-insured deposits in more than one state. The FDIC Act defines state as any State of the United States, the District of Columbia, and any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Island, and the Northern Mariana Islands."
 * [BOOLEAN]   `subchap_s_indicator`
 * [STRING]    `trust_powers_status`
   - "A flag used to indicate an institution's Trust Powers Granted status. 0 = No Trust Power Granted 1 = Trust Power Granted Where Trust Power has been granted specific codes are: 00 - Trust powers not know 10 - Full trust powers granted 11 - Full trust powers granted, exercised 12 - Full trust powers granted, not exercised 20 - Limited trust powers granted 21 - Limited trust powers granted, exercised 22 - Limited trust powers granted, not exercised 30 - Trust powers not granted 31 - Trust powers not granted, but exercised "
