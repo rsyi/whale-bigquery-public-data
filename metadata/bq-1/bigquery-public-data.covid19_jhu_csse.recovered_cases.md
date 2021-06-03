@@ -505,6 +505,7 @@ Recovered COVID-19 cases, aggregated by country/region and province/state. See t
 * [INTEGER]   `_5_30_21`
 * [INTEGER]   `_5_31_21`
 * [INTEGER]   `_6_1_21`
+* [INTEGER]   `_6_2_21`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
