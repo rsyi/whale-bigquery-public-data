@@ -15,7 +15,7 @@ This table is formed by combining the data from the individual US tables of driv
   - The longitude of the vaccination site. For example, 41.4356
 * [STRING]    `facility_country_region`
   - The name of the country or region in English. For example, United States.
-* [STRING]    `facility_country_code`
+* [STRING]    `facility_country_region_code`
   - The ISO 3166-1 code for the country or region. For example, US.
 * [STRING]    `facility_sub_region_1`
   - The name of a region in the country. For example, California.
