@@ -549,6 +549,10 @@ bq-1/bigquery-public-data.covid19_tracking.state_testing_and_outcomes
 bq-1/bigquery-public-data.covid19_usafacts.confirmed_cases
 bq-1/bigquery-public-data.covid19_usafacts.deaths
 bq-1/bigquery-public-data.covid19_usafacts.summary
+bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_all
+bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_drive
+bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_transit
+bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_walk
 bq-1/bigquery-public-data.covid19_weathersource_com.county_day_forecast
 bq-1/bigquery-public-data.covid19_weathersource_com.county_day_history
 bq-1/bigquery-public-data.covid19_weathersource_com.postal_code_day_forecast
