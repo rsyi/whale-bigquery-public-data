@@ -1631,6 +1631,8 @@ bq-1/bigquery-public-data.immune_epitope_db.reference_full_v3
 bq-1/bigquery-public-data.immune_epitope_db.tcell_full_v3
 bq-1/bigquery-public-data.immune_epitope_db.tcr_3d_assays
 bq-1/bigquery-public-data.iowa_liquor_sales.sales
+bq-1/bigquery-public-data.iowa_liquor_sales_forecasting.2020_sales_train
+bq-1/bigquery-public-data.iowa_liquor_sales_forecasting.2021_sales_predict
 bq-1/bigquery-public-data.irs_990.irs_990_2012
 bq-1/bigquery-public-data.irs_990.irs_990_2013
 bq-1/bigquery-public-data.irs_990.irs_990_2014
