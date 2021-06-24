@@ -16,6 +16,7 @@ bq-1/bigquery-public-data.bitcoin_blockchain.transactions
 bq-1/bigquery-public-data.blackhole_database.sdss_dr7
 bq-1/bigquery-public-data.bls.c_cpi_u
 bq-1/bigquery-public-data.bls.cpi_u
+bq-1/bigquery-public-data.bls.cpsaat18
 bq-1/bigquery-public-data.bls.employment_hours_earnings
 bq-1/bigquery-public-data.bls.employment_hours_earnings_series
 bq-1/bigquery-public-data.bls.unemployment_cps
