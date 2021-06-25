@@ -1584,6 +1584,8 @@ bq-1/bigquery-public-data.google_political_ads.creative_stats
 bq-1/bigquery-public-data.google_political_ads.geo_spend
 bq-1/bigquery-public-data.google_political_ads.last_updated
 bq-1/bigquery-public-data.google_political_ads.top_keywords_history
+bq-1/bigquery-public-data.google_trends.top_rising_terms
+bq-1/bigquery-public-data.google_trends.top_terms
 bq-1/bigquery-public-data.hacker_news.comments
 bq-1/bigquery-public-data.hacker_news.full
 bq-1/bigquery-public-data.hacker_news.full_201510
