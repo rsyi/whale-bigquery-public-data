@@ -43,8 +43,8 @@ This dataset contains country-level datasets of daily time-series data related t
 * [INTEGER]   `gdp_usd`
 * [INTEGER]   `gdp_per_capita_usd`
 * [INTEGER]   `openstreetmap_id`
-* [STRING]    `latitude`
-* [STRING]    `longitude`
+* [FLOAT]     `latitude`
+* [FLOAT]     `longitude`
 * [INTEGER]   `area_sq_km`
 * [FLOAT]     `smoking_prevalence`
 * [FLOAT]     `diabetes_prevalence`
