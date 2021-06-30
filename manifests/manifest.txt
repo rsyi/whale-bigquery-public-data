@@ -1575,6 +1575,16 @@ bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chrX
 bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chrY
 bq-1/bigquery-public-data.google_ads.geotargets
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
+bq-1/bigquery-public-data.google_dei.dar_intersectional_attrition
+bq-1/bigquery-public-data.google_dei.dar_intersectional_hiring
+bq-1/bigquery-public-data.google_dei.dar_intersectional_representation
+bq-1/bigquery-public-data.google_dei.dar_non_intersectional_attrition
+bq-1/bigquery-public-data.google_dei.dar_non_intersectional_hiring
+bq-1/bigquery-public-data.google_dei.dar_non_intersectional_representation
+bq-1/bigquery-public-data.google_dei.dar_region_non_intersectional_attrition
+bq-1/bigquery-public-data.google_dei.dar_region_non_intersectional_hiring
+bq-1/bigquery-public-data.google_dei.dar_region_non_intersectional_representation
+bq-1/bigquery-public-data.google_dei.dar_self_id
 bq-1/bigquery-public-data.google_political_ads.advertiser_declared_stats
 bq-1/bigquery-public-data.google_political_ads.advertiser_geo_spend
 bq-1/bigquery-public-data.google_political_ads.advertiser_stats
