@@ -2651,7 +2651,6 @@ bq-1/bigquery-public-data.wikipedia.table_actors
 bq-1/bigquery-public-data.wikipedia.table_bands
 bq-1/bigquery-public-data.wikipedia.table_singers
 bq-1/bigquery-public-data.wikipedia.table_writers
-bq-1/bigquery-public-data.wikipedia.view_bands
 bq-1/bigquery-public-data.wikipedia.wikidata
 bq-1/bigquery-public-data.wise_all_sky_data_release.all_wise
 bq-1/bigquery-public-data.wise_all_sky_data_release.mep_wise
