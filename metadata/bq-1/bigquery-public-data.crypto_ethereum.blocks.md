@@ -40,6 +40,8 @@ Data is exported using https://github.com/medvedev1088/ethereum-etl
   - The total used gas by all transactions in this block
 * [INTEGER]   `transaction_count`
   - The number of transactions in the block
+* [INTEGER]   `base_fee_per_gas`
+  - Protocol base fee per gas, which can move up or down
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

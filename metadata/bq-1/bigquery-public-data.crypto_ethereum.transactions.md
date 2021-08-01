@@ -40,6 +40,14 @@ Data is exported using https://github.com/medvedev1088/ethereum-etl
   - Block number where this transaction was in
 * [STRING]    `block_hash`
   - Hash of the block where this transaction was in
+* [INTEGER]   `max_fee_per_gas`
+  - Total fee that covers both base and priority fees
+* [INTEGER]   `max_priority_fee_per_gas`
+  - Fee given to miners to incentivize them to include the transaction
+* [INTEGER]   `transaction_type`
+  - Transaction type
+* [INTEGER]   `receipt_effective_gas_price`
+  - The actual value per gas deducted from the senders account. Replacement of gas_price after EIP-1559
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
