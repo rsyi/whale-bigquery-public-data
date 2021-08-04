@@ -567,6 +567,7 @@ Deaths COVID-19 cases, aggregated by country/region and province/state. See the 
 * [INTEGER]   `_7_31_21`
 * [INTEGER]   `_8_1_21`
 * [INTEGER]   `_8_2_21`
+* [INTEGER]   `_8_3_21`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
