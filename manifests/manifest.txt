@@ -808,6 +808,7 @@ bq-1/bigquery-public-data.fhir_synthea.organization
 bq-1/bigquery-public-data.fhir_synthea.patient
 bq-1/bigquery-public-data.fhir_synthea.practitioner
 bq-1/bigquery-public-data.fhir_synthea.procedure
+bq-1/bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_
 bq-1/bigquery-public-data.genomics_cannabis.MNPR01_201703
 bq-1/bigquery-public-data.genomics_cannabis.MNPR01_reference_201703
 bq-1/bigquery-public-data.genomics_cannabis.MNPR01_transcriptome_201703
