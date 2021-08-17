@@ -2677,17 +2677,6 @@ bq-1/bigquery-public-data.wikipedia.table_writers
 bq-1/bigquery-public-data.wikipedia.wikidata
 bq-1/bigquery-public-data.wise_all_sky_data_release.all_wise
 bq-1/bigquery-public-data.wise_all_sky_data_release.mep_wise
-bq-1/bigquery-public-data.words.chi_sim_1gram
-bq-1/bigquery-public-data.words.eng_1gram
-bq-1/bigquery-public-data.words.eng_fiction_1gram
-bq-1/bigquery-public-data.words.eng_gb_1gram
-bq-1/bigquery-public-data.words.eng_us_1gram
-bq-1/bigquery-public-data.words.fre_1gram
-bq-1/bigquery-public-data.words.ger_1gram
-bq-1/bigquery-public-data.words.heb_1gram
-bq-1/bigquery-public-data.words.ita_1gram
-bq-1/bigquery-public-data.words.rus_1gram
-bq-1/bigquery-public-data.words.spa_1gram
 bq-1/bigquery-public-data.world_bank_global_population.population_by_country
 bq-1/bigquery-public-data.world_bank_health_population.country_series_definitions
 bq-1/bigquery-public-data.world_bank_health_population.country_summary
