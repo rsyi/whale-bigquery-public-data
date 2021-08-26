@@ -1,5 +1,6 @@
 # `covid19_italy.data_by_region`
 `bq-1` | `bigquery-public-data`
+COVID-19 Italy Data By Region
 
 ## Column details
 * [TIMESTAMP] `date`
