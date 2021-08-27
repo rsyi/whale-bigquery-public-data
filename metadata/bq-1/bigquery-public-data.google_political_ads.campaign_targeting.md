@@ -1,8 +1,6 @@
 # `google_political_ads.campaign_targeting`
 `bq-1` | `bigquery-public-data`
-This table was deprecated and ad-level targeting information was made available in the `google_political_ads.creative_stats` BigQuery table, effective April 2020.
-
-This table contains the information related to ad campaigns run by advertisers.
+This table was deprecated and ad-level targeting information was made available in the `google_political_ads.creative_stats` BigQuery table, effective April 2020. This table contains the information related to ad campaigns run by advertisers.
 
 ## Column details
 * [STRING]    `campaign_id`

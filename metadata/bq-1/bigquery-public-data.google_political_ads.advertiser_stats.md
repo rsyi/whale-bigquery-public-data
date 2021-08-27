@@ -1,16 +1,6 @@
 # `google_political_ads.advertiser_stats`
 `bq-1` | `bigquery-public-data`
-This table contains the information about advertisers who have run an election ad on Google Ads Services with at least one impression. The table's primary key is advertiser_id. This table relates to the others in this dataset, with the following connections between columns:
-
-advertiser_id is referenced from:
-     advertiser_weekly_spend.advertiser_id
-     campaign_targeting.advertiser_id
-     creative_stats.advertiser_id
-
-advertiser_name is referenced from: 
-     advertiser_weekly_spend.advertiser_name
-     campaign_targeting.advertiser_name
-     advertiser_id.advertiser_name
+This table contains the information about advertisers who have run an election ad on Google Ads Services with at least one impression. The table's primary key is advertiser_id. This table relates to the others in this dataset, with the following connections between columns: advertiser_id is referenced from: advertiser_weekly_spend.advertiser_id campaign_targeting.advertiser_id creative_stats.advertiser_id advertiser_name is referenced from: advertiser_weekly_spend.advertiser_name campaign_targeting.advertiser_name advertiser_id.advertiser_name
 
 ## Column details
 * [STRING]    `advertiser_id`

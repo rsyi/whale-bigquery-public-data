@@ -1,10 +1,6 @@
 # `google_political_ads.top_keywords_history`
 `bq-1` | `bigquery-public-data`
-The “Top Keywords” section of the US report was removed and updates to this table were terminated in December 2019. The table reflects historical data.
-
-This table contains the information for the top six keywords on which political
-advertisers have spent money during an election cycle. This data is only
-provided for US elections. The primary key is election_cycle, report_date.
+The “Top Keywords” section of the US report was removed and updates to this table were terminated in December 2019. The table reflects historical data. This table contains the information for the top six keywords on which political advertisers have spent money during an election cycle. This data is only provided for US elections. The primary key is election_cycle, report_date.
 
 ## Column details
 * [STRING]    `election_cycle`
