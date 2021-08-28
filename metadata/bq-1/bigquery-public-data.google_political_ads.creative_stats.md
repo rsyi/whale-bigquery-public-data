@@ -8,7 +8,7 @@ This table contains the information for election ads that have appeared on Googl
 * [STRING]    `ad_url`
   - URL to view the election ad in the election Advertising on Google report.
 * [STRING]    `ad_type`
-  - The type of the ad. Can be TEXT, VIDEO or IMAGE.
+  - The type of the ad. Can be TEXT VIDEO or IMAGE.
 * [STRING]    `regions`
   - The regions that this ad is verified for or were served in.
 * [STRING]    `advertiser_id`
@@ -24,7 +24,7 @@ This table contains the information for election ads that have appeared on Googl
 * [INTEGER]   `num_of_days`
   - Total number of days a election ad ran and had an impression.
 * [STRING]    `impressions`
-  - Number of impressions for the election ad. Impressions are grouped into several buckets: ≤ 10k, 10k–100k, 100k–1M, 1M–10M, > 10M.
+  - Number of impressions for the election ad. Impressions are grouped into several buckets ≤ 10k 10k–100k 100k–1M 1M–10M > 10M.
 * [STRING]    `spend_usd`
   - [DEPRECATED] This field is deprecated in favor of specifying the lower and higher spend bucket bounds in separate Spend_Range_Min and Spend_Range_Max columns.
 * [TIMESTAMP] `first_served_timestamp`

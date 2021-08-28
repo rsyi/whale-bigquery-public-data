@@ -4,11 +4,11 @@ This table contains the information for how much is spent buying election ads on
 
 ## Column details
 * [STRING]    `country`
-  - The country where election ads were served, specified in the ISO 3166-1 alpha-2 standard code. For example: "US" for United States.
+  - The country where election ads were served specified in the ISO 3166-1 alpha-2 standard code. For example "US" for United States.
 * [STRING]    `country_subdivision_primary`
-  - The primary subdivision of the country where election ads were served, specified by the ISO 3166-2 standard code. For example: "US-CA" for California state in United States
+  - The primary subdivision of the country where election ads were served specified by the ISO 3166-2 standard code. For example "US-CA" for California state in United States
 * [STRING]    `country_subdivision_secondary`
-  - The name of the secondary subdivision. For example: The name of a US congressional district.
+  - The name of the secondary subdivision. For example The name of a US congressional district.
 * [INTEGER]   `spend_usd`
   - Total amount in USD spent on election ads in this region.
 * [INTEGER]   `spend_eur`

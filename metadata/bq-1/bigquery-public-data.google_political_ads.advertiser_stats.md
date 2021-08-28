@@ -8,7 +8,7 @@ This table contains the information about advertisers who have run an election a
 * [STRING]    `advertiser_name`
   - Name of advertiser.
 * [STRING]    `public_ids_list`
-  - List of public IDs used to identify the advertiser, if available.
+  - List of public IDs used to identify the advertiser if available.
 * [STRING]    `regions`
   - The list of regions where the ads of this advertiser were served
 * [STRING]    `elections`
