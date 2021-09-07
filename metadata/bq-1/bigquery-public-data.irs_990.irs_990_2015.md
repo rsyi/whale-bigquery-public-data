@@ -1,5 +1,6 @@
 # `irs_990.irs_990_2015`
 `bq-1` | `bigquery-public-data`
+IRS 990 2015 dataset
 
 ## Column details
 * [STRING]    `ein`

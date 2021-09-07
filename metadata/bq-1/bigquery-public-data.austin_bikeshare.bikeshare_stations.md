@@ -1,5 +1,6 @@
 # `austin_bikeshare.bikeshare_stations`
 `bq-1` | `bigquery-public-data`
+Austin Bikeshare Stations table
 
 ## Column details
 * [INTEGER]   `station_id`
@@ -15,7 +16,7 @@
 * [FLOAT]     `footprint_width`
 * [STRING]    `notes`
 * [INTEGER]   `council_district`
-* [DATETIME]  `modified_date`
+* [TIMESTAMP] `modified_date`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
