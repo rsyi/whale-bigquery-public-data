@@ -12,7 +12,7 @@ IRS 990 EZ 2015 dataset
 * [INTEGER]   `subseccd`
   - Subsection code
 * [INTEGER]   `totcntrbs`
-  - Contributions, gifts, grants, etc received
+  - Contributions gifts grants etc received
 * [INTEGER]   `prgmservrev`
   - Program service revenue
 * [INTEGER]   `duesassesmnts`
@@ -62,17 +62,17 @@ IRS 990 EZ 2015 dataset
 * [STRING]    `chngsinorgcd`
   - Significant changes to governing docs?
 * [STRING]    `unrelbusincd`
-  - UBI over $1,000?
+  - UBI over $1000?
 * [STRING]    `filedf990tcd`
   - Organization Filed 990T
 * [STRING]    `contractioncd`
-  - Liquidation, dissolution, termination, or contraction
+  - Liquidation dissolution termination or contraction
 * [INTEGER]   `politicalexpend`
   - Direct or indirect political expenditures
 * [STRING]    `filedf1120polcd`
   - File Form 1120-POL?
 * [STRING]    `loanstoofficerscd`
-  - Loans to/from officers, directors or trustees?
+  - Loans to/from officers directors or trustees?
 * [INTEGER]   `loanstoofficers`
   - Amount of loans to/from officers
 * [INTEGER]   `initiationfee`

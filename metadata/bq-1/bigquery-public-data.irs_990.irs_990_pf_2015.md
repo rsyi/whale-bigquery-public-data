@@ -41,7 +41,7 @@ IRS 990 PF 2015 dataset
 * [INTEGER]   `compofficers`
   - Compensation of officers
 * [INTEGER]   `pensplemplbenf`
-  - Pension plans, employee benefits
+  - Pension plans employee benefits
 * [INTEGER]   `legalfeesamt`
   - Legal fees
 * [INTEGER]   `accountingfees`
@@ -53,13 +53,13 @@ IRS 990 PF 2015 dataset
 * [INTEGER]   `occupancyamt`
   - Occupancy
 * [INTEGER]   `travlconfmtngs`
-  - Travel, conferences, and meetings
+  - Travel conferences and meetings
 * [INTEGER]   `printingpubl`
   - Printing and publications
 * [INTEGER]   `topradmnexpnsa`
   - Total operating and administrative expenses column a
 * [INTEGER]   `contrpdpbks`
-  - Contributions, gifts, grants paid
+  - Contributions gifts grants paid
 * [INTEGER]   `totexpnspbks`
   - Total expenses
 * [INTEGER]   `excessrcpts`
@@ -359,7 +359,7 @@ IRS 990 PF 2015 dataset
 * [STRING]    `perfservicescd`
   - Performance of services or membership or fundraising solicitations?
 * [STRING]    `sharngasstscd`
-  - Sharing of facilities, equipment, mailing lists, other assets, or paid employees?
+  - Sharing of facilities equipment mailing lists other assets or paid employees?
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -16,7 +16,7 @@ IRS 990 PF 2014 dataset
 * [STRING]    `subcd`
   - Subsection code
 * [INTEGER]   `fairmrktvalamt`
-  - Total assets – e-o-y fair market value
+  - Total assets – e-o-y fair market valu
 * [INTEGER]   `grscontrgifts`
   - Contributions received
 * [STRING]    `schedbind`
@@ -24,7 +24,6 @@ IRS 990 PF 2014 dataset
 * [INTEGER]   `intrstrvnue`
   - Interest revenue
 * [INTEGER]   `dividndsamt`
-  - Dividends
 * [INTEGER]   `grsrents`
   - Gross rents
 * [INTEGER]   `grsslspramt`
@@ -40,7 +39,7 @@ IRS 990 PF 2014 dataset
 * [INTEGER]   `compofficers`
   - Compensation of officers
 * [INTEGER]   `pensplemplbenf`
-  - Pension plans, employee benefits
+  - Pension plans employee benefits
 * [INTEGER]   `legalfeesamt`
   - Legal fees
 * [INTEGER]   `accountingfees`
@@ -52,13 +51,13 @@ IRS 990 PF 2014 dataset
 * [INTEGER]   `occupancyamt`
   - Occupancy
 * [INTEGER]   `travlconfmtngs`
-  - Travel, conferences, and meetings
+  - Travel conferences and meetings
 * [INTEGER]   `printingpubl`
   - Printing and publications
 * [INTEGER]   `topradmnexpnsa`
   - Total operating and administrative expenses column a
 * [INTEGER]   `contrpdpbks`
-  - Contributions, gifts, grants paid
+  - Contributions gifts grants paid
 * [INTEGER]   `totexpnspbks`
   - Total expenses
 * [INTEGER]   `excessrcpts`
@@ -144,71 +143,71 @@ IRS 990 PF 2014 dataset
 * [INTEGER]   `crelamt`
   - Credit elect amount
 * [STRING]    `infleg`
-  - Influence legislation question
+  - Influence legislation?
 * [STRING]    `actnotpr`
-  - Activities not previously reported question
+  - Activities not previously reported?
 * [STRING]    `chgnprvrptcd`
-  - Changes not previously reported question
+  - Changes not previously reported?
 * [STRING]    `filedf990tcd`
-  - Filed 990-T question
+  - Filed 990-T?
 * [STRING]    `contractncd`
-  - Contraction question
+  - Contraction?
 * [STRING]    `furnishcpycd`
-  - Furnished copy to Attorney General question
+  - Furnished copy to Attorney General?
 * [STRING]    `claimstatcd`
-  - Claiming status question
+  - Claiming status?
 * [STRING]    `cntrbtrstxyrcd`
-  - Substantial contributors question
+  - Substantial contributors?
 * [STRING]    `acqdrindrintcd`
-  - Acquire interest in applicable insurance contract question
+  - Distribution to donor advised fund with advisory privileges?
 * [STRING]    `orgcmplypubcd`
-  - Comply with public inspection question
+  - Comply with public inspection?
 * [STRING]    `filedlf1041ind`
-  - Section 4947(a)(1) filing in lieu of Form 1041 question
+  - Comply with public inspection?
 * [STRING]    `propexchcd`
-  - Property exchange question
+  - Property exchange?
 * [STRING]    `brwlndmnycd`
-  - Borrow lend money question
+  - Borrow lend money?
 * [STRING]    `furngoodscd`
-  - Furnished goods question
+  - Furnished goods?
 * [STRING]    `paidcmpncd`
-  - Paid compensation question
+  - Paid compensation?
 * [STRING]    `transfercd`
-  - Transfer question
+  - Transfer?
 * [STRING]    `agremkpaycd`
-  - Agree to make pay question
+  - Agree to make pay?
 * [STRING]    `exceptactsind`
-  - Acts fail to qualify under section 53.4941(d)-3 question
+  - Acts fail to qualify under section 53.4941(d)-3?
 * [STRING]    `prioractvcd`
-  - Engage in acts in prior year question
+  - Engage in acts in prior year?
 * [STRING]    `undistrinccd`
-  - Undistributed income question
+  - Undistributed income?
 * [STRING]    `applyprovind`
-  - Not applying section 4942(a)(2) provisions question
+  - Not applying section 4942(a)(2) provisions?
 * [STRING]    `dirindirintcd`
-  - Direct indirect interest question
+  - Direct indirect interest?
 * [STRING]    `excesshldcd`
-  - Excess business holdings question
+  - Excess business holdings?
 * [STRING]    `invstjexmptcd`
-  - Jeopardizing investments question
+  - Jeopardizing investments?
 * [STRING]    `prevjexmptcd`
-  - Prior year jeopardizing investments question
+  - Prior year jeopardizing investments?
 * [STRING]    `propgndacd`
-  - Propaganda question
+  - Propaganda?
 * [STRING]    `ipubelectcd`
-  - Influence public election question
+  - Influence public election?
 * [STRING]    `grntindivcd`
-  - Grant individual question
+  - Grant individual?
 * [STRING]    `nchrtygrntcd`
-  - Non-charity grant question
+  - Non-charity grant?
 * [STRING]    `nreligiouscd`
-  - Non-religious question
+  - Non-religious?
 * [STRING]    `excptransind`
-  - Transactions fail to qualify under section 53.4945 question
+  - Transactions fail to qualify under section 53.4945?
 * [STRING]    `rfprsnlbnftind`
-  - Receive funds to pay premiums on personal benefit contract question
+  - Receive funds to pay premiums on personal benefit contract?
 * [STRING]    `pyprsnlbnftind`
-  - Pay premiums on personal benefit contract question
+  - Pay premiums on personal benefit contract?
 * [INTEGER]   `tfairmrktunuse`
   - Fair market value of assets not used for charitable purposes
 * [INTEGER]   `valncharitassets`
@@ -342,23 +341,23 @@ IRS 990 PF 2014 dataset
 * [INTEGER]   `dvdndsinte`
   - Dividends and interest from securities (exempt)
 * [STRING]    `trnsfrcashcd`
-  - Transfer cash to noncharitable exempt organization question
+  - Transfer cash to noncharitable exempt organization?
 * [STRING]    `trnsothasstscd`
-  - Transfer other assets to noncharitable exempt organization question
+  - Transfer other assets to noncharitable exempt organization?
 * [STRING]    `salesasstscd`
-  - Sale of assets to noncharitable exempt organization question
+  - Sale of assets to noncharitable exempt organization?
 * [STRING]    `prchsasstscd`
-  - Purchase of assets from noncharitable exempt organization question
+  - Purchase of assets from noncharitable exempt organization?
 * [STRING]    `rentlsfacltscd`
-  - Rental of facilities or other assets question
+  - Rental of facilities or other assets?
 * [STRING]    `reimbrsmntscd`
-  - Reimbursements arrangements question
+  - Reimbursements arrangements?
 * [STRING]    `loansguarcd`
-  - Loans or other guarantees question
+  - Loans or other guarantees?
 * [STRING]    `perfservicescd`
-  - Performance of services or membership or fundraising solicitations question
+  - Performance of services or membership or fundraising solicitations?
 * [STRING]    `sharngasstscd`
-  - Sharing of facilities, equipment, mailing lists, other assets, or paid employees question
+  - Sharing of facilities equipment mailing lists other assets or paid employees?
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
