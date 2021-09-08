@@ -1577,6 +1577,7 @@ bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chrX
 bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chrY
 bq-1/bigquery-public-data.google_ads.geotargets
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
+bq-1/bigquery-public-data.google_cfe.datacenter_cfe
 bq-1/bigquery-public-data.google_cloud_release_notes.release_notes
 bq-1/bigquery-public-data.google_dei.dar_intersectional_attrition
 bq-1/bigquery-public-data.google_dei.dar_intersectional_hiring
