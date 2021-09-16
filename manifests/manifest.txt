@@ -957,7 +957,6 @@ bq-1/bigquery-public-data.geo_us_boundaries.congress_district_115
 bq-1/bigquery-public-data.geo_us_boundaries.congress_district_116
 bq-1/bigquery-public-data.geo_us_boundaries.counties
 bq-1/bigquery-public-data.geo_us_boundaries.csa
-bq-1/bigquery-public-data.geo_us_boundaries.designated_market_area
 bq-1/bigquery-public-data.geo_us_boundaries.metropolitan_divisions
 bq-1/bigquery-public-data.geo_us_boundaries.national_outline
 bq-1/bigquery-public-data.geo_us_boundaries.nws_forecast_regions
