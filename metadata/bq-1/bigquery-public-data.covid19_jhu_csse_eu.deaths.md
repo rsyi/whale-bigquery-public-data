@@ -7,7 +7,7 @@ Confirmed COVID-19 deaths, aggregated by country/region and province/state. See 
 * [STRING]    `country_region`
 * [FLOAT]     `latitude`
 * [FLOAT]     `longitude`
-* [STRING]    `location_geom`
+* [GEOGRAPHY] `location_geom`
 * [INTEGER]   `_1_22_20`
 * [INTEGER]   `_1_23_20`
 * [INTEGER]   `_1_24_20`
@@ -618,6 +618,7 @@ Confirmed COVID-19 deaths, aggregated by country/region and province/state. See 
 * [INTEGER]   `_9_20_21`
 * [INTEGER]   `_9_21_21`
 * [INTEGER]   `_9_22_21`
+* [INTEGER]   `_9_23_21`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
