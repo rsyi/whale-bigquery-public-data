@@ -1576,6 +1576,11 @@ bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chrX
 bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chrY
 bq-1/bigquery-public-data.google_ads.geotargets
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
+bq-1/bigquery-public-data.google_books_ngrams_2020.eng_1
+bq-1/bigquery-public-data.google_books_ngrams_2020.eng_2
+bq-1/bigquery-public-data.google_books_ngrams_2020.eng_3
+bq-1/bigquery-public-data.google_books_ngrams_2020.eng_4
+bq-1/bigquery-public-data.google_books_ngrams_2020.eng_5
 bq-1/bigquery-public-data.google_cfe.datacenter_cfe
 bq-1/bigquery-public-data.google_cloud_release_notes.release_notes
 bq-1/bigquery-public-data.google_dei.dar_intersectional_attrition
