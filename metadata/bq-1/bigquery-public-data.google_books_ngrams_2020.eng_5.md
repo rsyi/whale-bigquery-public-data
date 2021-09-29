@@ -10,6 +10,7 @@
 * [INTEGER]   `years.year`
 * [INTEGER]   `years.term_frequency`
 * [INTEGER]   `years.document_frequency`
+* [BOOLEAN]   `has_tag`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
