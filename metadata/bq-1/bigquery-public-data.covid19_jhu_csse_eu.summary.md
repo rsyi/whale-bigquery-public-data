@@ -10,7 +10,7 @@
 * [GEOGRAPHY] `location_geom`
 * [INTEGER]   `confirmed`
 * [INTEGER]   `deaths`
-* [STRING]    `recovered`
+* [INTEGER]   `recovered`
 * [INTEGER]   `active`
 * [STRING]    `fips`
 * [STRING]    `admin2`
