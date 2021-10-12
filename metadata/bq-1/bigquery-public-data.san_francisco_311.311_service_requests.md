@@ -1,5 +1,6 @@
 # `san_francisco_311.311_service_requests`
 `bq-1` | `bigquery-public-data`
+san_francisco_311
 
 ## Column details
 * [INTEGER]   `unique_key`

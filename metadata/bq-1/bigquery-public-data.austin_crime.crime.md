@@ -1,5 +1,6 @@
 # `austin_crime.crime`
 `bq-1` | `bigquery-public-data`
+Austin Crime table
 
 ## Column details
 * [INTEGER]   `unique_key`

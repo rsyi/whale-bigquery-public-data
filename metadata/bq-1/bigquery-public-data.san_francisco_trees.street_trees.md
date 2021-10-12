@@ -1,5 +1,6 @@
 # `san_francisco_trees.street_trees`
 `bq-1` | `bigquery-public-data`
+San Francisco street trees table
 
 ## Column details
 * [INTEGER]   `tree_id`
