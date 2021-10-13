@@ -1,6 +1,5 @@
 # `new_york.citibike_stations`
 `bq-1` | `bigquery-public-data`
-Citibike Stations
 
 ## Column details
 * [INTEGER]   `station_id`
@@ -12,13 +11,14 @@ Citibike Stations
 * [FLOAT]     `latitude`
   - The latitude of station. The field value must be a valid WGS 84 latitude in decimal degrees format.
 * [FLOAT]     `longitude`
-  - The longitude of station. The field value must be a valid WGS 84 longitude in decimal degrees format.
+  - The longitude of station. The field value must be a valid WGS 84 latitude in decimal degrees format.
 * [INTEGER]   `region_id`
   - ID of the region where station is located.
 * [STRING]    `rental_methods`
   - Array of enumerables containing the payment methods accepted at this station.
 * [INTEGER]   `capacity`
   - ANumber of total docking points installed at this station, both available and unavailable.
+* [BOOLEAN]   `eightd_has_key_dispenser`
 * [INTEGER]   `num_bikes_available`
   - Number of bikes available for rental.
 * [INTEGER]   `num_bikes_disabled`
@@ -33,10 +33,9 @@ Citibike Stations
   - Is the station currently renting bikes?
 * [BOOLEAN]   `is_returning`
   - Is the station accepting bike returns?
-* [TIMESTAMP] `last_reported`
-  - Timestamp indicating the last time this station reported its status to the backend
 * [BOOLEAN]   `eightd_has_available_keys`
-* [BOOLEAN]   `eightd_has_key_dispenser`
+* [TIMESTAMP] `last_reported`
+  - Timestamp indicating the last time this station reported its status to the backend, in NYC local time.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

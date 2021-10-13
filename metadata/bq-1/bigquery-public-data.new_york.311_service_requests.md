@@ -1,5 +1,6 @@
 # `new_york.311_service_requests`
 `bq-1` | `bigquery-public-data`
+NYC 311 service requests logs
 
 ## Column details
 * [INTEGER]   `unique_key`
@@ -31,17 +32,8 @@
 * [INTEGER]   `y_coordinate`
 * [STRING]    `park_facility_name`
 * [STRING]    `park_borough`
-* [STRING]    `school_name`
-* [STRING]    `school_number`
-* [STRING]    `school_region`
-* [STRING]    `school_code`
-* [STRING]    `school_phone_number`
-* [STRING]    `school_address`
-* [STRING]    `school_city`
-* [STRING]    `school_state`
-* [STRING]    `school_zip`
-* [STRING]    `school_not_found`
-* [STRING]    `school_or_citywide_complaint`
+* [INTEGER]   `bbl`
+* [STRING]    `open_data_channel_type`
 * [STRING]    `vehicle_type`
 * [STRING]    `taxi_company_borough`
 * [STRING]    `taxi_pickup_location`
@@ -49,9 +41,6 @@
 * [STRING]    `bridge_highway_direction`
 * [STRING]    `road_ramp`
 * [STRING]    `bridge_highway_segment`
-* [STRING]    `garage_lot_name`
-* [STRING]    `ferry_direction`
-* [STRING]    `ferry_terminal_name`
 * [FLOAT]     `latitude`
 * [FLOAT]     `longitude`
 * [STRING]    `location`

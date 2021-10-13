@@ -24,7 +24,7 @@ San Francisco street trees table
 * [TIMESTAMP] `plant_date`
   - Date tree was planted
 * [STRING]    `dbh`
-  - depth, height
+  - depth height
 * [STRING]    `plot_size`
   - dimension of tree plot
 * [STRING]    `permit_notes`
