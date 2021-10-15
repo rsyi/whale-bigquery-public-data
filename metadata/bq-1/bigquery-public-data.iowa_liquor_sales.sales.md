@@ -1,5 +1,6 @@
 # `iowa_liquor_sales.sales`
 `bq-1` | `bigquery-public-data`
+Sales Dataset
 
 ## Column details
 * [STRING]    `invoice_and_item_number`

@@ -1,5 +1,6 @@
 # `san_francisco_film_locations.film_locations`
 `bq-1` | `bigquery-public-data`
+If you love movies, and you love San Francisco, you're bound to love this -- a listing of filming locations of movies shot in San Francisco starting from 1924. You'll find the titles, locations, fun facts, names of the director, writer, actors, and studio for most of these films.
 
 ## Column details
 * [STRING]    `title`
