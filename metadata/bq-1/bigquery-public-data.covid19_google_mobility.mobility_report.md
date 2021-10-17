@@ -18,17 +18,17 @@ Terms of use By downloading or using the data, you agree to Google's Terms of Se
 * [STRING]    `census_fips_code`
   - Unique identifier for each US county as defined by the US Census Bureau. Maps to county_fips_code in other tables
 * [STRING]    `place_id`
-  - A textual identifier that uniquely identifies a place in the Google Places database and on Google Maps (details). For example, ChIJd_Y0eVIvkIARuQyDN0F1LBA. For details, see the following link: https://developers.google.com/places/web-service/place-id
+  - A textual identifier that uniquely identifies a place in the Google Places database and on Google Maps (details). For example ChIJd_Y0eVIvkIARuQyDN0F1LBA. For details see the following link: https://developers.google.com/places/web-service/place-id
 * [DATE]      `date`
-  - Changes for a given date as compared to baseline. Baseline is the median value, for the corresponding day of the week, during the 5-week period Jan 3–Feb 6, 2020.
+  - Changes for a given date as compared to baseline. Baseline is the median value for the corresponding day of the week during the 5-week period Jan 3–Feb 6 2020.
 * [INTEGER]   `retail_and_recreation_percent_change_from_baseline`
-  - Mobility trends for places like restaurants, cafes, shopping centers, theme parks, museums, libraries, and movie theaters.
+  - Mobility trends for places like restaurants cafes shopping centers theme parks museums libraries and movie theaters.
 * [INTEGER]   `grocery_and_pharmacy_percent_change_from_baseline`
-  - Mobility trends for places like grocery markets, food warehouses, farmers markets, specialty food shops, drug stores, and pharmacies.
+  - Mobility trends for places like grocery markets food warehouses farmers markets specialty food shops drug stores and pharmacies.
 * [INTEGER]   `parks_percent_change_from_baseline`
-  - Mobility trends for places like local parks, national parks, public beaches, marinas, dog parks, plazas, and public gardens.
+  - Mobility trends for places like local parks national parks public beaches marinas dog parks plazas and public gardens.
 * [INTEGER]   `transit_stations_percent_change_from_baseline`
-  - Mobility trends for places like public transport hubs such as subway, bus, and train stations.
+  - Mobility trends for places like public transport hubs such as subway bus and train stations.
 * [INTEGER]   `workplaces_percent_change_from_baseline`
   - Mobility trends for places of work.
 * [INTEGER]   `residential_percent_change_from_baseline`
