@@ -48,9 +48,9 @@ Sales Dataset
 * [FLOAT]     `sale_dollars`
   - Total cost of liquor order (number of bottles multiplied by the state bottle retail)
 * [FLOAT]     `volume_sold_liters`
-  - Total volume of liquor ordered in liters. (i.e. (Bottle Volume (ml) x Bottles Sold)/1,000)
+  - Total volume of liquor ordered in liters. (i.e. (Bottle Volume (ml) x Bottles Sold)/1,000)"
 * [FLOAT]     `volume_sold_gallons`
-  - Total volume of liquor ordered in gallons. (i.e. (Bottle Volume (ml) x Bottles Sold)/3785.411784)
+  - Total volume of liquor ordered in gallons. (i.e. (Bottle Volume (ml) x Bottles Sold)/3785.411784)"
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
