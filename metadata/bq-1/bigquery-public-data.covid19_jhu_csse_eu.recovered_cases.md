@@ -651,6 +651,7 @@ Confirmed COVID-19 recoveries, aggregated by country/region and province/state. 
 * [INTEGER]   `_10_23_21`
 * [INTEGER]   `_10_24_21`
 * [INTEGER]   `_10_25_21`
+* [INTEGER]   `_10_26_21`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
