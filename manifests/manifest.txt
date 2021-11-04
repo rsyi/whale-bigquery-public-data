@@ -578,7 +578,6 @@ bq-1/bigquery-public-data.crypto_dogecoin.blocks
 bq-1/bigquery-public-data.crypto_dogecoin.inputs
 bq-1/bigquery-public-data.crypto_dogecoin.outputs
 bq-1/bigquery-public-data.crypto_dogecoin.transactions
-bq-1/bigquery-public-data.crypto_dogecoin.transactions-2021-11-03T02_33_03
 bq-1/bigquery-public-data.crypto_ethereum.amended_tokens
 bq-1/bigquery-public-data.crypto_ethereum.balances
 bq-1/bigquery-public-data.crypto_ethereum.blocks
@@ -1737,6 +1736,7 @@ bq-1/bigquery-public-data.london_bicycles.cycle_hire
 bq-1/bigquery-public-data.london_bicycles.cycle_hire-2021-11-02T00_41_57
 bq-1/bigquery-public-data.london_bicycles.cycle_stations
 bq-1/bigquery-public-data.london_crime.crime_by_lsoa
+bq-1/bigquery-public-data.london_crime.crime_by_lsoa-2021-11-04T02_38_06
 bq-1/bigquery-public-data.london_fire_brigade.fire_brigade_service_calls
 bq-1/bigquery-public-data.medicare.inpatient_charges_2011
 bq-1/bigquery-public-data.medicare.inpatient_charges_2012
@@ -2581,6 +2581,7 @@ bq-1/bigquery-public-data.noaa_preliminary_severe_storms.hail_reports
 bq-1/bigquery-public-data.noaa_preliminary_severe_storms.tornado_reports
 bq-1/bigquery-public-data.noaa_preliminary_severe_storms.wind_reports
 bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes
+bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes-2021-11-03T23_51_51
 bq-1/bigquery-public-data.noaa_tsunami.historical_runups
 bq-1/bigquery-public-data.noaa_tsunami.historical_source_event
 bq-1/bigquery-public-data.nppes.healthcare_provider_taxonomy_code_set
