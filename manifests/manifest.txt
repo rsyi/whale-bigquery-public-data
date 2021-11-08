@@ -488,6 +488,7 @@ bq-1/bigquery-public-data.covid19_jhu_csse.confirmed_cases
 bq-1/bigquery-public-data.covid19_jhu_csse.deaths
 bq-1/bigquery-public-data.covid19_jhu_csse.recovered_cases
 bq-1/bigquery-public-data.covid19_jhu_csse.summary
+bq-1/bigquery-public-data.covid19_jhu_csse.summary-2021-11-07T22_16_40
 bq-1/bigquery-public-data.covid19_jhu_csse_eu.confirmed_cases
 bq-1/bigquery-public-data.covid19_jhu_csse_eu.deaths
 bq-1/bigquery-public-data.covid19_jhu_csse_eu.recovered_cases
@@ -1651,6 +1652,7 @@ bq-1/bigquery-public-data.google_political_ads.advertiser_declared_stats
 bq-1/bigquery-public-data.google_political_ads.advertiser_geo_spend
 bq-1/bigquery-public-data.google_political_ads.advertiser_stats
 bq-1/bigquery-public-data.google_political_ads.advertiser_weekly_spend
+bq-1/bigquery-public-data.google_political_ads.advertiser_weekly_spend-2021-11-07T17_48_49
 bq-1/bigquery-public-data.google_political_ads.campaign_targeting
 bq-1/bigquery-public-data.google_political_ads.creative_stats
 bq-1/bigquery-public-data.google_political_ads.geo_spend
