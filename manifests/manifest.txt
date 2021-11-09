@@ -588,6 +588,7 @@ bq-1/bigquery-public-data.crypto_ethereum.token_transfers
 bq-1/bigquery-public-data.crypto_ethereum.tokens
 bq-1/bigquery-public-data.crypto_ethereum.traces
 bq-1/bigquery-public-data.crypto_ethereum.transactions
+bq-1/bigquery-public-data.crypto_ethereum.transactions-2021-11-09T17_24_06
 bq-1/bigquery-public-data.crypto_ethereum_classic.balances
 bq-1/bigquery-public-data.crypto_ethereum_classic.blocks
 bq-1/bigquery-public-data.crypto_ethereum_classic.contracts
