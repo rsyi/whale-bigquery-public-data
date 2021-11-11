@@ -2590,6 +2590,7 @@ bq-1/bigquery-public-data.noaa_preliminary_severe_storms.wind_reports
 bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes
 bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes-2021-11-03T23_51_51
 bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes-2021-11-07T17_18_30
+bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes-2021-11-10T21_36_39
 bq-1/bigquery-public-data.noaa_tsunami.historical_runups
 bq-1/bigquery-public-data.noaa_tsunami.historical_source_event
 bq-1/bigquery-public-data.nppes.healthcare_provider_taxonomy_code_set
