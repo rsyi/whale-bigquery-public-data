@@ -608,7 +608,6 @@ bq-1/bigquery-public-data.crypto_zcash.outputs
 bq-1/bigquery-public-data.crypto_zcash.transactions
 bq-1/bigquery-public-data.cymbal_investments.trade_capture_report
 bq-1/bigquery-public-data.cymbal_investments.trade_capture_report-2021-11-05T22_32_34
-bq-1/bigquery-public-data.cymbal_investments.trade_capture_report-2021-11-06T16_24_01
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_corr_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_index_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_match_v_0_4
