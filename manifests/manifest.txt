@@ -560,6 +560,7 @@ bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_transi
 bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_walk
 bq-1/bigquery-public-data.covid19_vaccination_search_insights.covid19_vaccination_search_insights
 bq-1/bigquery-public-data.covid19_vaccination_search_insights.covid19_vaccination_search_insights-2021-11-11T12_04_27
+bq-1/bigquery-public-data.covid19_vaccination_search_insights.covid19_vaccination_search_insights-2021-11-12T11_26_18
 bq-1/bigquery-public-data.covid19_weathersource_com.county_day_forecast
 bq-1/bigquery-public-data.covid19_weathersource_com.county_day_history
 bq-1/bigquery-public-data.covid19_weathersource_com.postal_code_day_forecast
