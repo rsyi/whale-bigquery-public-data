@@ -1,5 +1,6 @@
 # `bls.cpi_u`
 `bq-1` | `bigquery-public-data`
+CPI_U Dataset
 
 ## Column details
 * [STRING]    `series_id`

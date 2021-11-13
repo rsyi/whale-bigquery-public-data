@@ -1,5 +1,6 @@
 # `sunroof_solar.solar_potential_by_censustract`
 `bq-1` | `bigquery-public-data`
+Sunroof Solar Potential By Census Tract
 
 ## Column details
 * [STRING]    `region_name`

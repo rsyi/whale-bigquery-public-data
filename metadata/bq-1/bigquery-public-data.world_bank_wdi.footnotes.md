@@ -1,5 +1,6 @@
 # `world_bank_wdi.footnotes`
 `bq-1` | `bigquery-public-data`
+Footnotes table
 
 ## Column details
 * [STRING]    `country_code`

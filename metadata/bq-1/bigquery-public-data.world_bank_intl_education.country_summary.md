@@ -1,5 +1,6 @@
 # `world_bank_intl_education.country_summary`
 `bq-1` | `bigquery-public-data`
+Country Summary table
 
 ## Column details
 * [STRING]    `country_code`
