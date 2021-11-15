@@ -1,6 +1,5 @@
-# `chicago_crime.crime`
+# `chicago_crime.snapshot-of-crime`
 `bq-1` | `bigquery-public-data`
-Chicago Crime dataset
 
 ## Column details
 * [INTEGER]   `unique_key`
