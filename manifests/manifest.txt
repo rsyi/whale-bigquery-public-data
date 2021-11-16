@@ -2671,6 +2671,7 @@ bq-1/bigquery-public-data.san_francisco_trees.street_trees
 bq-1/bigquery-public-data.sdoh_bea_cainc30.fips
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality-2021-11-10T17_04_24
+bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality-2021-11-16T13_11_46
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_abnormal_conditions
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_congenital_abnormalities
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_father_race
