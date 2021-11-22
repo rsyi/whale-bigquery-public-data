@@ -1592,6 +1592,7 @@ bq-1/bigquery-public-data.google_ads.geotargets
 bq-1/bigquery-public-data.google_ads.geotargets-2021-11-14T13_31_52
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-11-14T17_55_21
+bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-11-21T19_39_45
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_1
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_2
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_3
