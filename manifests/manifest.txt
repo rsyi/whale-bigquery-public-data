@@ -1648,6 +1648,7 @@ bq-1/bigquery-public-data.google_books_ngrams_2020.spa_5
 bq-1/bigquery-public-data.google_cfe.datacenter_cfe
 bq-1/bigquery-public-data.google_cloud_release_notes.release_notes
 bq-1/bigquery-public-data.google_cloud_release_notes.release_notes-2021-11-05T01_06_02
+bq-1/bigquery-public-data.google_cloud_release_notes.release_notes-2021-11-23T03_50_00
 bq-1/bigquery-public-data.google_dei.dar_intersectional_attrition
 bq-1/bigquery-public-data.google_dei.dar_intersectional_hiring
 bq-1/bigquery-public-data.google_dei.dar_intersectional_representation
