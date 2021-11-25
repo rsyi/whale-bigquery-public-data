@@ -1895,6 +1895,7 @@ bq-1/bigquery-public-data.new_york_311.311_service_requests
 bq-1/bigquery-public-data.new_york_citibike.citibike_stations
 bq-1/bigquery-public-data.new_york_citibike.citibike_stations-2021-11-01T11_56_31
 bq-1/bigquery-public-data.new_york_citibike.citibike_trips
+bq-1/bigquery-public-data.new_york_citibike.citibike_trips-2021-11-25T11_18_09
 bq-1/bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions
 bq-1/bigquery-public-data.new_york_subway.geo_nyc_borough_boundaries
 bq-1/bigquery-public-data.new_york_subway.routes
