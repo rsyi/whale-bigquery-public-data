@@ -3,7 +3,6 @@ bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-03T08_52_25
 bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-12T14_28_57
 bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-14T15_52_54
 bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-15T16_50_12
-bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-30T15_17_57-tester-del-me
 bq-1/bigquery-public-data.austin_311.311_service_requests-delme
 bq-1/bigquery-public-data.austin_bikeshare.bikeshare_stations
 bq-1/bigquery-public-data.austin_bikeshare.bikeshare_stations-2021-11-03T13_04_16
@@ -1912,6 +1911,8 @@ bq-1/bigquery-public-data.new_york_subway.stop_times
 bq-1/bigquery-public-data.new_york_subway.subway_ridership_2013_present
 bq-1/bigquery-public-data.new_york_subway.trips
 bq-1/bigquery-public-data.new_york_taxi_trips.taxi_zone_geom
+bq-1/bigquery-public-data.new_york_taxi_trips.taxi_zone_geom-2021-11-30T20_37_05
+bq-1/bigquery-public-data.new_york_taxi_trips.taxi_zone_geom_ss
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_fhv_trips_2015
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_fhv_trips_2016
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_fhv_trips_2017
