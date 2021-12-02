@@ -1678,7 +1678,6 @@ bq-1/bigquery-public-data.google_political_ads.top_keywords_history
 bq-1/bigquery-public-data.google_trends.top_rising_terms
 bq-1/bigquery-public-data.google_trends.top_terms
 bq-1/bigquery-public-data.hacker_news.comments
-bq-1/bigquery-public-data.hacker_news.comments-2021-11-30T16_44_49-delme
 bq-1/bigquery-public-data.hacker_news.full
 bq-1/bigquery-public-data.hacker_news.full_201510
 bq-1/bigquery-public-data.hacker_news.stories
