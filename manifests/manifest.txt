@@ -2675,6 +2675,7 @@ bq-1/bigquery-public-data.noaa_lightning.lightning_2016
 bq-1/bigquery-public-data.noaa_lightning.lightning_2017
 bq-1/bigquery-public-data.noaa_lightning.lightning_2018
 bq-1/bigquery-public-data.noaa_lightning.lightning_2019
+bq-1/bigquery-public-data.noaa_lightning.lightning_2019-2021-12-02T17_07_41
 bq-1/bigquery-public-data.noaa_lightning.lightning_2020
 bq-1/bigquery-public-data.noaa_passive_acoustic_index.nrs_metadata
 bq-1/bigquery-public-data.noaa_passive_acoustic_index.sanctsound_metadata
