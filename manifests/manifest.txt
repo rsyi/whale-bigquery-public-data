@@ -2736,6 +2736,7 @@ bq-1/bigquery-public-data.samples.gsod
 bq-1/bigquery-public-data.samples.gsod-2021-11-03T12_14_12
 bq-1/bigquery-public-data.samples.natality
 bq-1/bigquery-public-data.samples.shakespeare
+bq-1/bigquery-public-data.samples.shakespeare-2021-12-03T15_03_24
 bq-1/bigquery-public-data.samples.trigrams
 bq-1/bigquery-public-data.samples.wikipedia
 bq-1/bigquery-public-data.samples.wikipedia-2021-11-13T09_56_55
