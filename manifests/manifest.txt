@@ -624,6 +624,7 @@ bq-1/bigquery-public-data.eclipse_megamovie.astrometry_index_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_match_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_rdls_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.photos_v_0_1
+bq-1/bigquery-public-data.eclipse_megamovie.photos_v_0_1-2021-12-04T22_53_35
 bq-1/bigquery-public-data.eclipse_megamovie.photos_v_0_2
 bq-1/bigquery-public-data.eclipse_megamovie.photos_v_0_3
 bq-1/bigquery-public-data.epa_historical_air_quality.air_quality_annual_summary
