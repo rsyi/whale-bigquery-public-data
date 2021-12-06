@@ -578,6 +578,7 @@ bq-1/bigquery-public-data.crypto_bitcoin.inputs
 bq-1/bigquery-public-data.crypto_bitcoin.outputs
 bq-1/bigquery-public-data.crypto_bitcoin.transactions
 bq-1/bigquery-public-data.crypto_bitcoin.transactions-2021-10-28T23_18_45
+bq-1/bigquery-public-data.crypto_bitcoin.transactions-2021-12-06T15_33_15
 bq-1/bigquery-public-data.crypto_bitcoin_cash.blocks
 bq-1/bigquery-public-data.crypto_bitcoin_cash.blocks-2021-12-01T12_17_49
 bq-1/bigquery-public-data.crypto_bitcoin_cash.inputs
