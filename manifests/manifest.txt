@@ -463,6 +463,7 @@ bq-1/bigquery-public-data.covid19_aha.hospital_beds
 bq-1/bigquery-public-data.covid19_aha.staffing
 bq-1/bigquery-public-data.covid19_ecdc.covid_19_geographic_distribution_worldwide
 bq-1/bigquery-public-data.covid19_ecdc_eu.covid_19_geographic_distribution_worldwide
+bq-1/bigquery-public-data.covid19_ecdc_eu.covid_19_geographic_distribution_worldwide-2021-12-06T20_15_00
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.airport_traffic
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.city_congestion
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.commercial_traffic
