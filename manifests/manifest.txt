@@ -1379,6 +1379,7 @@ bq-1/bigquery-public-data.ghcn_m.ghcnm_tmin
 bq-1/bigquery-public-data.ghcn_m.ghcnm_tmin_stations
 bq-1/bigquery-public-data.github_repos.commits
 bq-1/bigquery-public-data.github_repos.contents
+bq-1/bigquery-public-data.github_repos.contents-2021-12-08T07_23_13
 bq-1/bigquery-public-data.github_repos.files
 bq-1/bigquery-public-data.github_repos.languages
 bq-1/bigquery-public-data.github_repos.licenses
@@ -1605,6 +1606,7 @@ bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-11-14T17_55_21
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-11-21T19_39_45
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-12-07T23_47_24
+bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-12-08T14_19_57
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_1
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_2
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_3
