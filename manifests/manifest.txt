@@ -403,6 +403,7 @@ bq-1/bigquery-public-data.census_utility.lsad_codes
 bq-1/bigquery-public-data.census_utility.mtfcc_feature_class_codes
 bq-1/bigquery-public-data.cfpb_complaints.complaint_database
 bq-1/bigquery-public-data.chicago_crime.crime
+bq-1/bigquery-public-data.chicago_crime.crime-2021-12-08T12_37_02
 bq-1/bigquery-public-data.chicago_crime.snapshot-of-crime
 bq-1/bigquery-public-data.chicago_taxi_trips.taxi_trips
 bq-1/bigquery-public-data.cloud_storage_geo_index.landsat_index
@@ -681,6 +682,7 @@ bq-1/bigquery-public-data.faa.us_airports
 bq-1/bigquery-public-data.fcc_political_ads.broadcast_tv_radio_station
 bq-1/bigquery-public-data.fcc_political_ads.content_info
 bq-1/bigquery-public-data.fcc_political_ads.file_history
+bq-1/bigquery-public-data.fcc_political_ads.file_history-2021-12-08T13_44_29
 bq-1/bigquery-public-data.fcc_political_ads.file_record
 bq-1/bigquery-public-data.fda_drug.drug_enforcement
 bq-1/bigquery-public-data.fda_drug.drug_label
