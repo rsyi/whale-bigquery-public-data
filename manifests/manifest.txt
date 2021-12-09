@@ -466,6 +466,7 @@ bq-1/bigquery-public-data.covid19_ecdc.covid_19_geographic_distribution_worldwid
 bq-1/bigquery-public-data.covid19_ecdc_eu.covid_19_geographic_distribution_worldwide
 bq-1/bigquery-public-data.covid19_ecdc_eu.covid_19_geographic_distribution_worldwide-2021-12-06T20_15_00
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.airport_traffic
+bq-1/bigquery-public-data.covid19_geotab_mobility_impact.airport_traffic-2021-12-08T20_45_02
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.city_congestion
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.commercial_traffic
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.commercial_traffic_by_industry
