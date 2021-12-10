@@ -501,7 +501,6 @@ bq-1/bigquery-public-data.covid19_jhu_csse.confirmed_cases-2021-12-05T19_31_43
 bq-1/bigquery-public-data.covid19_jhu_csse.deaths
 bq-1/bigquery-public-data.covid19_jhu_csse.recovered_cases
 bq-1/bigquery-public-data.covid19_jhu_csse.summary
-bq-1/bigquery-public-data.covid19_jhu_csse.summary-2021-11-07T22_16_40
 bq-1/bigquery-public-data.covid19_jhu_csse_eu.confirmed_cases
 bq-1/bigquery-public-data.covid19_jhu_csse_eu.deaths
 bq-1/bigquery-public-data.covid19_jhu_csse_eu.recovered_cases
@@ -2563,6 +2562,7 @@ bq-1/bigquery-public-data.noaa_gsod.gsod2019
 bq-1/bigquery-public-data.noaa_gsod.gsod2020
 bq-1/bigquery-public-data.noaa_gsod.gsod2020-2021-11-28T21_02_22
 bq-1/bigquery-public-data.noaa_gsod.gsod2020-2021-11-28T21_02_43
+bq-1/bigquery-public-data.noaa_gsod.gsod2020-2021-12-09T11_37_47
 bq-1/bigquery-public-data.noaa_gsod.gsod2021
 bq-1/bigquery-public-data.noaa_gsod.stations
 bq-1/bigquery-public-data.noaa_gsod.weather_test_google
