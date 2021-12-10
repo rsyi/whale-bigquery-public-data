@@ -151,6 +151,7 @@ bq-1/bigquery-public-data.bls_qcew.2018_q4
 bq-1/bigquery-public-data.bls_qcew.2019_q1
 bq-1/bigquery-public-data.bls_qcew.2019_q2
 bq-1/bigquery-public-data.breathe.arxiv
+bq-1/bigquery-public-data.breathe.arxiv-2021-12-09T22_46_31
 bq-1/bigquery-public-data.breathe.bioasq
 bq-1/bigquery-public-data.breathe.biorxiv
 bq-1/bigquery-public-data.breathe.bmj
@@ -2828,6 +2829,7 @@ bq-1/bigquery-public-data.stackoverflow.votes
 bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_censustract
 bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_postal_code
 bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_postal_code-2021-12-01T22_34_54
+bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_postal_code-2021-12-09T20_47_59
 bq-1/bigquery-public-data.the_met.images
 bq-1/bigquery-public-data.the_met.objects
 bq-1/bigquery-public-data.the_met.vision_api_data
