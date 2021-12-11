@@ -514,6 +514,7 @@ bq-1/bigquery-public-data.covid19_open_data.compatibility_view
 bq-1/bigquery-public-data.covid19_open_data.covid19_open_data
 bq-1/bigquery-public-data.covid19_open_data_eu.compatibility_view
 bq-1/bigquery-public-data.covid19_open_data_eu.covid19_open_data
+bq-1/bigquery-public-data.covid19_open_data_eu.covid19_open_data-2021-12-11T15_09_57
 bq-1/bigquery-public-data.covid19_public_forecasts.county_14d
 bq-1/bigquery-public-data.covid19_public_forecasts.county_14d_historical
 bq-1/bigquery-public-data.covid19_public_forecasts.county_14d_historical_
