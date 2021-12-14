@@ -1,16 +1,6 @@
 bq-1/bigquery-public-data.austin_311.311_service_requests
-bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-03T08_52_25
-bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-12T14_28_57
-bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-14T15_52_54
-bq-1/bigquery-public-data.austin_311.311_service_requests-2021-11-15T16_50_12
-bq-1/bigquery-public-data.austin_311.311_service_requests-2021-12-01T12_38_01
-bq-1/bigquery-public-data.austin_311.311_service_requests-2021-12-01T12_38_59
-bq-1/bigquery-public-data.austin_311.311_service_requests-2021-12-05T17_28_06
-bq-1/bigquery-public-data.austin_311.311_service_requests-delme
 bq-1/bigquery-public-data.austin_bikeshare.bikeshare_stations
-bq-1/bigquery-public-data.austin_bikeshare.bikeshare_stations-2021-11-03T13_04_16
 bq-1/bigquery-public-data.austin_bikeshare.bikeshare_trips
-bq-1/bigquery-public-data.austin_bikeshare.bikeshare_trips-2021-12-12T22_28_19
 bq-1/bigquery-public-data.austin_crime.crime
 bq-1/bigquery-public-data.austin_incidents.incidents_2008
 bq-1/bigquery-public-data.austin_incidents.incidents_2009
@@ -152,7 +142,6 @@ bq-1/bigquery-public-data.bls_qcew.2018_q4
 bq-1/bigquery-public-data.bls_qcew.2019_q1
 bq-1/bigquery-public-data.bls_qcew.2019_q2
 bq-1/bigquery-public-data.breathe.arxiv
-bq-1/bigquery-public-data.breathe.arxiv-2021-12-09T22_46_31
 bq-1/bigquery-public-data.breathe.bioasq
 bq-1/bigquery-public-data.breathe.biorxiv
 bq-1/bigquery-public-data.breathe.bmj
@@ -405,8 +394,6 @@ bq-1/bigquery-public-data.census_utility.lsad_codes
 bq-1/bigquery-public-data.census_utility.mtfcc_feature_class_codes
 bq-1/bigquery-public-data.cfpb_complaints.complaint_database
 bq-1/bigquery-public-data.chicago_crime.crime
-bq-1/bigquery-public-data.chicago_crime.crime-2021-12-08T12_37_02
-bq-1/bigquery-public-data.chicago_crime.snapshot-of-crime
 bq-1/bigquery-public-data.chicago_taxi_trips.taxi_trips
 bq-1/bigquery-public-data.cloud_storage_geo_index.landsat_index
 bq-1/bigquery-public-data.cloud_storage_geo_index.sentinel_2_index
@@ -465,11 +452,8 @@ bq-1/bigquery-public-data.cms_synthetic_patient_data_omop.vocabulary
 bq-1/bigquery-public-data.covid19_aha.hospital_beds
 bq-1/bigquery-public-data.covid19_aha.staffing
 bq-1/bigquery-public-data.covid19_ecdc.covid_19_geographic_distribution_worldwide
-bq-1/bigquery-public-data.covid19_ecdc.covid_19_geographic_distribution_worldwide-2021-12-09T17_43_12
 bq-1/bigquery-public-data.covid19_ecdc_eu.covid_19_geographic_distribution_worldwide
-bq-1/bigquery-public-data.covid19_ecdc_eu.covid_19_geographic_distribution_worldwide-2021-12-06T20_15_00
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.airport_traffic
-bq-1/bigquery-public-data.covid19_geotab_mobility_impact.airport_traffic-2021-12-08T20_45_02
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.city_congestion
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.commercial_traffic
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.commercial_traffic_by_industry
@@ -499,7 +483,6 @@ bq-1/bigquery-public-data.covid19_italy_eu.data_by_province
 bq-1/bigquery-public-data.covid19_italy_eu.data_by_region
 bq-1/bigquery-public-data.covid19_italy_eu.national_trends
 bq-1/bigquery-public-data.covid19_jhu_csse.confirmed_cases
-bq-1/bigquery-public-data.covid19_jhu_csse.confirmed_cases-2021-12-05T19_31_43
 bq-1/bigquery-public-data.covid19_jhu_csse.deaths
 bq-1/bigquery-public-data.covid19_jhu_csse.recovered_cases
 bq-1/bigquery-public-data.covid19_jhu_csse.summary
@@ -515,7 +498,6 @@ bq-1/bigquery-public-data.covid19_open_data.compatibility_view
 bq-1/bigquery-public-data.covid19_open_data.covid19_open_data
 bq-1/bigquery-public-data.covid19_open_data_eu.compatibility_view
 bq-1/bigquery-public-data.covid19_open_data_eu.covid19_open_data
-bq-1/bigquery-public-data.covid19_open_data_eu.covid19_open_data-2021-12-11T15_09_57
 bq-1/bigquery-public-data.covid19_public_forecasts.county_14d
 bq-1/bigquery-public-data.covid19_public_forecasts.county_14d_historical
 bq-1/bigquery-public-data.covid19_public_forecasts.county_14d_historical_
@@ -573,8 +555,6 @@ bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_drive
 bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_transit
 bq-1/bigquery-public-data.covid19_vaccination_access.facility_boundary_us_walk
 bq-1/bigquery-public-data.covid19_vaccination_search_insights.covid19_vaccination_search_insights
-bq-1/bigquery-public-data.covid19_vaccination_search_insights.covid19_vaccination_search_insights-2021-11-11T12_04_27
-bq-1/bigquery-public-data.covid19_vaccination_search_insights.covid19_vaccination_search_insights-2021-11-12T11_26_18
 bq-1/bigquery-public-data.covid19_weathersource_com.county_day_forecast
 bq-1/bigquery-public-data.covid19_weathersource_com.county_day_history
 bq-1/bigquery-public-data.covid19_weathersource_com.postal_code_day_forecast
@@ -583,9 +563,7 @@ bq-1/bigquery-public-data.crypto_bitcoin.blocks
 bq-1/bigquery-public-data.crypto_bitcoin.inputs
 bq-1/bigquery-public-data.crypto_bitcoin.outputs
 bq-1/bigquery-public-data.crypto_bitcoin.transactions
-bq-1/bigquery-public-data.crypto_bitcoin.transactions-2021-10-28T23_18_45
 bq-1/bigquery-public-data.crypto_bitcoin_cash.blocks
-bq-1/bigquery-public-data.crypto_bitcoin_cash.blocks-2021-12-01T12_17_49
 bq-1/bigquery-public-data.crypto_bitcoin_cash.inputs
 bq-1/bigquery-public-data.crypto_bitcoin_cash.outputs
 bq-1/bigquery-public-data.crypto_bitcoin_cash.transactions
@@ -607,8 +585,6 @@ bq-1/bigquery-public-data.crypto_ethereum.token_transfers
 bq-1/bigquery-public-data.crypto_ethereum.tokens
 bq-1/bigquery-public-data.crypto_ethereum.traces
 bq-1/bigquery-public-data.crypto_ethereum.transactions
-bq-1/bigquery-public-data.crypto_ethereum.transactions-2021-11-09T17_24_06
-bq-1/bigquery-public-data.crypto_ethereum.transactions-2021-11-13T16_39_53
 bq-1/bigquery-public-data.crypto_ethereum_classic.balances
 bq-1/bigquery-public-data.crypto_ethereum_classic.blocks
 bq-1/bigquery-public-data.crypto_ethereum_classic.contracts
@@ -626,13 +602,11 @@ bq-1/bigquery-public-data.crypto_zcash.inputs
 bq-1/bigquery-public-data.crypto_zcash.outputs
 bq-1/bigquery-public-data.crypto_zcash.transactions
 bq-1/bigquery-public-data.cymbal_investments.trade_capture_report
-bq-1/bigquery-public-data.cymbal_investments.trade_capture_report-2021-11-05T22_32_34
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_corr_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_index_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_match_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.astrometry_rdls_v_0_4
 bq-1/bigquery-public-data.eclipse_megamovie.photos_v_0_1
-bq-1/bigquery-public-data.eclipse_megamovie.photos_v_0_1-2021-12-04T22_53_35
 bq-1/bigquery-public-data.eclipse_megamovie.photos_v_0_2
 bq-1/bigquery-public-data.eclipse_megamovie.photos_v_0_3
 bq-1/bigquery-public-data.epa_historical_air_quality.air_quality_annual_summary
@@ -681,12 +655,10 @@ bq-1/bigquery-public-data.ethereum_blockchain.token_transfers
 bq-1/bigquery-public-data.ethereum_blockchain.tokens
 bq-1/bigquery-public-data.ethereum_blockchain.traces
 bq-1/bigquery-public-data.ethereum_blockchain.transactions
-bq-1/bigquery-public-data.ethereum_blockchain.transactions-2021-11-04T11_29_46
 bq-1/bigquery-public-data.faa.us_airports
 bq-1/bigquery-public-data.fcc_political_ads.broadcast_tv_radio_station
 bq-1/bigquery-public-data.fcc_political_ads.content_info
 bq-1/bigquery-public-data.fcc_political_ads.file_history
-bq-1/bigquery-public-data.fcc_political_ads.file_history-2021-12-08T13_44_29
 bq-1/bigquery-public-data.fcc_political_ads.file_record
 bq-1/bigquery-public-data.fda_drug.drug_enforcement
 bq-1/bigquery-public-data.fda_drug.drug_label
@@ -1383,7 +1355,6 @@ bq-1/bigquery-public-data.ghcn_m.ghcnm_tmin
 bq-1/bigquery-public-data.ghcn_m.ghcnm_tmin_stations
 bq-1/bigquery-public-data.github_repos.commits
 bq-1/bigquery-public-data.github_repos.contents
-bq-1/bigquery-public-data.github_repos.contents-2021-12-08T07_23_13
 bq-1/bigquery-public-data.github_repos.files
 bq-1/bigquery-public-data.github_repos.languages
 bq-1/bigquery-public-data.github_repos.licenses
@@ -1605,12 +1576,7 @@ bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chr9
 bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chrX
 bq-1/bigquery-public-data.gnomAD_eu.v3_genomes__chrY
 bq-1/bigquery-public-data.google_ads.geotargets
-bq-1/bigquery-public-data.google_ads.geotargets-2021-11-14T13_31_52
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
-bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-11-14T17_55_21
-bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-11-21T19_39_45
-bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-12-07T23_47_24
-bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_20170801-2021-12-08T14_19_57
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_1
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_2
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_3
@@ -1665,9 +1631,6 @@ bq-1/bigquery-public-data.google_books_ngrams_2020.spa_4
 bq-1/bigquery-public-data.google_books_ngrams_2020.spa_5
 bq-1/bigquery-public-data.google_cfe.datacenter_cfe
 bq-1/bigquery-public-data.google_cloud_release_notes.release_notes
-bq-1/bigquery-public-data.google_cloud_release_notes.release_notes-2021-11-05T01_06_02
-bq-1/bigquery-public-data.google_cloud_release_notes.release_notes-2021-11-23T03_50_00
-bq-1/bigquery-public-data.google_cloud_release_notes.release_notes-2021-11-28T03_57_35
 bq-1/bigquery-public-data.google_dei.dar_intersectional_attrition
 bq-1/bigquery-public-data.google_dei.dar_intersectional_hiring
 bq-1/bigquery-public-data.google_dei.dar_intersectional_representation
@@ -1682,7 +1645,6 @@ bq-1/bigquery-public-data.google_political_ads.advertiser_declared_stats
 bq-1/bigquery-public-data.google_political_ads.advertiser_geo_spend
 bq-1/bigquery-public-data.google_political_ads.advertiser_stats
 bq-1/bigquery-public-data.google_political_ads.advertiser_weekly_spend
-bq-1/bigquery-public-data.google_political_ads.advertiser_weekly_spend-2021-11-07T17_48_49
 bq-1/bigquery-public-data.google_political_ads.campaign_targeting
 bq-1/bigquery-public-data.google_political_ads.creative_stats
 bq-1/bigquery-public-data.google_political_ads.geo_spend
@@ -1690,7 +1652,6 @@ bq-1/bigquery-public-data.google_political_ads.last_updated
 bq-1/bigquery-public-data.google_political_ads.top_keywords_history
 bq-1/bigquery-public-data.google_trends.top_rising_terms
 bq-1/bigquery-public-data.google_trends.top_terms
-bq-1/bigquery-public-data.google_trends.top_terms-2021-12-04T09_38_31
 bq-1/bigquery-public-data.hacker_news.comments
 bq-1/bigquery-public-data.hacker_news.full
 bq-1/bigquery-public-data.hacker_news.full_201510
@@ -1820,7 +1781,6 @@ bq-1/bigquery-public-data.immune_epitope_db.reference_full_v3
 bq-1/bigquery-public-data.immune_epitope_db.tcell_full_v3
 bq-1/bigquery-public-data.immune_epitope_db.tcr_3d_assays
 bq-1/bigquery-public-data.iowa_liquor_sales.sales
-bq-1/bigquery-public-data.iowa_liquor_sales.sales-2021-11-13T14_50_01
 bq-1/bigquery-public-data.iowa_liquor_sales_forecasting.2020_sales_train
 bq-1/bigquery-public-data.iowa_liquor_sales_forecasting.2021_sales_predict
 bq-1/bigquery-public-data.irs_990.irs_990_2012
@@ -1852,12 +1812,8 @@ bq-1/bigquery-public-data.libraries_io.repository_dependencies
 bq-1/bigquery-public-data.libraries_io.tags
 bq-1/bigquery-public-data.libraries_io.versions
 bq-1/bigquery-public-data.london_bicycles.cycle_hire
-bq-1/bigquery-public-data.london_bicycles.cycle_hire-2021-11-02T00_41_57
-bq-1/bigquery-public-data.london_bicycles.cycle_hire-2021-11-17T15_59_54
-bq-1/bigquery-public-data.london_bicycles.cycle_hire-2021-11-30T17_27_49
 bq-1/bigquery-public-data.london_bicycles.cycle_stations
 bq-1/bigquery-public-data.london_crime.crime_by_lsoa
-bq-1/bigquery-public-data.london_crime.crime_by_lsoa-2021-11-04T02_38_06
 bq-1/bigquery-public-data.london_fire_brigade.fire_brigade_service_calls
 bq-1/bigquery-public-data.medicare.inpatient_charges_2011
 bq-1/bigquery-public-data.medicare.inpatient_charges_2012
@@ -1875,7 +1831,6 @@ bq-1/bigquery-public-data.ml_datasets.census_adult_income
 bq-1/bigquery-public-data.ml_datasets.credit_card_default
 bq-1/bigquery-public-data.ml_datasets.iris
 bq-1/bigquery-public-data.ml_datasets.penguins
-bq-1/bigquery-public-data.ml_datasets.penguins-2021-11-30T18_23_16
 bq-1/bigquery-public-data.ml_datasets.ulb_fraud_detection
 bq-1/bigquery-public-data.ml_datasets_uscentral1.penguins
 bq-1/bigquery-public-data.moon_phases.moon_phases
@@ -1886,7 +1841,6 @@ bq-1/bigquery-public-data.ncaa_basketball.mbb_historical_teams_games
 bq-1/bigquery-public-data.ncaa_basketball.mbb_historical_teams_seasons
 bq-1/bigquery-public-data.ncaa_basketball.mbb_historical_tournament_games
 bq-1/bigquery-public-data.ncaa_basketball.mbb_pbp_sr
-bq-1/bigquery-public-data.ncaa_basketball.mbb_pbp_sr-2021-11-14T23_54_22
 bq-1/bigquery-public-data.ncaa_basketball.mbb_players_games_sr
 bq-1/bigquery-public-data.ncaa_basketball.mbb_teams
 bq-1/bigquery-public-data.ncaa_basketball.mbb_teams_games_sr
@@ -1915,11 +1869,8 @@ bq-1/bigquery-public-data.new_york.tree_census_2015
 bq-1/bigquery-public-data.new_york.tree_species
 bq-1/bigquery-public-data.new_york_311.311_service_requests
 bq-1/bigquery-public-data.new_york_citibike.citibike_stations
-bq-1/bigquery-public-data.new_york_citibike.citibike_stations-2021-11-01T11_56_31
 bq-1/bigquery-public-data.new_york_citibike.citibike_trips
-bq-1/bigquery-public-data.new_york_citibike.citibike_trips-2021-11-25T11_18_09
 bq-1/bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions
-bq-1/bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions-2021-12-03T14_57_59
 bq-1/bigquery-public-data.new_york_subway.geo_nyc_borough_boundaries
 bq-1/bigquery-public-data.new_york_subway.routes
 bq-1/bigquery-public-data.new_york_subway.station_complexes
@@ -1929,8 +1880,6 @@ bq-1/bigquery-public-data.new_york_subway.stop_times
 bq-1/bigquery-public-data.new_york_subway.subway_ridership_2013_present
 bq-1/bigquery-public-data.new_york_subway.trips
 bq-1/bigquery-public-data.new_york_taxi_trips.taxi_zone_geom
-bq-1/bigquery-public-data.new_york_taxi_trips.taxi_zone_geom-2021-11-30T20_37_05
-bq-1/bigquery-public-data.new_york_taxi_trips.taxi_zone_geom_ss
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_fhv_trips_2015
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_fhv_trips_2016
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_fhv_trips_2017
@@ -2462,6 +2411,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_12_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_12_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_12_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_current
+bq-1/bigquery-public-data.noaa_global_forecast_system.NOAA_GFS0P25
 bq-1/bigquery-public-data.noaa_goes16.abi_l1b_radiance
 bq-1/bigquery-public-data.noaa_goes16.abi_l2_cmip
 bq-1/bigquery-public-data.noaa_goes16.abi_l2_mcmip
@@ -2563,12 +2513,8 @@ bq-1/bigquery-public-data.noaa_gsod.gsod2017
 bq-1/bigquery-public-data.noaa_gsod.gsod2018
 bq-1/bigquery-public-data.noaa_gsod.gsod2019
 bq-1/bigquery-public-data.noaa_gsod.gsod2020
-bq-1/bigquery-public-data.noaa_gsod.gsod2020-2021-11-28T21_02_22
-bq-1/bigquery-public-data.noaa_gsod.gsod2020-2021-11-28T21_02_43
-bq-1/bigquery-public-data.noaa_gsod.gsod2020-2021-12-09T11_37_47
 bq-1/bigquery-public-data.noaa_gsod.gsod2021
 bq-1/bigquery-public-data.noaa_gsod.stations
-bq-1/bigquery-public-data.noaa_gsod.weather_test_google
 bq-1/bigquery-public-data.noaa_historic_severe_storms.nws_forecast_regions
 bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_1950
 bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_1951
@@ -2692,7 +2638,6 @@ bq-1/bigquery-public-data.noaa_lightning.lightning_2016
 bq-1/bigquery-public-data.noaa_lightning.lightning_2017
 bq-1/bigquery-public-data.noaa_lightning.lightning_2018
 bq-1/bigquery-public-data.noaa_lightning.lightning_2019
-bq-1/bigquery-public-data.noaa_lightning.lightning_2019-2021-12-02T17_07_41
 bq-1/bigquery-public-data.noaa_lightning.lightning_2020
 bq-1/bigquery-public-data.noaa_passive_acoustic_index.nrs_metadata
 bq-1/bigquery-public-data.noaa_passive_acoustic_index.sanctsound_metadata
@@ -2713,9 +2658,6 @@ bq-1/bigquery-public-data.noaa_preliminary_severe_storms.hail_reports
 bq-1/bigquery-public-data.noaa_preliminary_severe_storms.tornado_reports
 bq-1/bigquery-public-data.noaa_preliminary_severe_storms.wind_reports
 bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes
-bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes-2021-11-03T23_51_51
-bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes-2021-11-07T17_18_30
-bq-1/bigquery-public-data.noaa_significant_earthquakes.earthquakes-2021-11-10T21_36_39
 bq-1/bigquery-public-data.noaa_tsunami.historical_runups
 bq-1/bigquery-public-data.noaa_tsunami.historical_source_event
 bq-1/bigquery-public-data.nppes.healthcare_provider_taxonomy_code_set
@@ -2750,12 +2692,10 @@ bq-1/bigquery-public-data.safegraph.neighborhood_patterns
 bq-1/bigquery-public-data.samples.github_nested
 bq-1/bigquery-public-data.samples.github_timeline
 bq-1/bigquery-public-data.samples.gsod
-bq-1/bigquery-public-data.samples.gsod-2021-11-03T12_14_12
 bq-1/bigquery-public-data.samples.natality
 bq-1/bigquery-public-data.samples.shakespeare
 bq-1/bigquery-public-data.samples.trigrams
 bq-1/bigquery-public-data.samples.wikipedia
-bq-1/bigquery-public-data.samples.wikipedia-2021-11-13T09_56_55
 bq-1/bigquery-public-data.san_francisco.311_service_requests
 bq-1/bigquery-public-data.san_francisco.bikeshare_stations
 bq-1/bigquery-public-data.san_francisco.bikeshare_status
@@ -2784,10 +2724,7 @@ bq-1/bigquery-public-data.san_francisco_transit_muni.trips
 bq-1/bigquery-public-data.san_francisco_transit_muni.vehicle_monitoring
 bq-1/bigquery-public-data.san_francisco_trees.street_trees
 bq-1/bigquery-public-data.sdoh_bea_cainc30.fips
-bq-1/bigquery-public-data.sdoh_bea_cainc30.fips-2021-11-24T16_36_04
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality
-bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality-2021-11-16T13_11_46
-bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality-2021-11-27T08_22_22
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_abnormal_conditions
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_congenital_abnormalities
 bq-1/bigquery-public-data.sdoh_cdc_wonder_natality.county_natality_by_father_race
@@ -2830,8 +2767,6 @@ bq-1/bigquery-public-data.stackoverflow.users
 bq-1/bigquery-public-data.stackoverflow.votes
 bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_censustract
 bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_postal_code
-bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_postal_code-2021-12-01T22_34_54
-bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_postal_code-2021-12-09T20_47_59
 bq-1/bigquery-public-data.the_met.images
 bq-1/bigquery-public-data.the_met.objects
 bq-1/bigquery-public-data.the_met.vision_api_data
@@ -2843,7 +2778,6 @@ bq-1/bigquery-public-data.umiami_lincs.readout
 bq-1/bigquery-public-data.umiami_lincs.signature
 bq-1/bigquery-public-data.umiami_lincs.small_molecule
 bq-1/bigquery-public-data.un_sdg.indicators
-bq-1/bigquery-public-data.un_sdg.indicators-2021-11-05T12_40_36
 bq-1/bigquery-public-data.usa_names.usa_1910_2013
 bq-1/bigquery-public-data.usa_names.usa_1910_current
 bq-1/bigquery-public-data.usda_nass_agriculture.animals_products
