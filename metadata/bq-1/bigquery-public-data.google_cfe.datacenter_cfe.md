@@ -1,5 +1,6 @@
 # `google_cfe.datacenter_cfe`
 `bq-1` | `bigquery-public-data`
+Carbon-free energy (CFE) scores for Google Cloud regions and other Google data center regions
 
 ## Column details
 * [INTEGER]   `year`
