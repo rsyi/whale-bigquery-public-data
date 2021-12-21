@@ -2,6 +2,8 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
+* [DATE]      `collection_date_sam`
+  - %E4Y-%m-%d
 * [STRING]    `jattr`
 * [STRING]    `datastore_region`
 * [DATE]      `ena_last_update_run`
@@ -35,8 +37,6 @@
 * [STRING]    `libraryselection`
 * [STRING]    `biosamplemodel_sam`
 * [STRING]    `consent`
-* [DATE]      `collection_date_sam`
-  - %E4Y-%m-%d
 * [STRING]    `center_name`
 * [TIMESTAMP] `releasedate`
   - bq-datetime
