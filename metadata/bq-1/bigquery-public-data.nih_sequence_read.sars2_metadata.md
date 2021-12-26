@@ -2,15 +2,17 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
+* [STRING]    `geo_loc_name_country_calc`
+* [DATE]      `collection_date_sam`
+  - %E4Y-%m-%d
 * [STRING]    `jattr`
 * [STRING]    `datastore_region`
+* [STRING]    `geo_loc_name_country_continent_calc`
+* [STRING]    `datastore_filetype`
 * [DATE]      `ena_last_update_run`
   - %E4Y-%m-%d
 * [DATE]      `ena_first_public_run`
   - %E4Y-%m-%d
-* [STRING]    `datastore_filetype`
-* [STRING]    `geo_loc_name_country_continent_calc`
-* [STRING]    `geo_loc_name_country_calc`
 * [STRING]    `geo_loc_name_sam`
 * [INTEGER]   `mbases`
 * [STRING]    `platform`
@@ -35,8 +37,6 @@
 * [STRING]    `libraryselection`
 * [STRING]    `biosamplemodel_sam`
 * [STRING]    `consent`
-* [DATE]      `collection_date_sam`
-  - %E4Y-%m-%d
 * [STRING]    `center_name`
 * [TIMESTAMP] `releasedate`
   - bq-datetime
