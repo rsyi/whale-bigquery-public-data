@@ -1710,6 +1710,7 @@ bq-1/bigquery-public-data.idc_current.version_metadata
 bq-1/bigquery-public-data.idc_v1.analysis_results_metadata
 bq-1/bigquery-public-data.idc_v1.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v1.dicom_all
+bq-1/bigquery-public-data.idc_v1.dicom_derived_all
 bq-1/bigquery-public-data.idc_v1.dicom_metadata
 bq-1/bigquery-public-data.idc_v1.measurement_groups
 bq-1/bigquery-public-data.idc_v1.original_collections_metadata
@@ -1719,6 +1720,7 @@ bq-1/bigquery-public-data.idc_v1.segmentations
 bq-1/bigquery-public-data.idc_v2.analysis_results_metadata
 bq-1/bigquery-public-data.idc_v2.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v2.dicom_all
+bq-1/bigquery-public-data.idc_v2.dicom_derived_all
 bq-1/bigquery-public-data.idc_v2.dicom_metadata
 bq-1/bigquery-public-data.idc_v2.measurement_groups
 bq-1/bigquery-public-data.idc_v2.original_collections_metadata
@@ -1728,6 +1730,7 @@ bq-1/bigquery-public-data.idc_v2.segmentations
 bq-1/bigquery-public-data.idc_v3.analysis_results_metadata
 bq-1/bigquery-public-data.idc_v3.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v3.dicom_all
+bq-1/bigquery-public-data.idc_v3.dicom_derived_all
 bq-1/bigquery-public-data.idc_v3.dicom_metadata
 bq-1/bigquery-public-data.idc_v3.measurement_groups
 bq-1/bigquery-public-data.idc_v3.original_collections_metadata
@@ -1738,6 +1741,7 @@ bq-1/bigquery-public-data.idc_v3.version_metadata
 bq-1/bigquery-public-data.idc_v4.analysis_results_metadata
 bq-1/bigquery-public-data.idc_v4.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v4.dicom_all
+bq-1/bigquery-public-data.idc_v4.dicom_derived_all
 bq-1/bigquery-public-data.idc_v4.dicom_metadata
 bq-1/bigquery-public-data.idc_v4.measurement_groups
 bq-1/bigquery-public-data.idc_v4.nlst_canc
@@ -1755,6 +1759,7 @@ bq-1/bigquery-public-data.idc_v4.version_metadata
 bq-1/bigquery-public-data.idc_v5.analysis_results_metadata
 bq-1/bigquery-public-data.idc_v5.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v5.dicom_all
+bq-1/bigquery-public-data.idc_v5.dicom_derived_all
 bq-1/bigquery-public-data.idc_v5.dicom_metadata
 bq-1/bigquery-public-data.idc_v5.dicom_metadata_curated
 bq-1/bigquery-public-data.idc_v5.measurement_groups
