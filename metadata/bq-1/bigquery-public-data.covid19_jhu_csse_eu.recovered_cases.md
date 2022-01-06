@@ -7,7 +7,7 @@ Confirmed COVID-19 recoveries, aggregated by country/region and province/state. 
 * [STRING]    `country_region`
 * [FLOAT]     `latitude`
 * [FLOAT]     `longitude`
-* [STRING]    `location_geom`
+* [GEOGRAPHY] `location_geom`
 * [INTEGER]   `_1_22_20`
 * [INTEGER]   `_1_23_20`
 * [INTEGER]   `_1_24_20`
@@ -722,6 +722,7 @@ Confirmed COVID-19 recoveries, aggregated by country/region and province/state. 
 * [INTEGER]   `_1_2_22`
 * [INTEGER]   `_1_3_22`
 * [INTEGER]   `_1_4_22`
+* [INTEGER]   `_1_5_22`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
