@@ -1712,6 +1712,7 @@ bq-1/bigquery-public-data.idc_v1.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v1.dicom_all
 bq-1/bigquery-public-data.idc_v1.dicom_derived_all
 bq-1/bigquery-public-data.idc_v1.dicom_metadata
+bq-1/bigquery-public-data.idc_v1.dicom_pivot_v1
 bq-1/bigquery-public-data.idc_v1.measurement_groups
 bq-1/bigquery-public-data.idc_v1.original_collections_metadata
 bq-1/bigquery-public-data.idc_v1.qualitative_measurements
@@ -1722,6 +1723,7 @@ bq-1/bigquery-public-data.idc_v2.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v2.dicom_all
 bq-1/bigquery-public-data.idc_v2.dicom_derived_all
 bq-1/bigquery-public-data.idc_v2.dicom_metadata
+bq-1/bigquery-public-data.idc_v2.dicom_pivot_v2
 bq-1/bigquery-public-data.idc_v2.measurement_groups
 bq-1/bigquery-public-data.idc_v2.original_collections_metadata
 bq-1/bigquery-public-data.idc_v2.qualitative_measurements
@@ -1732,6 +1734,7 @@ bq-1/bigquery-public-data.idc_v3.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v3.dicom_all
 bq-1/bigquery-public-data.idc_v3.dicom_derived_all
 bq-1/bigquery-public-data.idc_v3.dicom_metadata
+bq-1/bigquery-public-data.idc_v3.dicom_pivot_v3
 bq-1/bigquery-public-data.idc_v3.measurement_groups
 bq-1/bigquery-public-data.idc_v3.original_collections_metadata
 bq-1/bigquery-public-data.idc_v3.qualitative_measurements
@@ -1743,6 +1746,7 @@ bq-1/bigquery-public-data.idc_v4.auxiliary_metadata
 bq-1/bigquery-public-data.idc_v4.dicom_all
 bq-1/bigquery-public-data.idc_v4.dicom_derived_all
 bq-1/bigquery-public-data.idc_v4.dicom_metadata
+bq-1/bigquery-public-data.idc_v4.dicom_pivot_v4
 bq-1/bigquery-public-data.idc_v4.measurement_groups
 bq-1/bigquery-public-data.idc_v4.nlst_canc
 bq-1/bigquery-public-data.idc_v4.nlst_ctab
@@ -1762,6 +1766,7 @@ bq-1/bigquery-public-data.idc_v5.dicom_all
 bq-1/bigquery-public-data.idc_v5.dicom_derived_all
 bq-1/bigquery-public-data.idc_v5.dicom_metadata
 bq-1/bigquery-public-data.idc_v5.dicom_metadata_curated
+bq-1/bigquery-public-data.idc_v5.dicom_pivot_v5
 bq-1/bigquery-public-data.idc_v5.measurement_groups
 bq-1/bigquery-public-data.idc_v5.nlst_canc
 bq-1/bigquery-public-data.idc_v5.nlst_ctab
@@ -1781,6 +1786,7 @@ bq-1/bigquery-public-data.idc_v6.dicom_all
 bq-1/bigquery-public-data.idc_v6.dicom_derived_all
 bq-1/bigquery-public-data.idc_v6.dicom_metadata
 bq-1/bigquery-public-data.idc_v6.dicom_metadata_curated
+bq-1/bigquery-public-data.idc_v6.dicom_pivot_v6
 bq-1/bigquery-public-data.idc_v6.measurement_groups
 bq-1/bigquery-public-data.idc_v6.nlst_canc
 bq-1/bigquery-public-data.idc_v6.nlst_ctab
@@ -1788,6 +1794,8 @@ bq-1/bigquery-public-data.idc_v6.nlst_ctabc
 bq-1/bigquery-public-data.idc_v6.nlst_prsn
 bq-1/bigquery-public-data.idc_v6.nlst_screen
 bq-1/bigquery-public-data.idc_v6.original_collections_metadata
+bq-1/bigquery-public-data.idc_v6.qualitative_measurements
+bq-1/bigquery-public-data.idc_v6.quantitative_measurements
 bq-1/bigquery-public-data.idc_v6.segmentations
 bq-1/bigquery-public-data.idc_v6.tcga_biospecimen_rel9
 bq-1/bigquery-public-data.idc_v6.tcga_clinical_rel9

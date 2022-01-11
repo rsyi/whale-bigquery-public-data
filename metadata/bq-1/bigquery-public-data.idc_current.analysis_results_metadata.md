@@ -4,6 +4,7 @@
 ## Column details
 * [STRING]    `ID`
 * [STRING]    `Title`
+* [STRING]    `Access`
 * [STRING]    `DOI`
 * [STRING]    `CancerType`
 * [STRING]    `Location`
