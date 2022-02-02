@@ -4,11 +4,8 @@
 ## Column details
 * [STRING]    `unique_key`
   - The service request tracking number.
-* [STRING]    `complaint_type`
 * [STRING]    `complaint_description`
   - Service request type
-* [STRING]    `owning_department`
-  - Owning department of Service request type.
 * [STRING]    `source`
   - Contact method Service request was received from. Mass entry requests are submitted by dept. in groups after work is completed.
 * [STRING]    `status`
