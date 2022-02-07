@@ -1048,6 +1048,10 @@
 * [STRING]    `SpecimenDescriptionSequence.PrimaryAnatomicStructureSequence.CodeValue`
 * [STRING]    `SpecimenDescriptionSequence.PrimaryAnatomicStructureSequence.CodingSchemeDesignator`
 * [STRING]    `SpecimenDescriptionSequence.PrimaryAnatomicStructureSequence.CodeMeaning`
+* [RECORD]    `SpecimenDescriptionSequence.PrimaryAnatomicStructureSequence.PrimaryAnatomicStructureModifierSequence`
+* [STRING]    `SpecimenDescriptionSequence.PrimaryAnatomicStructureSequence.PrimaryAnatomicStructureModifierSequence.CodeValue`
+* [STRING]    `SpecimenDescriptionSequence.PrimaryAnatomicStructureSequence.PrimaryAnatomicStructureModifierSequence.CodingSchemeDesignator`
+* [STRING]    `SpecimenDescriptionSequence.PrimaryAnatomicStructureSequence.PrimaryAnatomicStructureModifierSequence.CodeMeaning`
 * [STRING]    `SpecimenDescriptionSequence.SpecimenIdentifier`
 * [STRING]    `SpecimenDescriptionSequence.SpecimenUID`
 * [STRING]    `SpecimenDescriptionSequence.SpecimenShortDescription`

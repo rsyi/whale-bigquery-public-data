@@ -1693,6 +1693,7 @@ bq-1/bigquery-public-data.human_variant_annotation.ncbi_dbsnp_hg38_
 bq-1/bigquery-public-data.idc_current.analysis_results_metadata
 bq-1/bigquery-public-data.idc_current.auxiliary_metadata
 bq-1/bigquery-public-data.idc_current.dicom_all
+bq-1/bigquery-public-data.idc_current.dicom_derived_all
 bq-1/bigquery-public-data.idc_current.dicom_metadata
 bq-1/bigquery-public-data.idc_current.dicom_metadata_curated
 bq-1/bigquery-public-data.idc_current.measurement_groups
