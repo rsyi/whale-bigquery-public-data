@@ -11,6 +11,8 @@
 * [STRING]    `datastore_filetype`
 * [DATE]      `ena_last_update_run`
   - %E4Y-%m-%d
+* [DATE]      `ena_first_public_run`
+  - %E4Y-%m-%d
 * [STRING]    `geo_loc_name_sam`
 * [INTEGER]   `mbases`
 * [STRING]    `platform`
@@ -23,8 +25,6 @@
 * [STRING]    `organism`
 * [STRING]    `experiment`
 * [STRING]    `sample_acc`
-* [DATE]      `ena_first_public_run`
-  - %E4Y-%m-%d
 * [RECORD]    `attributes`
 * [STRING]    `attributes.v`
 * [STRING]    `attributes.k`
