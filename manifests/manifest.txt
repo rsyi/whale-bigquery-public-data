@@ -2844,6 +2844,13 @@ bq-1/bigquery-public-data.sunroof_solar.solar_potential_by_postal_code
 bq-1/bigquery-public-data.the_met.images
 bq-1/bigquery-public-data.the_met.objects
 bq-1/bigquery-public-data.the_met.vision_api_data
+bq-1/bigquery-public-data.thelook_ecommerce.distribution_centers
+bq-1/bigquery-public-data.thelook_ecommerce.events
+bq-1/bigquery-public-data.thelook_ecommerce.inventory_items
+bq-1/bigquery-public-data.thelook_ecommerce.order_items
+bq-1/bigquery-public-data.thelook_ecommerce.orders
+bq-1/bigquery-public-data.thelook_ecommerce.products
+bq-1/bigquery-public-data.thelook_ecommerce.users
 bq-1/bigquery-public-data.umiami_lincs.cell_line
 bq-1/bigquery-public-data.umiami_lincs.model_system
 bq-1/bigquery-public-data.umiami_lincs.nucleic_acid_reagent
