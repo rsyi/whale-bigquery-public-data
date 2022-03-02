@@ -7,6 +7,7 @@ Programatically generated users for The Look fictitious e-commerce store
 * [STRING]    `first_name`
 * [STRING]    `last_name`
 * [STRING]    `email`
+* [INTEGER]   `age`
 * [STRING]    `gender`
 * [STRING]    `state`
 * [STRING]    `street_address`
