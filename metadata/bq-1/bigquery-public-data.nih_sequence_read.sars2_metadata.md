@@ -2,9 +2,9 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [STRING]    `geo_loc_name_country_calc`
 * [DATE]      `collection_date_sam`
   - %E4Y-%m-%d
+* [STRING]    `geo_loc_name_country_calc`
 * [STRING]    `jattr`
 * [STRING]    `datastore_region`
 * [STRING]    `geo_loc_name_country_continent_calc`
