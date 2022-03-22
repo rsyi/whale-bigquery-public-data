@@ -27,6 +27,7 @@
 * [STRING]    `details.cpu`
 * [STRING]    `details.openssl_version`
 * [STRING]    `details.setuptools_version`
+* [STRING]    `details.rustc_version`
 * [STRING]    `tls_protocol`
 * [STRING]    `tls_cipher`
 
