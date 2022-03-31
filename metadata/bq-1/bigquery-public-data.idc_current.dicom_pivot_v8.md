@@ -1,4 +1,4 @@
-# `idc_v3.dicom_pivot_v3` [view]
+# `idc_current.dicom_pivot_v8` [view]
 `bq-1` | `bigquery-public-data`
 
 ## Column details
@@ -15,6 +15,18 @@
 * [STRING]    `Modality`
 * [STRING]    `SOPClassUID`
 * [STRING]    `collection_id`
+* [STRING]    `AnatomicRegionSequence`
+* [STRING]    `FrameOfReferenceUID`
+* [STRING]    `crdc_study_uuid`
+* [STRING]    `crdc_series_uuid`
+* [STRING]    `crdc_instance_uuid`
+* [STRING]    `Program`
+* [STRING]    `tcia_tumorLocation`
+* [STRING]    `source_DOI`
+* [STRING]    `tcia_species`
+* [STRING]    `license_short_name`
+* [STRING]    `Manufacturer`
+* [STRING]    `ManufacturerModelName`
 * [NUMERIC]   `Apparent_Diffusion_Coefficient`
 * [STRING]    `Internal_structure`
 * [STRING]    `Sphericity`
@@ -40,19 +52,10 @@
 * [NUMERIC]   `Glycolysis_Within_Third_Quarter_of_Intensity_Range`
 * [NUMERIC]   `Glycolysis_Within_Fourth_Quarter_of_Intensity_Range`
 * [NUMERIC]   `Glycolysis_Within_Second_Quarter_of_Intensity_Range`
-* [STRING]    `AnatomicRegionSequence`
 * [STRING]    `SegmentedPropertyCategoryCodeSequence`
 * [STRING]    `SegmentedPropertyTypeCodeSequence`
-* [STRING]    `FrameOfReferenceUID`
 * [INTEGER]   `SegmentNumber`
 * [STRING]    `SegmentAlgorithmType`
-* [STRING]    `crdc_study_uuid`
-* [STRING]    `crdc_series_uuid`
-* [STRING]    `crdc_instance_uuid`
-* [STRING]    `Program`
-* [STRING]    `tcia_tumorLocation`
-* [STRING]    `source_DOI`
-* [STRING]    `gcs_url`
 * [STRING]    `AdditionalPatientHistory`
 * [STRING]    `Allergies`
 * [STRING]    `ImageType`
@@ -68,7 +71,8 @@
 * [STRING]    `ReasonForStudy`
 * [STRING]    `RequestedProcedureComments`
 * [STRING]    `SmokingStatus`
-* [STRING]    `tcia_species`
+* [STRING]    `access`
+* [STRING]    `gcs_url`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

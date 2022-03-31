@@ -1,5 +1,6 @@
 # `idc_v1.segmentations` [view]
 `bq-1` | `bigquery-public-data`
+TBD Description
 
 ## Column details
 * [STRING]    `PatientID`

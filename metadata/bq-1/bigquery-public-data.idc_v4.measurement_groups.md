@@ -1,5 +1,6 @@
 # `idc_v4.measurement_groups` [view]
 `bq-1` | `bigquery-public-data`
+TBD Description
 
 ## Column details
 * [STRING]    `SOPInstanceUID`

@@ -12,6 +12,7 @@
 * [STRING]    `ImageTypes`
 * [INTEGER]   `Subjects`
 * [STRING]    `DOI`
+* [STRING]    `URL`
 * [STRING]    `CancerType`
 * [STRING]    `SupportingData`
 * [STRING]    `Species`

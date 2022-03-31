@@ -1,5 +1,6 @@
 # `idc_v2.quantitative_measurements` [view]
 `bq-1` | `bigquery-public-data`
+TBD Description
 
 ## Column details
 * [STRING]    `PatientID`

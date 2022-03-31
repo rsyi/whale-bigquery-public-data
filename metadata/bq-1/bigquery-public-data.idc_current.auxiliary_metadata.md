@@ -23,6 +23,7 @@
 * [STRING]    `SeriesInstanceUID`
 * [STRING]    `series_uuid`
 * [STRING]    `source_doi`
+* [STRING]    `source_url`
 * [INTEGER]   `series_instances`
 * [STRING]    `series_hash`
 * [INTEGER]   `series_init_idc_version`

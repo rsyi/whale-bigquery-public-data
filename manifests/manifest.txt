@@ -1698,7 +1698,7 @@ bq-1/bigquery-public-data.idc_current.dicom_all
 bq-1/bigquery-public-data.idc_current.dicom_derived_all
 bq-1/bigquery-public-data.idc_current.dicom_metadata
 bq-1/bigquery-public-data.idc_current.dicom_metadata_curated
-bq-1/bigquery-public-data.idc_current.dicom_pivot_v7
+bq-1/bigquery-public-data.idc_current.dicom_pivot_v8
 bq-1/bigquery-public-data.idc_current.measurement_groups
 bq-1/bigquery-public-data.idc_current.nlst_canc
 bq-1/bigquery-public-data.idc_current.nlst_ctab

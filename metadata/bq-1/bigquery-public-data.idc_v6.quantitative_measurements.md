@@ -1,5 +1,6 @@
 # `idc_v6.quantitative_measurements` [view]
 `bq-1` | `bigquery-public-data`
+A convenience view providing simplified access to the items within the DICOM SR TID 1500 documents that contain quantitative measurements. All attributes named following the CamelCase notation (except Quantity and Value) correspond to standard DICOM attributes and are documented in the DICOM standard.
 
 ## Column details
 * [STRING]    `PatientID`
