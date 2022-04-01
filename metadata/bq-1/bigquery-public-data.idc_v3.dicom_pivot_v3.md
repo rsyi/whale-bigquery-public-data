@@ -5,7 +5,7 @@
 * [STRING]    `PatientID`
 * [STRING]    `BodyPartExamined`
 * [STRING]    `SeriesInstanceUID`
-* [FLOAT]     `SliceThickness`
+* [STRING]    `SliceThickness`
 * [STRING]    `SeriesNumber`
 * [STRING]    `SeriesDescription`
 * [STRING]    `StudyInstanceUID`
