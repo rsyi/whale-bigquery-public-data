@@ -72,7 +72,7 @@ This dataset contains country-level datasets of daily time-series data related t
 * [INTEGER]   `investment_in_vaccines`
 * [INTEGER]   `facial_coverings`
 * [INTEGER]   `vaccination_policy`
-* [STRING]    `stringency_index`
+* [FLOAT]     `stringency_index`
 * [FLOAT]     `average_temperature_celsius`
 * [FLOAT]     `minimum_temperature_celsius`
 * [FLOAT]     `maximum_temperature_celsius`
