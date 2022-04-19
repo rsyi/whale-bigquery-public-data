@@ -17,7 +17,7 @@ This dataset contains country-level datasets of daily time-series data related t
 * [INTEGER]   `new_deceased`
 * [INTEGER]   `cumulative_confirmed`
 * [INTEGER]   `cumulative_deceased`
-* [STRING]    `cumulative_tested`
+* [INTEGER]   `cumulative_tested`
 * [INTEGER]   `new_persons_vaccinated`
 * [INTEGER]   `cumulative_persons_vaccinated`
 * [INTEGER]   `new_persons_fully_vaccinated`
