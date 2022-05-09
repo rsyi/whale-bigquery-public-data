@@ -43,8 +43,6 @@
 * [STRING]    `date_of_death.time`
 * [RECORD]    `place_of_birth`
 * [INTEGER]   `place_of_birth.numeric_id`
-* [RECORD]    `worked_at`
-* [INTEGER]   `worked_at.numeric_id`
 * [RECORD]    `country_of_citizenship`
 * [INTEGER]   `country_of_citizenship.numeric_id`
 * [RECORD]    `country`
