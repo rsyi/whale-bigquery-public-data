@@ -44,25 +44,25 @@ Evidence of the occurrence of a species (or other taxon) at a particular place o
 * [STRING]    `catalognumber`
 * [STRING]    `recordnumber`
 * [RECORD]    `identifiedby`
-* [RECORD]    `identifiedby.bag`
-* [STRING]    `identifiedby.bag.array_element`
+* [RECORD]    `identifiedby.array`
+* [STRING]    `identifiedby.array.array_element`
 * [TIMESTAMP] `dateidentified`
 * [STRING]    `license`
 * [STRING]    `rightsholder`
 * [RECORD]    `recordedby`
-* [RECORD]    `recordedby.bag`
-* [STRING]    `recordedby.bag.array_element`
+* [RECORD]    `recordedby.array`
+* [STRING]    `recordedby.array.array_element`
 * [RECORD]    `typestatus`
-* [RECORD]    `typestatus.bag`
-* [STRING]    `typestatus.bag.array_element`
+* [RECORD]    `typestatus.array`
+* [STRING]    `typestatus.array.array_element`
 * [STRING]    `establishmentmeans`
 * [TIMESTAMP] `lastinterpreted`
 * [RECORD]    `mediatype`
-* [RECORD]    `mediatype.bag`
-* [STRING]    `mediatype.bag.array_element`
+* [RECORD]    `mediatype.array`
+* [STRING]    `mediatype.array.array_element`
 * [RECORD]    `issue`
-* [RECORD]    `issue.bag`
-* [STRING]    `issue.bag.array_element`
+* [RECORD]    `issue.array`
+* [STRING]    `issue.array.array_element`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
