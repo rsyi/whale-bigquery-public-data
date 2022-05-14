@@ -1,0 +1,69 @@
+# `open_targets_genetics.disease_variant_gene`
+`bq-1` | `bigquery-public-data`
+Gene to variant to study-trait index
+
+## Column details
+* [STRING]    `study_id`
+* [STRING]    `pmid`
+* [STRING]    `pub_date`
+* [STRING]    `pub_journal`
+* [STRING]    `pub_title`
+* [STRING]    `pub_author`
+* [STRING]    `trait_reported`
+* [STRING]    `trait_efos`
+* [STRING]    `ancestry_initial`
+* [STRING]    `ancestry_replication`
+* [INTEGER]   `n_initial`
+* [INTEGER]   `n_replication`
+* [INTEGER]   `n_cases`
+* [STRING]    `trait_category`
+* [INTEGER]   `num_assoc_loci`
+* [BOOLEAN]   `has_sumstats`
+* [STRING]    `lead_chrom`
+* [INTEGER]   `lead_pos`
+* [STRING]    `lead_ref`
+* [STRING]    `lead_alt`
+* [STRING]    `tag_chrom`
+* [INTEGER]   `tag_pos`
+* [STRING]    `tag_ref`
+* [STRING]    `tag_alt`
+* [FLOAT]     `overall_r2`
+* [FLOAT]     `AFR_1000G_prop`
+* [FLOAT]     `AMR_1000G_prop`
+* [FLOAT]     `EAS_1000G_prop`
+* [FLOAT]     `EUR_1000G_prop`
+* [FLOAT]     `SAS_1000G_prop`
+* [FLOAT]     `log10_ABF`
+* [FLOAT]     `posterior_prob`
+* [FLOAT]     `odds_ratio`
+* [FLOAT]     `oddsr_ci_lower`
+* [FLOAT]     `oddsr_ci_upper`
+* [STRING]    `direction`
+* [FLOAT]     `beta`
+* [FLOAT]     `beta_ci_lower`
+* [FLOAT]     `beta_ci_upper`
+* [FLOAT]     `pval_mantissa`
+* [FLOAT]     `pval_exponent`
+* [FLOAT]     `pval`
+* [STRING]    `gene_id`
+* [STRING]    `feature`
+* [STRING]    `type_id`
+* [STRING]    `source_id`
+* [STRING]    `fpred_labels`
+* [FLOAT]     `fpred_scores`
+* [STRING]    `fpred_max_label`
+* [FLOAT]     `fpred_max_score`
+* [FLOAT]     `qtl_beta`
+* [FLOAT]     `qtl_se`
+* [FLOAT]     `qtl_pval`
+* [FLOAT]     `qtl_score`
+* [FLOAT]     `interval_score`
+* [FLOAT]     `qtl_score_q`
+* [FLOAT]     `interval_score_q`
+* [INTEGER]   `d`
+* [FLOAT]     `distance_score`
+* [FLOAT]     `distance_score_q`
+* [STRING]    `source`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*
