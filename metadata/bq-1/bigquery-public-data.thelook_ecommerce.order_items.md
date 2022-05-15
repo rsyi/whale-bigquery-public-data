@@ -8,6 +8,7 @@ Programatically generated order items for The Look fictitious e-commerce store
 * [INTEGER]   `user_id`
 * [INTEGER]   `product_id`
 * [INTEGER]   `inventory_item_id`
+* [STRING]    `status`
 * [TIMESTAMP] `created_at`
 * [TIMESTAMP] `shipped_at`
 * [TIMESTAMP] `delivered_at`
