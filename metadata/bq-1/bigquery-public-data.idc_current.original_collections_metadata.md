@@ -17,9 +17,10 @@
 * [STRING]    `SupportingData`
 * [STRING]    `Species`
 * [STRING]    `Location`
-* [STRING]    `license_url`
-* [STRING]    `license_long_name`
-* [STRING]    `license_short_name`
+* [RECORD]    `licenses`
+* [STRING]    `licenses.license_url`
+* [STRING]    `licenses.license_long_name`
+* [STRING]    `licenses.license_short_name`
 * [STRING]    `Description`
 
 -------------------------------------------------------------------------------

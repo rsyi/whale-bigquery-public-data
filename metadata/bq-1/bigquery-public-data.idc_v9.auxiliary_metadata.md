@@ -1,4 +1,4 @@
-# `idc_current.auxiliary_metadata` [view]
+# `idc_v9.auxiliary_metadata`
 `bq-1` | `bigquery-public-data`
 
 ## Column details

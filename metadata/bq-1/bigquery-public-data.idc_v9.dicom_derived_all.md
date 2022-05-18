@@ -1,4 +1,4 @@
-# `idc_current.dicom_derived_all` [view]
+# `idc_v9.dicom_derived_all`
 `bq-1` | `bigquery-public-data`
 
 ## Column details

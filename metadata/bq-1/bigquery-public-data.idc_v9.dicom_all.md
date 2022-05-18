@@ -1,5 +1,6 @@
-# `idc_current.dicom_all` [view]
+# `idc_v9.dicom_all` [view]
 `bq-1` | `bigquery-public-data`
+dicom_all is a join of dicom_metadata with selected columns from auxiliary_metadata and original_collections_metadata
 
 ## Column details
 * [STRING]    `tcia_tumorLocation`
