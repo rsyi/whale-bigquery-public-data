@@ -15,7 +15,7 @@
 * [STRING]    `consumer_complaint_narrative`
   - A description of the complaint provided by the consumer
 * [STRING]    `company_public_response`
-  - The company's optional, public-facing response to a consumer's complaint
+  - The company's optional public-facing response to a consumer's complaint
 * [STRING]    `company_name`
   - Name of the company identified in the complaint by the consumer
 * [STRING]    `state`
