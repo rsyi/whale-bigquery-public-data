@@ -1,6 +1,5 @@
-# `google_dei.dar_non_intersectional_representation`
+# `google_dei.dar_non_intersectional_exits_representation`
 `bq-1` | `bigquery-public-data`
-This table contains the representation of Googlers in the U.S. cut by race and gender separately and the representation of global Googlers cut by gender. Some data may be intentionally redacted due to security and privacy restrictions regarding smaller n-counts. In those cases, the data is displayed as a null value.
 
 ## Column details
 * [STRING]    `workforce`

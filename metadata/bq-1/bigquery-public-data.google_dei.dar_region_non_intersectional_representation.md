@@ -5,10 +5,10 @@ This table contains the representation of Googlers in the regions (EMEA, APAC, a
 ## Column details
 * [STRING]    `workforce`
   - Overall and sub-categories
-* [STRING]    `region`
-  - Region
 * [INTEGER]   `report_year`
   - The year the report was published
+* [STRING]    `region`
+  - Region
 * [FLOAT]     `race_asian`
   - The percentage of Googlers in the region who identify as Asian
 * [FLOAT]     `race_black_african`
@@ -21,9 +21,9 @@ This table contains the representation of Googlers in the regions (EMEA, APAC, a
   - The percentage of Googlers in the region who identify as Middle Eastern or North African
 * [FLOAT]     `race_white_european`
   - The percentage of Googlers in the region who identify as White European
-* [FLOAT]     `gender_female`
+* [FLOAT]     `gender_women`
   - The percentage of Googlers in the region who are female
-* [FLOAT]     `gender_male`
+* [FLOAT]     `gender_men`
   - The percentage of Googlers in the region who are male
 
 -------------------------------------------------------------------------------

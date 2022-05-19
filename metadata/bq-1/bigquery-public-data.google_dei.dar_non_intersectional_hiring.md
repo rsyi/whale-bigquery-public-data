@@ -17,13 +17,13 @@ This table contains the hiring breakdown of Googlers in the U.S. cut by race and
   - The percentage of Googlers hired in the U.S. who identify as Native American
 * [FLOAT]     `race_white`
   - The percentage of Googlers hired in the U.S. who identify as White
-* [FLOAT]     `gender_us_female`
+* [FLOAT]     `gender_us_women`
   - The percentage of Googlers hired in the U.S. who are female
-* [FLOAT]     `gender_us_male`
+* [FLOAT]     `gender_us_men`
   - The percentage of Googlers hired in the U.S. who are male
-* [FLOAT]     `gender_global_female`
+* [FLOAT]     `gender_global_women`
   - The percentage of global Googlers hired who are female
-* [FLOAT]     `gender_global_male`
+* [FLOAT]     `gender_global_men`
   - The percentage of global Googlers hired who are male
 
 -------------------------------------------------------------------------------
