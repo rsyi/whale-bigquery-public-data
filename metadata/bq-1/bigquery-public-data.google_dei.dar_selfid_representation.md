@@ -4,11 +4,11 @@ This table contains the representation of Googlers globally who identify as LGBT
 
 ## Column details
 * [STRING]    `workforce`
-  - Self-identification category. lgbtq: Global Googlers who self-identified as LGBQ+ and/or Trans+; disability: Global Googlers who self-identified as having a disability; military: Global Googlers who self-identified as being or having been members of the military; nonbinary: Global Googlers who self-identified as non-binary
+  - Self-identification category. lgbtq: Googlers who self-identify as LGBQ+ and/or Trans+; disability: Googlers who self-identify as having a disability; military: Googlers who self-identify as being or having been members of the military; nonbinary: Googlers who self-identify as non-binary
 * [INTEGER]   `report_year`
   - The year the report was published
 * [FLOAT]     `global`
-  - The percentage of Googlers who identify as being part of the self-identification category (i.e., "workforce" type)
+  - The percentage of global Googlers who identify as being part of the self-identification category (i.e., "workforce" type)
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

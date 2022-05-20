@@ -331,6 +331,7 @@ bq-1/bigquery-public-data.census_bureau_acs.schooldistrictunified_2014_1yr
 bq-1/bigquery-public-data.census_bureau_acs.schooldistrictunified_2014_5yr
 bq-1/bigquery-public-data.census_bureau_acs.schooldistrictunified_2015_1yr
 bq-1/bigquery-public-data.census_bureau_acs.schooldistrictunified_2015_5yr
+bq-1/bigquery-public-data.census_bureau_acs.schooldistrictunified_2019_5yr
 bq-1/bigquery-public-data.census_bureau_acs.state_2007_1yr
 bq-1/bigquery-public-data.census_bureau_acs.state_2007_3yr
 bq-1/bigquery-public-data.census_bureau_acs.state_2008_1yr

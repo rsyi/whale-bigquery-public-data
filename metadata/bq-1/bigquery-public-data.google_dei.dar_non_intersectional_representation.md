@@ -8,23 +8,23 @@ This table contains the representation of Googlers in the U.S. cut by race and g
 * [INTEGER]   `report_year`
   - The year the report was published
 * [FLOAT]     `race_asian`
-  - The percentage of Googlers in the U.S. who identify as Asian
+  - The percentage of Googlers in the U.S. who identify as Asian and zero or more other races
 * [FLOAT]     `race_black`
-  - The percentage of Googlers in the U.S. who identify as Black
+  - The percentage of Googlers in the U.S. who identify as Black and zero or more other races
 * [FLOAT]     `race_hispanic_latinx`
-  - The percentage of Googlers in the U.S. who identify as Hispanic or Latinx
+  - The percentage of Googlers in the U.S. who identify as Hispanic or Latinx and zero or more other races
 * [FLOAT]     `race_native_american`
-  - The percentage of Googlers in the U.S. who identify as Native American
+  - The percentage of Googlers in the U.S. who identify as Native American and zero or more other races
 * [FLOAT]     `race_white`
-  - The percentage of Googlers in the U.S. who identify as White
+  - The percentage of Googlers in the U.S. who identify as White and zero or more other races
 * [FLOAT]     `gender_us_women`
-  - The percentage of Googlers in the U.S. who identify as female
+  - The percentage of Googlers in the U.S. who identify as women
 * [FLOAT]     `gender_us_men`
-  - The percentage of Googlers in the U.S. who identify as male
+  - The percentage of Googlers in the U.S. who identify as men
 * [FLOAT]     `gender_global_women`
-  - The percentage of global Googlers who identify as female
+  - The percentage of global Googlers who identify as women
 * [FLOAT]     `gender_global_men`
-  - The percentage of global Googlers who identify as male
+  - The percentage of global Googlers who identify as men
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

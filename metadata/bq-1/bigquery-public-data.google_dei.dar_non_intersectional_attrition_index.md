@@ -8,23 +8,23 @@ This table contains the attrition index score of Googlers in the U.S. cut by rac
 * [INTEGER]   `report_year`
   - The year the report was published
 * [INTEGER]   `race_asian`
-  - The attrition index score of Googlers in the U.S. who identify as Asian
+  - The attrition index score of Googlers in the U.S. who identify as Asian and zero or more other races
 * [INTEGER]   `race_black`
-  - The attrition index score of Googlers in the U.S. who identify as Black
+  - The attrition index score of Googlers in the U.S. who identify as Black and zero or more other races
 * [INTEGER]   `race_hispanic_latinx`
-  - The attrition index score of Googlers in the U.S. who identify as Hispanic or Latinx
+  - The attrition index score of Googlers in the U.S. who identify as Hispanic or Latinx and zero or more other races
 * [INTEGER]   `race_native_american`
-  - The attrition index score of Googlers in the U.S. who identify as Native American
+  - The attrition index score of Googlers in the U.S. who identify as Native American and zero or more other races
 * [INTEGER]   `race_white`
-  - The attrition index score of Googlers in the U.S. who identify as White
+  - The attrition index score of Googlers in the U.S. who identify as White and zero or more other races
 * [INTEGER]   `gender_us_women`
-  - The attrition index score of Googlers in the U.S. who are female
+  - The attrition index score of Googlers in the U.S. who are women
 * [INTEGER]   `gender_us_men`
-  - The attrition index score of Googlers in the U.S. who are male
+  - The attrition index score of Googlers in the U.S. who are men
 * [INTEGER]   `gender_global_women`
-  - The attrition index score of global Googlers who are female
+  - The attrition index score of global Googlers who are women
 * [INTEGER]   `gender_global_men`
-  - The attrition index score of global Googlers who are male
+  - The attrition index score of global Googlers who are men
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
