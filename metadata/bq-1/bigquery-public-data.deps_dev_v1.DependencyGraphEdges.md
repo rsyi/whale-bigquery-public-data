@@ -14,15 +14,21 @@ This table stores the full dependency graph for each version of each package. Ea
 * [STRING]    `Requirement`
   - A string to represent how this particular dependency was required. Its format is system specific.
 * [RECORD]    `From`
-  - The system, name and version of the importing package.
+  - The importing package-version.
 * [STRING]    `From.System`
+  - The system of the importing package-version.
 * [STRING]    `From.Name`
+  - The name of the importing package-version.
 * [STRING]    `From.Version`
+  - The version of the importing package-version.
 * [RECORD]    `To`
-  - The system, name and version of the imported package.
+  - The imported package-version.
 * [STRING]    `To.System`
+  - The system of the imported package-version.
 * [STRING]    `To.Name`
+  - The name of the imported package-version.
 * [STRING]    `To.Version`
+  - The version of the imported package-version.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

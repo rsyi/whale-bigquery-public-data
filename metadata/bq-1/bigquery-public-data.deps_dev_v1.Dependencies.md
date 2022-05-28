@@ -12,10 +12,13 @@ This table stores information about the dependency relationship between versions
 * [STRING]    `Version`
   - The version of the importing package-version in the relation.
 * [RECORD]    `Dependency`
-  - The system, name and version of the imported package-version.
+  - The imported package-version.
 * [STRING]    `Dependency.System`
+  - The system of the imported package-version.
 * [STRING]    `Dependency.Name`
+  - The name of the imported package-version.
 * [STRING]    `Dependency.Version`
+  - The version of the imported package-version.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -18,10 +18,13 @@ This table stores information about specific versions of packages. Each row repr
 * [STRING]    `Links.Label`
   - A label for the corresponding URL value. Example values for Label include 'ISSUE_TRACKER', 'HOMEPAGE', 'DOCUMENTATION' and 'SOURCE_REPO'.
 * [STRING]    `Links.URL`
+  - The URL value.
 * [RECORD]    `Advisories`
-  - An array of Advisory source and source IDs that affect this package-version directly. This can be used to join against the Advisories table.
+  - An array of Advisories that affect this package-version directly. This can be used to join against the Advisories table.
 * [STRING]    `Advisories.Source`
+  - The upstream source of this advisory, example values include 'OSV', 'GHSA' and 'NSWG'.
 * [STRING]    `Advisories.SourceID`
+  - The id of this advisory within its upstream source.
 * [RECORD]    `VersionInfo`
   - Information extracted from the string value in the Version column of this row.
 * [BOOLEAN]   `VersionInfo.IsRelease`
@@ -29,9 +32,11 @@ This table stores information about specific versions of packages. Each row repr
 * [INTEGER]   `VersionInfo.Ordinal`
   - The value allows the versions of a package to be sorted in semantic order without parsing the version string. If a package has its versions sorted in ascending order by VersionInfo.Ordinal, the order will correspond to the order of the version strings as determined by the package management system.
 * [RECORD]    `Hashes`
-  - An array of hash type and hash that have been observed from this package-version.
+  - An array of hashes that have been observed from this package-version.
 * [STRING]    `Hashes.Type`
+  - The type of hash, example values include 'SHA512' and 'SHA1'.
 * [STRING]    `Hashes.Hash`
+  - A base64 encoded string of the hash.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

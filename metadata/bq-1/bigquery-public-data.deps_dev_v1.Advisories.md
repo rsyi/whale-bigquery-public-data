@@ -28,9 +28,13 @@ This table stores information about security advisories related to packages from
 * [RECORD]    `Packages`
   - An array of the packages affected by this advisory.
 * [STRING]    `Packages.System`
+  - The system of the affected package
 * [STRING]    `Packages.Name`
+  - The name of the affected package
 * [STRING]    `Packages.AffectedVersions`
+  - The versions of the package affected by the advisory
 * [STRING]    `Packages.UnaffectedVersions`
+  - The versions of the package unaffected by the advisory
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

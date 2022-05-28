@@ -8,7 +8,7 @@ This table stores information about projects. Each row represents a single proje
 * [STRING]    `Type`
   - The name of the project.
 * [STRING]    `Name`
-  - The type of the project, example values include “GITHUB”, “BITBUCKET”, “APACHE_JIRA” and “GITLAB”.
+  - The type of the project, example values include 'GITHUB', 'BITBUCKET', 'APACHE_JIRA' and 'GITLAB'.
 * [INTEGER]   `OpenIssuesCount`
   - The number of open issues.
 * [INTEGER]   `StarsCount`
