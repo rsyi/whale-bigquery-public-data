@@ -1,5 +1,6 @@
 # `cloud_storage_geo_index.sentinel_2_index`
 `bq-1` | `bigquery-public-data`
+Sentinel 2 table
 
 ## Column details
 * [STRING]    `granule_id`

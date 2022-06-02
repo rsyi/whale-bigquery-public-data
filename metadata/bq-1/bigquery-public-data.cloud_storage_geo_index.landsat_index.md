@@ -1,5 +1,6 @@
 # `cloud_storage_geo_index.landsat_index`
 `bq-1` | `bigquery-public-data`
+Landsat index table
 
 ## Column details
 * [STRING]    `scene_id`
@@ -20,6 +21,10 @@
 * [FLOAT]     `east_lon`
 * [INTEGER]   `total_size`
 * [STRING]    `base_url`
+* [STRING]    `source_url`
+  - Source 
+* [TIMESTAMP] `etl_timestamp`
+  - Load time for this data row
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
