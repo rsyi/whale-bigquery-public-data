@@ -474,6 +474,7 @@ bq-1/bigquery-public-data.covid19_geotab_mobility_impact_eu.lookup_region
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact_eu.port_traffic
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact_eu.us_border_volumes
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact_eu.us_border_wait_times
+bq-1/bigquery-public-data.covid19_google_mobility.mobility_report
 bq-1/bigquery-public-data.covid19_google_mobility_eu.mobility_report
 bq-1/bigquery-public-data.covid19_govt_response.oxford_policy_tracker
 bq-1/bigquery-public-data.covid19_italy.data_by_province
