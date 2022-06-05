@@ -6,7 +6,7 @@ This table stores information about security advisories related to packages from
 * [TIMESTAMP] `SnapshotAt`
   - When this row was exported.
 * [STRING]    `Source`
-  - The upstream source of this advisory, example values include 'OSV', 'GHSA' and 'NSWG'.
+  - The upstream source of this advisory, example values include 'GHSA', 'NSWG' and 'OSV'.
 * [STRING]    `SourceID`
   - The id of this advisory within its upstream source.
 * [STRING]    `SourceURL`

@@ -16,7 +16,7 @@ This table stores information about specific versions of packages. Each row repr
 * [RECORD]    `Links`
   - An array of links related to this package-version, each consisting of a Label and URL.
 * [STRING]    `Links.Label`
-  - A label for the corresponding URL value. Example values for Label include 'ISSUE_TRACKER', 'HOMEPAGE', 'DOCUMENTATION' and 'SOURCE_REPO'.
+  - A label for the corresponding URL value. Example values include 'DOCUMENTATION', 'ISSUE_TRACKER', 'HOMEPAGE' and 'SOURCE_REPO'.
 * [STRING]    `Links.URL`
   - The URL value.
 * [RECORD]    `Advisories`

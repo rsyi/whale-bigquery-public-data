@@ -6,9 +6,9 @@ This table stores information about projects. Each row represents a single proje
 * [TIMESTAMP] `SnapshotAt`
   - When this row was exported.
 * [STRING]    `Type`
-  - The name of the project.
+  - The type of the project, example values include 'APACHE_JIRA', 'BITBUCKET', 'GITHUB' and 'GITLAB'.
 * [STRING]    `Name`
-  - The type of the project, example values include 'GITHUB', 'BITBUCKET', 'APACHE_JIRA' and 'GITLAB'.
+  - The name of the project.
 * [INTEGER]   `OpenIssuesCount`
   - The number of open issues.
 * [INTEGER]   `StarsCount`
