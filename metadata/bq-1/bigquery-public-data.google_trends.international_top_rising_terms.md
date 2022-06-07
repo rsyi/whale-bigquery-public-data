@@ -4,14 +4,14 @@
 ## Column details
 * [INTEGER]   `score`
 * [INTEGER]   `percent_gain`
-* [INTEGER]   `rank`
 * [DATE]      `refresh_date`
 * [STRING]    `country_name`
-* [STRING]    `country_code`
 * [STRING]    `region_name`
-* [STRING]    `region_code`
 * [STRING]    `term`
 * [DATE]      `week`
+* [STRING]    `country_code`
+* [STRING]    `region_code`
+* [INTEGER]   `rank`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
