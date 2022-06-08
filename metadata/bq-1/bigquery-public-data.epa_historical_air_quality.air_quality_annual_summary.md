@@ -11,7 +11,7 @@
 * [INTEGER]   `parameter_code`
   - The AQS code corresponding to the parameter measured by the monitor.
 * [INTEGER]   `poc`
-  - This is the “Parameter Occurrence Code” used to distinguish different instruments that measure the same parameter at the same site.
+  - This is the 'Parameter Occurrence Code' used to distinguish different instruments that measure the same parameter at the same site.
 * [FLOAT]     `latitude`
   - The monitoring site’s angular distance north of the equator measured in decimal degrees.
 * [FLOAT]     `longitude`

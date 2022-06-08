@@ -21,7 +21,7 @@
 * [STRING]    `parameter_name`
   - The name or description assigned in AQS to the parameter measured by the monitor. Parameters may be pollutants or non-pollutants.
 * [DATE]      `date_local`
-  - The calendar date of the sample in Local Standard Time at the monitor.
+  - The calendar date for the summary. All daily summaries are for the local standard day (midnight to midnight) at the monitor.
 * [STRING]    `time_local`
   - The time of day that sampling began on a 24-hour clock in Local Standard Time.
 * [DATE]      `date_gmt`
@@ -40,7 +40,7 @@
   - Sample values may have qualifiers that indicate why they are missing or that they are out of the ordinary. Types of qualifiers are: null data, exceptional event, natural events, and quality assurance. The highest ranking qualifier, if any, is described in this field.
 * [STRING]    `method_type`
   - An indication of whether the method used to collect the data is a federal reference method (FRM), equivalent to a federal reference method, an approved regional method, or none of the above (non-federal reference method).
-* [INTEGER]   `method_code`
+* [STRING]    `method_code`
   - An internal system code indicating the method (processes, equipment, and protocols) used in gathering and measuring the sample. The method name is in the next column.
 * [STRING]    `method_name`
   - A short description of the processes, equipment, and protocols used in gathering and measuring the sample.
