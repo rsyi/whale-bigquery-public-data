@@ -11,7 +11,7 @@ Summary COVID-19 cases, aggregated by country/region and province/state. See the
 * [GEOGRAPHY] `location_geom`
 * [INTEGER]   `confirmed`
 * [INTEGER]   `deaths`
-* [INTEGER]   `recovered`
+* [STRING]    `recovered`
 * [INTEGER]   `active`
 * [STRING]    `fips`
 * [STRING]    `admin2`
