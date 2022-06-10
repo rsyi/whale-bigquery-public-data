@@ -3,7 +3,7 @@
 
 ## Column details
 * [INTEGER]   `call_number`
-  - A unique 9-digit number assigned by the 911 Dispatch Center (DEM) to this call. These number are used for both Police and Fire calls.
+  - A unique 9-digit number assigned by the 911 Dispatch Center (DEM) to this call. These number are used for both Police and Fire calls
 * [STRING]    `unit_id`
   - Unit Identifier. For example E01 for Engine 1 or T01 for Truck 1.
 * [INTEGER]   `incident_number`

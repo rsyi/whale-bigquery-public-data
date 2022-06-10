@@ -1,9 +1,8 @@
 # `san_francisco_bikeshare.bikeshare_station_status`
 `bq-1` | `bigquery-public-data`
-san_francisco_bikeshare_station_statusspc
 
 ## Column details
-* [INTEGER]   `station_id`
+* [STRING]    `station_id`
   - Unique identifier of a station
 * [INTEGER]   `num_bikes_available`
   - Number of bikes available for rental
