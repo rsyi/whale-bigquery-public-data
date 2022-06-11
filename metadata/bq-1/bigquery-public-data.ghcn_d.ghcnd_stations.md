@@ -9,8 +9,12 @@
 * [STRING]    `state`
 * [STRING]    `name`
 * [STRING]    `gsn_flag`
-* [STRING]    `hcn_crn_flag`
-* [INTEGER]   `wmoid`
+* [STRING]    `hcn_cm_flag`
+* [STRING]    `wmoid`
+* [STRING]    `source_url`
+  - Source 
+* [TIMESTAMP] `etl_timestamp`
+  - Load time for this data row
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

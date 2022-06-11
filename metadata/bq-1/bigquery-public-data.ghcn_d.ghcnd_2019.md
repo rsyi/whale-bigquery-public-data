@@ -10,6 +10,10 @@
 * [STRING]    `qflag`
 * [STRING]    `sflag`
 * [STRING]    `time`
+* [STRING]    `source_url`
+  - Source 
+* [TIMESTAMP] `etl_timestamp`
+  - Load time for this data row
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

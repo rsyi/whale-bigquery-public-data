@@ -1,6 +1,5 @@
 # `ghcn_d.ghcnd_2016`
 `bq-1` | `bigquery-public-data`
-http://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
 
 ## Column details
 * [STRING]    `id`
@@ -11,6 +10,10 @@ http://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
 * [STRING]    `qflag`
 * [STRING]    `sflag`
 * [STRING]    `time`
+* [STRING]    `source_url`
+  - Source 
+* [TIMESTAMP] `etl_timestamp`
+  - Load time for this data row
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
