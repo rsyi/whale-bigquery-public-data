@@ -10,6 +10,8 @@
 * [STRING]    `qflag`
 * [STRING]    `sflag`
 * [STRING]    `time`
+* [STRING]    `source_url`
+* [TIMESTAMP] `etl_timestamp`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

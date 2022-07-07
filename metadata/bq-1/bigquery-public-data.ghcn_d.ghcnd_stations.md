@@ -11,6 +11,8 @@
 * [STRING]    `gsn_flag`
 * [STRING]    `hcn_crn_flag`
 * [INTEGER]   `wmoid`
+* [STRING]    `source_url`
+* [TIMESTAMP] `etl_timestamp`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
