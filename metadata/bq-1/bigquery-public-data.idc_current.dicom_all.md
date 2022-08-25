@@ -1,5 +1,6 @@
 # `idc_current.dicom_all` [view]
 `bq-1` | `bigquery-public-data`
+dicom_all is a join of dicom_metadata with selected columns from auxiliary_metadata and original_collections_metadata
 
 ## Column details
 * [STRING]    `tcia_tumorLocation`
@@ -341,6 +342,7 @@
 * [STRING]    `PatientName.Phonetic.NamePrefix`
 * [STRING]    `PatientName.Phonetic.NameSuffix`
 * [STRING]    `IssuerOfPatientID`
+* [STRING]    `TypeOfPatientID`
 * [RECORD]    `SourcePatientGroupIdentificationSequence`
 * [RECORD]    `SourcePatientGroupIdentificationSequence.PatientName`
 * [RECORD]    `SourcePatientGroupIdentificationSequence.PatientName.Alphabetic`
@@ -682,6 +684,9 @@
 * [STRING]    `CardiacSynchronizationTechnique`
 * [STRING]    `ReceiveCoilType`
 * [STRING]    `QuadratureReceiveCoil`
+* [RECORD]    `MultiCoilDefinitionSequence`
+* [STRING]    `MultiCoilDefinitionSequence.MultiCoilElementName`
+* [STRING]    `MultiCoilDefinitionSequence.MultiCoilElementUsed`
 * [STRING]    `MultiCoilElementName`
 * [STRING]    `MultiCoilElementUsed`
 * [STRING]    `TransmitCoilType`
@@ -691,12 +696,14 @@
 * [STRING]    `KSpaceFiltering`
 * [FLOAT]     `ParallelReductionFactorInPlane`
 * [FLOAT]     `AcquisitionDuration`
+* [TIMESTAMP] `FrameAcquisitionDateTime`
 * [STRING]    `DiffusionDirectionality`
 * [STRING]    `ParallelAcquisition`
 * [STRING]    `ParallelAcquisitionTechnique`
 * [FLOAT]     `InversionTimes`
 * [STRING]    `MetaboliteMapDescription`
 * [STRING]    `PartialFourier`
+* [FLOAT]     `EffectiveEchoTime`
 * [STRING]    `CardiacSignalSource`
 * [FLOAT]     `DiffusionBValue`
 * [FLOAT]     `DiffusionGradientOrientation`
@@ -706,6 +713,7 @@
 * [STRING]    `CoverageOfKSpace`
 * [STRING]    `ResonantNucleus`
 * [STRING]    `FrequencyCorrection`
+* [TIMESTAMP] `FrameReferenceDateTime`
 * [FLOAT]     `ParallelReductionFactorOutOfPlane`
 * [FLOAT]     `ParallelReductionFactorSecondInPlane`
 * [STRING]    `CardiacBeatRejectionTechnique`
@@ -719,6 +727,7 @@
 * [FLOAT]     `GradientOutput`
 * [STRING]    `FlowCompensationDirection`
 * [STRING]    `WaterReferencedPhaseCorrection`
+* [FLOAT]     `FrameAcquisitionDuration`
 * [INTEGER]   `MRAcquisitionPhaseEncodingStepsInPlane`
 * [INTEGER]   `MRAcquisitionPhaseEncodingStepsOutOfPlane`
 * [INTEGER]   `RFEchoTrainLength`
@@ -850,6 +859,7 @@
 * [STRING]    `SeriesInStudy`
 * [STRING]    `AcquisitionsInSeries`
 * [STRING]    `ImagesInAcquisition`
+* [STRING]    `ImagesInSeries`
 * [STRING]    `PositionReferenceIndicator`
 * [STRING]    `SliceLocation`
 * [STRING]    `NumberOfStudyRelatedSeries`
@@ -862,6 +872,7 @@
 * [INTEGER]   `InStackPositionNumber`
 * [STRING]    `FrameLaterality`
 * [INTEGER]   `TemporalPositionIndex`
+* [INTEGER]   `DimensionIndexValues`
 * [STRING]    `ConcatenationUID`
 * [STRING]    `DimensionOrganizationUID`
 * [RECORD]    `DimensionOrganizationSequence`
@@ -1468,17 +1479,21 @@
 * [INTEGER]   `RecommendedAbsentPixelCIELabValue`
 * [STRING]    `ImageOrientationSlide`
 * [RECORD]    `OpticalPathSequence`
+* [INTEGER]   `OpticalPathSequence.LightPathFilterPassThroughWavelength`
 * [RECORD]    `OpticalPathSequence.IlluminationTypeCodeSequence`
 * [STRING]    `OpticalPathSequence.IlluminationTypeCodeSequence.CodeValue`
 * [STRING]    `OpticalPathSequence.IlluminationTypeCodeSequence.CodingSchemeDesignator`
 * [STRING]    `OpticalPathSequence.IlluminationTypeCodeSequence.CodeMeaning`
+* [FLOAT]     `OpticalPathSequence.IlluminationWaveLength`
 * [STRING]    `OpticalPathSequence.ColorSpace`
 * [STRING]    `OpticalPathSequence.OpticalPathIdentifier`
+* [STRING]    `OpticalPathSequence.OpticalPathDescription`
 * [RECORD]    `OpticalPathSequence.IlluminationColorCodeSequence`
 * [STRING]    `OpticalPathSequence.IlluminationColorCodeSequence.CodeValue`
 * [STRING]    `OpticalPathSequence.IlluminationColorCodeSequence.CodingSchemeDesignator`
 * [STRING]    `OpticalPathSequence.IlluminationColorCodeSequence.CodeMeaning`
 * [STRING]    `OpticalPathSequence.ObjectiveLensPower`
+* [STRING]    `OpticalPathSequence.ObjectiveLensNumericalAperture`
 * [INTEGER]   `NumberOfOpticalPaths`
 * [INTEGER]   `TotalPixelMatrixFocalPlanes`
 * [STRING]    `CalibrationImage`
@@ -1707,6 +1722,7 @@
 * [STRING]    `SegmentSequence.TrackingUID`
 * [INTEGER]   `MaximumFractionalValue`
 * [STRING]    `SegmentationFractionalType`
+* [STRING]    `SegmentsOverlap`
 * [RECORD]    `DeformableRegistrationSequence`
 * [RECORD]    `DeformableRegistrationSequence.ReferencedImageSequence`
 * [STRING]    `DeformableRegistrationSequence.ReferencedImageSequence.ReferencedSOPClassUID`
@@ -1733,10 +1749,15 @@
 * [STRING]    `DeformableRegistrationSequence.MatrixRegistrationSequence.RegistrationTypeCodeSequence.CodeMeaning`
 * [INTEGER]   `ImageRotation`
 * [RECORD]    `DisplayedAreaSelectionSequence`
+* [RECORD]    `DisplayedAreaSelectionSequence.ReferencedImageSequence`
+* [STRING]    `DisplayedAreaSelectionSequence.ReferencedImageSequence.ReferencedSOPClassUID`
+* [STRING]    `DisplayedAreaSelectionSequence.ReferencedImageSequence.ReferencedSOPInstanceUID`
+* [STRING]    `DisplayedAreaSelectionSequence.PixelOriginInterpretation`
 * [INTEGER]   `DisplayedAreaSelectionSequence.DisplayedAreaTopLeftHandCorner`
 * [INTEGER]   `DisplayedAreaSelectionSequence.DisplayedAreaBottomRightHandCorner`
 * [STRING]    `DisplayedAreaSelectionSequence.PresentationSizeMode`
 * [STRING]    `DisplayedAreaSelectionSequence.PresentationPixelSpacing`
+* [STRING]    `DisplayedAreaSelectionSequence.PresentationPixelAspectRatio`
 * [FLOAT]     `DisplayedAreaSelectionSequence.PresentationPixelMagnificationRatio`
 * [RECORD]    `GraphicLayerSequence`
 * [STRING]    `GraphicLayerSequence.GraphicLayer`
@@ -1769,6 +1790,24 @@
 * [STRING]    `ContentCreatorName.Phonetic.NameSuffix`
 * [STRING]    `FiducialUID`
 * [FLOAT]     `RelativeOpacity`
+* [RECORD]    `AdvancedBlendingSequence`
+* [RECORD]    `AdvancedBlendingSequence.ReferencedImageSequence`
+* [STRING]    `AdvancedBlendingSequence.ReferencedImageSequence.ReferencedSOPClassUID`
+* [STRING]    `AdvancedBlendingSequence.ReferencedImageSequence.ReferencedSOPInstanceUID`
+* [STRING]    `AdvancedBlendingSequence.StudyInstanceUID`
+* [STRING]    `AdvancedBlendingSequence.SeriesInstanceUID`
+* [RECORD]    `AdvancedBlendingSequence.SoftcopyVOILUTSequence`
+* [STRING]    `AdvancedBlendingSequence.SoftcopyVOILUTSequence.WindowCenter`
+* [STRING]    `AdvancedBlendingSequence.SoftcopyVOILUTSequence.WindowWidth`
+* [RECORD]    `AdvancedBlendingSequence.PaletteColorLookupTableSequence`
+* [INTEGER]   `AdvancedBlendingSequence.PaletteColorLookupTableSequence.RedPaletteColorLookupTableDescriptor`
+* [INTEGER]   `AdvancedBlendingSequence.PaletteColorLookupTableSequence.GreenPaletteColorLookupTableDescriptor`
+* [INTEGER]   `AdvancedBlendingSequence.PaletteColorLookupTableSequence.BluePaletteColorLookupTableDescriptor`
+* [INTEGER]   `AdvancedBlendingSequence.BlendingInputNumber`
+* [RECORD]    `BlendingDisplaySequence`
+* [RECORD]    `BlendingDisplaySequence.BlendingDisplayInputSequence`
+* [INTEGER]   `BlendingDisplaySequence.BlendingDisplayInputSequence.BlendingInputNumber`
+* [STRING]    `BlendingDisplaySequence.BlendingMode`
 * [STRING]    `StorageMediaFileSetUID`
 * [RECORD]    `IconImageSequence`
 * [INTEGER]   `IconImageSequence.SamplesPerPixel`
@@ -2506,6 +2545,10 @@
 * [RECORD]    `Tag_011710B0.OtherElements`
 * [STRING]    `Tag_011710B0.OtherElements.Tag`
 * [STRING]    `Tag_011710B0.OtherElements.Data`
+* [RECORD]    `Tag_01191180`
+* [RECORD]    `Tag_01191180.OtherElements`
+* [STRING]    `Tag_01191180.OtherElements.Tag`
+* [STRING]    `Tag_01191180.OtherElements.Data`
 * [RECORD]    `Tag_01F31001`
 * [RECORD]    `Tag_01F31001.OtherElements`
 * [STRING]    `Tag_01F31001.OtherElements.Tag`

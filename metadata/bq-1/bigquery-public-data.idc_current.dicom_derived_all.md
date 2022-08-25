@@ -6,6 +6,7 @@
 * [STRING]    `BodyPartExamined`
 * [STRING]    `SeriesInstanceUID`
 * [FLOAT]     `SliceThickness`
+* [INTEGER]   `SamplesPerPixel`
 * [STRING]    `SeriesNumber`
 * [STRING]    `SeriesDescription`
 * [STRING]    `StudyInstanceUID`

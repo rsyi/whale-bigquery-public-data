@@ -1,5 +1,6 @@
 # `idc_current.tcga_clinical_rel9` [view]
 `bq-1` | `bigquery-public-data`
+Copy of clinical_v1 with project_name from Clinical appended to it.
 
 ## Column details
 * [STRING]    `case_gdc_id`

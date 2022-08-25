@@ -4,34 +4,26 @@
 ## Column details
 * [STRING]    `vendor_id`
   - A code indicating the LPEP provider that provided the record. 1= Creative Mobile Technologies, LLC; 2= VeriFone Inc.
-* [DATETIME]  `pickup_datetime`
+* [TIMESTAMP] `pickup_datetime`
   - The date and time when the meter was engaged
-* [DATETIME]  `dropoff_datetime`
-  - The date and time when the meter was disengaged.
+* [TIMESTAMP] `dropoff_datetime`
+  - The date and time when the meter was disengaged
 * [STRING]    `store_and_fwd_flag`
-  - This flag indicates whether the trip record was held in vehicle memory before sending to the vendor, aka “store and forward,” because the vehicle did not have a connection to the server. Y= store and forward trip N= not a store and forward trip
+  - This flag indicates whether the trip record was held in vehicle memory before sending to the vendor, aka 'store and forward,' because the vehicle did not have a connection to the server. Y= store and forward trip N= not a store and forward trip
 * [STRING]    `rate_code`
   - The final rate code in effect at the end of the trip. 1= Standard rate 2=JFK 3=Newark 4=Nassau or Westchester 5=Negotiated fare 6=Group ride
-* [NUMERIC]   `pickup_longitude`
-  - Longitude where the meter was engaged.
-* [NUMERIC]   `pickup_latitude`
-  - Latitude where the meter was engaged
-* [NUMERIC]   `dropoff_longitude`
-  - Longitude where the meter was timed off
-* [NUMERIC]   `dropoff_latitude`
-  - Latitude where the meter was timed off.
 * [INTEGER]   `passenger_count`
   - The number of passengers in the vehicle. This is a driver-entered value.
 * [NUMERIC]   `trip_distance`
-  - The elapsed trip distance in miles reported by the taximeter
+  - The elapsed trip distance in miles reported by the taximeter.
 * [NUMERIC]   `fare_amount`
-  - The time-and-distance fare calculated by the meter.
+  - The time-and-distance fare calculated by the meter
 * [NUMERIC]   `extra`
   - Miscellaneous extras and surcharges. Currently, this only includes the $0.50 and $1 rush hour and overnight charges
 * [NUMERIC]   `mta_tax`
   - $0.50 MTA tax that is automatically triggered based on the metered rate in use
 * [NUMERIC]   `tip_amount`
-  - Tip amount – This field is automatically populated for credit card tips. Cash tips are not included.
+  - Tip amount. This field is automatically populated for credit card tips. Cash tips are not included.
 * [NUMERIC]   `tolls_amount`
   - Total amount of all tolls paid in trip.
 * [NUMERIC]   `ehail_fee`
@@ -44,9 +36,15 @@
 * [STRING]    `trip_type`
   - A code indicating whether the trip was a street-hail or a dispatch that is automatically assigned based on the metered rate in use but can be altered by the driver. 1= Street-hail 2= Dispatch
 * [NUMERIC]   `imp_surcharge`
-  - $0.30 improvement surcharge assessed on hailed trips at the flag drop. The improvement surcharge began being levied in 2015
-* [STRING]    `dropoff_location_id`
+  - $0.30 improvement surcharge assessed on hailed trips at the flag drop. The improvement surcharge began being levied in 2015.
 * [STRING]    `pickup_location_id`
+  - TLC Taxi Zone in which the taximeter was engaged
+* [STRING]    `dropoff_location_id`
+  - TLC Taxi Zone in which the taximeter was disengaged
+* [INTEGER]   `data_file_year`
+  - Datafile timestamp year value
+* [INTEGER]   `data_file_month`
+  - Datafile timestamp month value
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

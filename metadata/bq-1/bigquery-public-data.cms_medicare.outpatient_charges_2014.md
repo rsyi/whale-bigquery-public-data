@@ -12,7 +12,7 @@
   - The city in which the provider is physically located
 * [STRING]    `provider_state`
   - The state in which the provider is physically located
-* [INTEGER]   `provider_zipcode`
+* [STRING]    `provider_zipcode`
   - The zip code in which the provider is physically located
 * [STRING]    `apc`
   - The code and description identifying the MS-DRG. MS-DRGs are a classification system that groups similar clinical conditions (diagnoses) and the procedures furnished by the hospital during the stay

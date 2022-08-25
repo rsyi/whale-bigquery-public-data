@@ -1,5 +1,6 @@
 # `idc_current.segmentations` [view]
 `bq-1` | `bigquery-public-data`
+Attributes of the segments stored in DICOM Segmentation objects
 
 ## Column details
 * [STRING]    `PatientID`

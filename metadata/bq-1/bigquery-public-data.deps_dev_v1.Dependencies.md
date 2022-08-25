@@ -19,6 +19,8 @@ This table stores information about the dependency relationship between versions
   - The name of the imported package-version.
 * [STRING]    `Dependency.Version`
   - The version of the imported package-version.
+* [INTEGER]   `MinimumDepth`
+  - The minimum depth of this dependency from the root.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

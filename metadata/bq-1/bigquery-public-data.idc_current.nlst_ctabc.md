@@ -1,5 +1,6 @@
 # `idc_current.nlst_ctabc` [view]
 `bq-1` | `bigquery-public-data`
+The Spiral CT Comparison Read Abnormalities dataset (~31,000, one record per abnormality on CT) contains information about two types of abnormalities observed on the comparison read of CT exams: (a) all non-calcified nodules / masses >= 4mm in diameter; (b) other abnormalities deemed significant by the radiologist. Information about change in size and attenuation is available. (See https://cdas.cancer.gov/datasets/nlst/.) nlst_ctabc is a subset of that dataset. 
 
 ## Column details
 * [INTEGER]   `study_yr`

@@ -1,5 +1,6 @@
 # `idc_current.auxiliary_metadata` [view]
 `bq-1` | `bigquery-public-data`
+IDC version-related metadata 
 
 ## Column details
 * [STRING]    `tcia_api_collection_id`

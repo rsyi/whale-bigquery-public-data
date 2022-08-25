@@ -1,5 +1,6 @@
 # `idc_current.measurement_groups` [view]
 `bq-1` | `bigquery-public-data`
+Measurement group sequences extracted from the DICOM SR TID1500 objects
 
 ## Column details
 * [STRING]    `SOPInstanceUID`
