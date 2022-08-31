@@ -91,6 +91,10 @@ This table contains the information for election ads that have appeared on Googl
   - Lower bound of the amount in NZD spent by the advertiser on the election ad.
 * [INTEGER]   `spend_range_max_nzd`
   - Upper bound of the amount in NZD spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_min_brl`
+  - Lower bound of the amount in BRL spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_max_brl`
+  - Upper bound of the amount in BRL spent by the advertiser on the election ad.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

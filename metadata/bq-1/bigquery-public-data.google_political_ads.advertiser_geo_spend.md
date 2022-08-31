@@ -37,6 +37,8 @@ This file contains total US advertiser spend on political ads, per US state and 
   - Total amount in GBP spent on election ads in this region.
 * [INTEGER]   `spend_nzd`
   - Total amount in NZD spent on election ads in this region.
+* [INTEGER]   `spend_brl`
+  - Total amount in BRL spent on election ads in this region.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

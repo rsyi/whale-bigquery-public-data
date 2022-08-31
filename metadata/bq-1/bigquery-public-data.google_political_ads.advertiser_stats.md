@@ -41,6 +41,8 @@ This table contains the information about advertisers who have run an election a
   - Total amount in GBP spent on election ads by the advertiser.
 * [INTEGER]   `spend_nzd`
   - Total amount in NZD spent on election ads by the advertiser.
+* [INTEGER]   `spend_brl`
+  - Total amount in BRL spent on election ads by the advertiser.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

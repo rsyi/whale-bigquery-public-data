@@ -37,6 +37,8 @@ This table contains the information for how much an advertiser spent on politica
   - The amount in GBP spent on election ads during the given week by the advertiser.
 * [INTEGER]   `spend_nzd`
   - The amount in NZD spent on election ads during the given week by the advertiser.
+* [INTEGER]   `spend_brl`
+  - The amount in BRL spent on election ads during the given week by the advertiser.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

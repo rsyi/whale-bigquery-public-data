@@ -35,6 +35,8 @@ This table contains the information for how much is spent buying election ads on
   - Total amount in GBP spent on election ads in this region.
 * [INTEGER]   `spend_nzd`
   - Total amount in NZD spent on election ads in this region.
+* [INTEGER]   `spend_brl`
+  - Total amount in BRL spent on election ads in this region.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
