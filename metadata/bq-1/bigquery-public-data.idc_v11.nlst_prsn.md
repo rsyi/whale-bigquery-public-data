@@ -1,6 +1,6 @@
-# `idc_current.nlst_prsn` [view]
+# `idc_v11.nlst_prsn`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+The Participant dataset is a comprehensive dataset that contains all the NLST study data needed for most analyses of lung cancer screening, incidence, and mortality. The dataset contains one record for each of the ~53,500 participants in NLST. (See https://cdas.cancer.gov/datasets/nlst/.) nlst_prsn is a subset of that dataset. 
 
 ## Column details
 * [INTEGER]   `race`

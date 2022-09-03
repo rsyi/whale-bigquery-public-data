@@ -1,6 +1,5 @@
-# `idc_current.dicom_metadata` [view]
+# `idc_v11.dicom_metadata`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `MediaStorageSOPClassUID`

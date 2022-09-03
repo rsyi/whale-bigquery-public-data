@@ -1,6 +1,6 @@
-# `idc_current.tcga_clinical_rel9` [view]
+# `idc_v11.tcga_clinical_rel9`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+Copy of clinical_v1 with project_name from Clinical appended to it.
 
 ## Column details
 * [STRING]    `case_gdc_id`

@@ -1,6 +1,6 @@
 # `idc_current.qualitative_measurements` [view]
 `bq-1` | `bigquery-public-data`
-A convenience view providing simplified access to the items within the DICOM SR TID 1500 documents that contain qualitative measurements. All attributes named following the CamelCase notation correspond to standard DICOM attributes and are documented in the DICOM standard.
+Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `PatientID`

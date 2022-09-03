@@ -1,6 +1,6 @@
-# `idc_current.nlst_ctab` [view]
+# `idc_v11.nlst_ctab`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+The Spiral CT Abnormalities dataset (~177,500, one record per abnormality on CT) contains information about each abnormality observed on the Spiral CT screening exams. (See https://cdas.cancer.gov/datasets/nlst/.) nlst_ctab is a subset of that dataset. 
 
 ## Column details
 * [INTEGER]   `sct_ab_desc`

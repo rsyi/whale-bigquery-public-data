@@ -1,6 +1,6 @@
 # `idc_current.auxiliary_metadata` [view]
 `bq-1` | `bigquery-public-data`
-IDC version-related metadata 
+Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `tcia_api_collection_id`

@@ -1,6 +1,6 @@
-# `idc_current.nlst_screen` [view]
+# `idc_v11.nlst_screen`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+The Spiral CT Screening dataset (~75,100, one record per CT screen) contains information from the Spiral CT screening exams. This includes technical parameters, reconstruction filter(s), reader ID, and recommendations for diagnostic follow-up. (See https://cdas.cancer.gov/datasets/nlst/.) nlst_screen is a subset of that dataset. 
 
 ## Column details
 * [INTEGER]   `pid`

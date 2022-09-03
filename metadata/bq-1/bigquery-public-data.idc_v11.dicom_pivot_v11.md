@@ -1,35 +1,36 @@
-# `idc_current.dicom_derived_all` [view]
+# `idc_v11.dicom_pivot_v11` [view]
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `PatientID`
 * [STRING]    `BodyPartExamined`
 * [STRING]    `SeriesInstanceUID`
 * [FLOAT]     `SliceThickness`
-* [INTEGER]   `SamplesPerPixel`
 * [STRING]    `SeriesNumber`
 * [STRING]    `SeriesDescription`
 * [STRING]    `StudyInstanceUID`
 * [STRING]    `StudyDescription`
 * [DATE]      `StudyDate`
 * [STRING]    `SOPInstanceUID`
-* [INTEGER]   `instance_size`
 * [STRING]    `Modality`
 * [STRING]    `SOPClassUID`
-* [STRING]    `license_short_name`
+* [STRING]    `collection_id`
+* [STRING]    `AnatomicRegionSequence`
+* [STRING]    `FrameOfReferenceUID`
 * [STRING]    `crdc_study_uuid`
 * [STRING]    `crdc_series_uuid`
 * [STRING]    `crdc_instance_uuid`
+* [STRING]    `Program`
 * [STRING]    `tcia_tumorLocation`
 * [STRING]    `source_DOI`
 * [STRING]    `tcia_species`
-* [STRING]    `gcs_url`
+* [STRING]    `license_short_name`
 * [STRING]    `Manufacturer`
 * [STRING]    `ManufacturerModelName`
-* [STRING]    `program`
-* [STRING]    `collection_id`
+* [INTEGER]   `instance_size`
 * [STRING]    `analysis_results_id`
+* [INTEGER]   `SamplesPerPixel`
+* [NUMERIC]   `Apparent_Diffusion_Coefficient`
 * [STRING]    `Internal_structure`
 * [STRING]    `Sphericity`
 * [STRING]    `Calcification`
@@ -45,7 +46,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [NUMERIC]   `Surface_area_of_mesh`
 * [NUMERIC]   `Total_Lesion_Glycolysis`
 * [NUMERIC]   `Standardized_Added_Metabolic_Activity`
-* [NUMERIC]   `Apparent_Diffusion_Coefficient`
 * [NUMERIC]   `Percent_Within_First_Quarter_of_Intensity_Range`
 * [NUMERIC]   `Percent_Within_Third_Quarter_of_Intensity_Range`
 * [NUMERIC]   `Percent_Within_Fourth_Quarter_of_Intensity_Range`
@@ -55,18 +55,27 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [NUMERIC]   `Glycolysis_Within_Third_Quarter_of_Intensity_Range`
 * [NUMERIC]   `Glycolysis_Within_Fourth_Quarter_of_Intensity_Range`
 * [NUMERIC]   `Glycolysis_Within_Second_Quarter_of_Intensity_Range`
-* [STRING]    `AnatomicRegionSequence`
 * [STRING]    `SegmentedPropertyCategoryCodeSequence`
 * [STRING]    `SegmentedPropertyTypeCodeSequence`
-* [STRING]    `FrameOfReferenceUID`
 * [INTEGER]   `SegmentNumber`
 * [STRING]    `SegmentAlgorithmType`
-* [STRING]    `has_related`
-* [STRING]    `has_qualitative`
-* [STRING]    `has_quantitative`
-* [STRING]    `has_segmentation`
-* [STRING]    `has_derived`
+* [STRING]    `AdditionalPatientHistory`
+* [STRING]    `Allergies`
+* [STRING]    `ImageType`
+* [DATE]      `LastMenstrualDate`
+* [STRING]    `MedicalAlerts`
+* [STRING]    `EthnicGroup`
+* [STRING]    `Occupation`
+* [STRING]    `PatientAge`
+* [STRING]    `PatientComments`
+* [STRING]    `PatientSize`
+* [STRING]    `PatientWeight`
+* [INTEGER]   `PregnancyStatus`
+* [STRING]    `ReasonForStudy`
+* [STRING]    `RequestedProcedureComments`
+* [STRING]    `SmokingStatus`
 * [STRING]    `access`
+* [STRING]    `gcs_url`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

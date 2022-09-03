@@ -1,6 +1,6 @@
 # `idc_current.dicom_all` [view]
 `bq-1` | `bigquery-public-data`
-dicom_all is a join of dicom_metadata with selected columns from auxiliary_metadata and original_collections_metadata
+Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `tcia_tumorLocation`
@@ -367,6 +367,7 @@ dicom_all is a join of dicom_metadata with selected columns from auxiliary_metad
 * [DATE]      `PatientBirthDate`
 * [TIME]      `PatientBirthTime`
 * [STRING]    `PatientSex`
+* [STRING]    `QualityControlSubject`
 * [STRING]    `StrainDescription`
 * [STRING]    `StrainNomenclature`
 * [RECORD]    `StrainCodeSequence`
@@ -617,6 +618,7 @@ dicom_all is a join of dicom_metadata with selected columns from auxiliary_metad
 * [FLOAT]     `SequenceOfUltrasoundRegions.PhysicalDeltaY`
 * [INTEGER]   `SequenceOfUltrasoundRegions.TransducerFrequency`
 * [INTEGER]   `SequenceOfUltrasoundRegions.PulseRepetitionFrequency`
+* [FLOAT]     `SequenceOfUltrasoundRegions.DopplerCorrectionAngle`
 * [INTEGER]   `ReferencePixelX0`
 * [INTEGER]   `ReferencePixelY0`
 * [STRING]    `TransducerType`
@@ -873,6 +875,7 @@ dicom_all is a join of dicom_metadata with selected columns from auxiliary_metad
 * [STRING]    `FrameLaterality`
 * [INTEGER]   `TemporalPositionIndex`
 * [INTEGER]   `DimensionIndexValues`
+* [STRING]    `FrameComments`
 * [STRING]    `ConcatenationUID`
 * [STRING]    `DimensionOrganizationUID`
 * [RECORD]    `DimensionOrganizationSequence`

@@ -1,8 +1,81 @@
-# `idc_current.dicom_metadata` [view]
+# `idc_v11.dicom_all`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+dicom_all is a join of dicom_metadata with selected columns from auxiliary_metadata and original_collections_metadata
 
 ## Column details
+* [STRING]    `tcia_tumorLocation`
+  - TCIA assigned tumor location of the collection containing this instance
+* [STRING]    `tcia_species`
+  - TCIA assigned species of the collection containing this instance
+* [STRING]    `tcia_cancerType`
+  - TCIA assigned cancer type of the collection containing this instance
+* [STRING]    `tcia_api_collection_id`
+  - The ID of the collection containing this instance as expected by the TCIA API
+* [STRING]    `idc_webapp_collection_id`
+  - The ID of the collection containing this instance as expected by the IDC web app and API.
+* [STRING]    `collection_id`
+  - The ID of the collection containing this instance as expected by the IDC web app and API. Duplicate of the idc_webapp_collection_id column.
+* [DATETIME]  `collection_timestamp`
+  - Date when the current version of the collection containing this instance was revised
+* [STRING]    `collection_hash`
+  - md5 hash of the of this version of the collection containing this instance
+* [INTEGER]   `collection_init_idc_version`
+  - The IDC version in which the collection containing this instance first appeared
+* [INTEGER]   `collection_revised_idc_version`
+  - The IDC version in which this version of the collection containing this instance first appeared
+* [STRING]    `access`
+  - Collection access status: Public or Limited
+* [STRING]    `PatientID`
+  - Patient ID assigned by submitter of this data
+* [STRING]    `idc_case_id`
+  - IDC assigned UUID4 id of this version of the case/patient containing this instance
+* [STRING]    `patient_hash`
+  - md5 hash of this version of the patient/case containing this instance
+* [INTEGER]   `patient_init_idc_version`
+  - The IDC version in which the patient/case containing this instance first appeared
+* [INTEGER]   `patient_revised_idc_version`
+  - The IDC version in which this version of the patient/case containing this instance first appeared
+* [STRING]    `StudyInstanceUID`
+* [STRING]    `crdc_study_uuid`
+  - UUID of this version of study containing this instance
+* [STRING]    `study_hash`
+  - md5 hash of the data in the this version of the study containing this instance
+* [INTEGER]   `study_init_idc_version`
+  - The IDC version in which the study containing this instance first appeared
+* [INTEGER]   `study_revised_idc_version`
+  - The IDC version in which this version of the study containing this instance first appeared
+* [STRING]    `SeriesInstanceUID`
+* [STRING]    `crdc_series_uuid`
+  - UUID of this version of series containing this instance
+* [STRING]    `series_hash`
+  - md5 hash of the data in the this version of the series containing this instance
+* [INTEGER]   `series_init_idc_version`
+  - The IDC version in which the series containing this instance first appeared
+* [INTEGER]   `series_revised_idc_version`
+  - The IDC version in which this version of the series containing this instance first appeared
+* [STRING]    `SOPInstanceUID`
+* [STRING]    `crdc_instance_uuid`
+  - UUID of this version of this instance
+* [STRING]    `gcs_url`
+  - URL to this object containing the current version of this instance in Google Cloud Storage (GCS)
+* [INTEGER]   `instance_size`
+  - Size in bytes of this version of this instance
+* [STRING]    `instance_hash`
+  - md5 hash of the data in the this version of this instance
+* [INTEGER]   `instance_init_idc_version`
+  - The IDC version in which this instance first appeared
+* [INTEGER]   `instance_revised_idc_version`
+  - The IDC version in which this instance first appeared
+* [STRING]    `Source_DOI`
+  - The DOI of a page that describes the original collection or analysis result that include this instance
+* [STRING]    `Source_URL`
+  - The URL of a page that describes the original collection or analysis result that include this instance
+* [STRING]    `license_url`
+  - The URL to the page describing the license of the collection that contains this instance
+* [STRING]    `license_long_name`
+  - The long name of the license of the collection that contains this instance
+* [STRING]    `license_short_name`
+  - The short name of the license of the collection that contains this instance
 * [STRING]    `MediaStorageSOPClassUID`
 * [STRING]    `MediaStorageSOPInstanceUID`
 * [STRING]    `TransferSyntaxUID`
@@ -19,7 +92,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [TIME]      `InstanceCreationTime`
 * [STRING]    `InstanceCreatorUID`
 * [STRING]    `SOPClassUID`
-* [STRING]    `SOPInstanceUID`
 * [STRING]    `OriginalSpecializedSOPClassUID`
 * [DATE]      `StudyDate`
 * [DATE]      `SeriesDate`
@@ -304,7 +376,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `PatientName.Phonetic.MiddleName`
 * [STRING]    `PatientName.Phonetic.NamePrefix`
 * [STRING]    `PatientName.Phonetic.NameSuffix`
-* [STRING]    `PatientID`
 * [STRING]    `IssuerOfPatientID`
 * [STRING]    `TypeOfPatientID`
 * [RECORD]    `SourcePatientGroupIdentificationSequence`
@@ -803,8 +874,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `ContributingEquipmentSequence.OtherElements`
 * [STRING]    `ContributingEquipmentSequence.OtherElements.Tag`
 * [STRING]    `ContributingEquipmentSequence.OtherElements.Data`
-* [STRING]    `StudyInstanceUID`
-* [STRING]    `SeriesInstanceUID`
 * [STRING]    `StudyID`
 * [STRING]    `SeriesNumber`
 * [STRING]    `AcquisitionNumber`

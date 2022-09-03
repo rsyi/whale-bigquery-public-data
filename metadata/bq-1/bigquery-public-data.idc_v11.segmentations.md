@@ -1,6 +1,6 @@
-# `idc_current.segmentations` [view]
+# `idc_v11.segmentations`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+Attributes of the segments stored in DICOM Segmentation objects
 
 ## Column details
 * [STRING]    `PatientID`

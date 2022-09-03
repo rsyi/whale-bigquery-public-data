@@ -1,6 +1,6 @@
 # `idc_current.analysis_results_metadata` [view]
 `bq-1` | `bigquery-public-data`
-Metadata of Analysis Results. These are the results of analysis performed against Original Collections hosted by IDC.
+Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `ID`

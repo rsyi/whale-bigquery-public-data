@@ -1,6 +1,6 @@
-# `idc_current.nlst_canc` [view]
+# `idc_v11.nlst_canc`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+The Lung Cancer dataset (~2,100, one record per lung cancer) contains information about each lung cancer diagnosed during the trial, including multiple primary tumors in the same individual. It focuses on characteristics of the cancer, including information not available in the Participant dataset. (See https://cdas.cancer.gov/datasets/nlst/.) nlst_canc is a subset of that dataset.
 
 ## Column details
 * [INTEGER]   `pid`

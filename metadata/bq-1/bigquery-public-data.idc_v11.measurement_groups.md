@@ -1,6 +1,6 @@
-# `idc_current.measurement_groups` [view]
+# `idc_v11.measurement_groups`
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+Measurement group sequences extracted from the DICOM SR TID1500 objects
 
 ## Column details
 * [STRING]    `SOPInstanceUID`
