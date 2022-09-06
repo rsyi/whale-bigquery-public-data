@@ -1,0 +1,55 @@
+# `idc_v11_clinical.acrin_fmiso_brain_V1`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `dicom_patient_id`
+* [INTEGER]   `source_batch`
+* [INTEGER]   `cn`
+* [INTEGER]   `v1e1`
+* [INTEGER]   `v1e2`
+* [INTEGER]   `v1e3`
+* [INTEGER]   `v1e4`
+* [INTEGER]   `v1e5`
+* [INTEGER]   `v1e6`
+* [INTEGER]   `v1e7`
+* [INTEGER]   `v1e8`
+* [INTEGER]   `v1e9`
+* [INTEGER]   `v1e10`
+* [INTEGER]   `v1e11`
+* [INTEGER]   `v1e12`
+* [INTEGER]   `v1e13`
+* [INTEGER]   `v1e14`
+* [INTEGER]   `v1e15`
+* [INTEGER]   `v1e16`
+* [STRING]    `v1e17`
+* [INTEGER]   `v1e18`
+* [STRING]    `v1e19`
+* [INTEGER]   `v1e20`
+* [STRING]    `v1e21`
+* [STRING]    `v1e32`
+* [INTEGER]   `v1e34`
+* [INTEGER]   `v1e35`
+* [INTEGER]   `v1e36`
+* [INTEGER]   `v1e37`
+* [INTEGER]   `v1e38`
+* [INTEGER]   `v1e39`
+* [STRING]    `v1e40`
+* [INTEGER]   `v1e41`
+* [INTEGER]   `v1e42`
+* [STRING]    `v1e43`
+* [INTEGER]   `v1e44`
+* [STRING]    `v1e46`
+* [STRING]    `v1e47`
+* [INTEGER]   `v1e48`
+* [INTEGER]   `v1e49`
+* [STRING]    `v1e50`
+* [INTEGER]   `v1e51`
+* [STRING]    `v1e52`
+* [INTEGER]   `v1e53`
+* [INTEGER]   `rec`
+* [INTEGER]   `v1e2d`
+* [INTEGER]   `v1e8d`
+* [INTEGER]   `v1e34d`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*

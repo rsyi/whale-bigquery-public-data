@@ -1,0 +1,63 @@
+# `idc_v11_clinical.acrin_nsclc_fdg_pet_SS`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `dicom_patient_id`
+* [INTEGER]   `source_batch`
+* [INTEGER]   `cn`
+* [INTEGER]   `sse1`
+* [FLOAT]     `sse2`
+* [INTEGER]   `sse3`
+* [INTEGER]   `sse4`
+* [INTEGER]   `sse5`
+* [INTEGER]   `sse6`
+* [INTEGER]   `sse7`
+* [INTEGER]   `sse8`
+* [INTEGER]   `sse9`
+* [INTEGER]   `sse10`
+* [INTEGER]   `sse11`
+* [INTEGER]   `sse12`
+* [INTEGER]   `sse13`
+* [FLOAT]     `sse14`
+* [INTEGER]   `sse15`
+* [FLOAT]     `sse16`
+* [FLOAT]     `sse17`
+* [INTEGER]   `sse18`
+* [FLOAT]     `sse19`
+* [INTEGER]   `sse20`
+* [FLOAT]     `sse21`
+* [FLOAT]     `sse22`
+* [FLOAT]     `sse23`
+* [INTEGER]   `sse24`
+* [FLOAT]     `sse25`
+* [FLOAT]     `sse26`
+* [INTEGER]   `sse27`
+* [INTEGER]   `sse28`
+* [INTEGER]   `sse29`
+* [INTEGER]   `sse30`
+* [INTEGER]   `sse31`
+* [INTEGER]   `sse32`
+* [INTEGER]   `sse33`
+* [INTEGER]   `sse34`
+* [INTEGER]   `sse35`
+* [INTEGER]   `sse36`
+* [FLOAT]     `sse37`
+* [INTEGER]   `sse38`
+* [FLOAT]     `sse39`
+* [FLOAT]     `sse40`
+* [INTEGER]   `sse41`
+* [FLOAT]     `sse42`
+* [INTEGER]   `sse43`
+* [FLOAT]     `sse44`
+* [FLOAT]     `sse45`
+* [FLOAT]     `sse46`
+* [INTEGER]   `sse47`
+* [FLOAT]     `sse48`
+* [FLOAT]     `sse49`
+* [INTEGER]   `sse50`
+* [INTEGER]   `sse51`
+* [INTEGER]   `sse52`
+* [INTEGER]   `rec`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*
