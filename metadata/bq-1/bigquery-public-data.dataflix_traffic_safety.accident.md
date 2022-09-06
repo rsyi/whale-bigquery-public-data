@@ -1,0 +1,61 @@
+# `dataflix_traffic_safety.accident`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [INTEGER]   `L_YEAR`
+* [STRING]    `STATE`
+* [INTEGER]   `ST_CASE`
+* [INTEGER]   `VE_TOTAL`
+* [INTEGER]   `VE_FORMS`
+* [INTEGER]   `PVH_INVL`
+* [INTEGER]   `PEDS`
+* [INTEGER]   `PERNOTMVIT`
+* [INTEGER]   `PERMVIT`
+* [INTEGER]   `PERSONS`
+* [STRING]    `COUNTY`
+* [STRING]    `CITY`
+* [INTEGER]   `DAY`
+* [STRING]    `MONTH`
+* [INTEGER]   `YEAR`
+* [STRING]    `WEEK_DAY`
+* [INTEGER]   `HOUR`
+* [INTEGER]   `MINUTE`
+* [STRING]    `NHS`
+* [STRING]    `RUR_URB`
+* [STRING]    `FUNC_SYS`
+* [STRING]    `RD_OWNER`
+* [STRING]    `ROUTE`
+* [STRING]    `TWAY_ID`
+* [STRING]    `TWAY_ID2`
+* [INTEGER]   `MILEPT`
+* [FLOAT]     `LATITUDE`
+* [FLOAT]     `LONGITUD`
+* [STRING]    `SP_JUR`
+* [STRING]    `HARM_EV`
+* [STRING]    `MAN_COLL`
+* [STRING]    `RELJCT1`
+* [STRING]    `RELJCT2`
+* [STRING]    `TYP_INT`
+* [STRING]    `WRK_ZONE`
+* [STRING]    `REL_ROAD`
+* [STRING]    `LGT_COND`
+* [STRING]    `WEATHER1`
+* [STRING]    `WEATHER2`
+* [STRING]    `WEATHER`
+* [STRING]    `SCH_BUS`
+* [STRING]    `RAIL`
+* [INTEGER]   `NOT_HOUR`
+* [INTEGER]   `NOT_MIN`
+* [INTEGER]   `ARR_HOUR`
+* [INTEGER]   `ARR_MIN`
+* [INTEGER]   `HOSP_HR`
+* [INTEGER]   `HOSP_MN`
+* [STRING]    `CF1`
+* [STRING]    `CF2`
+* [STRING]    `CF3`
+* [INTEGER]   `FATALS`
+* [INTEGER]   `DRUNK_DR`
+* [DATE]      `DATE_PARTITION`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*
