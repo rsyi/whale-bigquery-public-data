@@ -27,6 +27,7 @@
 * [NUMERIC]   `tolls_amount`
   - Total amount of all tolls paid in trip.
 * [NUMERIC]   `ehail_fee`
+* [NUMERIC]   `airport_fee`
 * [NUMERIC]   `total_amount`
   - The total amount charged to passengers. Does not include cash tips.
 * [STRING]    `payment_type`

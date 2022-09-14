@@ -30,6 +30,7 @@
   - Total amount of all tolls paid in trip.
 * [NUMERIC]   `imp_surcharge`
   - $0.30 improvement surcharge assessed on hailed trips at the flag drop. The improvement surcharge began being levied in 2015.
+* [NUMERIC]   `airport_fee`
 * [NUMERIC]   `total_amount`
   - The total amount charged to passengers. Does not include cash tips.
 * [STRING]    `pickup_location_id`
