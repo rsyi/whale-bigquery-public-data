@@ -3518,6 +3518,7 @@ bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_2019
 bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_2020
 bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_2021
 bq-1/bigquery-public-data.noaa_historic_severe_storms.tornado_paths
+bq-1/bigquery-public-data.noaa_hurricanes.hurricanes
 bq-1/bigquery-public-data.noaa_icoads.icoads_core_1662_2000
 bq-1/bigquery-public-data.noaa_icoads.icoads_core_2001_2004
 bq-1/bigquery-public-data.noaa_icoads.icoads_core_2005
