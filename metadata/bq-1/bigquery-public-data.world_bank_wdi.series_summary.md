@@ -1,6 +1,5 @@
 # `world_bank_wdi.series_summary`
 `bq-1` | `bigquery-public-data`
-Series Summary table
 
 ## Column details
 * [STRING]    `series_code`

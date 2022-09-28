@@ -768,6 +768,12 @@ bq-1/bigquery-public-data.fda_food.food_enforcement
 bq-1/bigquery-public-data.fda_food.food_events
 bq-1/bigquery-public-data.fdic_banks.institutions
 bq-1/bigquery-public-data.fdic_banks.locations
+bq-1/bigquery-public-data.fec.candidate_2016
+bq-1/bigquery-public-data.fec.candidate_2018
+bq-1/bigquery-public-data.fec.candidate_2020
+bq-1/bigquery-public-data.fec.candidate_committee_2016
+bq-1/bigquery-public-data.fec.candidate_committee_2018
+bq-1/bigquery-public-data.fec.candidate_committee_2020
 bq-1/bigquery-public-data.fec.ccl00
 bq-1/bigquery-public-data.fec.ccl02
 bq-1/bigquery-public-data.fec.ccl04
@@ -821,6 +827,11 @@ bq-1/bigquery-public-data.fec.cn92
 bq-1/bigquery-public-data.fec.cn94
 bq-1/bigquery-public-data.fec.cn96
 bq-1/bigquery-public-data.fec.cn98
+bq-1/bigquery-public-data.fec.committee_2016
+bq-1/bigquery-public-data.fec.committee_2018
+bq-1/bigquery-public-data.fec.committee_2020
+bq-1/bigquery-public-data.fec.committee_contributions_2016
+bq-1/bigquery-public-data.fec.committee_contributions_2018
 bq-1/bigquery-public-data.fec.indiv00
 bq-1/bigquery-public-data.fec.indiv02
 bq-1/bigquery-public-data.fec.indiv04
@@ -843,6 +854,7 @@ bq-1/bigquery-public-data.fec.indiv92
 bq-1/bigquery-public-data.fec.indiv94
 bq-1/bigquery-public-data.fec.indiv96
 bq-1/bigquery-public-data.fec.indiv98
+bq-1/bigquery-public-data.fec.individuals_2016
 bq-1/bigquery-public-data.fec.oppexp04
 bq-1/bigquery-public-data.fec.oppexp06
 bq-1/bigquery-public-data.fec.oppexp08
@@ -873,6 +885,8 @@ bq-1/bigquery-public-data.fec.oth92
 bq-1/bigquery-public-data.fec.oth94
 bq-1/bigquery-public-data.fec.oth96
 bq-1/bigquery-public-data.fec.oth98
+bq-1/bigquery-public-data.fec.other_committee_tx_2016
+bq-1/bigquery-public-data.fec.other_committee_tx_2018
 bq-1/bigquery-public-data.fec.pas200
 bq-1/bigquery-public-data.fec.pas202
 bq-1/bigquery-public-data.fec.pas204

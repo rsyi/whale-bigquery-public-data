@@ -1,6 +1,5 @@
 # `world_bank_wdi.country_summary`
 `bq-1` | `bigquery-public-data`
-Country Summary table
 
 ## Column details
 * [STRING]    `country_code`
@@ -59,12 +58,10 @@ Country Summary table
   - Vital registration complete identifies countries that report at least 90 percent complete registries of vital (birth and death) statistics to the United Nations Statistics Division and are reported in its Population and Vital Statistics Reports. Countries with complete vital statistics registries may have more accurate and more timely demographic indicators than other countries.
 * [STRING]    `latest_agricultural_census`
   - Latest agricultural census shows the most recent year in which an agricultural census was conducted or planned to be conducted as reported to the Food and Agriculture Organization.
-* [INTEGER]   `latest_industrial_data`
+* [STRING]    `latest_industrial_data`
   - Latest industrial data show the most recent year for which manufacturing value added data at the three-digit level of the International Standard Industrial Classification (revision 2 or 3) are available in the United Nations Industrial Development Organization database.
-* [INTEGER]   `latest_trade_data`
+* [STRING]    `latest_trade_data`
   - Latest trade data show the most recent year for which structure of merchandise trade data from the United Nations Statistics Division’s Commodity Trade (Comtrade) database are available.
-* [STRING]    `latest_water_withdrawal_data`
-  - Latest water withdrawal data show the most recent year for which data on freshwater withdrawals have been compiled from a variety of sources.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

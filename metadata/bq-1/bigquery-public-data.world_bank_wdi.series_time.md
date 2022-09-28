@@ -1,6 +1,5 @@
 # `world_bank_wdi.series_time`
 `bq-1` | `bigquery-public-data`
-Series Times table
 
 ## Column details
 * [STRING]    `series_code`

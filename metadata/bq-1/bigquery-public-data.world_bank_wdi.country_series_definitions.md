@@ -1,6 +1,5 @@
 # `world_bank_wdi.country_series_definitions`
 `bq-1` | `bigquery-public-data`
-Country Series Definition table
 
 ## Column details
 * [STRING]    `country_code`
