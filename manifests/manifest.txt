@@ -855,6 +855,7 @@ bq-1/bigquery-public-data.fec.indiv94
 bq-1/bigquery-public-data.fec.indiv96
 bq-1/bigquery-public-data.fec.indiv98
 bq-1/bigquery-public-data.fec.individuals_2016
+bq-1/bigquery-public-data.fec.individuals_ingest_2020
 bq-1/bigquery-public-data.fec.oppexp04
 bq-1/bigquery-public-data.fec.oppexp06
 bq-1/bigquery-public-data.fec.oppexp08
