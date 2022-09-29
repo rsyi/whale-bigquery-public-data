@@ -2521,6 +2521,14 @@ bq-1/bigquery-public-data.idc_v9.segmentations
 bq-1/bigquery-public-data.idc_v9.tcga_biospecimen_rel9
 bq-1/bigquery-public-data.idc_v9.tcga_clinical_rel9
 bq-1/bigquery-public-data.idc_v9.version_metadata
+bq-1/bigquery-public-data.imdb.name_basics
+bq-1/bigquery-public-data.imdb.reviews
+bq-1/bigquery-public-data.imdb.title_akas
+bq-1/bigquery-public-data.imdb.title_basics
+bq-1/bigquery-public-data.imdb.title_crew
+bq-1/bigquery-public-data.imdb.title_episode
+bq-1/bigquery-public-data.imdb.title_principals
+bq-1/bigquery-public-data.imdb.title_ratings
 bq-1/bigquery-public-data.immune_epitope_db.antigen_full_v3
 bq-1/bigquery-public-data.immune_epitope_db.bcell_full_v3
 bq-1/bigquery-public-data.immune_epitope_db.bcr_3d_assays
