@@ -7,7 +7,7 @@
 * [STRING]    `reactions`
   - Information on the reactions or symptoms experienced by the individual involved
 * [STRING]    `outcomes`
-  - Information on known outcomes or consequences of the adverse event  For more info, refer: https://open.fda.gov/food/event/reference/
+  - Information on known outcomes or consequences of the adverse event. For more info, refer: https://open.fda.gov/food/event/reference/
 * [STRING]    `products_brand_name`
   - The reported brand name of the product.
 * [STRING]    `products_industry_code`

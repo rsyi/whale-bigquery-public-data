@@ -390,6 +390,7 @@ bq-1/bigquery-public-data.census_bureau_international.mortality_life_expectancy
 bq-1/bigquery-public-data.census_bureau_usa.population_by_zip_2000
 bq-1/bigquery-public-data.census_bureau_usa.population_by_zip_2010
 bq-1/bigquery-public-data.census_opportunity_atlas.tract_covariates
+bq-1/bigquery-public-data.census_opportunity_atlas.tract_outcomes
 bq-1/bigquery-public-data.census_utility.fips_class_code
 bq-1/bigquery-public-data.census_utility.fips_codes_all
 bq-1/bigquery-public-data.census_utility.fips_codes_states
