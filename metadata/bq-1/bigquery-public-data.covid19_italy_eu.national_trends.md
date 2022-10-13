@@ -1,5 +1,6 @@
 # `covid19_italy_eu.national_trends`
 `bq-1` | `bigquery-public-data`
+COVID-19 Italy National Trends
 
 ## Column details
 * [TIMESTAMP] `date`
