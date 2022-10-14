@@ -3605,7 +3605,6 @@ bq-1/bigquery-public-data.nih_gudid.premarket_submissions
 bq-1/bigquery-public-data.nih_gudid.product_codes
 bq-1/bigquery-public-data.nih_gudid.sterilization_method_types
 bq-1/bigquery-public-data.nih_sequence_read.annotated_variations
-bq-1/bigquery-public-data.nih_sequence_read.annotated_variations_test
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxn_all_pathways_01_21
@@ -4349,6 +4348,7 @@ bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_2018
 bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_2019
 bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_2020
 bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_2021
+bq-1/bigquery-public-data.noaa_historic_severe_storms.storms_2022
 bq-1/bigquery-public-data.noaa_historic_severe_storms.tornado_paths
 bq-1/bigquery-public-data.noaa_hurricanes.hurricanes
 bq-1/bigquery-public-data.noaa_icoads.icoads_core_1662_2000
