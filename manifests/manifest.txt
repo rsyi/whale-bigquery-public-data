@@ -1607,6 +1607,7 @@ bq-1/bigquery-public-data.fec.committee_2018
 bq-1/bigquery-public-data.fec.committee_2020
 bq-1/bigquery-public-data.fec.committee_contributions_2016
 bq-1/bigquery-public-data.fec.committee_contributions_2018
+bq-1/bigquery-public-data.fec.committee_contributions_2020
 bq-1/bigquery-public-data.fec.indiv00
 bq-1/bigquery-public-data.fec.indiv02
 bq-1/bigquery-public-data.fec.indiv04
