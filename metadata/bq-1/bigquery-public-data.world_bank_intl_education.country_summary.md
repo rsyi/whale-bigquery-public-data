@@ -14,7 +14,7 @@ Country Summary table
 * [STRING]    `income_group`
 * [STRING]    `wb_two_code`
 * [STRING]    `national_accounts_base_year`
-* [INTEGER]   `national_accounts_reference_year`
+* [STRING]    `national_accounts_reference_year`
 * [STRING]    `sna_price_valuation`
 * [STRING]    `lending_category`
 * [STRING]    `other_groups`

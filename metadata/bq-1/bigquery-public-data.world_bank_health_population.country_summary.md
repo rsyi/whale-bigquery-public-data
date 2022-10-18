@@ -33,7 +33,6 @@ Country Summary table
 * [STRING]    `latest_agricultural_census`
 * [INTEGER]   `latest_industrial_data`
 * [INTEGER]   `latest_trade_data`
-* [INTEGER]   `latest_water_withdrawal_data`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
