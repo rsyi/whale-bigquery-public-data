@@ -1667,6 +1667,7 @@ bq-1/bigquery-public-data.fec.oth96
 bq-1/bigquery-public-data.fec.oth98
 bq-1/bigquery-public-data.fec.other_committee_tx_2016
 bq-1/bigquery-public-data.fec.other_committee_tx_2018
+bq-1/bigquery-public-data.fec.other_committee_tx_2020
 bq-1/bigquery-public-data.fec.pas200
 bq-1/bigquery-public-data.fec.pas202
 bq-1/bigquery-public-data.fec.pas204
