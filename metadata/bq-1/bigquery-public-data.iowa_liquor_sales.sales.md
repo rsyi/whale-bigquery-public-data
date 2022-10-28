@@ -17,7 +17,7 @@ Sales Dataset
   - City where the store who ordered the liquor is located
 * [STRING]    `zip_code`
   - Zip code where the store who ordered the liquor is located
-* [STRING]    `store_location`
+* [GEOGRAPHY] `store_location`
   - Location of store who ordered the liquor. The Address, City, State and Zip Code are geocoded to provide geographic coordinates. Accuracy of geocoding is dependent on how well the address is interpreted and the completeness of the reference data used.
 * [STRING]    `county_number`
   - Iowa county number for the county where store who ordered the liquor is located
