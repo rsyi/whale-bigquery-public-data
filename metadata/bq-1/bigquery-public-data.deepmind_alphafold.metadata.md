@@ -52,7 +52,9 @@ Metadata for the AlphaFold Protein Structure Database
 * [STRING]    `uniprotSequence`
   - Amino acid sequence for this prediction
 * [STRING]    `gene`
-  - The name of the gene if known, e.g. “COII”
+  - The name of the gene if known, e.g. "COII"
+* [BOOLEAN]   `isReferenceProteome`
+* [BOOLEAN]   `isReviewed`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
