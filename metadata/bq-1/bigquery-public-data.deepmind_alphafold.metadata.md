@@ -54,7 +54,9 @@ Metadata for the AlphaFold Protein Structure Database
 * [STRING]    `gene`
   - The name of the gene if known, e.g. "COII"
 * [BOOLEAN]   `isReferenceProteome`
+  - Is this protein part of the reference proteome?
 * [BOOLEAN]   `isReviewed`
+  - Has this protein been reviewed, i.e. is it part of SwissProt?
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

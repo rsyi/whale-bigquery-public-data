@@ -1,0 +1,59 @@
+# `idc_v12_clinical.acrin_nsclc_fdg_pet_T1`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `dicom_patient_id`
+* [INTEGER]   `source_batch`
+* [INTEGER]   `cn`
+* [INTEGER]   `t1e1`
+* [INTEGER]   `t1e2`
+* [INTEGER]   `t1e3`
+* [INTEGER]   `t1e4`
+* [FLOAT]     `t1e5`
+* [INTEGER]   `t1e6`
+* [FLOAT]     `t1e7`
+* [INTEGER]   `t1e8`
+* [FLOAT]     `t1e9`
+* [INTEGER]   `t1e10`
+* [FLOAT]     `t1e11`
+* [INTEGER]   `t1e12`
+* [FLOAT]     `t1e13`
+* [INTEGER]   `t1e14`
+* [INTEGER]   `t1e15`
+* [FLOAT]     `t1e16`
+* [INTEGER]   `t1e17`
+* [INTEGER]   `t1e18`
+* [FLOAT]     `t1e19`
+* [INTEGER]   `t1e20`
+* [INTEGER]   `t1e21`
+* [FLOAT]     `t1e22`
+* [INTEGER]   `t1e23`
+* [INTEGER]   `t1e24`
+* [FLOAT]     `t1e25`
+* [INTEGER]   `t1e26`
+* [INTEGER]   `t1e27`
+* [FLOAT]     `t1e28`
+* [STRING]    `t1e29`
+* [INTEGER]   `t1e30`
+* [FLOAT]     `t1e31`
+* [INTEGER]   `t1e32`
+* [FLOAT]     `t1e33`
+* [STRING]    `t1e34`
+* [INTEGER]   `t1e35`
+* [FLOAT]     `t1e36`
+* [STRING]    `t1e37`
+* [INTEGER]   `t1e38`
+* [FLOAT]     `t1e39`
+* [STRING]    `t1e40`
+* [INTEGER]   `t1e41`
+* [STRING]    `t1e42`
+* [INTEGER]   `t1e43`
+* [INTEGER]   `t1e44`
+* [INTEGER]   `t1e47`
+* [INTEGER]   `rec`
+* [INTEGER]   `t1e2d`
+* [INTEGER]   `t1e3d`
+* [INTEGER]   `t1e47d`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*

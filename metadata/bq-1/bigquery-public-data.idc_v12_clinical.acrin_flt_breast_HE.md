@@ -1,0 +1,64 @@
+# `idc_v12_clinical.acrin_flt_breast_HE`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `dicom_patient_id`
+* [INTEGER]   `source_batch`
+* [INTEGER]   `cn`
+* [INTEGER]   `hee2`
+* [INTEGER]   `hee3`
+* [INTEGER]   `hee4`
+* [INTEGER]   `hee5`
+* [FLOAT]     `hee7`
+* [INTEGER]   `hee14`
+* [FLOAT]     `hee15`
+* [FLOAT]     `hee16`
+* [INTEGER]   `hee23`
+* [FLOAT]     `hee24`
+* [FLOAT]     `hee25`
+* [INTEGER]   `hee32`
+* [FLOAT]     `hee33`
+* [INTEGER]   `hee34`
+* [INTEGER]   `hee41`
+* [INTEGER]   `hee42`
+* [FLOAT]     `hee43`
+* [INTEGER]   `hee50`
+* [FLOAT]     `hee51`
+* [FLOAT]     `hee52`
+* [INTEGER]   `hee59`
+* [FLOAT]     `hee60`
+* [FLOAT]     `hee61`
+* [INTEGER]   `hee68`
+* [FLOAT]     `hee69`
+* [FLOAT]     `hee70`
+* [INTEGER]   `hee77`
+* [FLOAT]     `hee78`
+* [FLOAT]     `hee79`
+* [INTEGER]   `hee86`
+* [FLOAT]     `hee87`
+* [FLOAT]     `hee88`
+* [INTEGER]   `hee95`
+* [FLOAT]     `hee96`
+* [FLOAT]     `hee97`
+* [INTEGER]   `hee104`
+* [FLOAT]     `hee105`
+* [FLOAT]     `hee106`
+* [INTEGER]   `hee113`
+* [FLOAT]     `hee114`
+* [FLOAT]     `hee115`
+* [INTEGER]   `hee122`
+* [FLOAT]     `hee123`
+* [FLOAT]     `hee124`
+* [INTEGER]   `hee131`
+* [FLOAT]     `hee132`
+* [FLOAT]     `hee133`
+* [INTEGER]   `hee140`
+* [FLOAT]     `hee141`
+* [INTEGER]   `hee142`
+* [INTEGER]   `hee146`
+* [INTEGER]   `hee3d`
+* [INTEGER]   `hee142d`
+* [INTEGER]   `hee146d`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*
