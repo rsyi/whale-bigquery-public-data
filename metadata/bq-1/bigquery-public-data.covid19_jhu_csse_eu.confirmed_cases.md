@@ -7,7 +7,7 @@ Confirmed COVID-19 cases, aggregated by country/region and province/state. See t
 * [STRING]    `country_region`
 * [FLOAT]     `latitude`
 * [FLOAT]     `longitude`
-* [STRING]    `location_geom`
+* [GEOGRAPHY] `location_geom`
 * [INTEGER]   `_1_22_20`
 * [INTEGER]   `_1_23_20`
 * [INTEGER]   `_1_24_20`
@@ -1023,6 +1023,7 @@ Confirmed COVID-19 cases, aggregated by country/region and province/state. See t
 * [INTEGER]   `_10_30_22`
 * [INTEGER]   `_10_31_22`
 * [INTEGER]   `_11_1_22`
+* [INTEGER]   `_11_2_22`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
