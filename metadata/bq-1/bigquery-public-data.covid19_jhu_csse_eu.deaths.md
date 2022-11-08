@@ -6,7 +6,7 @@
 * [STRING]    `country_region`
 * [FLOAT]     `latitude`
 * [FLOAT]     `longitude`
-* [STRING]    `location_geom`
+* [GEOGRAPHY] `location_geom`
 * [INTEGER]   `_1_22_20`
 * [INTEGER]   `_1_23_20`
 * [INTEGER]   `_1_24_20`
@@ -1027,6 +1027,7 @@
 * [INTEGER]   `_11_4_22`
 * [INTEGER]   `_11_5_22`
 * [INTEGER]   `_11_6_22`
+* [INTEGER]   `_11_7_22`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
