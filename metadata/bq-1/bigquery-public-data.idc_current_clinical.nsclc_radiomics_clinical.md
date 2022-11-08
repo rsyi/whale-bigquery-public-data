@@ -5,7 +5,7 @@
 * [STRING]    `dicom_patient_id`
 * [INTEGER]   `source_batch`
 * [STRING]    `patientid`
-* [FLOAT]     `age`
+* [STRING]    `age`
 * [STRING]    `clinicaltstage`
 * [INTEGER]   `clinicalnstage`
 * [INTEGER]   `clinicalmstage`

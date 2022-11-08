@@ -17,9 +17,7 @@
 * [INTEGER]   `number_batches`
 * [RECORD]    `source_info`
 * [STRING]    `source_info.srcs`
-* [STRING]    `source_info.added_md5`
-* [STRING]    `source_info.prior_md5`
-* [STRING]    `source_info.update_md5`
+* [STRING]    `source_info.md5`
 * [STRING]    `source_info.table_last_modified`
 * [INTEGER]   `source_info.table_size`
 

@@ -5,21 +5,21 @@
 * [STRING]    `dicom_patient_id`
 * [INTEGER]   `source_batch`
 * [STRING]    `breast_dx_case`
-* [STRING]    `background`
+* [STRING]    `background_`
 * [STRING]    `pathology_dx`
-* [STRING]    `pathology_which_breast`
-* [STRING]    `pathology_er`
-* [STRING]    `pathology_pr`
-* [STRING]    `pathology_her2`
-* [STRING]    `pathology_e_cadherin`
-* [STRING]    `pathology_ki67`
-* [STRING]    `pathology_oncotype_score`
-* [STRING]    `pathology_oncotype_risk`
-* [STRING]    `pathology_age_decade`
+* [STRING]    `_which_breast`
+* [STRING]    `_er`
+* [STRING]    `_pr`
+* [STRING]    `_her2`
+* [STRING]    `_e_cadherin`
+* [STRING]    `_ki67`
+* [STRING]    `_oncotype_score`
+* [STRING]    `_oncotype_risk`
+* [STRING]    `_age_decade`
 * [STRING]    `path_report_notes`
 * [STRING]    `mri_report_which_breast`
-* [STRING]    `mri_report_birad`
-* [STRING]    `mri_report_impression`
+* [STRING]    `_birad`
+* [STRING]    `_impression`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -8,7 +8,7 @@
 * [STRING]    `newpatientid`
 * [STRING]    `sex`
 * [STRING]    `age`
-* [FLOAT]     `weight_kg`
+* [STRING]    `weight_kg`
 * [STRING]    `t_stage`
 * [INTEGER]   `n_stage`
 * [STRING]    `_stage`

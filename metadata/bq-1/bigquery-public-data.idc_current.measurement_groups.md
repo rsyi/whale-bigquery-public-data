@@ -34,7 +34,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `contentSequence.ConceptNameCodeSequence.CodingSchemeDesignator`
 * [STRING]    `contentSequence.ConceptNameCodeSequence.CodeMeaning`
 * [STRING]    `contentSequence.ContinuityOfContent`
-* [DATE]      `contentSequence.Date`
 * [STRING]    `contentSequence.UID`
 * [STRING]    `contentSequence.TextValue`
 * [RECORD]    `contentSequence.ConceptCodeSequence`

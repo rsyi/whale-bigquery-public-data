@@ -12,6 +12,7 @@
 * [RECORD]    `values`
 * [STRING]    `values.option_code`
 * [STRING]    `values.option_description`
+* [STRING]    `values_source`
 * [STRING]    `files`
 * [STRING]    `sheet_names`
 * [INTEGER]   `batch`

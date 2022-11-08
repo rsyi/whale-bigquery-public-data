@@ -6,7 +6,7 @@
 * [INTEGER]   `source_batch`
 * [STRING]    `tcia_id`
 * [INTEGER]   `interval_bl`
-* [FLOAT]     `interval_fu`
+* [STRING]    `interval_fu`
 * [FLOAT]     `ttp`
 * [INTEGER]   `death_1_stillaliveorlosttofu_0`
 * [INTEGER]   `censored_0_progressed_1`
@@ -25,7 +25,7 @@
 * [STRING]    `pathology`
 * [INTEGER]   `ps_bclc_0_0_1_2_1_3_4_3`
 * [STRING]    `cps`
-* [FLOAT]     `tr_size`
+* [STRING]    `tr_size`
 * [STRING]    `tumor_nodul`
 * [INTEGER]   `vascular_invasion`
 * [INTEGER]   `metastasis`
@@ -40,26 +40,26 @@
 * [STRING]    `tnm`
 * [STRING]    `bclc`
 * [STRING]    `chemotherapy`
-* [FLOAT]     `c_1_easl_bl`
-* [FLOAT]     `c_1_easl_fu`
+* [STRING]    `c_1_easl_bl`
+* [STRING]    `c_1_easl_fu`
 * [STRING]    `c_1_easl`
-* [FLOAT]     `c_1_recist_bl`
-* [FLOAT]     `c_1_recist_fu`
+* [STRING]    `c_1_recist_bl`
+* [STRING]    `c_1_recist_fu`
 * [STRING]    `c_1_recist`
 * [STRING]    `c_2_recist_bl`
 * [STRING]    `c_2_recist_fu`
 * [STRING]    `c_2_recist`
-* [FLOAT]     `c_3_recist_bl`
-* [FLOAT]     `c_3_recist_fu`
+* [STRING]    `c_3_recist_bl`
+* [STRING]    `c_3_recist_fu`
 * [STRING]    `c_3_recist`
-* [FLOAT]     `c_1_mrecist_bl`
-* [FLOAT]     `c_1_mrecist_fu`
+* [STRING]    `c_1_mrecist_bl`
+* [STRING]    `c_1_mrecist_fu`
 * [STRING]    `c_1_mrecist`
 * [STRING]    `c_2_mrecist_bl`
 * [STRING]    `c_2_mrecist_fu`
 * [STRING]    `c_2_mrecist`
-* [FLOAT]     `c_3_mrecist_bl`
-* [FLOAT]     `c_3_mrecist_fu`
+* [STRING]    `c_3_mrecist_bl`
+* [STRING]    `c_3_mrecist_fu`
 * [STRING]    `c_3_mrecist`
 
 -------------------------------------------------------------------------------

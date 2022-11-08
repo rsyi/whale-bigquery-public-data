@@ -11,7 +11,7 @@
 * [STRING]    `organism`
 * [STRING]    `characteristicstaggender`
 * [STRING]    `characteristicstaghistology`
-* [FLOAT]     `characteristicstagtumorsizemaximumdiameter`
+* [STRING]    `characteristicstagtumorsizemaximumdiameter`
 * [STRING]    `characteristicstagstageprimarytumor`
 * [STRING]    `characteristicstagstagenodes`
 * [STRING]    `characteristicstagstagemets`

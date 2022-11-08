@@ -32,7 +32,7 @@
 * [STRING]    `ltype`
 * [STRING]    `hrher4g`
 * [STRING]    `sbrgrade`
-* [FLOAT]     `mrld`
+* [STRING]    `mrld`
 * [STRING]    `pcr`
 
 -------------------------------------------------------------------------------
