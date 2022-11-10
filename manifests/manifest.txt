@@ -1928,6 +1928,7 @@ bq-1/bigquery-public-data.geo_openstreetmap.history_changesets
 bq-1/bigquery-public-data.geo_openstreetmap.history_layers
 bq-1/bigquery-public-data.geo_openstreetmap.history_nodes
 bq-1/bigquery-public-data.geo_openstreetmap.history_relations
+bq-1/bigquery-public-data.geo_openstreetmap.history_relations_cluster
 bq-1/bigquery-public-data.geo_openstreetmap.history_ways
 bq-1/bigquery-public-data.geo_openstreetmap.planet_changesets
 bq-1/bigquery-public-data.geo_openstreetmap.planet_features
