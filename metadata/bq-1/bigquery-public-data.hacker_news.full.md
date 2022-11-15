@@ -20,7 +20,7 @@ A full daily update of all the stories and comments in Hacker News.
 * [TIMESTAMP] `timestamp`
   - Timestamp for the unix time
 * [STRING]    `type`
-  - type of details (comment comment_ranking poll story job pollopt)
+  - Type of details (comment, comment_ranking, poll, story, job, pollopt)
 * [INTEGER]   `id`
   - The item's unique id.
 * [INTEGER]   `parent`
