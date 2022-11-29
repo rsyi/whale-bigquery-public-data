@@ -3,12 +3,12 @@
 
 ## Column details
 * [STRING]    `primarydi`
+* [STRING]    `storagehandlingtype`
 * [STRING]    `storagehandlinghigh__unit_`
 * [STRING]    `storagehandlinghigh__value_`
 * [STRING]    `storagehandlinglow__unit_`
 * [STRING]    `storagehandlinglow__value_`
 * [STRING]    `storagehandlingspecialconditiontext`
-* [STRING]    `storagehandlingtype`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

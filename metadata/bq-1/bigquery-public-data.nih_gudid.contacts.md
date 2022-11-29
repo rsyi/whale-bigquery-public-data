@@ -2,10 +2,10 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [STRING]    `email`
+* [STRING]    `primarydi`
 * [STRING]    `phone`
 * [STRING]    `phoneextension`
-* [STRING]    `primarydi`
+* [STRING]    `email`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

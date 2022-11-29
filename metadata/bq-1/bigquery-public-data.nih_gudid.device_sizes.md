@@ -3,10 +3,10 @@
 
 ## Column details
 * [STRING]    `primarydi`
+* [STRING]    `sizetype`
 * [STRING]    `size__unit_`
 * [STRING]    `size__value_`
 * [STRING]    `sizetext`
-* [STRING]    `sizetype`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

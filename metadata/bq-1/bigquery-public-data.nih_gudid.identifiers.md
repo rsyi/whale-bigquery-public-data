@@ -2,15 +2,15 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [STRING]    `containsdinumber`
+* [STRING]    `primarydi`
 * [STRING]    `deviceid`
-* [STRING]    `deviceidissuingagency`
 * [STRING]    `deviceidtype`
-* [STRING]    `pkgdiscontinuedate`
+* [STRING]    `deviceidissuingagency`
+* [STRING]    `containsdinumber`
 * [STRING]    `pkgquantity`
+* [STRING]    `pkgdiscontinuedate`
 * [STRING]    `pkgstatus`
 * [STRING]    `pkgtype`
-* [STRING]    `primarydi`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -2,9 +2,9 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [STRING]    `gmdnptdefinition`
-* [STRING]    `gmdnptname`
 * [STRING]    `primarydi`
+* [STRING]    `gmdnptname`
+* [STRING]    `gmdnptdefinition`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
