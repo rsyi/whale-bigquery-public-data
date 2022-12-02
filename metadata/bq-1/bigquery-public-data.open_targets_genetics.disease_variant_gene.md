@@ -4,21 +4,28 @@ Gene to variant to study-trait index
 
 ## Column details
 * [STRING]    `study_id`
+* [STRING]    `source`
 * [STRING]    `pmid`
 * [STRING]    `pub_date`
 * [STRING]    `pub_journal`
 * [STRING]    `pub_title`
 * [STRING]    `pub_author`
+* [BOOLEAN]   `has_sumstats`
 * [STRING]    `trait_reported`
-* [STRING]    `trait_efos`
-* [STRING]    `ancestry_initial`
-* [STRING]    `ancestry_replication`
+* [RECORD]    `trait_efos`
+* [RECORD]    `trait_efos.list`
+* [STRING]    `trait_efos.list.element`
+* [RECORD]    `ancestry_initial`
+* [RECORD]    `ancestry_initial.list`
+* [STRING]    `ancestry_initial.list.element`
+* [RECORD]    `ancestry_replication`
+* [RECORD]    `ancestry_replication.list`
+* [STRING]    `ancestry_replication.list.element`
 * [INTEGER]   `n_initial`
 * [INTEGER]   `n_replication`
 * [INTEGER]   `n_cases`
 * [STRING]    `trait_category`
 * [INTEGER]   `num_assoc_loci`
-* [BOOLEAN]   `has_sumstats`
 * [STRING]    `lead_chrom`
 * [INTEGER]   `lead_pos`
 * [STRING]    `lead_ref`
@@ -43,14 +50,18 @@ Gene to variant to study-trait index
 * [FLOAT]     `beta_ci_lower`
 * [FLOAT]     `beta_ci_upper`
 * [FLOAT]     `pval_mantissa`
-* [FLOAT]     `pval_exponent`
+* [INTEGER]   `pval_exponent`
 * [FLOAT]     `pval`
 * [STRING]    `gene_id`
 * [STRING]    `feature`
 * [STRING]    `type_id`
 * [STRING]    `source_id`
-* [STRING]    `fpred_labels`
-* [FLOAT]     `fpred_scores`
+* [RECORD]    `fpred_labels`
+* [RECORD]    `fpred_labels.list`
+* [STRING]    `fpred_labels.list.element`
+* [RECORD]    `fpred_scores`
+* [RECORD]    `fpred_scores.list`
+* [FLOAT]     `fpred_scores.list.element`
 * [STRING]    `fpred_max_label`
 * [FLOAT]     `fpred_max_score`
 * [FLOAT]     `qtl_beta`
@@ -63,7 +74,6 @@ Gene to variant to study-trait index
 * [INTEGER]   `d`
 * [FLOAT]     `distance_score`
 * [FLOAT]     `distance_score_q`
-* [STRING]    `source`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

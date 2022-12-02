@@ -102,6 +102,9 @@
 * [STRING]    `reactionId`
 * [STRING]    `reactionName`
 * [FLOAT]     `resourceScore`
+* [RECORD]    `sex`
+* [RECORD]    `sex.list`
+* [STRING]    `sex.list.element`
 * [RECORD]    `significantDriverMethods`
 * [RECORD]    `significantDriverMethods.list`
 * [STRING]    `significantDriverMethods.list.element`

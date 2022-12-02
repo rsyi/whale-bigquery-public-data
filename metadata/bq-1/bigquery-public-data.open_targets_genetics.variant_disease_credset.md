@@ -3,33 +3,33 @@
 Variant to study-trait index credible set
 
 ## Column details
-* [STRING]    `study_id`
-* [STRING]    `type`
 * [STRING]    `bio_feature`
-* [BOOLEAN]   `is99_credset`
+* [STRING]    `gene_id`
 * [BOOLEAN]   `is95_credset`
+* [BOOLEAN]   `is99_credset`
+* [STRING]    `lead_alt`
 * [STRING]    `lead_chrom`
 * [INTEGER]   `lead_pos`
 * [STRING]    `lead_ref`
-* [STRING]    `lead_alt`
 * [STRING]    `lead_variant_id`
 * [FLOAT]     `logABF`
 * [STRING]    `multisignal_method`
 * [STRING]    `phenotype_id`
 * [FLOAT]     `postprob`
 * [FLOAT]     `postprob_cumsum`
-* [STRING]    `tag_chrom`
-* [STRING]    `tag_variant_id`
-* [INTEGER]   `tag_pos`
-* [STRING]    `tag_ref`
+* [STRING]    `study_id`
 * [STRING]    `tag_alt`
 * [FLOAT]     `tag_beta`
 * [FLOAT]     `tag_beta_cond`
+* [STRING]    `tag_chrom`
+* [INTEGER]   `tag_pos`
 * [FLOAT]     `tag_pval`
 * [FLOAT]     `tag_pval_cond`
+* [STRING]    `tag_ref`
 * [FLOAT]     `tag_se`
 * [FLOAT]     `tag_se_cond`
-* [STRING]    `source`
+* [STRING]    `tag_variant_id`
+* [STRING]    `type`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

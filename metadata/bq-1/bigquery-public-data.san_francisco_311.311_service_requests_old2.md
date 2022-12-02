@@ -1,4 +1,4 @@
-# `san_francisco_311.311_service_requests`
+# `san_francisco_311.311_service_requests_old2`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
@@ -21,6 +21,8 @@
 * [FLOAT]     `latitude`
 * [FLOAT]     `longitude`
 * [STRING]    `police_district`
+* [STRING]    `neighborhood_center_ds`
+* [GEOGRAPHY] `neighborhood_geom`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

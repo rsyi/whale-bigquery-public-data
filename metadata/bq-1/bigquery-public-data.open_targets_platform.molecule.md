@@ -36,16 +36,16 @@
 * [RECORD]    `childChemblIds`
 * [RECORD]    `childChemblIds.list`
 * [STRING]    `childChemblIds.list.element`
-* [RECORD]    `linkedTargets`
-* [RECORD]    `linkedTargets.rows`
-* [RECORD]    `linkedTargets.rows.list`
-* [STRING]    `linkedTargets.rows.list.element`
-* [INTEGER]   `linkedTargets.count`
 * [RECORD]    `linkedDiseases`
 * [RECORD]    `linkedDiseases.rows`
 * [RECORD]    `linkedDiseases.rows.list`
 * [STRING]    `linkedDiseases.rows.list.element`
 * [INTEGER]   `linkedDiseases.count`
+* [RECORD]    `linkedTargets`
+* [RECORD]    `linkedTargets.rows`
+* [RECORD]    `linkedTargets.rows.list`
+* [STRING]    `linkedTargets.rows.list.element`
+* [INTEGER]   `linkedTargets.count`
 * [STRING]    `description`
 
 -------------------------------------------------------------------------------

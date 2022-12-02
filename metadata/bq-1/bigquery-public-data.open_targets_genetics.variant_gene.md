@@ -11,8 +11,12 @@ Variant to gene index
 * [STRING]    `feature`
 * [STRING]    `type_id`
 * [STRING]    `source_id`
-* [STRING]    `fpred_labels`
-* [FLOAT]     `fpred_scores`
+* [RECORD]    `fpred_labels`
+* [RECORD]    `fpred_labels.list`
+* [STRING]    `fpred_labels.list.element`
+* [RECORD]    `fpred_scores`
+* [RECORD]    `fpred_scores.list`
+* [FLOAT]     `fpred_scores.list.element`
 * [STRING]    `fpred_max_label`
 * [FLOAT]     `fpred_max_score`
 * [FLOAT]     `qtl_beta`
