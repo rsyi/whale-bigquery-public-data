@@ -1,4 +1,4 @@
-# `usda_nass_agriculture.animals_products`
+# `usda_nass_agriculture.census2012`
 `bq-1` | `bigquery-public-data`
 
 ## Column details

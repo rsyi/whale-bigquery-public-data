@@ -5543,6 +5543,9 @@ bq-1/bigquery-public-data.usa_contagious_disease.project_tycho_reports
 bq-1/bigquery-public-data.usa_names.usa_1910_2013
 bq-1/bigquery-public-data.usa_names.usa_1910_current
 bq-1/bigquery-public-data.usda_nass_agriculture.animals_products
+bq-1/bigquery-public-data.usda_nass_agriculture.census2002
+bq-1/bigquery-public-data.usda_nass_agriculture.census2007
+bq-1/bigquery-public-data.usda_nass_agriculture.census2012
 bq-1/bigquery-public-data.usda_nass_agriculture.census_2002
 bq-1/bigquery-public-data.usda_nass_agriculture.census_2007
 bq-1/bigquery-public-data.usda_nass_agriculture.census_2012
