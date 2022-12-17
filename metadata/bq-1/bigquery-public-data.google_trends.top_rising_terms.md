@@ -3,7 +3,6 @@
 Daily top rising terms in the United States with score, ranking, time, and designated market area
 
 ## Column details
-* [INTEGER]   `rank`
 * [INTEGER]   `percent_gain`
 * [DATE]      `refresh_date`
 * [STRING]    `dma_name`
@@ -11,6 +10,7 @@ Daily top rising terms in the United States with score, ranking, time, and desig
 * [STRING]    `term`
 * [DATE]      `week`
 * [INTEGER]   `score`
+* [INTEGER]   `rank`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
