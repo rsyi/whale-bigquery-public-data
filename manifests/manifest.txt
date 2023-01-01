@@ -5660,6 +5660,7 @@ bq-1/bigquery-public-data.wikipedia.pageviews_2019
 bq-1/bigquery-public-data.wikipedia.pageviews_2020
 bq-1/bigquery-public-data.wikipedia.pageviews_2021
 bq-1/bigquery-public-data.wikipedia.pageviews_2022
+bq-1/bigquery-public-data.wikipedia.pageviews_2023
 bq-1/bigquery-public-data.wikipedia.table_activists
 bq-1/bigquery-public-data.wikipedia.table_actors
 bq-1/bigquery-public-data.wikipedia.table_alumni
