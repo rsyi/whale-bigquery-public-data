@@ -520,6 +520,8 @@ bq-1/bigquery-public-data.covid19_covidtracking.summary
 bq-1/bigquery-public-data.covid19_ecdc.covid_19_geographic_distribution_worldwide
 bq-1/bigquery-public-data.covid19_ecdc_eu.covid_19_geographic_distribution_worldwide
 bq-1/bigquery-public-data.covid19_genome_sequence.metadata
+bq-1/bigquery-public-data.covid19_genome_sequence.tmp_additions
+bq-1/bigquery-public-data.covid19_genome_sequence.tmp_attributes
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.airport_traffic
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.city_congestion
 bq-1/bigquery-public-data.covid19_geotab_mobility_impact.commercial_traffic
