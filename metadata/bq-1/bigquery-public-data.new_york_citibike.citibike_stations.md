@@ -2,7 +2,7 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [INTEGER]   `station_id`
+* [STRING]    `station_id`
   - Unique identifier of a station.
 * [STRING]    `name`
   - Public name of the station.
@@ -11,7 +11,7 @@
 * [FLOAT]     `latitude`
   - The latitude of station. The field value must be a valid WGS 84 latitude in decimal degrees format.
 * [FLOAT]     `longitude`
-  - The longitude of station. The field value must be a valid WGS 84 longitude in decimal degrees format.
+  - The longitude of station. The field value must be a valid WGS 84 latitude in decimal degrees format.
 * [INTEGER]   `region_id`
   - ID of the region where station is located.
 * [STRING]    `rental_methods`
@@ -34,7 +34,7 @@
 * [BOOLEAN]   `is_returning`
   - Is the station accepting bike returns?
 * [BOOLEAN]   `eightd_has_available_keys`
-* [DATETIME]  `last_reported`
+* [TIMESTAMP] `last_reported`
   - Timestamp indicating the last time this station reported its status to the backend, in NYC local time.
 
 -------------------------------------------------------------------------------

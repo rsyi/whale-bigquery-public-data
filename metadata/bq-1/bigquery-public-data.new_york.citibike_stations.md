@@ -2,7 +2,7 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [INTEGER]   `station_id`
+* [STRING]    `station_id`
   - Unique identifier of a station.
 * [STRING]    `name`
   - Public name of the station.
