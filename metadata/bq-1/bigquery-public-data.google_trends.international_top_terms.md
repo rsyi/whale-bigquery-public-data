@@ -6,11 +6,11 @@
 * [STRING]    `country_code`
 * [STRING]    `region_name`
 * [STRING]    `region_code`
-* [DATE]      `week`
-* [INTEGER]   `score`
+* [INTEGER]   `rank`
 * [STRING]    `country_name`
 * [STRING]    `term`
-* [INTEGER]   `rank`
+* [DATE]      `week`
+* [INTEGER]   `score`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
