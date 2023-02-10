@@ -1,17 +1,16 @@
-# `google_trends.international_top_rising_terms`
+# `google_trends.international_top_terms95c73dac-dc40-5669-9fb6-58bb8b10ab9d`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
 * [STRING]    `country_code`
 * [STRING]    `region_name`
-* [INTEGER]   `score`
+* [STRING]    `region_code`
 * [INTEGER]   `rank`
-* [INTEGER]   `percent_gain`
-* [DATE]      `refresh_date`
 * [STRING]    `country_name`
 * [STRING]    `term`
 * [DATE]      `week`
-* [STRING]    `region_code`
+* [INTEGER]   `score`
+* [DATE]      `refresh_date`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

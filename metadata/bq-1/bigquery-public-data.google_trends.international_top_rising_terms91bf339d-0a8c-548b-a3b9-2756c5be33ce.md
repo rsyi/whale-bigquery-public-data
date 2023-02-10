@@ -1,4 +1,4 @@
-# `google_trends.international_top_rising_terms`
+# `google_trends.international_top_rising_terms91bf339d-0a8c-548b-a3b9-2756c5be33ce`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
