@@ -27,6 +27,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `source_url`
 * [INTEGER]   `series_instances`
 * [STRING]    `series_hash`
+* [STRING]    `access`
 * [INTEGER]   `series_init_idc_version`
 * [INTEGER]   `series_revised_idc_version`
 * [STRING]    `SOPInstanceUID`
@@ -36,7 +37,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `instance_hash`
 * [INTEGER]   `instance_init_idc_version`
 * [INTEGER]   `instance_revised_idc_version`
-* [STRING]    `access`
 * [STRING]    `license_url`
 * [STRING]    `license_long_name`
 * [STRING]    `license_short_name`

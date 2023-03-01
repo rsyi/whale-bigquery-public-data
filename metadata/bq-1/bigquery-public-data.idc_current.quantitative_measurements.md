@@ -3,14 +3,15 @@
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
-* [STRING]    `PatientID`
 * [STRING]    `SOPInstanceUID`
 * [INTEGER]   `measurementGroup_number`
+* [STRING]    `trackingUniqueIdentifier`
+* [STRING]    `trackingIdentifier`
+* [STRING]    `PatientID`
+* [STRING]    `SeriesDescription`
+* [STRING]    `sourceSegmentedSeriesUID`
 * [STRING]    `segmentationInstanceUID`
 * [INTEGER]   `segmentationSegmentNumber`
-* [STRING]    `sourceSegmentedSeriesUID`
-* [STRING]    `trackingIdentifier`
-* [STRING]    `trackingUniqueIdentifier`
 * [RECORD]    `Quantity`
 * [STRING]    `Quantity.CodeValue`
 * [STRING]    `Quantity.CodingSchemeDesignator`
@@ -18,6 +19,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `derivationModifier`
 * [STRING]    `derivationModifier.CodeValue`
 * [STRING]    `derivationModifier.CodingSchemeDesignator`
+* [STRING]    `derivationModifier.CodingSchemeVersion`
 * [STRING]    `derivationModifier.CodeMeaning`
 * [NUMERIC]   `Value`
 * [RECORD]    `Units`
