@@ -28,58 +28,62 @@
   - Categories or partitions within a domain (e.g., under domain = SALES, domain categories include $1,000 TO $9,999, $10,000 TO $19,999, etc).
 * [STRING]    `agg_level_desc`
   - Aggregation level or geographic granularity of the data (e.g., STATE, AG DISTRICT, COUNTY, REGION, ZIP CODE).
-* [STRING]    `state_ansi`
+* [INTEGER]   `state_ansi`
   - American National Standards Institute (ANSI) standard 2-digit state codes.
-* [STRING]    `state_fips_code`
+* [INTEGER]   `state_fips_code`
   - NASS 2-digit state codes; include 99 and 98 for US TOTAL and OTHER STATES, respectively; otherwise match ANSI codes.
 * [STRING]    `state_alpha`
   - State abbreviation, 2-character alpha code.
 * [STRING]    `state_name`
   - State full name.
-* [STRING]    `asd_code`
+* [INTEGER]   `asd_code`
   - NASS defined county groups, unique within a state, 2-digit ag statistics district code.
 * [STRING]    `asd_desc`
   - Ag statistics district name.
-* [STRING]    `county_ansi`
+* [INTEGER]   `county_ansi`
   - ANSI standard 3-digit county codes.
-* [STRING]    `county_code`
+* [INTEGER]   `county_code`
   - NASS 3-digit county codes; includes 998 for OTHER (COMBINED) COUNTIES and Alaska county codes; otherwise match ANSI codes.
 * [STRING]    `county_name`
   - County name.
 * [STRING]    `region_desc`
   - NASS defined geographic entities not readily defined by other standard geographic levels. A region can be a less than a state (SUB-STATE) or a group of states (MULTI-STATE), and may be specific to a commodity.
-* [STRING]    `zip_5`
+* [INTEGER]   `zip_5`
   - US Postal Service 5-digit zip code.
-* [STRING]    `watershed_code`
+* [INTEGER]   `watershed_code`
   - US Geological Survey (USGS) 8-digit Hydrologic Unit Code (HUC) for watersheds.
 * [STRING]    `watershed_desc`
   - Name assigned to the HUC.
-* [STRING]    `congr_district_code`
+* [INTEGER]   `congr_district_code`
   - US Congressional District 2-digit code.
-* [STRING]    `country_code`
+* [INTEGER]   `country_code`
   - US Census Bureau, Foreign Trade Division 4-digit country code, as of April, 2007.
 * [STRING]    `country_name`
   - Country name.
 * [STRING]    `location_desc`
   - Full description for the location dimension.
-* [STRING]    `year`
+* [INTEGER]   `year`
   - The numeric year of the data.
 * [STRING]    `freq_desc`
   - Length of time covered (ANNUAL, SEASON, MONTHLY, WEEKLY, POINT IN TIME). MONTHLY often covers more than one month. POINT IN TIME is as of a particular day.
-* [STRING]    `begin_code`
+* [INTEGER]   `begin_code`
   - If applicable, a 2-digit code corresponding to the beginning of the reference period (e.g., for freq_desc = MONTHLY, begin_code ranges from 01 (January) to 12 (December)).
-* [STRING]    `end_code`
+* [INTEGER]   `end_code`
   - If applicable, a 2-digit code corresponding to the end of the reference period (e.g., the reference period of JAN THRU MAR will have begin_code = 01 and end_code = 03).
 * [STRING]    `reference_period_desc`
   - The specific time frame, within a freq_desc.
-* [STRING]    `week_ending`
+* [DATE]      `week_ending`
   - Week ending date, used when freq_desc = WEEKLY.
-* [STRING]    `load_time`
+* [TIMESTAMP] `load_time`
   - Date and time indicating when record was inserted into Quick Stats database.
-* [STRING]    `value`
+* [FLOAT]     `value`
   - Published data value.
-* [STRING]    `cv_percent`
+* [STRING]    `value_suppression_code`
+  - Any suppression codes used to avoid displaying data that should not be disclosed or from putting out data lower than the precision level defined by NASS. Code definitions can be found in the NASS publications.
+* [FLOAT]     `cv_percent`
   - Coefficient of variation. Available for the 2012 Census of Agriculture only. County-level CVs are generalized.
+* [STRING]    `cv_suppression_code`
+  - Any suppression codes used to avoid displaying data that should not be disclosed or from putting out data lower than the precision level defined by NASS. Code definitions can be found in the NASS publications.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
