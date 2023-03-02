@@ -3,7 +3,7 @@
 Evidence of the occurrence of a species (or other taxon) at a particular place on a specified date.
 
 ## Column details
-* [INTEGER]   `gbifid`
+* [STRING]    `gbifid`
 * [STRING]    `datasetkey`
 * [STRING]    `occurrenceid`
 * [STRING]    `kingdom`

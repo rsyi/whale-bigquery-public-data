@@ -4,8 +4,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 
 ## Column details
 * [STRING]    `PatientID`
-* [STRING]    `StudyInstanceUID`
-* [STRING]    `SeriesInstanceUID`
 * [STRING]    `SOPInstanceUID`
 * [STRING]    `FrameOfReferenceUID`
 * [RECORD]    `AnatomicRegion`
@@ -33,12 +31,9 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `SegmentedPropertyType.SegmentedPropertyTypeModifierCodeSequence.CodingSchemeDesignator`
 * [STRING]    `SegmentedPropertyType.SegmentedPropertyTypeModifierCodeSequence.CodeMeaning`
 * [STRING]    `SegmentAlgorithmType`
-* [STRING]    `SegmentAlgorithmName`
 * [INTEGER]   `SegmentNumber`
 * [STRING]    `TrackingUID`
 * [STRING]    `TrackingID`
-* [STRING]    `segmented_SeriesInstanceUID`
-* [STRING]    `viewer_url`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

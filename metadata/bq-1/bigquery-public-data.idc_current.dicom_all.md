@@ -4,11 +4,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 
 ## Column details
 * [STRING]    `tcia_tumorLocation`
-* [STRING]    `collection_tumorLocation`
 * [STRING]    `tcia_species`
-* [STRING]    `collection_species`
 * [STRING]    `tcia_cancerType`
-* [STRING]    `collection_cancerType`
 * [STRING]    `tcia_api_collection_id`
 * [STRING]    `idc_webapp_collection_id`
 * [STRING]    `collection_id`
@@ -1245,7 +1242,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `CurrentRequestedProcedureEvidenceSequence.StudyInstanceUID`
 * [STRING]    `CompletionFlag`
 * [STRING]    `VerificationFlag`
-* [STRING]    `PreliminaryFlag`
 * [RECORD]    `ContentTemplateSequence`
 * [STRING]    `ContentTemplateSequence.MappingResource`
 * [STRING]    `ContentTemplateSequence.MappingResourceUID`
