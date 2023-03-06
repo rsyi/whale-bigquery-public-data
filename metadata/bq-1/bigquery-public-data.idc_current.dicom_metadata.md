@@ -1208,6 +1208,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `CurrentRequestedProcedureEvidenceSequence.StudyInstanceUID`
 * [STRING]    `CompletionFlag`
 * [STRING]    `VerificationFlag`
+* [STRING]    `PreliminaryFlag`
 * [RECORD]    `ContentTemplateSequence`
 * [STRING]    `ContentTemplateSequence.MappingResource`
 * [STRING]    `ContentTemplateSequence.MappingResourceUID`

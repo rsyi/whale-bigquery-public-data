@@ -3,14 +3,15 @@
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
-* [STRING]    `PatientID`
 * [STRING]    `SOPInstanceUID`
 * [INTEGER]   `measurementGroup_number`
+* [STRING]    `trackingUniqueIdentifier`
+* [STRING]    `trackingIdentifier`
+* [STRING]    `PatientID`
+* [STRING]    `sourceSegmentedSeriesUID`
+* [STRING]    `sourceReferencedSOPInstanceUID`
 * [STRING]    `segmentationInstanceUID`
 * [INTEGER]   `segmentationSegmentNumber`
-* [STRING]    `sourceSegmentedSeriesUID`
-* [STRING]    `trackingIdentifier`
-* [STRING]    `trackingUniqueIdentifier`
 * [RECORD]    `Quantity`
 * [STRING]    `Quantity.CodeValue`
 * [STRING]    `Quantity.CodingSchemeDesignator`
@@ -30,6 +31,10 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `findingSite.CodingSchemeDesignator`
 * [STRING]    `findingSite.CodingSchemeVersion`
 * [STRING]    `findingSite.CodeMeaning`
+* [RECORD]    `findingSite_topographicalModifier`
+* [STRING]    `findingSite_topographicalModifier.CodeValue`
+* [STRING]    `findingSite_topographicalModifier.CodingSchemeDesignator`
+* [STRING]    `findingSite_topographicalModifier.CodeMeaning`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
