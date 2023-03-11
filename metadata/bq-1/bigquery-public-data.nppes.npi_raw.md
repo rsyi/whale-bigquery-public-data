@@ -331,6 +331,7 @@
 * [STRING]    `healthcare_provider_taxonomy_group_13`
 * [STRING]    `healthcare_provider_taxonomy_group_14`
 * [STRING]    `healthcare_provider_taxonomy_group_15`
+* [DATE]      `certification_date`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
