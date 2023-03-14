@@ -11,7 +11,7 @@
 * [INTEGER]   `repository_id`
   - The unique primary key of the repository for this tag in the Libraries.io database.
 * [STRING]    `tag_name`
-  - The name of the tag, often is a version number but could be any freeform string.
+  - The name of the tag often is a version number but could be any freeform string.
 * [STRING]    `tag_git_sha`
   - Sha of the object that the tag is pointing at in the repository.
 * [TIMESTAMP] `tag_published_timestamp`
