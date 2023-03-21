@@ -3705,6 +3705,7 @@ bq-1/bigquery-public-data.new_york_taxi_trips.tlc_green_trips_2019
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_green_trips_2020
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_green_trips_2021
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_green_trips_2022
+bq-1/bigquery-public-data.new_york_taxi_trips.tlc_green_trips_2023
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2011
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2012
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2013
@@ -3717,6 +3718,7 @@ bq-1/bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2019
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2020
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2021
 bq-1/bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2022
+bq-1/bigquery-public-data.new_york_taxi_trips.tlc_yellow_trips_2023
 bq-1/bigquery-public-data.new_york_trees.tree_census_1995
 bq-1/bigquery-public-data.new_york_trees.tree_census_2005
 bq-1/bigquery-public-data.new_york_trees.tree_census_2015
