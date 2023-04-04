@@ -42,6 +42,14 @@ Data is exported using https://github.com/medvedev1088/ethereum-etl
   - The number of transactions in the block
 * [INTEGER]   `base_fee_per_gas`
   - Protocol base fee per gas, which can move up or down
+* [STRING]    `withdrawals_root`
+  - The root of the withdrawal trie of the block
+* [RECORD]    `withdrawals`
+  - Validator withdrawals
+* [INTEGER]   `withdrawals.index`
+* [INTEGER]   `withdrawals.validator_index`
+* [STRING]    `withdrawals.address`
+* [STRING]    `withdrawals.amount`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
