@@ -19,6 +19,7 @@
 * [STRING]    `alt_aa`
 * [INTEGER]   `protein_position`
 * [STRING]    `ver`
+* [TIMESTAMP] `updated`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
