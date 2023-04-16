@@ -37,6 +37,10 @@ This table stores information about specific versions of packages. Each row repr
   - The type of hash, example values include 'SHA512' and 'SHA1'.
 * [STRING]    `Hashes.Hash`
   - A base64 encoded string of the hash.
+* [BOOLEAN]   `DependenciesProcessed`
+  - True if this version's dependency requirements have been processed.
+* [BOOLEAN]   `DependencyError`
+  - True if an error was encountered while processing this version's dependency requirements.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
