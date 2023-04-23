@@ -759,6 +759,8 @@ bq-1/bigquery-public-data.deps_dev_v1.DependencyGraphEdges
 bq-1/bigquery-public-data.deps_dev_v1.DependencyGraphEdgesLatest
 bq-1/bigquery-public-data.deps_dev_v1.Dependents
 bq-1/bigquery-public-data.deps_dev_v1.DependentsLatest
+bq-1/bigquery-public-data.deps_dev_v1.NuGetRequirements
+bq-1/bigquery-public-data.deps_dev_v1.NuGetRequirementsLatest
 bq-1/bigquery-public-data.deps_dev_v1.PackageVersionHashes
 bq-1/bigquery-public-data.deps_dev_v1.PackageVersionHashesLatest
 bq-1/bigquery-public-data.deps_dev_v1.PackageVersionToProject
