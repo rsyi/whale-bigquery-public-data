@@ -5,7 +5,6 @@
 * [STRING]    `PatientID`
 * [STRING]    `BodyPartExamined`
 * [STRING]    `SeriesInstanceUID`
-* [FLOAT]     `SliceThickness`
 * [STRING]    `SeriesNumber`
 * [STRING]    `SeriesDescription`
 * [STRING]    `StudyInstanceUID`
@@ -62,6 +61,7 @@
 * [STRING]    `has_quantitative`
 * [STRING]    `has_segmentation`
 * [STRING]    `has_derived`
+* [FLOAT]     `SliceThickness`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -5,7 +5,6 @@
 * [STRING]    `PatientID`
 * [STRING]    `BodyPartExamined`
 * [STRING]    `SeriesInstanceUID`
-* [STRING]    `SliceThickness`
 * [STRING]    `SeriesNumber`
 * [STRING]    `SeriesDescription`
 * [STRING]    `StudyInstanceUID`
@@ -14,14 +13,17 @@
 * [STRING]    `SOPInstanceUID`
 * [STRING]    `Modality`
 * [STRING]    `SOPClassUID`
-* [STRING]    `gcs_bucket`
+* [STRING]    `license_short_name`
 * [STRING]    `crdc_study_uuid`
 * [STRING]    `crdc_series_uuid`
 * [STRING]    `crdc_instance_uuid`
-* [STRING]    `Program`
 * [STRING]    `tcia_tumorLocation`
 * [STRING]    `source_DOI`
 * [STRING]    `tcia_species`
+* [STRING]    `gcs_url`
+* [STRING]    `Manufacturer`
+* [STRING]    `ManufacturerModelName`
+* [STRING]    `program`
 * [STRING]    `collection_id`
 * [STRING]    `Internal_structure`
 * [STRING]    `Sphericity`
@@ -59,6 +61,7 @@
 * [STRING]    `has_quantitative`
 * [STRING]    `has_segmentation`
 * [STRING]    `has_derived`
+* [FLOAT]     `SliceThickness`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
