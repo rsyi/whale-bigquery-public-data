@@ -10,11 +10,11 @@ This table stores the requirements for NuGet package-versions.
 * [STRING]    `Version`
   - The version of the package-version.
 * [RECORD]    `DependencyGroups`
-  - The list of requirements grouped by target framework into 'dependency groups'. Dependency is defined for consistency with NuGet, it describes a single unresolved requirement.
+  - The list of requirements grouped by target framework.
 * [STRING]    `DependencyGroups.TargetFramework`
-  - The specific target framework that this dependency group is for.
+  - The target framework that this dependency group is for.
 * [RECORD]    `DependencyGroups.Dependencies`
-  - The requirements for this dependency group. Dependencies is defined for consistency with NuGet, a dependency describes an unresolved requirement.
+  - The requirements for this dependency group.
 * [STRING]    `DependencyGroups.Dependencies.Name`
   - The name of the package.
 * [STRING]    `DependencyGroups.Dependencies.Requirement`
