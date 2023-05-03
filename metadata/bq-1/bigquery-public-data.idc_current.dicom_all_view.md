@@ -1,4 +1,4 @@
-# `idc_current.dicom_all` [view]
+# `idc_current.dicom_all_view` [view]
 `bq-1` | `bigquery-public-data`
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 

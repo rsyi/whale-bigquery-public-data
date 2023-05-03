@@ -1,4 +1,4 @@
-# `idc_current.quantitative_measurements` [view]
+# `idc_current.quantitative_measurements_view` [view]
 `bq-1` | `bigquery-public-data`
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 

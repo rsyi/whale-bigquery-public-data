@@ -1,11 +1,10 @@
-# `idc_current.quantitative_measurements` [view]
+# `idc_current.qualitative_measurements_view` [view]
 `bq-1` | `bigquery-public-data`
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `PatientID`
 * [STRING]    `SOPInstanceUID`
-* [STRING]    `SeriesDescription`
 * [INTEGER]   `measurementGroup_number`
   - Measurement group number corresponding to the measurement groups within the TID 1500 report, starting from 0.
 * [STRING]    `segmentationInstanceUID`
@@ -19,23 +18,16 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `trackingUniqueIdentifier`
   - Value of the TID 1500 Measurement group row corresponding to the concept "Tracking Unique Identifier" (e.g., row 3 in TID 1411)
 * [RECORD]    `Quantity`
-  - Value of the concept code corresponding to TID 1500 Measurement group row where VT is NUM.
+  - Value of the concept code corresponding to TID 1500 Measurement group row where VT is CODE.
 * [STRING]    `Quantity.CodeValue`
 * [STRING]    `Quantity.CodingSchemeDesignator`
 * [STRING]    `Quantity.CodeMeaning`
-* [RECORD]    `derivationModifier`
-  - Value corresponding to the concept "Derivation" for the measurement within SR TID 1500 document (e.g., row 8 in TID 1419)
-* [STRING]    `derivationModifier.CodeValue`
-* [STRING]    `derivationModifier.CodingSchemeDesignator`
-* [STRING]    `derivationModifier.CodeMeaning`
-* [NUMERIC]   `Value`
+* [RECORD]    `Value`
   - Value corresponding to the concept listed in the Quantity field.
-* [RECORD]    `Units`
-  - Coded units for the value stored in the Value attribute.
-* [STRING]    `Units.CodeValue`
-* [STRING]    `Units.CodingSchemeDesignator`
-* [STRING]    `Units.CodingSchemeVersion`
-* [STRING]    `Units.CodeMeaning`
+* [STRING]    `Value.CodeValue`
+* [STRING]    `Value.CodingSchemeDesignator`
+* [STRING]    `Value.CodingSchemeVersion`
+* [STRING]    `Value.CodeMeaning`
 * [RECORD]    `finding`
   - Value of the TID 1500 Measurement group row corresponding to the concept "Finding" (e.g., row 3b in TID 1411)
 * [STRING]    `finding.CodeValue`

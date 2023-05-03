@@ -5,7 +5,10 @@
 * [INTEGER]   `rental_id`
 * [INTEGER]   `duration`
   - Duration of the bike trip in seconds.
+* [INTEGER]   `duration_ms`
+  - Duration of the bike trip in milliseconds.
 * [INTEGER]   `bike_id`
+* [STRING]    `bike_model`
 * [TIMESTAMP] `end_date`
 * [INTEGER]   `end_station_id`
 * [STRING]    `end_station_name`
