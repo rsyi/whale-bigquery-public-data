@@ -675,6 +675,7 @@ bq-1/bigquery-public-data.crypto_iotex.errors
 bq-1/bigquery-public-data.crypto_iotex.initial_balances
 bq-1/bigquery-public-data.crypto_iotex.logs
 bq-1/bigquery-public-data.crypto_iotex.transaction_logs
+bq-1/bigquery-public-data.crypto_kusama.aaa_tableschema
 bq-1/bigquery-public-data.crypto_kusama.accountsactive0
 bq-1/bigquery-public-data.crypto_kusama.accountsactive1000
 bq-1/bigquery-public-data.crypto_kusama.accountsactive1001
@@ -1048,7 +1049,6 @@ bq-1/bigquery-public-data.crypto_kusama.blocks2236
 bq-1/bigquery-public-data.crypto_kusama.chains
 bq-1/bigquery-public-data.crypto_kusama.contractsevents2007
 bq-1/bigquery-public-data.crypto_kusama.contractsextrinsics2007
-bq-1/bigquery-public-data.crypto_kusama.datasetSchema
 bq-1/bigquery-public-data.crypto_kusama.events0
 bq-1/bigquery-public-data.crypto_kusama.events1000
 bq-1/bigquery-public-data.crypto_kusama.events1001
@@ -1144,11 +1144,6 @@ bq-1/bigquery-public-data.crypto_kusama.extrinsics2125
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2129
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2222
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2236
-bq-1/bigquery-public-data.crypto_kusama.full_transfer_1000_preview
-bq-1/bigquery-public-data.crypto_kusama.full_user_preview0
-bq-1/bigquery-public-data.crypto_kusama.fulltransfer1000
-bq-1/bigquery-public-data.crypto_kusama.fulltransfer2000
-bq-1/bigquery-public-data.crypto_kusama.fulltransfer2092
 bq-1/bigquery-public-data.crypto_kusama.logs0
 bq-1/bigquery-public-data.crypto_kusama.logs1000
 bq-1/bigquery-public-data.crypto_kusama.logs1001
@@ -1285,6 +1280,7 @@ bq-1/bigquery-public-data.crypto_litecoin.blocks
 bq-1/bigquery-public-data.crypto_litecoin.inputs
 bq-1/bigquery-public-data.crypto_litecoin.outputs
 bq-1/bigquery-public-data.crypto_litecoin.transactions
+bq-1/bigquery-public-data.crypto_polkadot.aaa_tableschema
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive0
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive1000
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive1001
@@ -1463,7 +1459,6 @@ bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2101
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2104
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped3333
 bq-1/bigquery-public-data.crypto_polkadot.assets
-bq-1/bigquery-public-data.crypto_polkadot.assetupdates
 bq-1/bigquery-public-data.crypto_polkadot.balances0
 bq-1/bigquery-public-data.crypto_polkadot.balances1000
 bq-1/bigquery-public-data.crypto_polkadot.balances1001
@@ -1557,10 +1552,7 @@ bq-1/bigquery-public-data.crypto_polkadot.blocks2101
 bq-1/bigquery-public-data.crypto_polkadot.blocks2104
 bq-1/bigquery-public-data.crypto_polkadot.blocks2105
 bq-1/bigquery-public-data.crypto_polkadot.blocks3333
-bq-1/bigquery-public-data.crypto_polkadot.calls
 bq-1/bigquery-public-data.crypto_polkadot.chains
-bq-1/bigquery-public-data.crypto_polkadot.datasetSchema
-bq-1/bigquery-public-data.crypto_polkadot.events
 bq-1/bigquery-public-data.crypto_polkadot.events0
 bq-1/bigquery-public-data.crypto_polkadot.events1000
 bq-1/bigquery-public-data.crypto_polkadot.events1001
@@ -1607,11 +1599,7 @@ bq-1/bigquery-public-data.crypto_polkadot.evmtransfers2006
 bq-1/bigquery-public-data.crypto_polkadot.evmtxs2002
 bq-1/bigquery-public-data.crypto_polkadot.evmtxs2004
 bq-1/bigquery-public-data.crypto_polkadot.evmtxs2006
-bq-1/bigquery-public-data.crypto_polkadot.exchange_flat_full_users0
 bq-1/bigquery-public-data.crypto_polkadot.exchange_full_user_preview0
-bq-1/bigquery-public-data.crypto_polkadot.exchange_full_users0
-bq-1/bigquery-public-data.crypto_polkadot.exchanges
-bq-1/bigquery-public-data.crypto_polkadot.extrinsics
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics0
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics1000
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics1001
@@ -1649,8 +1637,6 @@ bq-1/bigquery-public-data.crypto_polkadot.extrinsics2101
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics2104
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics2105
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics3333
-bq-1/bigquery-public-data.crypto_polkadot.knownpubs
-bq-1/bigquery-public-data.crypto_polkadot.labels
 bq-1/bigquery-public-data.crypto_polkadot.logs0
 bq-1/bigquery-public-data.crypto_polkadot.logs1000
 bq-1/bigquery-public-data.crypto_polkadot.logs1001
@@ -1725,9 +1711,6 @@ bq-1/bigquery-public-data.crypto_polkadot.specversions2101
 bq-1/bigquery-public-data.crypto_polkadot.specversions2104
 bq-1/bigquery-public-data.crypto_polkadot.specversions2105
 bq-1/bigquery-public-data.crypto_polkadot.specversions3333
-bq-1/bigquery-public-data.crypto_polkadot.transfer_trace_sample0
-bq-1/bigquery-public-data.crypto_polkadot.transfer_trace_sample1000
-bq-1/bigquery-public-data.crypto_polkadot.transfer_trace_sample2004
 bq-1/bigquery-public-data.crypto_polkadot.transfers0
 bq-1/bigquery-public-data.crypto_polkadot.transfers1000
 bq-1/bigquery-public-data.crypto_polkadot.transfers1001
