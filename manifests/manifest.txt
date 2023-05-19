@@ -1048,6 +1048,7 @@ bq-1/bigquery-public-data.crypto_kusama.blocks2236
 bq-1/bigquery-public-data.crypto_kusama.chains
 bq-1/bigquery-public-data.crypto_kusama.contractsevents2007
 bq-1/bigquery-public-data.crypto_kusama.contractsextrinsics2007
+bq-1/bigquery-public-data.crypto_kusama.datasetSchema
 bq-1/bigquery-public-data.crypto_kusama.events0
 bq-1/bigquery-public-data.crypto_kusama.events1000
 bq-1/bigquery-public-data.crypto_kusama.events1001
@@ -1558,6 +1559,7 @@ bq-1/bigquery-public-data.crypto_polkadot.blocks2105
 bq-1/bigquery-public-data.crypto_polkadot.blocks3333
 bq-1/bigquery-public-data.crypto_polkadot.calls
 bq-1/bigquery-public-data.crypto_polkadot.chains
+bq-1/bigquery-public-data.crypto_polkadot.datasetSchema
 bq-1/bigquery-public-data.crypto_polkadot.events
 bq-1/bigquery-public-data.crypto_polkadot.events0
 bq-1/bigquery-public-data.crypto_polkadot.events1000
