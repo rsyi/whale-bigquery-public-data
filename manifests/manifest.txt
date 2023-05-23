@@ -675,7 +675,7 @@ bq-1/bigquery-public-data.crypto_iotex.errors
 bq-1/bigquery-public-data.crypto_iotex.initial_balances
 bq-1/bigquery-public-data.crypto_iotex.logs
 bq-1/bigquery-public-data.crypto_iotex.transaction_logs
-bq-1/bigquery-public-data.crypto_kusama.aaa_tableschema
+bq-1/bigquery-public-data.crypto_kusama.AAA_tableschema
 bq-1/bigquery-public-data.crypto_kusama.accountsactive0
 bq-1/bigquery-public-data.crypto_kusama.accountsactive1000
 bq-1/bigquery-public-data.crypto_kusama.accountsactive1001
@@ -1046,6 +1046,7 @@ bq-1/bigquery-public-data.crypto_kusama.blocks2125
 bq-1/bigquery-public-data.crypto_kusama.blocks2129
 bq-1/bigquery-public-data.crypto_kusama.blocks2222
 bq-1/bigquery-public-data.crypto_kusama.blocks2236
+bq-1/bigquery-public-data.crypto_kusama.calls2004
 bq-1/bigquery-public-data.crypto_kusama.chains
 bq-1/bigquery-public-data.crypto_kusama.contractsevents2007
 bq-1/bigquery-public-data.crypto_kusama.contractsextrinsics2007
@@ -1280,6 +1281,7 @@ bq-1/bigquery-public-data.crypto_litecoin.blocks
 bq-1/bigquery-public-data.crypto_litecoin.inputs
 bq-1/bigquery-public-data.crypto_litecoin.outputs
 bq-1/bigquery-public-data.crypto_litecoin.transactions
+bq-1/bigquery-public-data.crypto_polkadot.AAA_tableschema
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive0
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive1000
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive1001
