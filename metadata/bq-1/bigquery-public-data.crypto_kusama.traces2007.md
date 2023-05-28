@@ -1,4 +1,4 @@
-# `crypto_polkadot.traces0`
+# `crypto_kusama.traces2007`
 `bq-1` | `bigquery-public-data`
 
 ## Column details

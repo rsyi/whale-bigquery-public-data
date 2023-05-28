@@ -1,4 +1,4 @@
-# `crypto_polkadot.calls0`
+# `crypto_kusama.calls2095`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
