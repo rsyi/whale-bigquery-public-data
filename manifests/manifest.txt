@@ -1553,6 +1553,7 @@ bq-1/bigquery-public-data.crypto_polkadot.blocks2101
 bq-1/bigquery-public-data.crypto_polkadot.blocks2104
 bq-1/bigquery-public-data.crypto_polkadot.blocks2105
 bq-1/bigquery-public-data.crypto_polkadot.blocks3333
+bq-1/bigquery-public-data.crypto_polkadot.calls0
 bq-1/bigquery-public-data.crypto_polkadot.chains
 bq-1/bigquery-public-data.crypto_polkadot.events0
 bq-1/bigquery-public-data.crypto_polkadot.events1000
@@ -1712,6 +1713,7 @@ bq-1/bigquery-public-data.crypto_polkadot.specversions2101
 bq-1/bigquery-public-data.crypto_polkadot.specversions2104
 bq-1/bigquery-public-data.crypto_polkadot.specversions2105
 bq-1/bigquery-public-data.crypto_polkadot.specversions3333
+bq-1/bigquery-public-data.crypto_polkadot.traces0
 bq-1/bigquery-public-data.crypto_polkadot.transfers0
 bq-1/bigquery-public-data.crypto_polkadot.transfers1000
 bq-1/bigquery-public-data.crypto_polkadot.transfers1001
