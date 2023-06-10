@@ -13,6 +13,7 @@ bq-1/bigquery-public-data.austin_waste.waste_and_diversion
 bq-1/bigquery-public-data.baseball.games_post_wide
 bq-1/bigquery-public-data.baseball.games_wide
 bq-1/bigquery-public-data.baseball.schedules
+bq-1/bigquery-public-data.bigqueryml_ncaa.cume_games_view
 bq-1/bigquery-public-data.bitcoin_blockchain.blocks
 bq-1/bigquery-public-data.bitcoin_blockchain.transactions
 bq-1/bigquery-public-data.blackhole_database.sdss_dr7
@@ -4040,10 +4041,7 @@ bq-1/bigquery-public-data.google_trends.international_top_rising_terms
 bq-1/bigquery-public-data.google_trends.international_top_terms
 bq-1/bigquery-public-data.google_trends.top_rising_terms
 bq-1/bigquery-public-data.google_trends.top_terms
-bq-1/bigquery-public-data.hacker_news.comments
 bq-1/bigquery-public-data.hacker_news.full
-bq-1/bigquery-public-data.hacker_news.full_201510
-bq-1/bigquery-public-data.hacker_news.stories
 bq-1/bigquery-public-data.hud_zipcode_crosswalk.census_tracts_to_zipcode
 bq-1/bigquery-public-data.hud_zipcode_crosswalk.zip_to_county
 bq-1/bigquery-public-data.hud_zipcode_crosswalk.zipcode_to_census_tracts
