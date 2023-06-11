@@ -39,8 +39,8 @@
 * [RECORD]    `attributes`
 * [STRING]    `attributes.k`
 * [STRING]    `attributes.v`
-* [STRING]    `jattr`
 * [INTEGER]   `run_file_version`
+* [STRING]    `jattr`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
