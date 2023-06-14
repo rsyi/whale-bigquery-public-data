@@ -4041,7 +4041,6 @@ bq-1/bigquery-public-data.google_trends.international_top_rising_terms
 bq-1/bigquery-public-data.google_trends.international_top_terms
 bq-1/bigquery-public-data.google_trends.top_rising_terms
 bq-1/bigquery-public-data.google_trends.top_terms
-bq-1/bigquery-public-data.hacker_news.comments_restore
 bq-1/bigquery-public-data.hacker_news.full
 bq-1/bigquery-public-data.hud_zipcode_crosswalk.census_tracts_to_zipcode
 bq-1/bigquery-public-data.hud_zipcode_crosswalk.zip_to_county
