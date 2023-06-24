@@ -24,6 +24,9 @@
 * [STRING]    `reserved_raw`
 * [STRING]    `misc_frozen_raw`
 * [STRING]    `frozen_raw`
+* [FLOAT]     `flags`
+* [FLOAT]     `flags_usd`
+* [STRING]    `flags_raw`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
