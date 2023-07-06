@@ -656,6 +656,7 @@ bq-1/bigquery-public-data.crypto_ethereum.amended_tokens
 bq-1/bigquery-public-data.crypto_ethereum.balances
 bq-1/bigquery-public-data.crypto_ethereum.blocks
 bq-1/bigquery-public-data.crypto_ethereum.contracts
+bq-1/bigquery-public-data.crypto_ethereum.load_metadata
 bq-1/bigquery-public-data.crypto_ethereum.logs
 bq-1/bigquery-public-data.crypto_ethereum.sessions
 bq-1/bigquery-public-data.crypto_ethereum.token_transfers
