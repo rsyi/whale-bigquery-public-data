@@ -88,6 +88,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ConceptNameCodeSequence.CodeMeaning`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContinuityOfContent`
 * [TIMESTAMP] `contentSequence.ContentSequence.ContentSequence.DateTime`
+* [DATE]      `contentSequence.ContentSequence.ContentSequence.Date`
 * [TIME]      `contentSequence.ContentSequence.ContentSequence.Time`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.UID`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.TextValue`
@@ -109,6 +110,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptNameCodeSequence.CodingSchemeDesignator`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptNameCodeSequence.CodeMeaning`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ContinuityOfContent`
+* [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.TextValue`
 * [RECORD]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptCodeSequence`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptCodeSequence.CodeValue`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptCodeSequence.CodingSchemeDesignator`
@@ -161,6 +163,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ValueType`
 * [FLOAT]     `contentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicData`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicType`
+* [FLOAT]     `contentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicData`
+* [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicType`
 * [RECORD]    `contentSequence.ContentSequence.OtherElements`
 * [STRING]    `contentSequence.ContentSequence.OtherElements.Tag`
 * [STRING]    `contentSequence.ContentSequence.OtherElements.Data`

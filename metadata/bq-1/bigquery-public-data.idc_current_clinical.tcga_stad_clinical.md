@@ -1,6 +1,5 @@
 # `idc_current_clinical.tcga_stad_clinical` [view]
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `dicom_patient_id`

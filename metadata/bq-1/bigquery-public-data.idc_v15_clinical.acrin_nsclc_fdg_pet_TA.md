@@ -1,0 +1,62 @@
+# `idc_v15_clinical.acrin_nsclc_fdg_pet_TA`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `dicom_patient_id`
+* [INTEGER]   `source_batch`
+* [INTEGER]   `cn`
+* [INTEGER]   `tae1`
+* [STRING]    `tae2`
+* [INTEGER]   `tae3`
+* [INTEGER]   `tae4`
+* [STRING]    `tae5`
+* [STRING]    `tae6`
+* [INTEGER]   `tae7`
+* [INTEGER]   `tae8`
+* [INTEGER]   `tae9`
+* [STRING]    `tae10`
+* [INTEGER]   `tae11`
+* [INTEGER]   `tae12`
+* [INTEGER]   `tae13`
+* [FLOAT]     `tae14`
+* [FLOAT]     `tae15`
+* [INTEGER]   `tae16`
+* [INTEGER]   `tae17`
+* [FLOAT]     `tae18`
+* [INTEGER]   `tae19`
+* [INTEGER]   `tae20`
+* [INTEGER]   `tae21`
+* [INTEGER]   `tae22`
+* [INTEGER]   `tae25`
+* [INTEGER]   `tae26`
+* [STRING]    `tae27`
+* [INTEGER]   `tae28`
+* [INTEGER]   `tae29`
+* [INTEGER]   `tae31`
+* [INTEGER]   `tae32`
+* [INTEGER]   `tae33`
+* [INTEGER]   `tae34`
+* [INTEGER]   `tae35`
+* [STRING]    `tae36`
+* [INTEGER]   `tae37`
+* [INTEGER]   `tae38`
+* [INTEGER]   `tae39`
+* [INTEGER]   `tae40`
+* [FLOAT]     `tae41`
+* [FLOAT]     `tae42`
+* [INTEGER]   `tae43`
+* [INTEGER]   `tae44`
+* [INTEGER]   `tae45`
+* [INTEGER]   `tae47`
+* [FLOAT]     `tae48`
+* [INTEGER]   `tae49`
+* [INTEGER]   `tae53`
+* [INTEGER]   `rec`
+* [INTEGER]   `tae7d`
+* [INTEGER]   `tae8d`
+* [INTEGER]   `tae22d`
+* [INTEGER]   `tae43d`
+* [INTEGER]   `tae53d`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*

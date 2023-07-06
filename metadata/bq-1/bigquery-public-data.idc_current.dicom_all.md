@@ -278,6 +278,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `RelatedSeriesSequence.ReferencedImageSequence.ReferencedSOPClassUID`
 * [STRING]    `RelatedSeriesSequence.ReferencedImageSequence.ReferencedSOPInstanceUID`
 * [STRING]    `RelatedSeriesSequence.ReferencedImageSequence.ReferencedFrameNumber`
+* [STRING]    `RelatedSeriesSequence.ReferencedSOPClassUID`
+* [STRING]    `RelatedSeriesSequence.ReferencedSOPInstanceUID`
 * [STRING]    `RelatedSeriesSequence.StudyInstanceUID`
 * [STRING]    `RelatedSeriesSequence.SeriesInstanceUID`
 * [RECORD]    `RelatedSeriesSequence.PurposeOfReferenceCodeSequence`
@@ -427,6 +429,11 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `PatientSpeciesCodeSequence.CodeMeaning`
 * [STRING]    `PatientSexNeutered`
 * [STRING]    `AnatomicalOrientationType`
+* [STRING]    `PatientBreedDescription`
+* [RECORD]    `PatientBreedCodeSequence`
+* [STRING]    `PatientBreedCodeSequence.CodeValue`
+* [STRING]    `PatientBreedCodeSequence.CodingSchemeDesignator`
+* [STRING]    `PatientBreedCodeSequence.CodeMeaning`
 * [STRING]    `ResponsibleOrganization`
 * [STRING]    `PatientComments`
 * [STRING]    `ClinicalTrialSponsorName`
@@ -449,6 +456,11 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `DeidentificationMethodCodeSequence.CodingSchemeVersion`
 * [STRING]    `DeidentificationMethodCodeSequence.CodeMeaning`
 * [STRING]    `ClinicalTrialSeriesID`
+* [STRING]    `FNumber`
+* [STRING]    `FocalLength`
+* [STRING]    `LensSpecification`
+* [STRING]    `LensMake`
+* [STRING]    `LensModel`
 * [STRING]    `ContrastBolusAgent`
 * [STRING]    `BodyPartExamined`
 * [STRING]    `ScanningSequence`
@@ -537,7 +549,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `GantryDetectorSlew`
 * [STRING]    `TableHeight`
 * [STRING]    `TableTraverse`
-* [STRING]    `TableAngle`
 * [STRING]    `RotationDirection`
 * [STRING]    `AngularPosition`
 * [STRING]    `ScanArc`
@@ -547,10 +558,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `XRayTubeCurrent`
 * [STRING]    `Exposure`
 * [STRING]    `ExposureInuAs`
-* [STRING]    `AveragePulseWidth`
-* [STRING]    `RadiationSetting`
 * [STRING]    `RectificationType`
-* [STRING]    `RadiationMode`
 * [STRING]    `ImageAndFluoroscopyAreaDoseProduct`
 * [STRING]    `FilterType`
 * [STRING]    `ImagerPixelSpacing`
@@ -573,7 +581,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ReceiveCoilName`
 * [STRING]    `TransmitCoilName`
 * [STRING]    `PlateType`
-* [STRING]    `PhosphorType`
 * [STRING]    `ScanVelocity`
 * [STRING]    `WholeBodyTechnique`
 * [STRING]    `ScanLength`
@@ -599,7 +606,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `TomoType`
 * [STRING]    `TomoClass`
 * [STRING]    `NumberOfTomosynthesisSourceImages`
-* [STRING]    `PositionerMotion`
 * [STRING]    `PositionerType`
 * [STRING]    `PositionerPrimaryAngle`
 * [STRING]    `PositionerSecondaryAngle`
@@ -609,7 +615,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ShutterRightVerticalEdge`
 * [STRING]    `ShutterUpperHorizontalEdge`
 * [STRING]    `ShutterLowerHorizontalEdge`
-* [STRING]    `CenterOfCircularShutter`
 * [STRING]    `RadiusOfCircularShutter`
 * [STRING]    `VerticesOfThePolygonalShutter`
 * [INTEGER]   `ShutterPresentationValue`
@@ -682,7 +687,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ExposureControlMode`
 * [STRING]    `ExposureControlModeDescription`
 * [STRING]    `ExposureStatus`
-* [STRING]    `PhototimerSetting`
 * [STRING]    `ExposureTimeInuS`
 * [STRING]    `XRayTubeCurrentInuA`
 * [STRING]    `ContentQualification`
@@ -877,7 +881,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `NumberOfTemporalPositions`
 * [STRING]    `TemporalResolution`
 * [STRING]    `SynchronizationFrameOfReferenceUID`
-* [STRING]    `SeriesInStudy`
 * [STRING]    `AcquisitionsInSeries`
 * [STRING]    `ImagesInAcquisition`
 * [STRING]    `ImagesInSeries`
@@ -1403,6 +1406,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptNameCodeSequence.CodeMeaning`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContinuityOfContent`
 * [TIMESTAMP] `ContentSequence.ContentSequence.ContentSequence.ContentSequence.DateTime`
+* [DATE]      `ContentSequence.ContentSequence.ContentSequence.ContentSequence.Date`
 * [TIME]      `ContentSequence.ContentSequence.ContentSequence.ContentSequence.Time`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.UID`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.TextValue`
@@ -1424,6 +1428,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptNameCodeSequence.CodingSchemeDesignator`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptNameCodeSequence.CodeMeaning`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContinuityOfContent`
+* [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.TextValue`
 * [RECORD]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptCodeSequence`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptCodeSequence.CodeValue`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ConceptCodeSequence.CodingSchemeDesignator`
@@ -1476,6 +1481,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ValueType`
 * [FLOAT]     `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicData`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicType`
+* [FLOAT]     `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicData`
+* [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicType`
 * [RECORD]    `ContentSequence.ContentSequence.ContentSequence.OtherElements`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.OtherElements.Tag`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.OtherElements.Data`
@@ -1586,7 +1593,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [INTEGER]   `PhaseInformationSequence.NumberOfFramesInPhase`
 * [STRING]    `PhaseInformationSequence.PhaseDelay`
 * [STRING]    `PhaseInformationSequence.PauseBetweenFrames`
-* [INTEGER]   `RotationVector`
 * [INTEGER]   `NumberOfRotations`
 * [RECORD]    `RotationInformationSequence`
 * [STRING]    `RotationInformationSequence.TableHeight`
@@ -1599,19 +1605,9 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [INTEGER]   `RotationInformationSequence.NumberOfFramesInRotation`
 * [STRING]    `RotationInformationSequence.StartAngle`
 * [INTEGER]   `NumberOfRRIntervals`
-* [RECORD]    `GatedInformationSequence`
-* [RECORD]    `GatedInformationSequence.DataInformationSequence`
-* [STRING]    `GatedInformationSequence.DataInformationSequence.FrameTime`
-* [STRING]    `GatedInformationSequence.DataInformationSequence.LowRRValue`
-* [STRING]    `GatedInformationSequence.DataInformationSequence.HighRRValue`
-* [STRING]    `GatedInformationSequence.DataInformationSequence.IntervalsAcquired`
-* [STRING]    `GatedInformationSequence.DataInformationSequence.IntervalsRejected`
-* [RECORD]    `GatedInformationSequence.DataInformationSequence.TimeSlotInformationSequence`
-* [STRING]    `GatedInformationSequence.DataInformationSequence.TimeSlotInformationSequence.TimeSlotTime`
 * [INTEGER]   `NumberOfTimeSlots`
 * [INTEGER]   `SliceVector`
 * [INTEGER]   `NumberOfSlices`
-* [INTEGER]   `AngularViewVector`
 * [INTEGER]   `TimeSliceVector`
 * [INTEGER]   `NumberOfTimeSlices`
 * [STRING]    `TypeOfDetectorMotion`
@@ -1667,7 +1663,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `PatientGantryRelationshipCodeSequence.MappingResource`
 * [TIMESTAMP] `PatientGantryRelationshipCodeSequence.ContextGroupVersion`
 * [STRING]    `PatientGantryRelationshipCodeSequence.ContextIdentifier`
-* [STRING]    `SliceProgressionDirection`
 * [STRING]    `SeriesType`
 * [STRING]    `Units`
 * [STRING]    `CountsSource`
@@ -1770,6 +1765,19 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ContentCreatorName.Phonetic.MiddleName`
 * [STRING]    `ContentCreatorName.Phonetic.NamePrefix`
 * [STRING]    `ContentCreatorName.Phonetic.NameSuffix`
+* [RECORD]    `RegistrationSequence`
+* [RECORD]    `RegistrationSequence.ReferencedImageSequence`
+* [STRING]    `RegistrationSequence.ReferencedImageSequence.ReferencedSOPClassUID`
+* [STRING]    `RegistrationSequence.ReferencedImageSequence.ReferencedSOPInstanceUID`
+* [STRING]    `RegistrationSequence.FrameOfReferenceUID`
+* [RECORD]    `RegistrationSequence.MatrixRegistrationSequence`
+* [RECORD]    `RegistrationSequence.MatrixRegistrationSequence.MatrixSequence`
+* [STRING]    `RegistrationSequence.MatrixRegistrationSequence.MatrixSequence.FrameOfReferenceTransformationMatrixType`
+* [STRING]    `RegistrationSequence.MatrixRegistrationSequence.MatrixSequence.FrameOfReferenceTransformationMatrix`
+* [RECORD]    `RegistrationSequence.MatrixRegistrationSequence.RegistrationTypeCodeSequence`
+* [STRING]    `RegistrationSequence.MatrixRegistrationSequence.RegistrationTypeCodeSequence.CodeValue`
+* [STRING]    `RegistrationSequence.MatrixRegistrationSequence.RegistrationTypeCodeSequence.CodingSchemeDesignator`
+* [STRING]    `RegistrationSequence.MatrixRegistrationSequence.RegistrationTypeCodeSequence.CodeMeaning`
 * [STRING]    `FiducialUID`
 * [FLOAT]     `RelativeOpacity`
 * [RECORD]    `AdvancedBlendingSequence`
@@ -1865,6 +1873,17 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.ContextIdentifier`
 * [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.ContextUID`
 * [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.MappingResourceUID`
+* [RECORD]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.CodeValue`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.CodingSchemeDesignator`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.CodingSchemeVersion`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.CodeMeaning`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.MappingResource`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.ContextIdentifier`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.MappingResourceName`
+* [RECORD]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.OtherElements`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.OtherElements.Tag`
+* [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.EquivalentCodeSequence.OtherElements.Data`
 * [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.MappingResourceName`
 * [RECORD]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.OtherElements`
 * [STRING]    `RTROIObservationsSequence.RTROIIdentificationCodeSequence.OtherElements.Tag`
@@ -1874,6 +1893,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `RTROIObservationsSequence.ROIPhysicalPropertiesSequence`
 * [STRING]    `RTROIObservationsSequence.ROIPhysicalPropertiesSequence.ROIPhysicalProperty`
 * [STRING]    `RTROIObservationsSequence.ROIPhysicalPropertiesSequence.ROIPhysicalPropertyValue`
+* [STRING]    `RTROIObservationsSequence.MaterialID`
 * [RECORD]    `RTROIObservationsSequence.OtherElements`
 * [STRING]    `RTROIObservationsSequence.OtherElements.Tag`
 * [STRING]    `RTROIObservationsSequence.OtherElements.Data`
@@ -1989,6 +2009,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [INTEGER]   `DataValueRepresentation.Value`
 * [RECORD]    `SharedFunctionalGroupsSequence`
 * [RECORD]    `SharedFunctionalGroupsSequence.DerivationImageSequence`
+* [STRING]    `SharedFunctionalGroupsSequence.DerivationImageSequence.DerivationDescription`
 * [RECORD]    `SharedFunctionalGroupsSequence.DerivationImageSequence.SourceImageSequence`
 * [STRING]    `SharedFunctionalGroupsSequence.DerivationImageSequence.SourceImageSequence.ReferencedSOPClassUID`
 * [STRING]    `SharedFunctionalGroupsSequence.DerivationImageSequence.SourceImageSequence.ReferencedSOPInstanceUID`

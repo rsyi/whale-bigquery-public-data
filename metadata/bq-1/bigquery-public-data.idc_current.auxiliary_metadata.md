@@ -39,6 +39,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - The IDC version in which the study containing this instance first appeared
 * [INTEGER]   `study_revised_idc_version`
   - The IDC version in which this version of the study containing this instance first appeared
+* [INTEGER]   `study_final_idc_version`
+  - The IDC version in which this version of the study containing this instance last appeared. If 0, thise is the current version.
 * [STRING]    `SeriesInstanceUID`
   - DICOM series containing this instance
 * [STRING]    `series_uuid`
@@ -46,7 +48,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `source_doi`
   - The DOI of a wiki page that describes the original collection or analysis result that includes this instance
 * [STRING]    `source_url`
-  - The URK of a wiki page that describes the original collection or analysis result that includes this instance
+  - The URL of a wiki page that describes the original collection or analysis result that includes this instance
 * [INTEGER]   `series_instances`
   - Number of instances in the version of the study containing this instance
 * [STRING]    `series_hash`
@@ -57,6 +59,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - The IDC version in which the series containing this instance first appeared
 * [INTEGER]   `series_revised_idc_version`
   - The IDC version in which this version of the series containing this instance first appeared
+* [INTEGER]   `series_final_idc_version`
+  - The IDC version in which this version of the series containing this instance last appeared. If 0, thise is the current version.
 * [STRING]    `SOPInstanceUID`
   - DICOM instance containing this instance version
 * [STRING]    `instance_uuid`
@@ -73,6 +77,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - The IDC version in which this instance first appeared
 * [INTEGER]   `instance_revised_idc_version`
   - The IDC version in which this instance first appeared
+* [INTEGER]   `instance_final_idc_version`
+  - The IDC version in which this instance last appeared. If 0, thise is the current version.
 * [STRING]    `license_url`
   - URL of license of this analysis result
 * [STRING]    `license_long_name`
