@@ -19,6 +19,7 @@
 * [FLOAT]     `frozen`
 * [FLOAT]     `frozen_usd`
 * [FLOAT]     `price_usd`
+* [STRING]    `flags_raw`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

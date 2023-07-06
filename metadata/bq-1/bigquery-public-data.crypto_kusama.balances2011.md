@@ -24,6 +24,7 @@
 * [STRING]    `misc_frozen_raw`
 * [STRING]    `frozen_raw`
 * [INTEGER]   `nonce`
+* [STRING]    `flags_raw`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
