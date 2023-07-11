@@ -2,7 +2,7 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [INTEGER]   `trip_id`
+* [STRING]    `trip_id`
   - Numeric ID of bike trip
 * [STRING]    `subscriber_type`
   - Type of the Subscriber
