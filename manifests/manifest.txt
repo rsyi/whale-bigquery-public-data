@@ -13,6 +13,7 @@ bq-1/bigquery-public-data.austin_waste.waste_and_diversion
 bq-1/bigquery-public-data.baseball.games_post_wide
 bq-1/bigquery-public-data.baseball.games_wide
 bq-1/bigquery-public-data.baseball.schedules
+bq-1/bigquery-public-data.bbc_news.fulltext
 bq-1/bigquery-public-data.bigqueryml_ncaa.cume_games_view
 bq-1/bigquery-public-data.bitcoin_blockchain.blocks
 bq-1/bigquery-public-data.bitcoin_blockchain.transactions
