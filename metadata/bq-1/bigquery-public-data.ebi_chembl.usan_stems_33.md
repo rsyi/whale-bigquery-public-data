@@ -1,4 +1,4 @@
-# `ebi_chembl.usan_stems`
+# `ebi_chembl.usan_stems_33`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
