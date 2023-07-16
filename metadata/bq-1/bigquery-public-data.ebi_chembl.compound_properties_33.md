@@ -1,4 +1,4 @@
-# `ebi_chembl.compound_properties`
+# `ebi_chembl.compound_properties_33`
 `bq-1` | `bigquery-public-data`
 
 ## Column details

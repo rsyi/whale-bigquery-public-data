@@ -1,4 +1,4 @@
-# `ebi_chembl.molecule_dictionary`
+# `ebi_chembl.molecule_dictionary_33`
 `bq-1` | `bigquery-public-data`
 
 ## Column details

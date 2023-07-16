@@ -2021,6 +2021,7 @@ bq-1/bigquery-public-data.ebi_chembl.action_type_27
 bq-1/bigquery-public-data.ebi_chembl.action_type_28
 bq-1/bigquery-public-data.ebi_chembl.action_type_29
 bq-1/bigquery-public-data.ebi_chembl.action_type_30
+bq-1/bigquery-public-data.ebi_chembl.action_type_33
 bq-1/bigquery-public-data.ebi_chembl.activities
 bq-1/bigquery-public-data.ebi_chembl.activities_23
 bq-1/bigquery-public-data.ebi_chembl.activities_24
@@ -2030,6 +2031,7 @@ bq-1/bigquery-public-data.ebi_chembl.activities_27
 bq-1/bigquery-public-data.ebi_chembl.activities_28
 bq-1/bigquery-public-data.ebi_chembl.activities_29
 bq-1/bigquery-public-data.ebi_chembl.activities_30
+bq-1/bigquery-public-data.ebi_chembl.activities_33
 bq-1/bigquery-public-data.ebi_chembl.activity_properties
 bq-1/bigquery-public-data.ebi_chembl.activity_properties_24
 bq-1/bigquery-public-data.ebi_chembl.activity_properties_25
@@ -2038,6 +2040,7 @@ bq-1/bigquery-public-data.ebi_chembl.activity_properties_27
 bq-1/bigquery-public-data.ebi_chembl.activity_properties_28
 bq-1/bigquery-public-data.ebi_chembl.activity_properties_29
 bq-1/bigquery-public-data.ebi_chembl.activity_properties_30
+bq-1/bigquery-public-data.ebi_chembl.activity_properties_33
 bq-1/bigquery-public-data.ebi_chembl.activity_smid
 bq-1/bigquery-public-data.ebi_chembl.activity_smid_24
 bq-1/bigquery-public-data.ebi_chembl.activity_smid_25
@@ -2046,6 +2049,7 @@ bq-1/bigquery-public-data.ebi_chembl.activity_smid_27
 bq-1/bigquery-public-data.ebi_chembl.activity_smid_28
 bq-1/bigquery-public-data.ebi_chembl.activity_smid_29
 bq-1/bigquery-public-data.ebi_chembl.activity_smid_30
+bq-1/bigquery-public-data.ebi_chembl.activity_smid_33
 bq-1/bigquery-public-data.ebi_chembl.activity_stds_lookup
 bq-1/bigquery-public-data.ebi_chembl.activity_stds_lookup_23
 bq-1/bigquery-public-data.ebi_chembl.activity_stds_lookup_24
@@ -2055,6 +2059,7 @@ bq-1/bigquery-public-data.ebi_chembl.activity_stds_lookup_27
 bq-1/bigquery-public-data.ebi_chembl.activity_stds_lookup_28
 bq-1/bigquery-public-data.ebi_chembl.activity_stds_lookup_29
 bq-1/bigquery-public-data.ebi_chembl.activity_stds_lookup_30
+bq-1/bigquery-public-data.ebi_chembl.activity_stds_lookup_33
 bq-1/bigquery-public-data.ebi_chembl.activity_supp
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_24
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_25
@@ -2063,6 +2068,7 @@ bq-1/bigquery-public-data.ebi_chembl.activity_supp_27
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_28
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_29
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_30
+bq-1/bigquery-public-data.ebi_chembl.activity_supp_33
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_map
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_map_24
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_map_25
@@ -2071,6 +2077,7 @@ bq-1/bigquery-public-data.ebi_chembl.activity_supp_map_27
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_map_28
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_map_29
 bq-1/bigquery-public-data.ebi_chembl.activity_supp_map_30
+bq-1/bigquery-public-data.ebi_chembl.activity_supp_map_33
 bq-1/bigquery-public-data.ebi_chembl.assay_class_map
 bq-1/bigquery-public-data.ebi_chembl.assay_class_map_25
 bq-1/bigquery-public-data.ebi_chembl.assay_class_map_26
@@ -2078,6 +2085,7 @@ bq-1/bigquery-public-data.ebi_chembl.assay_class_map_27
 bq-1/bigquery-public-data.ebi_chembl.assay_class_map_28
 bq-1/bigquery-public-data.ebi_chembl.assay_class_map_29
 bq-1/bigquery-public-data.ebi_chembl.assay_class_map_30
+bq-1/bigquery-public-data.ebi_chembl.assay_class_map_33
 bq-1/bigquery-public-data.ebi_chembl.assay_classification
 bq-1/bigquery-public-data.ebi_chembl.assay_classification_25
 bq-1/bigquery-public-data.ebi_chembl.assay_classification_26
@@ -2094,6 +2102,7 @@ bq-1/bigquery-public-data.ebi_chembl.assay_parameters_27
 bq-1/bigquery-public-data.ebi_chembl.assay_parameters_28
 bq-1/bigquery-public-data.ebi_chembl.assay_parameters_29
 bq-1/bigquery-public-data.ebi_chembl.assay_parameters_30
+bq-1/bigquery-public-data.ebi_chembl.assay_parameters_33
 bq-1/bigquery-public-data.ebi_chembl.assay_type
 bq-1/bigquery-public-data.ebi_chembl.assay_type_23
 bq-1/bigquery-public-data.ebi_chembl.assay_type_24
@@ -2103,6 +2112,7 @@ bq-1/bigquery-public-data.ebi_chembl.assay_type_27
 bq-1/bigquery-public-data.ebi_chembl.assay_type_28
 bq-1/bigquery-public-data.ebi_chembl.assay_type_29
 bq-1/bigquery-public-data.ebi_chembl.assay_type_30
+bq-1/bigquery-public-data.ebi_chembl.assay_type_33
 bq-1/bigquery-public-data.ebi_chembl.assays
 bq-1/bigquery-public-data.ebi_chembl.assays_23
 bq-1/bigquery-public-data.ebi_chembl.assays_24
@@ -2112,6 +2122,7 @@ bq-1/bigquery-public-data.ebi_chembl.assays_27
 bq-1/bigquery-public-data.ebi_chembl.assays_28
 bq-1/bigquery-public-data.ebi_chembl.assays_29
 bq-1/bigquery-public-data.ebi_chembl.assays_30
+bq-1/bigquery-public-data.ebi_chembl.assays_33
 bq-1/bigquery-public-data.ebi_chembl.atc_classification
 bq-1/bigquery-public-data.ebi_chembl.atc_classification_23
 bq-1/bigquery-public-data.ebi_chembl.atc_classification_24
@@ -2121,6 +2132,7 @@ bq-1/bigquery-public-data.ebi_chembl.atc_classification_27
 bq-1/bigquery-public-data.ebi_chembl.atc_classification_28
 bq-1/bigquery-public-data.ebi_chembl.atc_classification_29
 bq-1/bigquery-public-data.ebi_chembl.atc_classification_30
+bq-1/bigquery-public-data.ebi_chembl.atc_classification_33
 bq-1/bigquery-public-data.ebi_chembl.binding_sites
 bq-1/bigquery-public-data.ebi_chembl.binding_sites_23
 bq-1/bigquery-public-data.ebi_chembl.binding_sites_24
@@ -2130,6 +2142,7 @@ bq-1/bigquery-public-data.ebi_chembl.binding_sites_27
 bq-1/bigquery-public-data.ebi_chembl.binding_sites_28
 bq-1/bigquery-public-data.ebi_chembl.binding_sites_29
 bq-1/bigquery-public-data.ebi_chembl.binding_sites_30
+bq-1/bigquery-public-data.ebi_chembl.binding_sites_33
 bq-1/bigquery-public-data.ebi_chembl.bio_component_sequences
 bq-1/bigquery-public-data.ebi_chembl.bio_component_sequences_23
 bq-1/bigquery-public-data.ebi_chembl.bio_component_sequences_24
@@ -2139,6 +2152,7 @@ bq-1/bigquery-public-data.ebi_chembl.bio_component_sequences_27
 bq-1/bigquery-public-data.ebi_chembl.bio_component_sequences_28
 bq-1/bigquery-public-data.ebi_chembl.bio_component_sequences_29
 bq-1/bigquery-public-data.ebi_chembl.bio_component_sequences_30
+bq-1/bigquery-public-data.ebi_chembl.bio_component_sequences_33
 bq-1/bigquery-public-data.ebi_chembl.bioassay_ontology
 bq-1/bigquery-public-data.ebi_chembl.bioassay_ontology_23
 bq-1/bigquery-public-data.ebi_chembl.bioassay_ontology_24
@@ -2148,6 +2162,7 @@ bq-1/bigquery-public-data.ebi_chembl.bioassay_ontology_27
 bq-1/bigquery-public-data.ebi_chembl.bioassay_ontology_28
 bq-1/bigquery-public-data.ebi_chembl.bioassay_ontology_29
 bq-1/bigquery-public-data.ebi_chembl.bioassay_ontology_30
+bq-1/bigquery-public-data.ebi_chembl.bioassay_ontology_33
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutic_components
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutic_components_23
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutic_components_24
@@ -2157,6 +2172,7 @@ bq-1/bigquery-public-data.ebi_chembl.biotherapeutic_components_27
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutic_components_28
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutic_components_29
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutic_components_30
+bq-1/bigquery-public-data.ebi_chembl.biotherapeutic_components_33
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutics
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutics_23
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutics_24
@@ -2166,6 +2182,7 @@ bq-1/bigquery-public-data.ebi_chembl.biotherapeutics_27
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutics_28
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutics_29
 bq-1/bigquery-public-data.ebi_chembl.biotherapeutics_30
+bq-1/bigquery-public-data.ebi_chembl.biotherapeutics_33
 bq-1/bigquery-public-data.ebi_chembl.cell_dictionary
 bq-1/bigquery-public-data.ebi_chembl.cell_dictionary_23
 bq-1/bigquery-public-data.ebi_chembl.cell_dictionary_24
@@ -2175,6 +2192,7 @@ bq-1/bigquery-public-data.ebi_chembl.cell_dictionary_27
 bq-1/bigquery-public-data.ebi_chembl.cell_dictionary_28
 bq-1/bigquery-public-data.ebi_chembl.cell_dictionary_29
 bq-1/bigquery-public-data.ebi_chembl.cell_dictionary_30
+bq-1/bigquery-public-data.ebi_chembl.cell_dictionary_33
 bq-1/bigquery-public-data.ebi_chembl.chembl_id_lookup
 bq-1/bigquery-public-data.ebi_chembl.chembl_id_lookup_23
 bq-1/bigquery-public-data.ebi_chembl.chembl_id_lookup_24
@@ -2184,6 +2202,8 @@ bq-1/bigquery-public-data.ebi_chembl.chembl_id_lookup_27
 bq-1/bigquery-public-data.ebi_chembl.chembl_id_lookup_28
 bq-1/bigquery-public-data.ebi_chembl.chembl_id_lookup_29
 bq-1/bigquery-public-data.ebi_chembl.chembl_id_lookup_30
+bq-1/bigquery-public-data.ebi_chembl.chembl_release
+bq-1/bigquery-public-data.ebi_chembl.chembl_release_33
 bq-1/bigquery-public-data.ebi_chembl.component_class
 bq-1/bigquery-public-data.ebi_chembl.component_class_23
 bq-1/bigquery-public-data.ebi_chembl.component_class_24
@@ -2202,6 +2222,7 @@ bq-1/bigquery-public-data.ebi_chembl.component_domains_27
 bq-1/bigquery-public-data.ebi_chembl.component_domains_28
 bq-1/bigquery-public-data.ebi_chembl.component_domains_29
 bq-1/bigquery-public-data.ebi_chembl.component_domains_30
+bq-1/bigquery-public-data.ebi_chembl.component_domains_33
 bq-1/bigquery-public-data.ebi_chembl.component_go
 bq-1/bigquery-public-data.ebi_chembl.component_go_23
 bq-1/bigquery-public-data.ebi_chembl.component_go_24
@@ -2220,6 +2241,7 @@ bq-1/bigquery-public-data.ebi_chembl.component_sequences_27
 bq-1/bigquery-public-data.ebi_chembl.component_sequences_28
 bq-1/bigquery-public-data.ebi_chembl.component_sequences_29
 bq-1/bigquery-public-data.ebi_chembl.component_sequences_30
+bq-1/bigquery-public-data.ebi_chembl.component_sequences_33
 bq-1/bigquery-public-data.ebi_chembl.component_synonyms
 bq-1/bigquery-public-data.ebi_chembl.component_synonyms_23
 bq-1/bigquery-public-data.ebi_chembl.component_synonyms_24
@@ -2229,6 +2251,7 @@ bq-1/bigquery-public-data.ebi_chembl.component_synonyms_27
 bq-1/bigquery-public-data.ebi_chembl.component_synonyms_28
 bq-1/bigquery-public-data.ebi_chembl.component_synonyms_29
 bq-1/bigquery-public-data.ebi_chembl.component_synonyms_30
+bq-1/bigquery-public-data.ebi_chembl.component_synonyms_33
 bq-1/bigquery-public-data.ebi_chembl.compound_properties
 bq-1/bigquery-public-data.ebi_chembl.compound_properties_23
 bq-1/bigquery-public-data.ebi_chembl.compound_properties_24
@@ -2238,6 +2261,7 @@ bq-1/bigquery-public-data.ebi_chembl.compound_properties_27
 bq-1/bigquery-public-data.ebi_chembl.compound_properties_28
 bq-1/bigquery-public-data.ebi_chembl.compound_properties_29
 bq-1/bigquery-public-data.ebi_chembl.compound_properties_30
+bq-1/bigquery-public-data.ebi_chembl.compound_properties_33
 bq-1/bigquery-public-data.ebi_chembl.compound_records
 bq-1/bigquery-public-data.ebi_chembl.compound_records_23
 bq-1/bigquery-public-data.ebi_chembl.compound_records_24
@@ -2247,6 +2271,7 @@ bq-1/bigquery-public-data.ebi_chembl.compound_records_27
 bq-1/bigquery-public-data.ebi_chembl.compound_records_28
 bq-1/bigquery-public-data.ebi_chembl.compound_records_29
 bq-1/bigquery-public-data.ebi_chembl.compound_records_30
+bq-1/bigquery-public-data.ebi_chembl.compound_records_33
 bq-1/bigquery-public-data.ebi_chembl.compound_structural_alerts
 bq-1/bigquery-public-data.ebi_chembl.compound_structural_alerts_23
 bq-1/bigquery-public-data.ebi_chembl.compound_structural_alerts_24
@@ -2256,6 +2281,7 @@ bq-1/bigquery-public-data.ebi_chembl.compound_structural_alerts_27
 bq-1/bigquery-public-data.ebi_chembl.compound_structural_alerts_28
 bq-1/bigquery-public-data.ebi_chembl.compound_structural_alerts_29
 bq-1/bigquery-public-data.ebi_chembl.compound_structural_alerts_30
+bq-1/bigquery-public-data.ebi_chembl.compound_structural_alerts_33
 bq-1/bigquery-public-data.ebi_chembl.compound_structures
 bq-1/bigquery-public-data.ebi_chembl.compound_structures_23
 bq-1/bigquery-public-data.ebi_chembl.compound_structures_24
@@ -2265,6 +2291,7 @@ bq-1/bigquery-public-data.ebi_chembl.compound_structures_27
 bq-1/bigquery-public-data.ebi_chembl.compound_structures_28
 bq-1/bigquery-public-data.ebi_chembl.compound_structures_29
 bq-1/bigquery-public-data.ebi_chembl.compound_structures_30
+bq-1/bigquery-public-data.ebi_chembl.compound_structures_33
 bq-1/bigquery-public-data.ebi_chembl.confidence_score_lookup
 bq-1/bigquery-public-data.ebi_chembl.confidence_score_lookup_23
 bq-1/bigquery-public-data.ebi_chembl.confidence_score_lookup_24
@@ -2274,6 +2301,7 @@ bq-1/bigquery-public-data.ebi_chembl.confidence_score_lookup_27
 bq-1/bigquery-public-data.ebi_chembl.confidence_score_lookup_28
 bq-1/bigquery-public-data.ebi_chembl.confidence_score_lookup_29
 bq-1/bigquery-public-data.ebi_chembl.confidence_score_lookup_30
+bq-1/bigquery-public-data.ebi_chembl.confidence_score_lookup_33
 bq-1/bigquery-public-data.ebi_chembl.curation_lookup
 bq-1/bigquery-public-data.ebi_chembl.curation_lookup_23
 bq-1/bigquery-public-data.ebi_chembl.curation_lookup_24
@@ -2283,6 +2311,7 @@ bq-1/bigquery-public-data.ebi_chembl.curation_lookup_27
 bq-1/bigquery-public-data.ebi_chembl.curation_lookup_28
 bq-1/bigquery-public-data.ebi_chembl.curation_lookup_29
 bq-1/bigquery-public-data.ebi_chembl.curation_lookup_30
+bq-1/bigquery-public-data.ebi_chembl.curation_lookup_33
 bq-1/bigquery-public-data.ebi_chembl.data_validity_lookup
 bq-1/bigquery-public-data.ebi_chembl.data_validity_lookup_23
 bq-1/bigquery-public-data.ebi_chembl.data_validity_lookup_24
@@ -2301,6 +2330,7 @@ bq-1/bigquery-public-data.ebi_chembl.defined_daily_dose_27
 bq-1/bigquery-public-data.ebi_chembl.defined_daily_dose_28
 bq-1/bigquery-public-data.ebi_chembl.defined_daily_dose_29
 bq-1/bigquery-public-data.ebi_chembl.defined_daily_dose_30
+bq-1/bigquery-public-data.ebi_chembl.defined_daily_dose_33
 bq-1/bigquery-public-data.ebi_chembl.docs
 bq-1/bigquery-public-data.ebi_chembl.docs_23
 bq-1/bigquery-public-data.ebi_chembl.docs_24
@@ -2310,6 +2340,7 @@ bq-1/bigquery-public-data.ebi_chembl.docs_27
 bq-1/bigquery-public-data.ebi_chembl.docs_28
 bq-1/bigquery-public-data.ebi_chembl.docs_29
 bq-1/bigquery-public-data.ebi_chembl.docs_30
+bq-1/bigquery-public-data.ebi_chembl.docs_33
 bq-1/bigquery-public-data.ebi_chembl.domains
 bq-1/bigquery-public-data.ebi_chembl.domains_23
 bq-1/bigquery-public-data.ebi_chembl.domains_24
@@ -2319,6 +2350,7 @@ bq-1/bigquery-public-data.ebi_chembl.domains_27
 bq-1/bigquery-public-data.ebi_chembl.domains_28
 bq-1/bigquery-public-data.ebi_chembl.domains_29
 bq-1/bigquery-public-data.ebi_chembl.domains_30
+bq-1/bigquery-public-data.ebi_chembl.domains_33
 bq-1/bigquery-public-data.ebi_chembl.drug_indication
 bq-1/bigquery-public-data.ebi_chembl.drug_indication_23
 bq-1/bigquery-public-data.ebi_chembl.drug_indication_24
@@ -2328,6 +2360,7 @@ bq-1/bigquery-public-data.ebi_chembl.drug_indication_27
 bq-1/bigquery-public-data.ebi_chembl.drug_indication_28
 bq-1/bigquery-public-data.ebi_chembl.drug_indication_29
 bq-1/bigquery-public-data.ebi_chembl.drug_indication_30
+bq-1/bigquery-public-data.ebi_chembl.drug_indication_33
 bq-1/bigquery-public-data.ebi_chembl.drug_mechanism
 bq-1/bigquery-public-data.ebi_chembl.drug_mechanism_23
 bq-1/bigquery-public-data.ebi_chembl.drug_mechanism_24
@@ -2341,6 +2374,7 @@ bq-1/bigquery-public-data.ebi_chembl.drug_warning
 bq-1/bigquery-public-data.ebi_chembl.drug_warning_28
 bq-1/bigquery-public-data.ebi_chembl.drug_warning_29
 bq-1/bigquery-public-data.ebi_chembl.drug_warning_30
+bq-1/bigquery-public-data.ebi_chembl.drug_warning_33
 bq-1/bigquery-public-data.ebi_chembl.formulations
 bq-1/bigquery-public-data.ebi_chembl.formulations_23
 bq-1/bigquery-public-data.ebi_chembl.formulations_24
@@ -2350,6 +2384,7 @@ bq-1/bigquery-public-data.ebi_chembl.formulations_27
 bq-1/bigquery-public-data.ebi_chembl.formulations_28
 bq-1/bigquery-public-data.ebi_chembl.formulations_29
 bq-1/bigquery-public-data.ebi_chembl.formulations_30
+bq-1/bigquery-public-data.ebi_chembl.formulations_33
 bq-1/bigquery-public-data.ebi_chembl.frac_classification
 bq-1/bigquery-public-data.ebi_chembl.frac_classification_23
 bq-1/bigquery-public-data.ebi_chembl.frac_classification_24
@@ -2377,6 +2412,7 @@ bq-1/bigquery-public-data.ebi_chembl.hrac_classification_27
 bq-1/bigquery-public-data.ebi_chembl.hrac_classification_28
 bq-1/bigquery-public-data.ebi_chembl.hrac_classification_29
 bq-1/bigquery-public-data.ebi_chembl.hrac_classification_30
+bq-1/bigquery-public-data.ebi_chembl.hrac_classification_33
 bq-1/bigquery-public-data.ebi_chembl.indication_refs
 bq-1/bigquery-public-data.ebi_chembl.indication_refs_23
 bq-1/bigquery-public-data.ebi_chembl.indication_refs_24
@@ -2386,6 +2422,7 @@ bq-1/bigquery-public-data.ebi_chembl.indication_refs_27
 bq-1/bigquery-public-data.ebi_chembl.indication_refs_28
 bq-1/bigquery-public-data.ebi_chembl.indication_refs_29
 bq-1/bigquery-public-data.ebi_chembl.indication_refs_30
+bq-1/bigquery-public-data.ebi_chembl.indication_refs_33
 bq-1/bigquery-public-data.ebi_chembl.irac_classification
 bq-1/bigquery-public-data.ebi_chembl.irac_classification_23
 bq-1/bigquery-public-data.ebi_chembl.irac_classification_24
@@ -2395,6 +2432,7 @@ bq-1/bigquery-public-data.ebi_chembl.irac_classification_27
 bq-1/bigquery-public-data.ebi_chembl.irac_classification_28
 bq-1/bigquery-public-data.ebi_chembl.irac_classification_29
 bq-1/bigquery-public-data.ebi_chembl.irac_classification_30
+bq-1/bigquery-public-data.ebi_chembl.irac_classification_33
 bq-1/bigquery-public-data.ebi_chembl.ligand_eff
 bq-1/bigquery-public-data.ebi_chembl.ligand_eff_23
 bq-1/bigquery-public-data.ebi_chembl.ligand_eff_24
@@ -2404,6 +2442,7 @@ bq-1/bigquery-public-data.ebi_chembl.ligand_eff_27
 bq-1/bigquery-public-data.ebi_chembl.ligand_eff_28
 bq-1/bigquery-public-data.ebi_chembl.ligand_eff_29
 bq-1/bigquery-public-data.ebi_chembl.ligand_eff_30
+bq-1/bigquery-public-data.ebi_chembl.ligand_eff_33
 bq-1/bigquery-public-data.ebi_chembl.match_23
 bq-1/bigquery-public-data.ebi_chembl.match_24
 bq-1/bigquery-public-data.ebi_chembl.mechanism_refs
@@ -2424,6 +2463,7 @@ bq-1/bigquery-public-data.ebi_chembl.metabolism_27
 bq-1/bigquery-public-data.ebi_chembl.metabolism_28
 bq-1/bigquery-public-data.ebi_chembl.metabolism_29
 bq-1/bigquery-public-data.ebi_chembl.metabolism_30
+bq-1/bigquery-public-data.ebi_chembl.metabolism_33
 bq-1/bigquery-public-data.ebi_chembl.metabolism_refs
 bq-1/bigquery-public-data.ebi_chembl.metabolism_refs_23
 bq-1/bigquery-public-data.ebi_chembl.metabolism_refs_24
@@ -2442,6 +2482,7 @@ bq-1/bigquery-public-data.ebi_chembl.molecule_atc_classification_27
 bq-1/bigquery-public-data.ebi_chembl.molecule_atc_classification_28
 bq-1/bigquery-public-data.ebi_chembl.molecule_atc_classification_29
 bq-1/bigquery-public-data.ebi_chembl.molecule_atc_classification_30
+bq-1/bigquery-public-data.ebi_chembl.molecule_atc_classification_33
 bq-1/bigquery-public-data.ebi_chembl.molecule_dictionary
 bq-1/bigquery-public-data.ebi_chembl.molecule_dictionary_23
 bq-1/bigquery-public-data.ebi_chembl.molecule_dictionary_24
@@ -2451,6 +2492,7 @@ bq-1/bigquery-public-data.ebi_chembl.molecule_dictionary_27
 bq-1/bigquery-public-data.ebi_chembl.molecule_dictionary_28
 bq-1/bigquery-public-data.ebi_chembl.molecule_dictionary_29
 bq-1/bigquery-public-data.ebi_chembl.molecule_dictionary_30
+bq-1/bigquery-public-data.ebi_chembl.molecule_dictionary_33
 bq-1/bigquery-public-data.ebi_chembl.molecule_frac_classification
 bq-1/bigquery-public-data.ebi_chembl.molecule_frac_classification_23
 bq-1/bigquery-public-data.ebi_chembl.molecule_frac_classification_24
@@ -2460,6 +2502,7 @@ bq-1/bigquery-public-data.ebi_chembl.molecule_frac_classification_27
 bq-1/bigquery-public-data.ebi_chembl.molecule_frac_classification_28
 bq-1/bigquery-public-data.ebi_chembl.molecule_frac_classification_29
 bq-1/bigquery-public-data.ebi_chembl.molecule_frac_classification_30
+bq-1/bigquery-public-data.ebi_chembl.molecule_frac_classification_33
 bq-1/bigquery-public-data.ebi_chembl.molecule_hierarchy
 bq-1/bigquery-public-data.ebi_chembl.molecule_hierarchy_23
 bq-1/bigquery-public-data.ebi_chembl.molecule_hierarchy_24
@@ -2469,6 +2512,7 @@ bq-1/bigquery-public-data.ebi_chembl.molecule_hierarchy_27
 bq-1/bigquery-public-data.ebi_chembl.molecule_hierarchy_28
 bq-1/bigquery-public-data.ebi_chembl.molecule_hierarchy_29
 bq-1/bigquery-public-data.ebi_chembl.molecule_hierarchy_30
+bq-1/bigquery-public-data.ebi_chembl.molecule_hierarchy_33
 bq-1/bigquery-public-data.ebi_chembl.molecule_hrac_classification
 bq-1/bigquery-public-data.ebi_chembl.molecule_hrac_classification_23
 bq-1/bigquery-public-data.ebi_chembl.molecule_hrac_classification_24
@@ -2478,6 +2522,7 @@ bq-1/bigquery-public-data.ebi_chembl.molecule_hrac_classification_27
 bq-1/bigquery-public-data.ebi_chembl.molecule_hrac_classification_28
 bq-1/bigquery-public-data.ebi_chembl.molecule_hrac_classification_29
 bq-1/bigquery-public-data.ebi_chembl.molecule_hrac_classification_30
+bq-1/bigquery-public-data.ebi_chembl.molecule_hrac_classification_33
 bq-1/bigquery-public-data.ebi_chembl.molecule_irac_classification
 bq-1/bigquery-public-data.ebi_chembl.molecule_irac_classification_23
 bq-1/bigquery-public-data.ebi_chembl.molecule_irac_classification_24
@@ -2487,6 +2532,7 @@ bq-1/bigquery-public-data.ebi_chembl.molecule_irac_classification_27
 bq-1/bigquery-public-data.ebi_chembl.molecule_irac_classification_28
 bq-1/bigquery-public-data.ebi_chembl.molecule_irac_classification_29
 bq-1/bigquery-public-data.ebi_chembl.molecule_irac_classification_30
+bq-1/bigquery-public-data.ebi_chembl.molecule_irac_classification_33
 bq-1/bigquery-public-data.ebi_chembl.molecule_synonyms
 bq-1/bigquery-public-data.ebi_chembl.molecule_synonyms_23
 bq-1/bigquery-public-data.ebi_chembl.molecule_synonyms_24
@@ -2496,6 +2542,7 @@ bq-1/bigquery-public-data.ebi_chembl.molecule_synonyms_27
 bq-1/bigquery-public-data.ebi_chembl.molecule_synonyms_28
 bq-1/bigquery-public-data.ebi_chembl.molecule_synonyms_29
 bq-1/bigquery-public-data.ebi_chembl.molecule_synonyms_30
+bq-1/bigquery-public-data.ebi_chembl.molecule_synonyms_33
 bq-1/bigquery-public-data.ebi_chembl.organism_class
 bq-1/bigquery-public-data.ebi_chembl.organism_class_23
 bq-1/bigquery-public-data.ebi_chembl.organism_class_24
@@ -2505,6 +2552,7 @@ bq-1/bigquery-public-data.ebi_chembl.organism_class_27
 bq-1/bigquery-public-data.ebi_chembl.organism_class_28
 bq-1/bigquery-public-data.ebi_chembl.organism_class_29
 bq-1/bigquery-public-data.ebi_chembl.organism_class_30
+bq-1/bigquery-public-data.ebi_chembl.organism_class_33
 bq-1/bigquery-public-data.ebi_chembl.parameter_type_23
 bq-1/bigquery-public-data.ebi_chembl.patent_use_codes
 bq-1/bigquery-public-data.ebi_chembl.patent_use_codes_23
@@ -2515,6 +2563,7 @@ bq-1/bigquery-public-data.ebi_chembl.patent_use_codes_27
 bq-1/bigquery-public-data.ebi_chembl.patent_use_codes_28
 bq-1/bigquery-public-data.ebi_chembl.patent_use_codes_29
 bq-1/bigquery-public-data.ebi_chembl.patent_use_codes_30
+bq-1/bigquery-public-data.ebi_chembl.patent_use_codes_33
 bq-1/bigquery-public-data.ebi_chembl.predicted_binding_domains
 bq-1/bigquery-public-data.ebi_chembl.predicted_binding_domains_23
 bq-1/bigquery-public-data.ebi_chembl.predicted_binding_domains_24
@@ -2524,6 +2573,7 @@ bq-1/bigquery-public-data.ebi_chembl.predicted_binding_domains_27
 bq-1/bigquery-public-data.ebi_chembl.predicted_binding_domains_28
 bq-1/bigquery-public-data.ebi_chembl.predicted_binding_domains_29
 bq-1/bigquery-public-data.ebi_chembl.predicted_binding_domains_30
+bq-1/bigquery-public-data.ebi_chembl.predicted_binding_domains_33
 bq-1/bigquery-public-data.ebi_chembl.product_patents
 bq-1/bigquery-public-data.ebi_chembl.product_patents_23
 bq-1/bigquery-public-data.ebi_chembl.product_patents_24
@@ -2533,6 +2583,7 @@ bq-1/bigquery-public-data.ebi_chembl.product_patents_27
 bq-1/bigquery-public-data.ebi_chembl.product_patents_28
 bq-1/bigquery-public-data.ebi_chembl.product_patents_29
 bq-1/bigquery-public-data.ebi_chembl.product_patents_30
+bq-1/bigquery-public-data.ebi_chembl.product_patents_33
 bq-1/bigquery-public-data.ebi_chembl.products
 bq-1/bigquery-public-data.ebi_chembl.products_23
 bq-1/bigquery-public-data.ebi_chembl.products_24
@@ -2542,6 +2593,7 @@ bq-1/bigquery-public-data.ebi_chembl.products_27
 bq-1/bigquery-public-data.ebi_chembl.products_28
 bq-1/bigquery-public-data.ebi_chembl.products_29
 bq-1/bigquery-public-data.ebi_chembl.products_30
+bq-1/bigquery-public-data.ebi_chembl.products_33
 bq-1/bigquery-public-data.ebi_chembl.protein_class_synonyms
 bq-1/bigquery-public-data.ebi_chembl.protein_class_synonyms_23
 bq-1/bigquery-public-data.ebi_chembl.protein_class_synonyms_24
@@ -2551,6 +2603,7 @@ bq-1/bigquery-public-data.ebi_chembl.protein_class_synonyms_27
 bq-1/bigquery-public-data.ebi_chembl.protein_class_synonyms_28
 bq-1/bigquery-public-data.ebi_chembl.protein_class_synonyms_29
 bq-1/bigquery-public-data.ebi_chembl.protein_class_synonyms_30
+bq-1/bigquery-public-data.ebi_chembl.protein_class_synonyms_33
 bq-1/bigquery-public-data.ebi_chembl.protein_classification
 bq-1/bigquery-public-data.ebi_chembl.protein_classification_23
 bq-1/bigquery-public-data.ebi_chembl.protein_classification_24
@@ -2560,6 +2613,7 @@ bq-1/bigquery-public-data.ebi_chembl.protein_classification_27
 bq-1/bigquery-public-data.ebi_chembl.protein_classification_28
 bq-1/bigquery-public-data.ebi_chembl.protein_classification_29
 bq-1/bigquery-public-data.ebi_chembl.protein_classification_30
+bq-1/bigquery-public-data.ebi_chembl.protein_classification_33
 bq-1/bigquery-public-data.ebi_chembl.protein_family_classification
 bq-1/bigquery-public-data.ebi_chembl.protein_family_classification_23
 bq-1/bigquery-public-data.ebi_chembl.protein_family_classification_24

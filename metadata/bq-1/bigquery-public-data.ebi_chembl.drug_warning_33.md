@@ -1,4 +1,4 @@
-# `ebi_chembl.drug_warning`
+# `ebi_chembl.drug_warning_33`
 `bq-1` | `bigquery-public-data`
 
 ## Column details

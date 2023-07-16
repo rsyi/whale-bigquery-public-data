@@ -1,4 +1,4 @@
-# `ebi_chembl.docs`
+# `ebi_chembl.docs_33`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
