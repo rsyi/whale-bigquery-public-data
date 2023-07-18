@@ -34,7 +34,8 @@
 * [RECORD]    `biosamplesFromSource`
 * [RECORD]    `biosamplesFromSource.list`
 * [STRING]    `biosamplesFromSource.list.element`
-* [INTEGER]   `clinicalPhase`
+* [STRING]    `cellType`
+* [FLOAT]     `clinicalPhase`
 * [RECORD]    `clinicalSignificances`
 * [RECORD]    `clinicalSignificances.list`
 * [STRING]    `clinicalSignificances.list.element`
@@ -47,6 +48,7 @@
 * [STRING]    `cohortShortName`
 * [STRING]    `confidence`
 * [STRING]    `contrast`
+* [STRING]    `crisprScreenLibrary`
 * [STRING]    `datatypeId`
 * [RECORD]    `diseaseCellLines`
 * [RECORD]    `diseaseCellLines.list`
@@ -71,6 +73,7 @@
 * [STRING]    `drugFromSource`
 * [STRING]    `drugId`
 * [STRING]    `drugResponse`
+* [STRING]    `geneticBackground`
 * [RECORD]    `literature`
 * [RECORD]    `literature.list`
 * [STRING]    `literature.list.element`
@@ -80,8 +83,8 @@
 * [RECORD]    `mutatedSamples.list`
 * [RECORD]    `mutatedSamples.list.element`
 * [STRING]    `mutatedSamples.list.element.functionalConsequenceId`
-* [INTEGER]   `mutatedSamples.list.element.numberMutatedSamples`
-* [INTEGER]   `mutatedSamples.list.element.numberSamplesTested`
+* [FLOAT]     `mutatedSamples.list.element.numberMutatedSamples`
+* [FLOAT]     `mutatedSamples.list.element.numberSamplesTested`
 * [INTEGER]   `mutatedSamples.list.element.numberSamplesWithMutationType`
 * [FLOAT]     `oddsRatio`
 * [FLOAT]     `oddsRatioConfidenceIntervalLower`
@@ -110,6 +113,7 @@
 * [STRING]    `significantDriverMethods.list.element`
 * [STRING]    `statisticalMethod`
 * [STRING]    `statisticalMethodOverview`
+* [STRING]    `statisticalTestTail`
 * [INTEGER]   `studyCases`
 * [INTEGER]   `studyCasesWithQualifyingVariants`
 * [STRING]    `studyId`
@@ -143,6 +147,7 @@
 * [RECORD]    `variantAminoacidDescriptions`
 * [RECORD]    `variantAminoacidDescriptions.list`
 * [STRING]    `variantAminoacidDescriptions.list.element`
+* [STRING]    `variantFunctionalConsequenceFromQtlId`
 * [STRING]    `variantFunctionalConsequenceId`
 * [STRING]    `variantHgvsId`
 * [STRING]    `variantId`

@@ -17,6 +17,9 @@
 * [STRING]    `references.list.element.ref_url`
 * [STRING]    `warningType`
 * [INTEGER]   `year`
+* [STRING]    `efo_term`
+* [STRING]    `efo_id`
+* [STRING]    `efo_id_for_warning_class`
 * [INTEGER]   `meddraSocCode`
 
 -------------------------------------------------------------------------------

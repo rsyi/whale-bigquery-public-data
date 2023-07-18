@@ -6759,8 +6759,11 @@ bq-1/bigquery-public-data.open_targets_platform.mechanismOfAction
 bq-1/bigquery-public-data.open_targets_platform.molecule
 bq-1/bigquery-public-data.open_targets_platform.mousePhenotypes
 bq-1/bigquery-public-data.open_targets_platform.ot_release
+bq-1/bigquery-public-data.open_targets_platform.reactome
 bq-1/bigquery-public-data.open_targets_platform.significantAdverseDrugReactions
+bq-1/bigquery-public-data.open_targets_platform.targetEssentiality
 bq-1/bigquery-public-data.open_targets_platform.targets
+bq-1/bigquery-public-data.open_targets_platform.targetsPriorisation
 bq-1/bigquery-public-data.openaq.global_air_quality
 bq-1/bigquery-public-data.patents.publications
 bq-1/bigquery-public-data.patents.publications_201710

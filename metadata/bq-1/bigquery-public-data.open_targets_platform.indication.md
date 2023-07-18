@@ -15,7 +15,7 @@
 * [RECORD]    `indications.list.element.references.list.element.ids`
 * [RECORD]    `indications.list.element.references.list.element.ids.list`
 * [STRING]    `indications.list.element.references.list.element.ids.list.element`
-* [INTEGER]   `indications.list.element.maxPhaseForIndication`
+* [FLOAT]     `indications.list.element.maxPhaseForIndication`
 * [RECORD]    `approvedIndications`
 * [RECORD]    `approvedIndications.list`
 * [STRING]    `approvedIndications.list.element`

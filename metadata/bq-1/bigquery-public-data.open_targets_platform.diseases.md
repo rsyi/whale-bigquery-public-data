@@ -18,9 +18,6 @@
 * [RECORD]    `parents`
 * [RECORD]    `parents.list`
 * [STRING]    `parents.list.element`
-* [RECORD]    `sko`
-* [RECORD]    `sko.list`
-* [STRING]    `sko.list.element`
 * [RECORD]    `synonyms`
 * [RECORD]    `synonyms.hasBroadSynonym`
 * [RECORD]    `synonyms.hasBroadSynonym.list`

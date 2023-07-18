@@ -5,7 +5,7 @@
 * [STRING]    `drugId`
 * [STRING]    `targetId`
 * [STRING]    `diseaseId`
-* [INTEGER]   `phase`
+* [FLOAT]     `phase`
 * [STRING]    `status`
 * [RECORD]    `urls`
 * [RECORD]    `urls.list`
