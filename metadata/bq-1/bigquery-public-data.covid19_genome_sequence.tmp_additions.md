@@ -39,6 +39,7 @@
 * [RECORD]    `attributes`
 * [STRING]    `attributes.k`
 * [STRING]    `attributes.v`
+* [INTEGER]   `run_file_version`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
