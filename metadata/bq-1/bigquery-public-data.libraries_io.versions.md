@@ -11,7 +11,7 @@
 * [INTEGER]   `project_id`
   - The unique primary key of the project for this version in the Libraries.io database.
 * [STRING]    `number`
-  - The number of the release, often confirms to semantic versioning.
+  - The number of the release often confirms to semantic versioning.
 * [TIMESTAMP] `published_timestamp`
   - The timestamp of when the version was published.
 * [TIMESTAMP] `created_timestamp`
