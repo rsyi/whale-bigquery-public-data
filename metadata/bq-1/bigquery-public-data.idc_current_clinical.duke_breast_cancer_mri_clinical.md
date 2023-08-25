@@ -1,5 +1,6 @@
 # `idc_current_clinical.duke_breast_cancer_mri_clinical` [view]
 `bq-1` | `bigquery-public-data`
+Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `dicom_patient_id`

@@ -1,5 +1,6 @@
 # `idc_current_clinical.table_metadata` [view]
 `bq-1` | `bigquery-public-data`
+Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `collection_id`
