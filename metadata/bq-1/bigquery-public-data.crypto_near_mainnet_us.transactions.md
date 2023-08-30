@@ -9,22 +9,17 @@
 * [STRING]    `block_hash`
 * [STRING]    `chunk_hash`
 * [INTEGER]   `shard_id`
-* [TIMESTAMP] `_dlt_synced_utc`
-* [INTEGER]   `_dlt_synced_lag_seconds`
-* [STRING]    `hash`
+* [STRING]    `transaction_hash`
 * [INTEGER]   `index_in_chunk`
+* [STRING]    `signer_account_id`
+* [STRING]    `signer_public_key`
 * [INTEGER]   `nonce`
-* [STRING]    `signer_id`
-* [STRING]    `public_key`
+* [STRING]    `receiver_account_id`
 * [STRING]    `signature`
-* [STRING]    `receiver_id`
-* [STRING]    `converted_into_receipt_id`
 * [STRING]    `status`
+* [STRING]    `converted_into_receipt_id`
 * [INTEGER]   `receipt_conversion_gas_burnt`
-* [STRING]    `receipt_conversion_tokens_burnt`
-* [RECORD]    `actions`
-* [RECORD]    `actions.list`
-* [STRING]    `actions.list.element`
+* [FLOAT]     `receipt_conversion_tokens_burnt`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

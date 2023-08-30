@@ -9,12 +9,10 @@
 * [STRING]    `block_hash`
 * [STRING]    `chunk_hash`
 * [INTEGER]   `shard_id`
-* [TIMESTAMP] `_dlt_synced_utc`
-* [INTEGER]   `_dlt_synced_lag_seconds`
+* [INTEGER]   `index_in_chunk`
 * [STRING]    `receipt_kind`
 * [STRING]    `receipt_id`
 * [STRING]    `data_id`
-* [INTEGER]   `index_in_chunk`
 * [STRING]    `predecessor_account_id`
 * [STRING]    `receiver_account_id`
 * [STRING]    `receipt`
