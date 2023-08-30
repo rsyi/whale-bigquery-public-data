@@ -8,16 +8,14 @@
 * [TIMESTAMP] `block_timestamp_utc`
 * [STRING]    `block_hash`
 * [STRING]    `chunk_hash`
-* [TIMESTAMP] `_dlt_synced_utc`
-* [INTEGER]   `_dlt_synced_lag_seconds`
 * [INTEGER]   `index_in_block`
 * [STRING]    `affected_account_id`
 * [STRING]    `caused_by_transaction_hash`
 * [STRING]    `caused_by_receipt_id`
 * [STRING]    `update_reason`
-* [STRING]    `affected_account_nonstaked_balance`
-* [STRING]    `affected_account_staked_balance`
-* [INTEGER]   `affected_account_storage_usage`
+* [FLOAT]     `affected_account_nonstaked_balance`
+* [FLOAT]     `affected_account_staked_balance`
+* [FLOAT]     `affected_account_storage_usage`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
