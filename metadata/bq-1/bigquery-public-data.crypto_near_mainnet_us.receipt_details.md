@@ -1,4 +1,4 @@
-# `crypto_near_mainnet_us.receipts` [view]
+# `crypto_near_mainnet_us.receipt_details`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
@@ -16,7 +16,6 @@
 * [STRING]    `predecessor_account_id`
 * [STRING]    `receiver_account_id`
 * [STRING]    `receipt`
-* [STRING]    `originated_from_transaction_hash`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
