@@ -4,16 +4,23 @@ A structure that represents an entire block in the NEAR blockchain.
 
 ## Column details
 * [DATE]      `block_date`
-  - Block Date
+  - The date of the [Block]. Used to partition the table.
 * [INTEGER]   `block_height`
-  - Block Height
+  - The height of the [Block]
 * [INTEGER]   `block_timestamp`
+  - The timestamp of the [Block] in nanoseconds
 * [TIMESTAMP] `block_timestamp_utc`
+  - The timestamp of the [Block] in UTC
 * [STRING]    `block_hash`
+  - The hash of the [Block]
 * [STRING]    `prev_block_hash`
+  - The hash of the previous [Block]
 * [FLOAT]     `total_supply`
+  - The total supply of the [Block]
 * [FLOAT]     `gas_price`
+  - The gas price of the [Block]
 * [STRING]    `author_account_id`
+  - The [AccountId] of the author of the [Block]
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

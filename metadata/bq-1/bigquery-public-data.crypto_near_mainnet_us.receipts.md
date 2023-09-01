@@ -17,6 +17,9 @@
 * [STRING]    `receiver_account_id`
 * [STRING]    `receipt`
 * [STRING]    `originated_from_transaction_hash`
+* [STRING]    `transaction_signer_account_id`
+* [STRING]    `transaction_signer_public_key`
+* [STRING]    `transaction_status`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
