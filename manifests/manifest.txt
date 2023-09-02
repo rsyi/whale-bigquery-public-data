@@ -4063,7 +4063,6 @@ bq-1/bigquery-public-data.google_ads_geo_mapping_us_west4.ads_geo_region_mapping
 bq-1/bigquery-public-data.google_ads_geo_mapping_us_west4.ads_geo_subcontinent_mapping
 bq-1/bigquery-public-data.google_ads_transparency_center.creative_stats
 bq-1/bigquery-public-data.google_ads_transparency_center.removed_creative_stats
-bq-1/bigquery-public-data.google_ads_transparency_center.sqlp-temp-donotremove-1693615053110971582-VUAo3Diu
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_1
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_2
@@ -5855,6 +5854,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_09_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_09_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_09_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_09_22
+bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_09_23
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_10_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_10_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnatomarchive_10_19
@@ -5921,6 +5921,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_09_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_09_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_09_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_09_22
+bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_09_23
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_10_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_10_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnconso_10_19
@@ -5987,6 +5988,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxncui_09_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_09_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_09_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_09_22
+bq-1/bigquery-public-data.nlm_rxnorm.rxncui_09_23
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_10_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_10_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncui_10_19
@@ -6052,6 +6054,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_09_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_09_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_09_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_09_22
+bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_09_23
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_10_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_10_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxncuichange_10_19
@@ -6120,6 +6123,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_09_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_09_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_09_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_09_22
+bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_09_23
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_10_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_10_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxndoc_10_19
@@ -6187,6 +6191,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_09_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_09_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_09_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_09_22
+bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_09_23
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_10_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_10_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnrel_10_19
@@ -6254,6 +6259,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_09_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_09_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_09_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_09_22
+bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_09_23
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_10_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_10_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsab_10_19
@@ -6371,6 +6377,7 @@ bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_09_19
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_09_20
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_09_21
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_09_22
+bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_09_23
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_10_17
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_10_18
 bq-1/bigquery-public-data.nlm_rxnorm.rxnsty_10_19
