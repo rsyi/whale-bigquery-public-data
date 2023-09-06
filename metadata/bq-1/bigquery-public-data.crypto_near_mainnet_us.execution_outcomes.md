@@ -35,6 +35,10 @@ ExecutionOutcome is the result of execution of Transaction or Receipt. In the re
   - The id of the account on which the execution happens. For transaction this is signer_id, for receipt this is receiver_id
 * [STRING]    `status`
   - Execution status. Contains the result in case of successful execution
+* [RECORD]    `logs`
+  - Execution outcome logs
+* [RECORD]    `logs.list`
+* [STRING]    `logs.list.element`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
