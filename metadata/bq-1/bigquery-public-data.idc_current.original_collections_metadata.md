@@ -3,18 +3,16 @@
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
-* [STRING]    `tcia_api_collection_id`
-  - Collection ID as accepted by TCIA APIs
-* [STRING]    `tcia_wiki_collection_id`
-  - Collection ID as on TCIA wiki page
-* [STRING]    `idc_webapp_collection_id`
+* [STRING]    `collection_name`
+  - Collection name as used externally by IDC webapp
+* [STRING]    `collection_id`
   - Collection ID as used internally by IDC webapp
 * [STRING]    `Program`
-  - TCIA assigned program of this collection
+  - Program to which this collection belongs
 * [STRING]    `Status`
-  - TCIA assigned status: Ongoing or Complete
+  - Collection status: Ongoing or Complete
 * [DATE]      `Updated`
-  - Most recent update reported by TCIA
+  - Date of ost recent update
 * [STRING]    `Access`
   - Limited or Public
 * [STRING]    `ImageTypes`
@@ -26,7 +24,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `URL`
   - URL of collection information page
 * [STRING]    `CancerType`
-  - TCIA assigned cancer type
+  - Cancer type of this collection 
 * [STRING]    `SupportingData`
   - Type(s) of addional available data
 * [STRING]    `Species`
@@ -38,7 +36,13 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `licenses.license_long_name`
 * [STRING]    `licenses.license_short_name`
 * [STRING]    `Description`
-  - TCIA description of collection (HTML format)
+  - Description of collection (HTML format)
+* [STRING]    `idc_webapp_collection_id`
+  - DEPRECATED:Collection ID as used internally by IDC webapp
+* [STRING]    `tcia_api_collection_id`
+  - DEPRECATED: Collection ID as accepted by TCIA APIs
+* [STRING]    `tcia_wiki_collection_id`
+  - DEPRECATED: Collection ID as on TCIA wiki page
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

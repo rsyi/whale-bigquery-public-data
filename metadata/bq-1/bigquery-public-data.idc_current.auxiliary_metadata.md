@@ -3,12 +3,10 @@
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
-* [STRING]    `tcia_api_collection_id`
-  - Collection ID as accepted by TCIA APIs
-* [STRING]    `idc_webapp_collection_id`
-  - Collection ID as accepted by the IDC webapp
+* [STRING]    `collection_name`
+  - DEPRECATED: Collection name as used externally by IDC webapp
 * [STRING]    `collection_id`
-  - Collection ID as accepted by the IDC webapp. Duplicate of idc_webapp_collection_id
+  - Collection ID as used internally by IDC webapp and accepted by the IDC API
 * [DATETIME]  `collection_timestamp`
   - Revision timestamp
 * [STRING]    `collection_hash`
@@ -45,6 +43,10 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - DICOM series containing this instance
 * [STRING]    `series_uuid`
   - UUID of this version of the series containing this instance
+* [STRING]    `series_gcs_url`
+  - URL of the Google Cloud Storage (GCS) folder of the series containing this instance
+* [STRING]    `series_aws_url`
+  - URL of the Amazon Web Services (AWS) folder of the series containing this instance
 * [STRING]    `source_doi`
   - The DOI of a wiki page that describes the original collection or analysis result that includes this instance
 * [STRING]    `source_url`
@@ -66,9 +68,9 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `instance_uuid`
   - UUID of this version of this instance
 * [STRING]    `gcs_url`
-  - URL to this object containing the current version of this instance in Google Cloud Storage (GCS)
+  - URL of the Google Cloud Storage (GCS) object containing the current version of this instance
 * [STRING]    `aws_url`
-  - URL to this object containing the current version of this instance in Amazon Web Services (AWS)
+  - URL to the Amazon Web Services (AWS) object containing the current version of this instance
 * [INTEGER]   `instance_size`
   - Size in bytes of this version of this instance
 * [STRING]    `instance_hash`
@@ -85,6 +87,10 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - Long name of license of this analysis result
 * [STRING]    `license_short_name`
   - Short name of license of this analysis result
+* [STRING]    `tcia_api_collection_id`
+  - DEPRECATED: Collection name as used externally by IDC webapp
+* [STRING]    `idc_webapp_collection_id`
+  - DEPRECATED: Collection ID as used internally by IDC webapp and accepted by the IDC API
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

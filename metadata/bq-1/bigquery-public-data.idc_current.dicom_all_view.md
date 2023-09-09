@@ -3,22 +3,8 @@
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
-* [STRING]    `tcia_tumorLocation`
-  - TCIA assigned tumor location of the collection containing this instance
-* [STRING]    `collection_tumorLocation`
-  - Source assigned tumor location of the collection containing this instance. Duplicate of tcia_tumorLocation
-* [STRING]    `tcia_species`
-  - TCIA assigned species of the collection containing this instance
-* [STRING]    `collection_species`
-  - Source assigned species of the collection containing this instance. Duplicate of tcia_species.
-* [STRING]    `tcia_cancerType`
-  - TCIA assigned cancer type of the collection containing this instance
-* [STRING]    `collection_cancerType`
-  - Source assigned cancer type of the collection containing this instance. Duplicate of tcia_cancerType.
-* [STRING]    `tcia_api_collection_id`
+* [STRING]    `collection_name`
   - The ID of the collection containing this instance as expected by the TCIA API
-* [STRING]    `idc_webapp_collection_id`
-  - The ID of the collection containing this instance as expected by the IDC web app and API.
 * [STRING]    `collection_id`
   - The ID of the collection containing this instance as expected by the IDC web app and API. Duplicate of the idc_webapp_collection_id column.
 * [DATETIME]  `collection_timestamp`
@@ -29,6 +15,12 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - The IDC version in which the collection containing this instance first appeared
 * [INTEGER]   `collection_revised_idc_version`
   - The IDC version in which this version of the collection containing this instance first appeared
+* [STRING]    `collection_tumorLocation`
+  - Source assigned tumor location of the collection containing this instance. Duplicate of tcia_tumorLocation
+* [STRING]    `collection_species`
+  - Source assigned species of the collection containing this instance. Duplicate of tcia_species.
+* [STRING]    `collection_cancerType`
+  - Source assigned cancer type of the collection containing this instance. Duplicate of tcia_cancerType.
 * [STRING]    `access`
   - Collection access status: Public or Limited
 * [STRING]    `PatientID`
@@ -53,6 +45,10 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `SeriesInstanceUID`
 * [STRING]    `crdc_series_uuid`
   - UUID of this version of series containing this instance
+* [STRING]    `series_gcs_url`
+  - URL of the Google Cloud Storage (GCS) folder of the series containing the current version of this instance
+* [STRING]    `series_aws_url`
+  - URL of the Amazon Web Services (AWS) folder of the series containing the current version of this instance
 * [STRING]    `series_hash`
   - md5 hash of the data in the this version of the series containing this instance
 * [INTEGER]   `series_init_idc_version`
@@ -63,9 +59,9 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `crdc_instance_uuid`
   - UUID of this version of this instance
 * [STRING]    `gcs_url`
-  - URL to this object containing the current version of this instance in Google Cloud Storage (GCS)
+  - URL of the Google Cloud Storage (GCS) object containing the current version of this instance
 * [STRING]    `aws_url`
-  - URL to this object containing the current version of this instance in Amazon Web Services (AWS)
+  - URL of the Amazon Web Services (AWS) object containing the current version of this instance
 * [INTEGER]   `instance_size`
   - Size in bytes of this version of this instance
 * [STRING]    `instance_hash`
@@ -84,6 +80,16 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - The long name of the license of the collection that contains this instance
 * [STRING]    `license_short_name`
   - The short name of the license of the collection that contains this instance
+* [STRING]    `tcia_api_collection_id`
+  - The ID of the collection containing this instance as expected by the TCIA API
+* [STRING]    `idc_webapp_collection_id`
+  - The ID of the collection containing this instance as expected by the IDC web app and API.
+* [STRING]    `tcia_tumorLocation`
+  - TCIA assigned tumor location of the collection containing this instance
+* [STRING]    `tcia_species`
+  - TCIA assigned species of the collection containing this instance
+* [STRING]    `tcia_cancerType`
+  - TCIA assigned cancer type of the collection containing this instance
 * [STRING]    `MediaStorageSOPClassUID`
 * [STRING]    `MediaStorageSOPInstanceUID`
 * [STRING]    `TransferSyntaxUID`
@@ -1857,10 +1863,19 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ROIContourSequence.ContourSequence.ContourImageSequence.ReferencedSOPInstanceUID`
 * [STRING]    `ROIContourSequence.ContourSequence.ContourGeometricType`
 * [STRING]    `ROIContourSequence.ContourSequence.NumberOfContourPoints`
+* [STRING]    `ROIContourSequence.ContourSequence.ContourNumber`
 * [STRING]    `ROIContourSequence.ContourSequence.ContourData`
 * [STRING]    `ROIContourSequence.ReferencedROINumber`
 * [RECORD]    `RTROIObservationsSequence`
 * [STRING]    `RTROIObservationsSequence.SpecificCharacterSet`
+* [RECORD]    `RTROIObservationsSequence.AnatomicRegionSequence`
+* [STRING]    `RTROIObservationsSequence.AnatomicRegionSequence.CodeValue`
+* [STRING]    `RTROIObservationsSequence.AnatomicRegionSequence.CodingSchemeDesignator`
+* [STRING]    `RTROIObservationsSequence.AnatomicRegionSequence.CodeMeaning`
+* [RECORD]    `RTROIObservationsSequence.SegmentedPropertyCategoryCodeSequence`
+* [STRING]    `RTROIObservationsSequence.SegmentedPropertyCategoryCodeSequence.CodeValue`
+* [STRING]    `RTROIObservationsSequence.SegmentedPropertyCategoryCodeSequence.CodingSchemeDesignator`
+* [STRING]    `RTROIObservationsSequence.SegmentedPropertyCategoryCodeSequence.CodeMeaning`
 * [STRING]    `RTROIObservationsSequence.ObservationNumber`
 * [STRING]    `RTROIObservationsSequence.ReferencedROINumber`
 * [STRING]    `RTROIObservationsSequence.ROIObservationLabel`
@@ -2190,6 +2205,31 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `Tag_20019000.SoftcopyVOILUTSequence.OtherElements`
 * [STRING]    `Tag_20019000.SoftcopyVOILUTSequence.OtherElements.Tag`
 * [STRING]    `Tag_20019000.SoftcopyVOILUTSequence.OtherElements.Data`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.GraphicLayer`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.BoundingBoxAnnotationUnits`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.AnchorPointAnnotationUnits`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.UnformattedTextValue`
+* [FLOAT]     `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.BoundingBoxTopLeftHandCorner`
+* [FLOAT]     `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.BoundingBoxBottomRightHandCorner`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.BoundingBoxTextHorizontalJustification`
+* [FLOAT]     `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.AnchorPoint`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.AnchorPointVisibility`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.OtherElements`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.OtherElements.Tag`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.OtherElements.Data`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.GraphicAnnotationUnits`
+* [INTEGER]   `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.GraphicDimensions`
+* [INTEGER]   `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.NumberOfGraphicPoints`
+* [FLOAT]     `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.GraphicData`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.OtherElements`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.OtherElements.Tag`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.OtherElements.Data`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.OtherElements`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.OtherElements.Tag`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.OtherElements.Data`
 * [RECORD]    `Tag_20019000.DisplayedAreaSelectionSequence`
 * [INTEGER]   `Tag_20019000.DisplayedAreaSelectionSequence.DisplayedAreaTopLeftHandCorner`
 * [INTEGER]   `Tag_20019000.DisplayedAreaSelectionSequence.DisplayedAreaBottomRightHandCorner`
@@ -2198,6 +2238,9 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `Tag_20019000.DisplayedAreaSelectionSequence.OtherElements`
 * [STRING]    `Tag_20019000.DisplayedAreaSelectionSequence.OtherElements.Tag`
 * [STRING]    `Tag_20019000.DisplayedAreaSelectionSequence.OtherElements.Data`
+* [RECORD]    `Tag_20019000.GraphicLayerSequence`
+* [STRING]    `Tag_20019000.GraphicLayerSequence.GraphicLayer`
+* [STRING]    `Tag_20019000.GraphicLayerSequence.GraphicLayerOrder`
 * [STRING]    `Tag_20019000.ContentLabel`
 * [DATE]      `Tag_20019000.PresentationCreationDate`
 * [TIME]      `Tag_20019000.PresentationCreationTime`
@@ -2343,6 +2386,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `DroppedTags`
 * [STRING]    `DroppedTags.TagName`
 * [STRING]    `DroppedTags.TagReference`
+* [STRING]    `Type`
+* [TIMESTAMP] `LastUpdated`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

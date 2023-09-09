@@ -1,6 +1,6 @@
 # `idc_current.dicom_derived_all` [view]
 `bq-1` | `bigquery-public-data`
-Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
+DEPRECATED: This table will likely be removed in a future IDC version
 
 ## Column details
 * [STRING]    `PatientID`
@@ -22,6 +22,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `crdc_series_uuid`
 * [STRING]    `crdc_instance_uuid`
 * [STRING]    `tcia_tumorLocation`
+* [STRING]    `CancerType`
 * [STRING]    `source_DOI`
 * [STRING]    `tcia_species`
 * [STRING]    `gcs_url`
@@ -64,6 +65,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `has_segmentation`
 * [STRING]    `has_derived`
 * [STRING]    `access`
+* [STRING]    `gcs_bucket`
+* [STRING]    `aws_bucket`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

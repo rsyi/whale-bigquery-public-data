@@ -1780,10 +1780,19 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ROIContourSequence.ContourSequence.ContourImageSequence.ReferencedSOPInstanceUID`
 * [STRING]    `ROIContourSequence.ContourSequence.ContourGeometricType`
 * [STRING]    `ROIContourSequence.ContourSequence.NumberOfContourPoints`
+* [STRING]    `ROIContourSequence.ContourSequence.ContourNumber`
 * [STRING]    `ROIContourSequence.ContourSequence.ContourData`
 * [STRING]    `ROIContourSequence.ReferencedROINumber`
 * [RECORD]    `RTROIObservationsSequence`
 * [STRING]    `RTROIObservationsSequence.SpecificCharacterSet`
+* [RECORD]    `RTROIObservationsSequence.AnatomicRegionSequence`
+* [STRING]    `RTROIObservationsSequence.AnatomicRegionSequence.CodeValue`
+* [STRING]    `RTROIObservationsSequence.AnatomicRegionSequence.CodingSchemeDesignator`
+* [STRING]    `RTROIObservationsSequence.AnatomicRegionSequence.CodeMeaning`
+* [RECORD]    `RTROIObservationsSequence.SegmentedPropertyCategoryCodeSequence`
+* [STRING]    `RTROIObservationsSequence.SegmentedPropertyCategoryCodeSequence.CodeValue`
+* [STRING]    `RTROIObservationsSequence.SegmentedPropertyCategoryCodeSequence.CodingSchemeDesignator`
+* [STRING]    `RTROIObservationsSequence.SegmentedPropertyCategoryCodeSequence.CodeMeaning`
 * [STRING]    `RTROIObservationsSequence.ObservationNumber`
 * [STRING]    `RTROIObservationsSequence.ReferencedROINumber`
 * [STRING]    `RTROIObservationsSequence.ROIObservationLabel`
@@ -2113,6 +2122,31 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `Tag_20019000.SoftcopyVOILUTSequence.OtherElements`
 * [STRING]    `Tag_20019000.SoftcopyVOILUTSequence.OtherElements.Tag`
 * [STRING]    `Tag_20019000.SoftcopyVOILUTSequence.OtherElements.Data`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.GraphicLayer`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.BoundingBoxAnnotationUnits`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.AnchorPointAnnotationUnits`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.UnformattedTextValue`
+* [FLOAT]     `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.BoundingBoxTopLeftHandCorner`
+* [FLOAT]     `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.BoundingBoxBottomRightHandCorner`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.BoundingBoxTextHorizontalJustification`
+* [FLOAT]     `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.AnchorPoint`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.AnchorPointVisibility`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.OtherElements`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.OtherElements.Tag`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.TextObjectSequence.OtherElements.Data`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.GraphicAnnotationUnits`
+* [INTEGER]   `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.GraphicDimensions`
+* [INTEGER]   `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.NumberOfGraphicPoints`
+* [FLOAT]     `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.GraphicData`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.OtherElements`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.OtherElements.Tag`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.GraphicObjectSequence.OtherElements.Data`
+* [RECORD]    `Tag_20019000.GraphicAnnotationSequence.OtherElements`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.OtherElements.Tag`
+* [STRING]    `Tag_20019000.GraphicAnnotationSequence.OtherElements.Data`
 * [RECORD]    `Tag_20019000.DisplayedAreaSelectionSequence`
 * [INTEGER]   `Tag_20019000.DisplayedAreaSelectionSequence.DisplayedAreaTopLeftHandCorner`
 * [INTEGER]   `Tag_20019000.DisplayedAreaSelectionSequence.DisplayedAreaBottomRightHandCorner`
@@ -2121,6 +2155,9 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `Tag_20019000.DisplayedAreaSelectionSequence.OtherElements`
 * [STRING]    `Tag_20019000.DisplayedAreaSelectionSequence.OtherElements.Tag`
 * [STRING]    `Tag_20019000.DisplayedAreaSelectionSequence.OtherElements.Data`
+* [RECORD]    `Tag_20019000.GraphicLayerSequence`
+* [STRING]    `Tag_20019000.GraphicLayerSequence.GraphicLayer`
+* [STRING]    `Tag_20019000.GraphicLayerSequence.GraphicLayerOrder`
 * [STRING]    `Tag_20019000.ContentLabel`
 * [DATE]      `Tag_20019000.PresentationCreationDate`
 * [TIME]      `Tag_20019000.PresentationCreationTime`
@@ -2266,6 +2303,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [RECORD]    `DroppedTags`
 * [STRING]    `DroppedTags.TagName`
 * [STRING]    `DroppedTags.TagReference`
+* [STRING]    `Type`
+* [TIMESTAMP] `LastUpdated`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
