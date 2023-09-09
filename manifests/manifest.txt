@@ -730,6 +730,7 @@ bq-1/bigquery-public-data.crypto_kusama.accountsactive2125
 bq-1/bigquery-public-data.crypto_kusama.accountsactive2129
 bq-1/bigquery-public-data.crypto_kusama.accountsactive2222
 bq-1/bigquery-public-data.crypto_kusama.accountsactive2236
+bq-1/bigquery-public-data.crypto_kusama.accountsactive2241
 bq-1/bigquery-public-data.crypto_kusama.accountsassetreaped0
 bq-1/bigquery-public-data.crypto_kusama.accountsassetreaped1000
 bq-1/bigquery-public-data.crypto_kusama.accountsassetreaped1001
@@ -820,6 +821,7 @@ bq-1/bigquery-public-data.crypto_kusama.accountsnew2125
 bq-1/bigquery-public-data.crypto_kusama.accountsnew2129
 bq-1/bigquery-public-data.crypto_kusama.accountsnew2222
 bq-1/bigquery-public-data.crypto_kusama.accountsnew2236
+bq-1/bigquery-public-data.crypto_kusama.accountsnew2241
 bq-1/bigquery-public-data.crypto_kusama.accountspassive0
 bq-1/bigquery-public-data.crypto_kusama.accountspassive1000
 bq-1/bigquery-public-data.crypto_kusama.accountspassive1001
@@ -863,6 +865,7 @@ bq-1/bigquery-public-data.crypto_kusama.accountspassive2125
 bq-1/bigquery-public-data.crypto_kusama.accountspassive2129
 bq-1/bigquery-public-data.crypto_kusama.accountspassive2222
 bq-1/bigquery-public-data.crypto_kusama.accountspassive2236
+bq-1/bigquery-public-data.crypto_kusama.accountspassive2241
 bq-1/bigquery-public-data.crypto_kusama.accountsreaped0
 bq-1/bigquery-public-data.crypto_kusama.accountsreaped1000
 bq-1/bigquery-public-data.crypto_kusama.accountsreaped1001
@@ -906,6 +909,7 @@ bq-1/bigquery-public-data.crypto_kusama.accountsreaped2125
 bq-1/bigquery-public-data.crypto_kusama.accountsreaped2129
 bq-1/bigquery-public-data.crypto_kusama.accountsreaped2222
 bq-1/bigquery-public-data.crypto_kusama.accountsreaped2236
+bq-1/bigquery-public-data.crypto_kusama.accountsreaped2241
 bq-1/bigquery-public-data.crypto_kusama.assets
 bq-1/bigquery-public-data.crypto_kusama.balances0
 bq-1/bigquery-public-data.crypto_kusama.balances1000
@@ -1414,6 +1418,7 @@ bq-1/bigquery-public-data.crypto_polkadot.accountsactive2046
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2048
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2051
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2052
+bq-1/bigquery-public-data.crypto_polkadot.accountsactive2056
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2058
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2086
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2091
@@ -1483,6 +1488,7 @@ bq-1/bigquery-public-data.crypto_polkadot.accountsnew2046
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2048
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2051
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2052
+bq-1/bigquery-public-data.crypto_polkadot.accountsnew2056
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2058
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2086
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2091
@@ -1518,6 +1524,7 @@ bq-1/bigquery-public-data.crypto_polkadot.accountspassive2046
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2048
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2051
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2052
+bq-1/bigquery-public-data.crypto_polkadot.accountspassive2056
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2058
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2086
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2091
@@ -1553,6 +1560,7 @@ bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2046
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2048
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2051
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2052
+bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2056
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2058
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2086
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2091
