@@ -4216,7 +4216,7 @@ bq-1/bigquery-public-data.idc_current.dicom_metadata_curated
 bq-1/bigquery-public-data.idc_current.dicom_metadata_curated_series_level
 bq-1/bigquery-public-data.idc_current.dicom_metadata_curated_series_level_view
 bq-1/bigquery-public-data.idc_current.dicom_metadata_curated_view
-bq-1/bigquery-public-data.idc_current.dicom_pivot_v14
+bq-1/bigquery-public-data.idc_current.dicom_pivot
 bq-1/bigquery-public-data.idc_current.measurement_groups
 bq-1/bigquery-public-data.idc_current.measurement_groups_view
 bq-1/bigquery-public-data.idc_current.mutable_metadata
