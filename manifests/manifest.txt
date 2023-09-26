@@ -21,6 +21,7 @@ bq-1/bigquery-public-data.blackhole_database.sdss_dr7
 bq-1/bigquery-public-data.blockchain_analytics_ethereum_mainnet_us.accounts
 bq-1/bigquery-public-data.blockchain_analytics_ethereum_mainnet_us.accounts_state
 bq-1/bigquery-public-data.blockchain_analytics_ethereum_mainnet_us.blocks
+bq-1/bigquery-public-data.blockchain_analytics_ethereum_mainnet_us.decoded_events
 bq-1/bigquery-public-data.blockchain_analytics_ethereum_mainnet_us.logs
 bq-1/bigquery-public-data.blockchain_analytics_ethereum_mainnet_us.receipts
 bq-1/bigquery-public-data.blockchain_analytics_ethereum_mainnet_us.token_transfers
@@ -3923,6 +3924,7 @@ bq-1/bigquery-public-data.goog_blockchain_avalanche_contract_chain_us.transactio
 bq-1/bigquery-public-data.goog_blockchain_ethereum_mainnet_us.accounts
 bq-1/bigquery-public-data.goog_blockchain_ethereum_mainnet_us.accounts_state
 bq-1/bigquery-public-data.goog_blockchain_ethereum_mainnet_us.blocks
+bq-1/bigquery-public-data.goog_blockchain_ethereum_mainnet_us.decoded_events
 bq-1/bigquery-public-data.goog_blockchain_ethereum_mainnet_us.logs
 bq-1/bigquery-public-data.goog_blockchain_ethereum_mainnet_us.receipts
 bq-1/bigquery-public-data.goog_blockchain_ethereum_mainnet_us.token_transfers
