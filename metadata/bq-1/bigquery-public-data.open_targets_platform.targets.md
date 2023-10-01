@@ -121,6 +121,7 @@
 * [RECORD]    `chemicalProbes`
 * [RECORD]    `chemicalProbes.list`
 * [RECORD]    `chemicalProbes.list.element`
+* [STRING]    `chemicalProbes.list.element.control`
 * [STRING]    `chemicalProbes.list.element.drugId`
 * [STRING]    `chemicalProbes.list.element.id`
 * [BOOLEAN]   `chemicalProbes.list.element.isHighQuality`
@@ -130,10 +131,10 @@
 * [RECORD]    `chemicalProbes.list.element.origin`
 * [RECORD]    `chemicalProbes.list.element.origin.list`
 * [STRING]    `chemicalProbes.list.element.origin.list.element`
-* [FLOAT]     `chemicalProbes.list.element.probeMinerScore`
-* [FLOAT]     `chemicalProbes.list.element.probesDrugsScore`
-* [FLOAT]     `chemicalProbes.list.element.scoreInCells`
-* [FLOAT]     `chemicalProbes.list.element.scoreInOrganisms`
+* [INTEGER]   `chemicalProbes.list.element.probeMinerScore`
+* [INTEGER]   `chemicalProbes.list.element.probesDrugsScore`
+* [INTEGER]   `chemicalProbes.list.element.scoreInCells`
+* [INTEGER]   `chemicalProbes.list.element.scoreInOrganisms`
 * [STRING]    `chemicalProbes.list.element.targetFromSourceId`
 * [RECORD]    `chemicalProbes.list.element.urls`
 * [RECORD]    `chemicalProbes.list.element.urls.list`

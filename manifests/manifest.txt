@@ -7045,6 +7045,7 @@ bq-1/bigquery-public-data.open_targets_platform.ot_release
 bq-1/bigquery-public-data.open_targets_platform.reactome
 bq-1/bigquery-public-data.open_targets_platform.significantAdverseDrugReactions
 bq-1/bigquery-public-data.open_targets_platform.targetEssentiality
+bq-1/bigquery-public-data.open_targets_platform.targetPrioritisation
 bq-1/bigquery-public-data.open_targets_platform.targets
 bq-1/bigquery-public-data.open_targets_platform.targetsPriorisation
 bq-1/bigquery-public-data.openaq.global_air_quality
