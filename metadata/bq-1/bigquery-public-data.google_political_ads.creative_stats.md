@@ -55,10 +55,6 @@ This table contains the information for election ads that have appeared on Googl
   - Lower bound of the amount in BGN spent by the advertiser on the election ad.
 * [INTEGER]   `spend_range_max_bgn`
   - Upper bound of the amount in BGN spent by the advertiser on the election ad.
-* [INTEGER]   `spend_range_min_hrk`
-  - Lower bound of the amount in HRK spent by the advertiser on the election ad.
-* [INTEGER]   `spend_range_max_hrk`
-  - Upper bound of the amount in HRK spent by the advertiser on the election ad.
 * [INTEGER]   `spend_range_min_czk`
   - Lower bound of the amount in CZK spent by the advertiser on the election ad.
 * [INTEGER]   `spend_range_max_czk`
@@ -91,10 +87,34 @@ This table contains the information for election ads that have appeared on Googl
   - Lower bound of the amount in NZD spent by the advertiser on the election ad.
 * [INTEGER]   `spend_range_max_nzd`
   - Upper bound of the amount in NZD spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_min_ils`
+  - Lower bound of the amount in ILS spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_max_ils`
+  - Upper bound of the amount in ILS spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_min_aud`
+  - Lower bound of the amount in AUD spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_max_aud`
+  - Upper bound of the amount in AUD spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_min_twd`
+  - Lower bound of the amount in TWD spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_max_twd`
+  - Upper bound of the amount in TWD spent by the advertiser on the election ad.
 * [INTEGER]   `spend_range_min_brl`
   - Lower bound of the amount in BRL spent by the advertiser on the election ad.
 * [INTEGER]   `spend_range_max_brl`
   - Upper bound of the amount in BRL spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_min_ars`
+  - Lower bound of the amount in ARS spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_max_ars`
+  - Upper bound of the amount in ARS spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_min_zar`
+  - Lower bound of the amount in ZAR spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_max_zar`
+  - Upper bound of the amount in ZAR spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_min_clp`
+  - Lower bound of the amount in CLP spent by the advertiser on the election ad.
+* [INTEGER]   `spend_range_max_clp`
+  - Upper bound of the amount in CLP spent by the advertiser on the election ad.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
