@@ -5,6 +5,8 @@ Certain California and New Zealand advertisers are required to submit additional
 ## Column details
 * [STRING]    `advertiser_id`
   - ID of the advertiser who purchased the ad.
+* [STRING]    `region`
+  - Advertiser region.
 * [STRING]    `advertiser_declared_name`
   - The advertiser's committee declared name.
 * [STRING]    `advertiser_declared_regulatory_id`
