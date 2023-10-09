@@ -3,9 +3,9 @@
 
 ## Column details
 * [STRING]    `region_name`
+* [DATE]      `refresh_date`
 * [INTEGER]   `score`
 * [INTEGER]   `rank`
-* [DATE]      `refresh_date`
 * [STRING]    `country_name`
 * [STRING]    `country_code`
 * [STRING]    `region_code`
