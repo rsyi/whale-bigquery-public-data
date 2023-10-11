@@ -4,6 +4,7 @@
 ## Column details
 * [STRING]    `address_pubkey`
 * [STRING]    `trace_id`
+* [STRING]    `t_index`
 * [INTEGER]   `block_number`
 * [STRING]    `consumers`
 * [STRING]    `providers`
@@ -11,12 +12,12 @@
 * [STRING]    `prev_consumers`
 * [STRING]    `prev_providers`
 * [STRING]    `prev_sufficients`
-* [STRING]    `consumers_change`
-* [STRING]    `providers_change`
-* [STRING]    `sufficients_change`
-* [INTEGER]   `prev_bn_on_consumers_change`
-* [INTEGER]   `prev_bn_on_providers_change`
-* [INTEGER]   `prev_bn_on_sufficients_change`
+* [INTEGER]   `consumers_change`
+* [INTEGER]   `providers_change`
+* [INTEGER]   `sufficients_change`
+* [STRING]    `prev_consumers_change`
+* [STRING]    `prev_providers_change`
+* [STRING]    `prev_sufficients_change`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
