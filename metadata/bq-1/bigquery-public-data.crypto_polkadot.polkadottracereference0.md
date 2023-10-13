@@ -10,9 +10,11 @@
 * [JSON]      `pv`
 * [STRING]    `trace_id`
 * [INTEGER]   `block_number`
+* [STRING]    `extrinsic_id`
 * [STRING]    `consumers`
 * [STRING]    `providers`
 * [STRING]    `sufficients`
+* [STRING]    `flags`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
