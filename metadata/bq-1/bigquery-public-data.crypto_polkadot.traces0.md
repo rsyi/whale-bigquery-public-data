@@ -43,6 +43,8 @@
 * [FLOAT]     `total_issuance_usd`
 * [STRING]    `total_issuance_raw`
 * [FLOAT]     `price_usd`
+* [STRING]    `extrinsic_id`
+* [STRING]    `flags`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
