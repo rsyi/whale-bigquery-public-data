@@ -7,6 +7,8 @@
 * [STRING]    `trace_id`
 * [STRING]    `extrinsic_id`
 * [STRING]    `extrinsic_hash`
+* [STRING]    `ext_section`
+* [STRING]    `ext_method`
 * [STRING]    `t_index`
 * [INTEGER]   `block_number`
 * [FLOAT]     `reserved`
