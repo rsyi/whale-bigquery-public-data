@@ -2,15 +2,15 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
+* [INTEGER]   `rank`
 * [STRING]    `country_code`
 * [STRING]    `region_code`
 * [STRING]    `term`
-* [INTEGER]   `score`
-* [INTEGER]   `rank`
-* [STRING]    `country_name`
 * [DATE]      `week`
-* [DATE]      `refresh_date`
+* [INTEGER]   `score`
+* [STRING]    `country_name`
 * [STRING]    `region_name`
+* [DATE]      `refresh_date`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
