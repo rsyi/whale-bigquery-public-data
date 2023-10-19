@@ -1668,6 +1668,7 @@ bq-1/bigquery-public-data.crypto_polkadot.calls2101
 bq-1/bigquery-public-data.crypto_polkadot.calls2104
 bq-1/bigquery-public-data.crypto_polkadot.calls3333
 bq-1/bigquery-public-data.crypto_polkadot.chains
+bq-1/bigquery-public-data.crypto_polkadot.clustertracereference0
 bq-1/bigquery-public-data.crypto_polkadot.events0
 bq-1/bigquery-public-data.crypto_polkadot.events1000
 bq-1/bigquery-public-data.crypto_polkadot.events1001
@@ -1793,6 +1794,7 @@ bq-1/bigquery-public-data.crypto_polkadot.logs2104
 bq-1/bigquery-public-data.crypto_polkadot.logs2105
 bq-1/bigquery-public-data.crypto_polkadot.logs3333
 bq-1/bigquery-public-data.crypto_polkadot.polkadotaccountpreference0
+bq-1/bigquery-public-data.crypto_polkadot.reference0
 bq-1/bigquery-public-data.crypto_polkadot.reservereference0
 bq-1/bigquery-public-data.crypto_polkadot.specversions0
 bq-1/bigquery-public-data.crypto_polkadot.specversions1000
@@ -4034,6 +4036,7 @@ bq-1/bigquery-public-data.google_ads_geo_mapping_us_west4.ads_geo_region_mapping
 bq-1/bigquery-public-data.google_ads_geo_mapping_us_west4.ads_geo_subcontinent_mapping
 bq-1/bigquery-public-data.google_ads_transparency_center.creative_stats
 bq-1/bigquery-public-data.google_ads_transparency_center.removed_creative_stats
+bq-1/bigquery-public-data.google_ads_transparency_center.sqlp-temp-donotremove-1697677111731969731-gf9e6_Wu
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_1
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_2

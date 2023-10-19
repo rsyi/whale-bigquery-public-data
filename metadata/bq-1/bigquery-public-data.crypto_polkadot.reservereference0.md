@@ -11,6 +11,7 @@
 * [STRING]    `ext_method`
 * [STRING]    `t_index`
 * [INTEGER]   `block_number`
+* [TIMESTAMP] `ts`
 * [FLOAT]     `reserved`
 * [FLOAT]     `frozen`
 * [FLOAT]     `prev_reserved`

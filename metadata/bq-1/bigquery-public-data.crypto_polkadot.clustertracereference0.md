@@ -1,4 +1,4 @@
-# `crypto_polkadot.tracereference0` [view]
+# `crypto_polkadot.clustertracereference0`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
