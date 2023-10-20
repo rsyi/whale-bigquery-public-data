@@ -14,12 +14,16 @@
 * [TIMESTAMP] `ts`
 * [FLOAT]     `reserved`
 * [FLOAT]     `frozen`
+* [FLOAT]     `free`
 * [FLOAT]     `prev_reserved`
 * [FLOAT]     `prev_frozen`
+* [FLOAT]     `prev_free`
 * [INTEGER]   `reserved_change`
 * [INTEGER]   `frozen_change`
+* [INTEGER]   `free_change`
 * [STRING]    `prev_reserved_change`
 * [STRING]    `prev_frozen_change`
+* [STRING]    `prev_free_change`
 * [STRING]    `change_type`
 
 -------------------------------------------------------------------------------
