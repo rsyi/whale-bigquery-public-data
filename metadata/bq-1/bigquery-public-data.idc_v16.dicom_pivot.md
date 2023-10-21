@@ -30,6 +30,7 @@
 * [INTEGER]   `instance_size`
 * [STRING]    `analysis_results_id`
 * [INTEGER]   `SamplesPerPixel`
+* [STRING]    `CancerType`
 * [NUMERIC]   `Apparent_Diffusion_Coefficient`
 * [STRING]    `Internal_structure`
 * [STRING]    `Sphericity`

@@ -1834,6 +1834,7 @@ bq-1/bigquery-public-data.crypto_polkadot.specversions2101
 bq-1/bigquery-public-data.crypto_polkadot.specversions2104
 bq-1/bigquery-public-data.crypto_polkadot.specversions2105
 bq-1/bigquery-public-data.crypto_polkadot.specversions3333
+bq-1/bigquery-public-data.crypto_polkadot.staking
 bq-1/bigquery-public-data.crypto_polkadot.tracereference0
 bq-1/bigquery-public-data.crypto_polkadot.traces0
 bq-1/bigquery-public-data.crypto_polkadot.transfers0
