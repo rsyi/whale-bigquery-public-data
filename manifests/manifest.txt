@@ -1876,6 +1876,8 @@ bq-1/bigquery-public-data.crypto_polkadot.transfers2101
 bq-1/bigquery-public-data.crypto_polkadot.transfers2104
 bq-1/bigquery-public-data.crypto_polkadot.transfers2105
 bq-1/bigquery-public-data.crypto_polkadot.transfers3333
+bq-1/bigquery-public-data.crypto_polkadot.validatormap0
+bq-1/bigquery-public-data.crypto_polkadot.validators0
 bq-1/bigquery-public-data.crypto_polkadot.xcm
 bq-1/bigquery-public-data.crypto_polkadot.xcmassets
 bq-1/bigquery-public-data.crypto_polkadot.xcmtransfers
