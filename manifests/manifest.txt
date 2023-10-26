@@ -1755,6 +1755,7 @@ bq-1/bigquery-public-data.crypto_polkadot.extrinsics2101
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics2104
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics2105
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics3333
+bq-1/bigquery-public-data.crypto_polkadot.flatvalidators0
 bq-1/bigquery-public-data.crypto_polkadot.logs0
 bq-1/bigquery-public-data.crypto_polkadot.logs1000
 bq-1/bigquery-public-data.crypto_polkadot.logs1001
