@@ -5,8 +5,11 @@
 * [STRING]    `validator`
 * [INTEGER]   `era`
 * [TIMESTAMP] `ts`
-* [STRING]    `nominators`
+* [FLOAT]     `validator_total`
+* [FLOAT]     `validator_own`
+* [FLOAT]     `validator_commission`
 * [INTEGER]   `nominatorCnt`
+* [STRING]    `nominators`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
