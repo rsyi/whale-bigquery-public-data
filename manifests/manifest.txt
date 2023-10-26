@@ -1889,6 +1889,13 @@ bq-1/bigquery-public-data.crypto_polygon.token_transfers
 bq-1/bigquery-public-data.crypto_polygon.tokens
 bq-1/bigquery-public-data.crypto_polygon.traces
 bq-1/bigquery-public-data.crypto_polygon.transactions
+bq-1/bigquery-public-data.crypto_solana_mainnet_us.Accounts
+bq-1/bigquery-public-data.crypto_solana_mainnet_us.Block Rewards
+bq-1/bigquery-public-data.crypto_solana_mainnet_us.Blocks
+bq-1/bigquery-public-data.crypto_solana_mainnet_us.Instructions
+bq-1/bigquery-public-data.crypto_solana_mainnet_us.Token Transfers
+bq-1/bigquery-public-data.crypto_solana_mainnet_us.Tokens
+bq-1/bigquery-public-data.crypto_solana_mainnet_us.Transactions
 bq-1/bigquery-public-data.crypto_tezos.activate_account_operations
 bq-1/bigquery-public-data.crypto_tezos.balance_updates
 bq-1/bigquery-public-data.crypto_tezos.ballot_operations
