@@ -15,6 +15,12 @@
 * [FLOAT]     `validator_total`
 * [FLOAT]     `validator_own`
 * [FLOAT]     `validator_commission`
+* [FLOAT]     `validator_reward_shares`
+* [INTEGER]   `validator_reward_points`
+* [FLOAT]     `validator_staking_rewards`
+* [FLOAT]     `total_staked`
+* [INTEGER]   `total_reward_points`
+* [FLOAT]     `total_staking_rewards`
 * [JSON]      `targets`
 * [JSON]      `pv`
 
