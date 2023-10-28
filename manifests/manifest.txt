@@ -1358,6 +1358,7 @@ bq-1/bigquery-public-data.crypto_near_mainnet_us.receipts
 bq-1/bigquery-public-data.crypto_near_mainnet_us.transactions
 bq-1/bigquery-public-data.crypto_polkadot. nominators0
 bq-1/bigquery-public-data.crypto_polkadot.AAA_tableschema
+bq-1/bigquery-public-data.crypto_polkadot.DAU
 bq-1/bigquery-public-data.crypto_polkadot.MAU
 bq-1/bigquery-public-data.crypto_polkadot.accountreference0
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive0
@@ -1672,6 +1673,7 @@ bq-1/bigquery-public-data.crypto_polkadot.calls3333
 bq-1/bigquery-public-data.crypto_polkadot.chain
 bq-1/bigquery-public-data.crypto_polkadot.chains
 bq-1/bigquery-public-data.crypto_polkadot.clustertracereference0
+bq-1/bigquery-public-data.crypto_polkadot.daily_nominators0
 bq-1/bigquery-public-data.crypto_polkadot.events0
 bq-1/bigquery-public-data.crypto_polkadot.events1000
 bq-1/bigquery-public-data.crypto_polkadot.events1001
