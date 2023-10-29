@@ -1360,6 +1360,7 @@ bq-1/bigquery-public-data.crypto_polkadot. nominators0
 bq-1/bigquery-public-data.crypto_polkadot.AAA_tableschema
 bq-1/bigquery-public-data.crypto_polkadot.DAU
 bq-1/bigquery-public-data.crypto_polkadot.MAU
+bq-1/bigquery-public-data.crypto_polkadot.MAUL2
 bq-1/bigquery-public-data.crypto_polkadot.accountreference0
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive0
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive1000
