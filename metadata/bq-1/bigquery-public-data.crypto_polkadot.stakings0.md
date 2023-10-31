@@ -21,6 +21,14 @@
 * [FLOAT]     `total_staked`
 * [INTEGER]   `total_reward_points`
 * [FLOAT]     `total_staking_rewards`
+* [INTEGER]   `nominationpools_id`
+* [FLOAT]     `nominationpools_total`
+* [INTEGER]   `nominationpools_member_cnt`
+* [FLOAT]     `nominationpools_commission`
+* [JSON]      `nominationpools_rewardpools`
+* [FLOAT]     `member_bonded`
+* [FLOAT]     `member_unbonded`
+* [FLOAT]     `member_share`
 * [JSON]      `targets`
 * [JSON]      `pv`
 
