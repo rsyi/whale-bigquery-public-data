@@ -1347,6 +1347,7 @@ bq-1/bigquery-public-data.crypto_litecoin.inputs
 bq-1/bigquery-public-data.crypto_litecoin.outputs
 bq-1/bigquery-public-data.crypto_litecoin.transactions
 bq-1/bigquery-public-data.crypto_near_mainnet_us.account_changes
+bq-1/bigquery-public-data.crypto_near_mainnet_us.accounts
 bq-1/bigquery-public-data.crypto_near_mainnet_us.blocks
 bq-1/bigquery-public-data.crypto_near_mainnet_us.chunks
 bq-1/bigquery-public-data.crypto_near_mainnet_us.execution_outcomes
