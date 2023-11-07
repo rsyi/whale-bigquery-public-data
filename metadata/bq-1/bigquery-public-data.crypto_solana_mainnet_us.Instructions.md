@@ -19,7 +19,7 @@
 * [STRING]    `data`
   - The instruction's raw data. Only present if the data source did not have a parser for the program
 * [STRING]    `parsed`
-  - The instruction's parsed data. Only present if the data source had a parser for the program
+  - The instruction's parsed info. Only present if the data source had a parser for the program, and the data could not be deserialized from the JSON string.
 * [STRING]    `program`
   - The associated program that executes the instruction
 * [STRING]    `program_id`
@@ -27,6 +27,7 @@
 * [STRING]    `instruction_type`
   - The type of the instruction
 * [RECORD]    `params`
+  - The instruction's parsed info, deserialized from the JSON string.
 * [STRING]    `params.key`
   - The identifier of the instruction parameter
 * [STRING]    `params.value`
