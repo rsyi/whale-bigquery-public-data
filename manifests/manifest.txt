@@ -4055,6 +4055,7 @@ bq-1/bigquery-public-data.google_ads_geo_mapping_us_west4.ads_geo_region_mapping
 bq-1/bigquery-public-data.google_ads_geo_mapping_us_west4.ads_geo_subcontinent_mapping
 bq-1/bigquery-public-data.google_ads_transparency_center.creative_stats
 bq-1/bigquery-public-data.google_ads_transparency_center.removed_creative_stats
+bq-1/bigquery-public-data.google_ads_transparency_center.sqlp-temp-donotremove-1699318772071305364-eQXlsHAv
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_1
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_2
