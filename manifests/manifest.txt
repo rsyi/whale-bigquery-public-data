@@ -1354,8 +1354,7 @@ bq-1/bigquery-public-data.crypto_near_mainnet_us.execution_outcomes
 bq-1/bigquery-public-data.crypto_near_mainnet_us.near_social_transactions
 bq-1/bigquery-public-data.crypto_near_mainnet_us.receipt_actions
 bq-1/bigquery-public-data.crypto_near_mainnet_us.receipt_details
-bq-1/bigquery-public-data.crypto_near_mainnet_us.receipt_origin
-bq-1/bigquery-public-data.crypto_near_mainnet_us.receipts
+bq-1/bigquery-public-data.crypto_near_mainnet_us.receipt_origin_transaction
 bq-1/bigquery-public-data.crypto_near_mainnet_us.transactions
 bq-1/bigquery-public-data.crypto_polkadot.AAA_tableschema
 bq-1/bigquery-public-data.crypto_polkadot.DAU
