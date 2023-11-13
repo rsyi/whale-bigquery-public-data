@@ -776,12 +776,6 @@ bq-1/bigquery-public-data.crypto_kusama.accountsassetreaped2125
 bq-1/bigquery-public-data.crypto_kusama.accountsassetreaped2129
 bq-1/bigquery-public-data.crypto_kusama.accountsassetreaped2222
 bq-1/bigquery-public-data.crypto_kusama.accountsassetreaped2236
-bq-1/bigquery-public-data.crypto_kusama.accountsevmactive2007
-bq-1/bigquery-public-data.crypto_kusama.accountsevmactive2023
-bq-1/bigquery-public-data.crypto_kusama.accountsevmactive2129
-bq-1/bigquery-public-data.crypto_kusama.accountsevmpassive2007
-bq-1/bigquery-public-data.crypto_kusama.accountsevmpassive2023
-bq-1/bigquery-public-data.crypto_kusama.accountsevmpassive2129
 bq-1/bigquery-public-data.crypto_kusama.accountsnew0
 bq-1/bigquery-public-data.crypto_kusama.accountsnew1000
 bq-1/bigquery-public-data.crypto_kusama.accountsnew1001
@@ -1428,9 +1422,6 @@ bq-1/bigquery-public-data.crypto_polkadot.accountsassetreaped2091
 bq-1/bigquery-public-data.crypto_polkadot.accountsassetreaped2093
 bq-1/bigquery-public-data.crypto_polkadot.accountsassetreaped2094
 bq-1/bigquery-public-data.crypto_polkadot.accountsassetreaped2101
-bq-1/bigquery-public-data.crypto_polkadot.accountsevmpassive2002
-bq-1/bigquery-public-data.crypto_polkadot.accountsevmpassive2004
-bq-1/bigquery-public-data.crypto_polkadot.accountsevmpassive2006
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew0
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew1000
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew1001
