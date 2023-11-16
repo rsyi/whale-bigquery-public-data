@@ -15,6 +15,7 @@ Tracks the transaction that originated the receipt
   - An unique DATA receipt identifier
 * [STRING]    `originated_from_transaction_hash`
   - The transaction hash that originated the receipt
+* [TIMESTAMP] `_record_last_updated_utc`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
