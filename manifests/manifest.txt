@@ -1340,9 +1340,14 @@ bq-1/bigquery-public-data.crypto_litecoin.blocks
 bq-1/bigquery-public-data.crypto_litecoin.inputs
 bq-1/bigquery-public-data.crypto_litecoin.outputs
 bq-1/bigquery-public-data.crypto_litecoin.transactions
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_1347e59e6e94403bbba945f999e28666
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_143a303235f04ccdae11c5183c5b1312
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_1b6f97a8d6784daaac1cc1d14d9e7f7e
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_22c538fc8fe14bb0a7ddd47a9fba759c
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_26b2a222438b497b947bf975f2399625
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_33a43f0c6b6942e8bb4fe0a5aa294003
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_35eb36c274294e5e9ce27e9d86a27569
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_37384eabfcde4278b53cc5e98697638e
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_56c567cbcea74e2c855dff82e2b931bd
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_5df6260fa747414a86ffb83f160ae54c
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_67f5bae147c548d4836af0ad93c6e9e8
@@ -1351,6 +1356,7 @@ bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_7b91d673bd94804bc25875b015
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_7e0f08bc7215494e8e913b49212311d1
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_80a27ed1e054f7c8d54f19e053bf53a
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_b9d95490b69e41828b3b05250813999a
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_caa833e3cd30401a9513eea304445f80
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_cdd58d9b9f9f48b7acc80c05743477b3
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_cf53b3f40b624f18ad87e3b1cb185cd9
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_eaf1fc89bf674dab93543605d2cad288
