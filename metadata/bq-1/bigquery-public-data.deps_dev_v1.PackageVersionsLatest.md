@@ -20,6 +20,9 @@ This view contains the most recent snapshot in the PackageVersions table.
 * [RECORD]    `Hashes`
 * [STRING]    `Hashes.Type`
 * [STRING]    `Hashes.Hash`
+* [BOOLEAN]   `DependenciesProcessed`
+* [BOOLEAN]   `DependencyError`
+* [TIMESTAMP] `UpstreamPublishedAt`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
