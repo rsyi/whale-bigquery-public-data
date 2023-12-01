@@ -14,7 +14,7 @@
 * [FLOAT]     `mouseOrthologMaxIdentityPercentage`
 * [INTEGER]   `isCancerDriverGene`
 * [INTEGER]   `hasTEP`
-* [INTEGER]   `hasMouseKO`
+* [FLOAT]     `mouseKOScore`
 * [INTEGER]   `hasHighQualityChemicalProbes`
 * [FLOAT]     `maxClinicalTrialPhase`
 * [FLOAT]     `tissueSpecificity`

@@ -2,19 +2,19 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [STRING]    `interactionTypeMiIdentifier`
+* [RECORD]    `hostOrganismTissue`
+* [STRING]    `hostOrganismTissue.fullName`
+* [STRING]    `hostOrganismTissue.shortName`
+* [RECORD]    `hostOrganismTissue.xrefs`
+* [RECORD]    `hostOrganismTissue.xrefs.list`
+* [STRING]    `hostOrganismTissue.xrefs.list.element`
 * [STRING]    `targetB`
 * [FLOAT]     `evidenceScore`
-* [RECORD]    `participantDetectionMethodA`
-* [RECORD]    `participantDetectionMethodA.list`
-* [RECORD]    `participantDetectionMethodA.list.element`
-* [STRING]    `participantDetectionMethodA.list.element.miIdentifier`
-* [STRING]    `participantDetectionMethodA.list.element.shortName`
 * [STRING]    `intBBiologicalRole`
 * [RECORD]    `interactionResources`
 * [STRING]    `interactionResources.databaseVersion`
 * [STRING]    `interactionResources.sourceDatabase`
-* [STRING]    `interactionTypeShortName`
+* [STRING]    `interactionTypeMiIdentifier`
 * [STRING]    `interactionDetectionMethodShortName`
 * [STRING]    `intA`
 * [STRING]    `intBSource`
@@ -24,6 +24,11 @@
 * [INTEGER]   `speciesB.taxonId`
 * [STRING]    `interactionIdentifier`
 * [INTEGER]   `hostOrganismTaxId`
+* [RECORD]    `participantDetectionMethodA`
+* [RECORD]    `participantDetectionMethodA.list`
+* [RECORD]    `participantDetectionMethodA.list.element`
+* [STRING]    `participantDetectionMethodA.list.element.miIdentifier`
+* [STRING]    `participantDetectionMethodA.list.element.shortName`
 * [STRING]    `expansionMethodShortName`
 * [RECORD]    `speciesA`
 * [STRING]    `speciesA.mnemonic`
@@ -33,15 +38,16 @@
 * [STRING]    `intB`
 * [STRING]    `pubmedId`
 * [STRING]    `intABiologicalRole`
-* [STRING]    `expansionMethodMiIdentifier`
+* [STRING]    `hostOrganismScientificName`
 * [FLOAT]     `interactionScore`
+* [STRING]    `interactionTypeShortName`
+* [STRING]    `expansionMethodMiIdentifier`
+* [STRING]    `targetA`
 * [RECORD]    `participantDetectionMethodB`
 * [RECORD]    `participantDetectionMethodB.list`
 * [RECORD]    `participantDetectionMethodB.list.element`
 * [STRING]    `participantDetectionMethodB.list.element.miIdentifier`
 * [STRING]    `participantDetectionMethodB.list.element.shortName`
-* [STRING]    `hostOrganismScientificName`
-* [STRING]    `targetA`
 * [STRING]    `interactionDetectionMethodMiIdentifier`
 
 -------------------------------------------------------------------------------

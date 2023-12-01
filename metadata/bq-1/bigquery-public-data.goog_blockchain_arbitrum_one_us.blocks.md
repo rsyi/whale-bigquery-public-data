@@ -1,6 +1,5 @@
 # `goog_blockchain_arbitrum_one_us.blocks`
 `bq-1` | `bigquery-public-data`
-"Corresponds to a block in an EVM-compatible blockchain."
 
 ## Column details
 * [STRING]    `block_hash`

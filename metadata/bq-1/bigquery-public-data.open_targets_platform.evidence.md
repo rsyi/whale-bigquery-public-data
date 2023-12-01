@@ -104,6 +104,7 @@
 * [INTEGER]   `publicationYear`
 * [STRING]    `reactionId`
 * [STRING]    `reactionName`
+* [STRING]    `releaseDate`
 * [FLOAT]     `resourceScore`
 * [RECORD]    `sex`
 * [RECORD]    `sex.list`
