@@ -19,6 +19,7 @@ This view contains the most recent snapshot in the Advisories table.
 * [STRING]    `Packages.Name`
 * [STRING]    `Packages.AffectedVersions`
 * [STRING]    `Packages.UnaffectedVersions`
+* [STRING]    `Aliases`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

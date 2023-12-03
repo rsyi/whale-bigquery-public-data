@@ -35,6 +35,8 @@ This table stores information about security advisories related to packages from
   - The versions of the package affected by the advisory
 * [STRING]    `Packages.UnaffectedVersions`
   - The versions of the package unaffected by the advisory
+* [STRING]    `Aliases`
+  - Other identifiers used for the advisory, including CVEs.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
