@@ -1,10 +1,11 @@
 # `goog_blockchain_avalanche_contract_chain_us.receipts`
 `bq-1` | `bigquery-public-data`
-"Corresponds to a transaction receipt in an EVM-compatible blockchain."
 
 ## Column details
 * [STRING]    `block_hash`
   - Hash of the block in which this transaction was located.
+* [TIMESTAMP] `block_timestamp`
+  - Unix timestamp when the transaction was added to the blockchain.
 * [STRING]    `transaction_hash`
   - Hash of the transaction.
 * [INTEGER]   `transaction_index`

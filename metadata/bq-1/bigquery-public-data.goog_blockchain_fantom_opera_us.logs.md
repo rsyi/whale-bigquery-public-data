@@ -1,12 +1,13 @@
 # `goog_blockchain_fantom_opera_us.logs`
 `bq-1` | `bigquery-public-data`
-"// Corresponds to a transaction log in an EVM-compatible blockchain."
 
 ## Column details
 * [STRING]    `block_hash`
   - Hash of the block this log was created from.
 * [INTEGER]   `block_number`
   - Number of the block this log was created from.
+* [TIMESTAMP] `block_timestamp`
+  - Unix timestamp when the log was added to the blockchain.
 * [STRING]    `transaction_hash`
   - Hash of the transaction this log was created from.
 * [INTEGER]   `transaction_index`
