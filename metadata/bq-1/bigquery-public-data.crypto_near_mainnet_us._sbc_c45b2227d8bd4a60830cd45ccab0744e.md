@@ -1,0 +1,8 @@
+# `crypto_near_mainnet_us._sbc_c45b2227d8bd4a60830cd45ccab0744e`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [TIMESTAMP] `last_update`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*
