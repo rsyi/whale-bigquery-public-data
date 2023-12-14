@@ -1,0 +1,59 @@
+# `idc_v17_clinical.acrin_flt_breast_BQ`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `dicom_patient_id`
+* [INTEGER]   `source_batch`
+* [INTEGER]   `cn`
+* [INTEGER]   `bqe2`
+* [INTEGER]   `bqe3`
+* [INTEGER]   `bqe4`
+* [INTEGER]   `bqe5`
+* [INTEGER]   `bqe10`
+* [INTEGER]   `bqe11`
+* [INTEGER]   `bqe16`
+* [INTEGER]   `bqe17`
+* [INTEGER]   `bqe22`
+* [INTEGER]   `bqe23`
+* [INTEGER]   `bqe28`
+* [INTEGER]   `bqe29`
+* [INTEGER]   `bqe34`
+* [INTEGER]   `bqe35`
+* [INTEGER]   `bqe40`
+* [INTEGER]   `bqe41`
+* [STRING]    `bqe46`
+* [STRING]    `bqe47`
+* [STRING]    `bqe52`
+* [STRING]    `bqe53`
+* [STRING]    `bqe58`
+* [STRING]    `bqe59`
+* [STRING]    `bqe64`
+* [STRING]    `bqe65`
+* [STRING]    `bqe70`
+* [STRING]    `bqe71`
+* [STRING]    `bqe76`
+* [STRING]    `bqe77`
+* [STRING]    `bqe82`
+* [STRING]    `bqe83`
+* [STRING]    `bqe88`
+* [STRING]    `bqe89`
+* [STRING]    `bqe94`
+* [STRING]    `bqe95`
+* [STRING]    `bqe100`
+* [STRING]    `bqe101`
+* [STRING]    `bqe106`
+* [STRING]    `bqe107`
+* [STRING]    `bqe112`
+* [STRING]    `bqe113`
+* [STRING]    `bqe118`
+* [STRING]    `bqe119`
+* [STRING]    `bqe124`
+* [STRING]    `bqe125`
+* [INTEGER]   `bqe126`
+* [INTEGER]   `bqe130`
+* [INTEGER]   `bqe3d`
+* [INTEGER]   `bqe126d`
+* [INTEGER]   `bqe130d`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*
