@@ -1,6 +1,6 @@
 # `idc_current.dicom_derived_all` [view]
 `bq-1` | `bigquery-public-data`
-DEPRECATED: This table will likely be removed in a future IDC version
+Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `PatientID`

@@ -1,5 +1,6 @@
 # `idc_current.dicom_pivot` [view]
 `bq-1` | `bigquery-public-data`
+Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 
 ## Column details
 * [STRING]    `PatientID`
@@ -30,6 +31,7 @@
 * [INTEGER]   `instance_size`
 * [STRING]    `analysis_results_id`
 * [INTEGER]   `SamplesPerPixel`
+* [STRING]    `CancerType`
 * [NUMERIC]   `Apparent_Diffusion_Coefficient`
 * [STRING]    `Internal_structure`
 * [STRING]    `Sphericity`

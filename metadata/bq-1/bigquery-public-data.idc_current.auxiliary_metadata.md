@@ -4,7 +4,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 
 ## Column details
 * [STRING]    `collection_name`
-  - DEPRECATED: Collection name as used externally by IDC webapp
+  - Collection name as used externally by IDC webapp
 * [STRING]    `collection_id`
   - Collection ID as used internally by IDC webapp and accepted by the IDC API
 * [DATETIME]  `collection_timestamp`

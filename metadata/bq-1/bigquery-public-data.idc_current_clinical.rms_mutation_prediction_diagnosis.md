@@ -5,7 +5,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 ## Column details
 * [STRING]    `dicom_patient_id`
 * [INTEGER]   `source_batch`
-* [STRING]    `type`
 * [STRING]    `participantparticipant_id`
 * [STRING]    `diagnosis_id`
 * [STRING]    `disease_type`
