@@ -23,6 +23,7 @@ This view contains the most recent snapshot in the PackageVersions table.
 * [BOOLEAN]   `DependenciesProcessed`
 * [BOOLEAN]   `DependencyError`
 * [TIMESTAMP] `UpstreamPublishedAt`
+* [STRING]    `Registries`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

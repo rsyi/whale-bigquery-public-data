@@ -12,6 +12,11 @@ This view contains the most recent snapshot in the Projects table.
 * [STRING]    `Licenses`
 * [STRING]    `Description`
 * [STRING]    `Homepage`
+* [RECORD]    `OSSFuzz`
+* [INTEGER]   `OSSFuzz.LineCount`
+* [INTEGER]   `OSSFuzz.LineCoverCount`
+* [TIMESTAMP] `OSSFuzz.Date`
+* [STRING]    `OSSFuzz.ConfigURL`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

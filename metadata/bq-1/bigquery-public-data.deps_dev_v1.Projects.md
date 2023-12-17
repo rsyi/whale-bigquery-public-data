@@ -21,6 +21,16 @@ This table stores information about projects. Each row represents a single proje
   - A human readable description of the project.
 * [STRING]    `Homepage`
   - A link to the homepage of the project.
+* [RECORD]    `OSSFuzz`
+  - Details of this project’s testing by the OSS-Fuzz service. Only set if the project is tested by OSS-Fuzz.
+* [INTEGER]   `OSSFuzz.LineCount`
+  - The number of lines of code in the project.
+* [INTEGER]   `OSSFuzz.LineCoverCount`
+  - How many lines of code are covered by fuzzing.
+* [TIMESTAMP] `OSSFuzz.Date`
+  - The date the fuzz test that produced the coverage information was run against this project. The time portion of this field is midnight UTC.
+* [STRING]    `OSSFuzz.ConfigURL`
+  - The URL containing the configuration for the project in the OSS-Fuzz repository.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

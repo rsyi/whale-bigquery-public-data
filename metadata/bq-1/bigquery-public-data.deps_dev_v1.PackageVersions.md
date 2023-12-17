@@ -43,6 +43,8 @@ This table stores information about specific versions of packages. Each row repr
   - True if an error was encountered while processing this version's dependency requirements.
 * [TIMESTAMP] `UpstreamPublishedAt`
   - The time at which this package-version was published, as reported by the upstream source.
+* [STRING]    `Registries`
+  - An array of the package management registries this package-version is available from.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
