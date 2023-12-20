@@ -69,8 +69,12 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - UUID of this version of this instance
 * [STRING]    `gcs_url`
   - URL of the Google Cloud Storage (GCS) object containing the current version of this instance
+* [STRING]    `gcs_bucket`
+  - Name of the Google Cloud Storage (GCS) bucket containing the current version of this instance
 * [STRING]    `aws_url`
   - URL to the Amazon Web Services (AWS) object containing the current version of this instance
+* [STRING]    `aws_bucket`
+  - Name to the Amazon Web Services (AWS) bucket containing the current version of this instance
 * [INTEGER]   `instance_size`
   - Size in bytes of this version of this instance
 * [STRING]    `instance_hash`

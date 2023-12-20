@@ -1,4 +1,4 @@
-# `idc_current_clinical.htan_wustl_familyhistory` [view]
+# `idc_current_clinical.htan_vanderbilt_familyhistory` [view]
 `bq-1` | `bigquery-public-data`
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 

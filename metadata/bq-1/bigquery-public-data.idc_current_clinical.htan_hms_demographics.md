@@ -5,29 +5,28 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 ## Column details
 * [STRING]    `dicom_patient_id`
 * [INTEGER]   `source_batch`
-* [STRING]    `Component`
-* [STRING]    `HTAN_Participant_ID`
-* [STRING]    `Ethnicity`
-* [STRING]    `Gender`
-* [STRING]    `Race`
-* [STRING]    `Vital_Status`
-* [STRING]    `Days_to_Birth`
-* [STRING]    `Country_of_Residence`
 * [STRING]    `Age_Is_Obfuscated`
-* [STRING]    `Year_Of_Birth`
+* [STRING]    `Days_to_Birth`
+* [STRING]    `Id`
 * [STRING]    `Occupation_Duration_Years`
-* [STRING]    `Premature_At_Birth`
-* [STRING]    `Weeks_Gestation_at_Birth`
 * [STRING]    `Year_of_Death`
-* [STRING]    `Age_at_Index`
-* [STRING]    `Cause_of_Death`
-* [STRING]    `Cause_of_Death_Source`
-* [STRING]    `Days_to_Death`
 * [STRING]    `entityId`
+* [STRING]    `Gender`
+* [STRING]    `Component`
+* [STRING]    `Vital_Status`
+* [STRING]    `Race`
+* [STRING]    `Premature_At_Birth`
+* [STRING]    `Cause_of_Death_Source`
+* [STRING]    `HTAN_Participant_ID`
+* [STRING]    `Weeks_Gestation_at_Birth`
+* [STRING]    `Days_to_Death`
+* [STRING]    `Cause_of_Death`
+* [STRING]    `Year_Of_Birth`
+* [STRING]    `Country_of_Residence`
+* [STRING]    `Ethnicity`
 * [STRING]    `HTAN_Center`
-* [STRING]    `Data_Release`
+* [STRING]    `Manifest_Id`
 * [INTEGER]   `Manifest_Version`
-* [STRING]    `Uuid`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

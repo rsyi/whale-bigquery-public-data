@@ -1,4 +1,4 @@
-# `idc_current_clinical.htan_wustl_demographics` [view]
+# `idc_current_clinical.htan_vanderbilt_demographics` [view]
 `bq-1` | `bigquery-public-data`
 Views in this dataset reference the tables in the dataset corresponding to the current IDC version.
 

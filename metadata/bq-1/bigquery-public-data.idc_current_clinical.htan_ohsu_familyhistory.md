@@ -5,23 +5,19 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 ## Column details
 * [STRING]    `dicom_patient_id`
 * [INTEGER]   `source_batch`
-* [STRING]    `Relationship_Type`
-* [STRING]    `Component`
+* [STRING]    `entityId`
 * [STRING]    `HTAN_Participant_ID`
-* [STRING]    `Relative_with_Cancer_History`
 * [STRING]    `Relationship_Gender`
 * [STRING]    `Relationship_Age_at_Diagnosis`
+* [STRING]    `Id`
+* [STRING]    `Relationship_Type`
+* [STRING]    `Relative_with_Cancer_History`
+* [STRING]    `Component`
 * [STRING]    `Relationship_Primary_Diagnosis`
 * [STRING]    `Relatives_with_Cancer_History_Count`
-* [STRING]    `Family_Member_Vital_Status_Indicator`
-* [STRING]    `Known_Genetic_Predisposition_Mutation`
-* [STRING]    `Hereditary_Cancer_Predisposition_Syndrome`
-* [STRING]    `Cancer_Associated_Gene_Mutations`
-* [STRING]    `entityId`
 * [STRING]    `HTAN_Center`
-* [STRING]    `Data_Release`
+* [STRING]    `Manifest_Id`
 * [INTEGER]   `Manifest_Version`
-* [STRING]    `Uuid`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
