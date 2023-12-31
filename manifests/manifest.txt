@@ -1358,7 +1358,7 @@ bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.validators
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_1acbc66f61394caca2d9ab85f18a13e9
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_1bcf8beb441f4c918a64ca9911630e9e
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_1ef6d79839b94d7f90eca4541aceb57b
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_209cc53cd8b84ea2873052484b402770
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_222ae1c30cc4c8d9e869a478b085844
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_238bdd9448284f36bf3d16d12879834d
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_2ea3f8034b5e432eacf994fab625b88d
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_3a8cfae44ce1405795c02576f1ce57e0
@@ -1366,8 +1366,8 @@ bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_3ab3c90a794346eda462fadf2d
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_4421bf483f664c6c9ecd0404541773e9
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_57f1b1139f54bf4a1f783420934304e
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_5babdf61a3304eeab890c921e6587ec5
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_6c3f9daae6b4d36931b489973282c76
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_6e8fe462bfef4c13b7373fe87c410006
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_5c69314d01f4c0ab8f1174283c8ac73
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_603eddda6bc6414fab98a3681a5dce75
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_7f021c239d8b4c2293bd00cbf616e2c4
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_a76b66c3a0cc43ac83f42e9a105ae095
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_af2098dbd87b4e32b33754adff753606
@@ -1375,9 +1375,9 @@ bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_b22ba9673724475a9996693084
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_c67b6c3518b24d1fade2f80212f8201e
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_d2bfcf5744f43dbadfdb0e8b6da13da
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_d3c4bae5b3b843c4bbd829becb00a87c
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_d6cd7f9c7ee940848178a93ae96b500b
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_d6cf72400099431e9ae890420a09d31b
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_f81526de8aa64eb6beee95e554f1de97
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_e825a8816a24b3fbd00666ea2a558cd
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_f2112053db2d4167a8730407529d3732
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_f519b849509f49139a78e5e41cb71fc0
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_fa11306ee53c4229bc6fa25a05429f18
 bq-1/bigquery-public-data.crypto_near_mainnet_us.account_changes
 bq-1/bigquery-public-data.crypto_near_mainnet_us.accounts
