@@ -3,15 +3,15 @@
 
 ## Column details
 * [STRING]    `country_name`
-* [STRING]    `country_code`
-* [STRING]    `region_name`
-* [DATE]      `week`
-* [INTEGER]   `rank`
-* [INTEGER]   `percent_gain`
 * [STRING]    `region_code`
 * [STRING]    `term`
 * [INTEGER]   `score`
+* [INTEGER]   `rank`
+* [INTEGER]   `percent_gain`
 * [DATE]      `refresh_date`
+* [STRING]    `country_code`
+* [STRING]    `region_name`
+* [DATE]      `week`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
