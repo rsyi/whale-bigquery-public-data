@@ -40,9 +40,9 @@ Smart contract results.
 * [NUMERIC]   `receiverShard`
   - The shard ID of the receiver address.
 * [STRING]    `receivers`
-  - A list of receiver addresses in case of ESDTNFTTransfer or MultiESDTTransfer.
+  - A list of receiver addresses (one element for now).
 * [NUMERIC]   `receiversShardIDs`
-  - A list of receiver addresses' shard IDs.
+  - A list of receiver addresses' shard IDs (one element for now).
 * [STRING]    `relayedValue`
   - The amount of EGLD to be transferred via the inner transaction's sender.
 * [STRING]    `relayerAddr`

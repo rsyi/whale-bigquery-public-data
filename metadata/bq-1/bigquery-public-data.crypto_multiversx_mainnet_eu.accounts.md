@@ -29,6 +29,12 @@ Accounts data.
   - See `totalBalanceWithStake`. This value is expressed in EGLD.
 * [STRING]    `currentOwner`
   - The address in a bech32 format of the current owner of the smart contract. This field is populated only for the smart contract addresses.
+* [STRING]    `codeHash`
+  - The current code hash of the smart contract.
+* [STRING]    `rootHash`
+  - The root hash of the smart contract's data trie.
+* [STRING]    `codeMetadata`
+  - The code metadata of the smart contract.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

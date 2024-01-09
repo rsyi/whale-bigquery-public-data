@@ -76,6 +76,8 @@ ESDT tokens.
   - List of addresses with the role in question (see name of column).
 * [STRING]    `roles.ESDTRoleLocalNFTCreate`
   - List of addresses with the role in question (see name of column).
+* [STRING]    `roles.ESDTRoleBurnForAll`
+  - List of addresses with the role in question (see name of column).
 * [STRING]    `ticker`
   - The token's ticker (uppercase alphanumeric characters).
 * [TIMESTAMP] `timestamp`

@@ -129,6 +129,20 @@ Blocks.
   - The number of transactions that were executed in the block.
 * [NUMERIC]   `validators`
   - An array that contains the indices of the validators that signed the block.
+* [STRING]    `signature`
+  - The block signature.
+* [STRING]    `leaderSignature`
+  - The leader signature.
+* [STRING]    `randSeed`
+  - The random seed.
+* [STRING]    `prevRandSeed`
+  - The random seed of the previous block.
+* [STRING]    `receiptsHash`
+  - The receipts hash.
+* [STRING]    `softwareVersion`
+  - The software version.
+* [STRING]    `chainID`
+  - The chain ID.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

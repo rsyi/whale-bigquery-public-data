@@ -44,9 +44,9 @@ Transactions.
 * [NUMERIC]   `receiverShard`
   - The shard ID of the receiver address.
 * [STRING]    `receivers`
-  - A list of receiver addresses in case of ESDTNFTTransfer or MultiESDTTransfer.
+  - A list of receiver addresses (one element for now).
 * [NUMERIC]   `receiversShardIDs`
-  - A list of receiver addresses shard IDs.
+  - A list of receiver addresses shard IDs (one element for now).
 * [STRING]    `receiverUserName`
   - The username of the receiver address.
 * [NUMERIC]   `round`
@@ -78,6 +78,10 @@ Transactions.
   - The guardian address, if the sender has a guardian.
 * [STRING]    `guardianSignature`
   - The signature of the guardian.
+* [BOOLEAN]   `errorEvent`
+  - Whether the transaction has an event that indicates an error.
+* [BOOLEAN]   `completedEvent`
+  - Whether the transaction has an event that indicates completion.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

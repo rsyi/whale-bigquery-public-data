@@ -19,6 +19,8 @@ Transaction logs.
   - A list with extra information. They don't have a specific order because the smart contract is free to log anything that could be helpful.
 * [NUMERIC]   `events.order`
   - The index of the event indicating the execution order.
+* [STRING]    `events.additionalData`
+  - Additional data captured by the event.
 * [STRING]    `originalTxHash`
   - The hash of the initial transaction.
 * [TIMESTAMP] `timestamp`
