@@ -1020,6 +1020,7 @@ bq-1/bigquery-public-data.crypto_kusama.balances2243
 bq-1/bigquery-public-data.crypto_kusama.balances2244
 bq-1/bigquery-public-data.crypto_kusama.balances2245
 bq-1/bigquery-public-data.crypto_kusama.balances2256
+bq-1/bigquery-public-data.crypto_kusama.balances2274
 bq-1/bigquery-public-data.crypto_kusama.balances3338
 bq-1/bigquery-public-data.crypto_kusama.blocks0
 bq-1/bigquery-public-data.crypto_kusama.blocks1000
@@ -1034,6 +1035,7 @@ bq-1/bigquery-public-data.crypto_kusama.blocks2012
 bq-1/bigquery-public-data.crypto_kusama.blocks2015
 bq-1/bigquery-public-data.crypto_kusama.blocks2023
 bq-1/bigquery-public-data.crypto_kusama.blocks2024
+bq-1/bigquery-public-data.crypto_kusama.blocks2040
 bq-1/bigquery-public-data.crypto_kusama.blocks2048
 bq-1/bigquery-public-data.crypto_kusama.blocks2084
 bq-1/bigquery-public-data.crypto_kusama.blocks2085
@@ -1064,7 +1066,9 @@ bq-1/bigquery-public-data.crypto_kusama.blocks2125
 bq-1/bigquery-public-data.crypto_kusama.blocks2129
 bq-1/bigquery-public-data.crypto_kusama.blocks2222
 bq-1/bigquery-public-data.crypto_kusama.blocks2236
+bq-1/bigquery-public-data.crypto_kusama.blocks2239
 bq-1/bigquery-public-data.crypto_kusama.blocks2241
+bq-1/bigquery-public-data.crypto_kusama.blocks2274
 bq-1/bigquery-public-data.crypto_kusama.blocks3338
 bq-1/bigquery-public-data.crypto_kusama.calls0
 bq-1/bigquery-public-data.crypto_kusama.calls1000
@@ -1079,6 +1083,7 @@ bq-1/bigquery-public-data.crypto_kusama.calls2012
 bq-1/bigquery-public-data.crypto_kusama.calls2015
 bq-1/bigquery-public-data.crypto_kusama.calls2023
 bq-1/bigquery-public-data.crypto_kusama.calls2024
+bq-1/bigquery-public-data.crypto_kusama.calls2040
 bq-1/bigquery-public-data.crypto_kusama.calls2048
 bq-1/bigquery-public-data.crypto_kusama.calls2084
 bq-1/bigquery-public-data.crypto_kusama.calls2085
@@ -1105,7 +1110,9 @@ bq-1/bigquery-public-data.crypto_kusama.calls2125
 bq-1/bigquery-public-data.crypto_kusama.calls2129
 bq-1/bigquery-public-data.crypto_kusama.calls2222
 bq-1/bigquery-public-data.crypto_kusama.calls2236
+bq-1/bigquery-public-data.crypto_kusama.calls2239
 bq-1/bigquery-public-data.crypto_kusama.calls2241
+bq-1/bigquery-public-data.crypto_kusama.calls2274
 bq-1/bigquery-public-data.crypto_kusama.calls3338
 bq-1/bigquery-public-data.crypto_kusama.chains
 bq-1/bigquery-public-data.crypto_kusama.contractsevents2007
@@ -1123,6 +1130,7 @@ bq-1/bigquery-public-data.crypto_kusama.events2012
 bq-1/bigquery-public-data.crypto_kusama.events2015
 bq-1/bigquery-public-data.crypto_kusama.events2023
 bq-1/bigquery-public-data.crypto_kusama.events2024
+bq-1/bigquery-public-data.crypto_kusama.events2040
 bq-1/bigquery-public-data.crypto_kusama.events2048
 bq-1/bigquery-public-data.crypto_kusama.events2084
 bq-1/bigquery-public-data.crypto_kusama.events2085
@@ -1153,7 +1161,9 @@ bq-1/bigquery-public-data.crypto_kusama.events2125
 bq-1/bigquery-public-data.crypto_kusama.events2129
 bq-1/bigquery-public-data.crypto_kusama.events2222
 bq-1/bigquery-public-data.crypto_kusama.events2236
+bq-1/bigquery-public-data.crypto_kusama.events2239
 bq-1/bigquery-public-data.crypto_kusama.events2241
+bq-1/bigquery-public-data.crypto_kusama.events2274
 bq-1/bigquery-public-data.crypto_kusama.events3338
 bq-1/bigquery-public-data.crypto_kusama.evmholders22007
 bq-1/bigquery-public-data.crypto_kusama.evmholders22023
@@ -1177,6 +1187,7 @@ bq-1/bigquery-public-data.crypto_kusama.extrinsics2012
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2015
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2023
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2024
+bq-1/bigquery-public-data.crypto_kusama.extrinsics2040
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2048
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2084
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2085
@@ -1207,7 +1218,9 @@ bq-1/bigquery-public-data.crypto_kusama.extrinsics2125
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2129
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2222
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2236
+bq-1/bigquery-public-data.crypto_kusama.extrinsics2239
 bq-1/bigquery-public-data.crypto_kusama.extrinsics2241
+bq-1/bigquery-public-data.crypto_kusama.extrinsics2274
 bq-1/bigquery-public-data.crypto_kusama.extrinsics3338
 bq-1/bigquery-public-data.crypto_kusama.logs0
 bq-1/bigquery-public-data.crypto_kusama.logs1000
@@ -1222,6 +1235,7 @@ bq-1/bigquery-public-data.crypto_kusama.logs2012
 bq-1/bigquery-public-data.crypto_kusama.logs2015
 bq-1/bigquery-public-data.crypto_kusama.logs2023
 bq-1/bigquery-public-data.crypto_kusama.logs2024
+bq-1/bigquery-public-data.crypto_kusama.logs2040
 bq-1/bigquery-public-data.crypto_kusama.logs2048
 bq-1/bigquery-public-data.crypto_kusama.logs2084
 bq-1/bigquery-public-data.crypto_kusama.logs2085
@@ -1252,7 +1266,9 @@ bq-1/bigquery-public-data.crypto_kusama.logs2125
 bq-1/bigquery-public-data.crypto_kusama.logs2129
 bq-1/bigquery-public-data.crypto_kusama.logs2222
 bq-1/bigquery-public-data.crypto_kusama.logs2236
+bq-1/bigquery-public-data.crypto_kusama.logs2239
 bq-1/bigquery-public-data.crypto_kusama.logs2241
+bq-1/bigquery-public-data.crypto_kusama.logs2274
 bq-1/bigquery-public-data.crypto_kusama.logs3338
 bq-1/bigquery-public-data.crypto_kusama.specversions0
 bq-1/bigquery-public-data.crypto_kusama.specversions1000
@@ -1267,6 +1283,7 @@ bq-1/bigquery-public-data.crypto_kusama.specversions2012
 bq-1/bigquery-public-data.crypto_kusama.specversions2015
 bq-1/bigquery-public-data.crypto_kusama.specversions2023
 bq-1/bigquery-public-data.crypto_kusama.specversions2024
+bq-1/bigquery-public-data.crypto_kusama.specversions2040
 bq-1/bigquery-public-data.crypto_kusama.specversions2048
 bq-1/bigquery-public-data.crypto_kusama.specversions2084
 bq-1/bigquery-public-data.crypto_kusama.specversions2085
@@ -1297,9 +1314,14 @@ bq-1/bigquery-public-data.crypto_kusama.specversions2125
 bq-1/bigquery-public-data.crypto_kusama.specversions2129
 bq-1/bigquery-public-data.crypto_kusama.specversions2222
 bq-1/bigquery-public-data.crypto_kusama.specversions2236
+bq-1/bigquery-public-data.crypto_kusama.specversions2239
 bq-1/bigquery-public-data.crypto_kusama.specversions2241
+bq-1/bigquery-public-data.crypto_kusama.specversions2274
 bq-1/bigquery-public-data.crypto_kusama.specversions3338
 bq-1/bigquery-public-data.crypto_kusama.traces0
+bq-1/bigquery-public-data.crypto_kusama.traces2040
+bq-1/bigquery-public-data.crypto_kusama.traces2239
+bq-1/bigquery-public-data.crypto_kusama.traces2274
 bq-1/bigquery-public-data.crypto_kusama.traces3338
 bq-1/bigquery-public-data.crypto_kusama.transfers0
 bq-1/bigquery-public-data.crypto_kusama.transfers1000
@@ -1314,6 +1336,7 @@ bq-1/bigquery-public-data.crypto_kusama.transfers2012
 bq-1/bigquery-public-data.crypto_kusama.transfers2015
 bq-1/bigquery-public-data.crypto_kusama.transfers2023
 bq-1/bigquery-public-data.crypto_kusama.transfers2024
+bq-1/bigquery-public-data.crypto_kusama.transfers2040
 bq-1/bigquery-public-data.crypto_kusama.transfers2048
 bq-1/bigquery-public-data.crypto_kusama.transfers2084
 bq-1/bigquery-public-data.crypto_kusama.transfers2085
@@ -1344,7 +1367,9 @@ bq-1/bigquery-public-data.crypto_kusama.transfers2125
 bq-1/bigquery-public-data.crypto_kusama.transfers2129
 bq-1/bigquery-public-data.crypto_kusama.transfers2222
 bq-1/bigquery-public-data.crypto_kusama.transfers2236
+bq-1/bigquery-public-data.crypto_kusama.transfers2239
 bq-1/bigquery-public-data.crypto_kusama.transfers2241
+bq-1/bigquery-public-data.crypto_kusama.transfers2274
 bq-1/bigquery-public-data.crypto_kusama.transfers3338
 bq-1/bigquery-public-data.crypto_kusama.xcmassets
 bq-1/bigquery-public-data.crypto_litecoin.blocks
@@ -1368,29 +1393,29 @@ bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.scresults
 bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.tokens
 bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.transactions
 bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.validators
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_10a31e433385492d9b3f40c4c600b379
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_1697e27c1cb1406c8d3d02b17e6bc6e1
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_189001ab6d3f447f874eb58e312a104a
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_19762598ceb4abbaf10084800d5e137
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_19d2ff56658b42a582211660f5a8de8b
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_1d0fc2f3b6ec4548b554f0f2855b7653
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_27417c5d257640c687d50391cd1f645d
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_2f5b9b8b08f34b6bb9edeec4ac317072
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_316a6aaa04a642f086a427a50413f4d9
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_3921f608be3e4cdab435d4017a565a60
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_3bf06e93e41745cdbec7470cbde98a54
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_4ca00e0da0484fa7f03cfff0b18132
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_70daa8e8f641406c9b6e3be82a197cd0
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_73b3bfe62fe41009bb5b33782f0314c
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_69640380875d4b5eb8aa53de0985cd0f
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_786ff5be4bf048218ec8e81562f42d21
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_7a195731bafa4a8e861ddbdf3b794c82
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_7bbdde70862d45479dc64f16de28faf8
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_8c18e8a432144c45a026e49e8f264201
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_8e09d9cd9d444f0ea0b21bc40ecae10c
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_907dc16d45574ffc884532163397037c
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_9d390ccf9bb448f894c92ca0d8387ff9
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_a08565bf2a1642ed81efd370f9c5be9e
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_cb5cf61fdccc4afa93cc56561a7f7579
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_cfb91a67090045ab8dbbd7c723a87a00
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_e16450f2e0be4344aab5f93ebfa8bc17
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_e7f3fff4bef1485791e5ad1d
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_e8a8b9718759433c9fb4957d3cb348c3
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_ec9f0ea1af8d4bf49ac79774e65f393b
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_f19af8bc5cdb482b822b2f9a388604e0
 bq-1/bigquery-public-data.crypto_near_mainnet_us.account_changes
 bq-1/bigquery-public-data.crypto_near_mainnet_us.accounts
@@ -1639,6 +1664,7 @@ bq-1/bigquery-public-data.crypto_polkadot.balances2104
 bq-1/bigquery-public-data.crypto_polkadot.balances2105
 bq-1/bigquery-public-data.crypto_polkadot.balances2106
 bq-1/bigquery-public-data.crypto_polkadot.balances3333
+bq-1/bigquery-public-data.crypto_polkadot.balances3334
 bq-1/bigquery-public-data.crypto_polkadot.blocks0
 bq-1/bigquery-public-data.crypto_polkadot.blocks1000
 bq-1/bigquery-public-data.crypto_polkadot.blocks1001
@@ -1677,6 +1703,7 @@ bq-1/bigquery-public-data.crypto_polkadot.blocks2101
 bq-1/bigquery-public-data.crypto_polkadot.blocks2104
 bq-1/bigquery-public-data.crypto_polkadot.blocks2105
 bq-1/bigquery-public-data.crypto_polkadot.blocks3333
+bq-1/bigquery-public-data.crypto_polkadot.blocks3334
 bq-1/bigquery-public-data.crypto_polkadot.calls0
 bq-1/bigquery-public-data.crypto_polkadot.calls1000
 bq-1/bigquery-public-data.crypto_polkadot.calls1001
@@ -1699,6 +1726,7 @@ bq-1/bigquery-public-data.crypto_polkadot.calls2034
 bq-1/bigquery-public-data.crypto_polkadot.calls2035
 bq-1/bigquery-public-data.crypto_polkadot.calls2037
 bq-1/bigquery-public-data.crypto_polkadot.calls2039
+bq-1/bigquery-public-data.crypto_polkadot.calls2040
 bq-1/bigquery-public-data.crypto_polkadot.calls2043
 bq-1/bigquery-public-data.crypto_polkadot.calls2046
 bq-1/bigquery-public-data.crypto_polkadot.calls2048
@@ -1713,6 +1741,7 @@ bq-1/bigquery-public-data.crypto_polkadot.calls2094
 bq-1/bigquery-public-data.crypto_polkadot.calls2101
 bq-1/bigquery-public-data.crypto_polkadot.calls2104
 bq-1/bigquery-public-data.crypto_polkadot.calls3333
+bq-1/bigquery-public-data.crypto_polkadot.calls3334
 bq-1/bigquery-public-data.crypto_polkadot.chain
 bq-1/bigquery-public-data.crypto_polkadot.chains
 bq-1/bigquery-public-data.crypto_polkadot.clustertracereference0
@@ -1755,6 +1784,7 @@ bq-1/bigquery-public-data.crypto_polkadot.events2101
 bq-1/bigquery-public-data.crypto_polkadot.events2104
 bq-1/bigquery-public-data.crypto_polkadot.events2105
 bq-1/bigquery-public-data.crypto_polkadot.events3333
+bq-1/bigquery-public-data.crypto_polkadot.events3334
 bq-1/bigquery-public-data.crypto_polkadot.evmholders2002
 bq-1/bigquery-public-data.crypto_polkadot.evmholders2004
 bq-1/bigquery-public-data.crypto_polkadot.evmholders2006
@@ -1803,6 +1833,7 @@ bq-1/bigquery-public-data.crypto_polkadot.extrinsics2101
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics2104
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics2105
 bq-1/bigquery-public-data.crypto_polkadot.extrinsics3333
+bq-1/bigquery-public-data.crypto_polkadot.extrinsics3334
 bq-1/bigquery-public-data.crypto_polkadot.flatvalidators0
 bq-1/bigquery-public-data.crypto_polkadot.logs0
 bq-1/bigquery-public-data.crypto_polkadot.logs1000
@@ -1842,6 +1873,7 @@ bq-1/bigquery-public-data.crypto_polkadot.logs2101
 bq-1/bigquery-public-data.crypto_polkadot.logs2104
 bq-1/bigquery-public-data.crypto_polkadot.logs2105
 bq-1/bigquery-public-data.crypto_polkadot.logs3333
+bq-1/bigquery-public-data.crypto_polkadot.logs3334
 bq-1/bigquery-public-data.crypto_polkadot.reference0
 bq-1/bigquery-public-data.crypto_polkadot.reservereference0
 bq-1/bigquery-public-data.crypto_polkadot.reservereference0_unordered
@@ -1883,12 +1915,15 @@ bq-1/bigquery-public-data.crypto_polkadot.specversions2101
 bq-1/bigquery-public-data.crypto_polkadot.specversions2104
 bq-1/bigquery-public-data.crypto_polkadot.specversions2105
 bq-1/bigquery-public-data.crypto_polkadot.specversions3333
+bq-1/bigquery-public-data.crypto_polkadot.specversions3334
 bq-1/bigquery-public-data.crypto_polkadot.staking
 bq-1/bigquery-public-data.crypto_polkadot.stakings0
 bq-1/bigquery-public-data.crypto_polkadot.target_clustertracereference0
 bq-1/bigquery-public-data.crypto_polkadot.target_traces0
 bq-1/bigquery-public-data.crypto_polkadot.tracereference0
 bq-1/bigquery-public-data.crypto_polkadot.traces0
+bq-1/bigquery-public-data.crypto_polkadot.traces2040
+bq-1/bigquery-public-data.crypto_polkadot.traces3334
 bq-1/bigquery-public-data.crypto_polkadot.transfers0
 bq-1/bigquery-public-data.crypto_polkadot.transfers1000
 bq-1/bigquery-public-data.crypto_polkadot.transfers1001
@@ -1927,6 +1962,7 @@ bq-1/bigquery-public-data.crypto_polkadot.transfers2101
 bq-1/bigquery-public-data.crypto_polkadot.transfers2104
 bq-1/bigquery-public-data.crypto_polkadot.transfers2105
 bq-1/bigquery-public-data.crypto_polkadot.transfers3333
+bq-1/bigquery-public-data.crypto_polkadot.transfers3334
 bq-1/bigquery-public-data.crypto_polkadot.validatormap0
 bq-1/bigquery-public-data.crypto_polkadot.validators0
 bq-1/bigquery-public-data.crypto_polkadot.votes0
