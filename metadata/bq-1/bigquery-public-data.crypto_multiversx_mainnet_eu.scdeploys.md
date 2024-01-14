@@ -19,6 +19,8 @@ Smart contract deploys.
   - The hex encoded hash of the contract upgrade transaction.
 * [STRING]    `upgrades.upgrader`
   - The bech32 encoded address of the sender of the contract upgrade transaction.
+* [STRING]    `upgrades.codeHash`
+  - The new code hash of the smart contract.
 * [STRING]    `currentOwner`
   - The current owner of the smart contract.
 * [STRING]    `initialCodeHash`
