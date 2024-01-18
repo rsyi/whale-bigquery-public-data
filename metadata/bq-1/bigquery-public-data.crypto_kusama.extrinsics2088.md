@@ -32,6 +32,7 @@
   - Pub key of Signer of extrinsic
 * [FLOAT]     `fee_usd`
   - Fee USD of extrinsic (if available)
+* [BOOLEAN]   `status`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

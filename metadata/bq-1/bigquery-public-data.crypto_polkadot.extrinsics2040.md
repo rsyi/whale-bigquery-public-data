@@ -30,6 +30,7 @@
   - SS58 Address of Signer of extrinsic, if signed
 * [STRING]    `signer_pub_key`
   - Pub key of Signer of extrinsic
+* [BOOLEAN]   `status`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

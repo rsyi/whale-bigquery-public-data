@@ -17,6 +17,7 @@
 * [STRING]    `signer_ss58`
 * [STRING]    `signer_pub_key`
 * [FLOAT]     `fee_usd`
+* [BOOLEAN]   `status`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

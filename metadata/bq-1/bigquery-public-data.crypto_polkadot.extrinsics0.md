@@ -32,6 +32,8 @@
   - Pub key of Signer of extrinsic
 * [FLOAT]     `fee_usd`
   - Fee USD of extrinsic (if available)
+* [BOOLEAN]   `status`
+  - Execution Status of the Extrinsic (true as success; false as failure)
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

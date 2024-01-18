@@ -16,6 +16,7 @@
 * [BOOLEAN]   `signed`
 * [STRING]    `signer_ss58`
 * [STRING]    `signer_pub_key`
+* [BOOLEAN]   `status`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
