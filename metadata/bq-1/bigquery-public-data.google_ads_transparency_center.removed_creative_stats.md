@@ -28,6 +28,7 @@
 * [STRING]    `region_stats.surface_serving_stats.surface_serving_stats.surface`
 * [INTEGER]   `region_stats.surface_serving_stats.surface_serving_stats.times_shown_upper_bound`
 * [INTEGER]   `region_stats.surface_serving_stats.surface_serving_stats.times_shown_lower_bound`
+* [STRING]    `region_stats.surface_serving_stats.surface_serving_stats.times_shown_availability_date`
 * [RECORD]    `audience_selection_approach_info`
   - Information on audience selection, broken out by approach type. The available values are: "CRITERIA_INCLUDED" (Criteria from this category were included in the ad's audience), "CRITERIA_EXCLUDED" (Criteria from this category were excluded from the ad's audience), "CRITERIA_INCLUDED_AND_EXCLUDED" (Some criteria from this category were included and others were excluded from the ad's audience), and "CRITERIA_UNUSED" (Criteria from these categories were not used for audience selection).
 * [STRING]    `audience_selection_approach_info.demographic_info`
