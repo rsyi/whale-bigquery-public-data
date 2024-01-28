@@ -5,12 +5,12 @@
 * [STRING]    `country_name`
 * [STRING]    `country_code`
 * [STRING]    `term`
-* [INTEGER]   `score`
 * [INTEGER]   `rank`
 * [DATE]      `refresh_date`
 * [STRING]    `region_name`
 * [STRING]    `region_code`
 * [DATE]      `week`
+* [INTEGER]   `score`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
