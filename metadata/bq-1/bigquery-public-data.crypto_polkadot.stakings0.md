@@ -6,6 +6,7 @@
 * [STRING]    `address_pubkey`
 * [STRING]    `section`
 * [STRING]    `storage`
+* [STRING]    `track`
 * [INTEGER]   `block_number`
 * [STRING]    `block_hash`
 * [TIMESTAMP] `ts`
