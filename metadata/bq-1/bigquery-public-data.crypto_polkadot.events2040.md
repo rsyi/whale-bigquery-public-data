@@ -20,6 +20,8 @@
   - Block number of the block that includes this event
 * [STRING]    `block_hash`
   - Block hash of the block that includes this event
+* [JSON]      `data_decoded`
+  - Decoded JSON data of the event, if available
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
