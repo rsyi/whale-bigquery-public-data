@@ -89,26 +89,6 @@ ESDT tokens.
 * [BOOLEAN]   `frozen`
 * [BOOLEAN]   `paused`
   - Whether the token is 'paused'.
-* [BOOLEAN]   `api_isVerified`
-* [NUMERIC]   `api_nftCount`
-* [NUMERIC]   `api_holderCount`
-* [STRING]    `nft_traitValues`
-* [STRING]    `nft_scamInfoType`
-* [STRING]    `nft_scamInfoDescription`
-* [BOOLEAN]   `nft_hasRarity`
-* [FLOAT]     `nft_nsfw_mark`
-* [NUMERIC]   `nft_rank_custom`
-* [STRING]    `nft_custom_ranks_hash`
-* [FLOAT]     `nft_score_openRarity`
-* [NUMERIC]   `nft_rank_openRarity`
-* [FLOAT]     `nft_score_jaccardDistances`
-* [NUMERIC]   `nft_rank_jaccardDistances`
-* [FLOAT]     `nft_score_trait`
-* [NUMERIC]   `nft_rank_trait`
-* [FLOAT]     `nft_score_statistical`
-* [NUMERIC]   `nft_rank_statistical`
-* [BOOLEAN]   `nft_hasRarities`
-* [BOOLEAN]   `nft_hasTraitSummary`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
