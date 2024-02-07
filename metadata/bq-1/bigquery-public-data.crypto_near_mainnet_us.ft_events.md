@@ -35,7 +35,7 @@ NEAR Fungible Tokens event logs.
   - Execution status. Contains the result in case of successful execution
 * [STRING]    `event_memo`
   - The event log memo
-* [INTEGER]   `event_index`
+* [STRING]    `event_index`
   - The event log index
 * [STRING]    `token_id`
   - The token ID
