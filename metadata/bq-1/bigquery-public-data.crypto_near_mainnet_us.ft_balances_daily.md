@@ -9,16 +9,24 @@ Fungible Tokens daily balances
   - The max height of the Block in the epoch
 * [STRING]    `account_id`
   - The delegator Account ID
-* [STRING]    `nonstaked_balance`
-  - Non staked balance
+* [FLOAT]     `liquid`
+  - Liquid balance
 * [INTEGER]   `storage_usage`
   - Storage Usage
-* [FLOAT]     `unstaked`
+* [FLOAT]     `unstaked_not_liquid`
   - Unstaked balance
 * [FLOAT]     `staked`
   - Staked balance
 * [FLOAT]     `reward`
   - Reward
+* [STRING]    `lockup_account_id`
+  - The lockup delegator Account ID
+* [FLOAT]     `lockup_unstaked_not_liquid`
+  - Lockup unstaked balance
+* [FLOAT]     `lockup_staked`
+  - Lockup staked balance
+* [FLOAT]     `lockup_reward`
+  - Lockup Reward
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
