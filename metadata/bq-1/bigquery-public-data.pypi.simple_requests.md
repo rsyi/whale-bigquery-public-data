@@ -28,6 +28,7 @@
 * [STRING]    `details.openssl_version`
 * [STRING]    `details.setuptools_version`
 * [STRING]    `details.rustc_version`
+* [BOOLEAN]   `details.ci`
 * [STRING]    `tls_protocol`
 * [STRING]    `tls_cipher`
 
