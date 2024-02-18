@@ -45,6 +45,16 @@ This table stores information about specific versions of packages. Each row repr
   - The time at which this package-version was published, as reported by the upstream source.
 * [STRING]    `Registries`
   - An array of the package management registries this package-version is available from.
+* [RECORD]    `SLSAProvenance`
+  - Provenance information for this package version. Extracted from a SLSA provenance attestation.
+* [STRING]    `SLSAProvenance.SourceRepository`
+  - The source code repository used to build this version.
+* [STRING]    `SLSAProvenance.Commit`
+  - The commit of the source code repository the version was built from.
+* [STRING]    `SLSAProvenance.URL`
+  - The URL of the provenance statement.
+* [BOOLEAN]   `SLSAProvenance.Verified`
+  - The Sigstore bundle containing this attestation was verified using the [sigstore-go](https://github.com/sigstore/sigstore-go) library.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

@@ -24,6 +24,11 @@ This view contains the most recent snapshot in the PackageVersions table.
 * [BOOLEAN]   `DependencyError`
 * [TIMESTAMP] `UpstreamPublishedAt`
 * [STRING]    `Registries`
+* [RECORD]    `SLSAProvenance`
+* [STRING]    `SLSAProvenance.SourceRepository`
+* [STRING]    `SLSAProvenance.Commit`
+* [STRING]    `SLSAProvenance.URL`
+* [BOOLEAN]   `SLSAProvenance.Verified`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

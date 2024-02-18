@@ -6,6 +6,7 @@
 * [STRING]    `address_pubkey`
 * [STRING]    `section`
 * [STRING]    `storage`
+* [STRING]    `track`
 * [INTEGER]   `block_number`
 * [STRING]    `block_hash`
 * [TIMESTAMP] `ts`
@@ -31,7 +32,6 @@
 * [FLOAT]     `member_share`
 * [JSON]      `targets`
 * [JSON]      `pv`
-* [STRING]    `track`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
