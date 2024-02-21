@@ -23,11 +23,15 @@
 * [STRING]    `region_stats.times_shown_availability_date`
   - YYYY-MM-DD representation of the date on which impressions will become available if no impressions occurred within the reporting period. This field is NULL if impressions did occur within the reporting period.
 * [RECORD]    `region_stats.surface_serving_stats`
-  - Collection of surface which the ad served in and their relevant serving times lower/upper bound.
+  - Collection of platforms where the ad served and their relevant serving times lower/upper bound. This field is NULL if no platform serving stats data is populated.
 * [RECORD]    `region_stats.surface_serving_stats.surface_serving_stats`
+  - Collection of platforms where the ad served and their relevant serving times lower/upper bound. The field is empty if no platform serving stats data is available within the valid reporting period.
 * [STRING]    `region_stats.surface_serving_stats.surface_serving_stats.surface`
+  - The platform where the ad served. Possible values are: SEARCH, MAPS, PLAY, SHOPPING, YOUTUBE.
 * [INTEGER]   `region_stats.surface_serving_stats.surface_serving_stats.times_shown_upper_bound`
+  - The upper bound of the number of times the ad was shown in the associated region and platform.
 * [INTEGER]   `region_stats.surface_serving_stats.surface_serving_stats.times_shown_lower_bound`
+  - The lower bound of the number of times the ad was shown in the associated region and platform.
 * [STRING]    `region_stats.surface_serving_stats.surface_serving_stats.times_shown_availability_date`
 * [RECORD]    `audience_selection_approach_info`
   - Information on audience selection, broken out by approach type. The available values are: "CRITERIA_INCLUDED" (Criteria from this category were included in the ad's audience), "CRITERIA_EXCLUDED" (Criteria from this category were excluded from the ad's audience), "CRITERIA_INCLUDED_AND_EXCLUDED" (Some criteria from this category were included and others were excluded from the ad's audience), and "CRITERIA_UNUSED" (Criteria from these categories were not used for audience selection).
