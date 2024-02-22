@@ -1290,17 +1290,17 @@ bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.scresults
 bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.tokens
 bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.transactions
 bq-1/bigquery-public-data.crypto_multiversx_mainnet_eu.validators
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_1def27c2312a47258eef86aa3b00ba4a
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_22f2ae0f03d942409fcd8f0b76e90398
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_2c41813ab2bf484591854b551027a02f
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_2e1f6f7ba75b4548856cda534e72658c
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_37fd151d52c846c4a8a29b542d352791
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_400f95a38f3f4d2abe00af32e50095f1
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_4387bd666754b028f106cf8fcbf5529
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_4683c5d5463b4d1cae6e066a
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_46e0c7c28c704649a3454083a279cb86
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_48360f134a6149d69d2e1144ccc05412
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_5f05c315db304b819c7e21068bbfaeac
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_611c1866f0d441ebb91db65183e9a0ee
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_79f8c3486f048419360a31ff6e215bb
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_7a8001a4f71e495aa8862686c540d697
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_808bd689a5824f35bc3159d59653cb13
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_83a1ed4adf15453eb124e8326e1d44d5
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_83c496dc8a8d461b8f652bef494b99dc
@@ -1311,9 +1311,9 @@ bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_9087ee865bf74a708287a95f59
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_a3a83183938249faa0fed9f063f62253
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_a8fa7567bc2d4caeae59b75aaca422c5
 bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_b1924f95f34d4e94b59c131af6facae8
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_c59e5811b80d4d2eb69954dd8292fb20
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_cd88898016354d7f9a1c6568f5808c66
-bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_e56ae26c00754ea69e1eb5c77f5f5057
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_b46db940eed946df80f537c2f5ba4cad
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_b95f5506ef5a43d1b3e3672dd573fc6d
+bq-1/bigquery-public-data.crypto_near_mainnet_us._sbc_dd6bdc22d9be45ffaaa63e5db411da50
 bq-1/bigquery-public-data.crypto_near_mainnet_us.account_changes
 bq-1/bigquery-public-data.crypto_near_mainnet_us.accounts
 bq-1/bigquery-public-data.crypto_near_mainnet_us.blocks
@@ -1336,6 +1336,7 @@ bq-1/bigquery-public-data.crypto_polkadot.accountsactive2000
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2002
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2004
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2006
+bq-1/bigquery-public-data.crypto_polkadot.accountsactive2007
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2008
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2012
 bq-1/bigquery-public-data.crypto_polkadot.accountsactive2013
@@ -1361,6 +1362,7 @@ bq-1/bigquery-public-data.crypto_polkadot.accountsnew2000
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2002
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2004
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2006
+bq-1/bigquery-public-data.crypto_polkadot.accountsnew2007
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2008
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2012
 bq-1/bigquery-public-data.crypto_polkadot.accountsnew2013
@@ -1386,6 +1388,7 @@ bq-1/bigquery-public-data.crypto_polkadot.accountspassive2000
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2002
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2004
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2006
+bq-1/bigquery-public-data.crypto_polkadot.accountspassive2007
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2008
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2012
 bq-1/bigquery-public-data.crypto_polkadot.accountspassive2013
@@ -1411,6 +1414,7 @@ bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2000
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2002
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2004
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2006
+bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2007
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2008
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2012
 bq-1/bigquery-public-data.crypto_polkadot.accountsreaped2013
@@ -4011,6 +4015,7 @@ bq-1/bigquery-public-data.google_ads_geo_mapping_us_west4.ads_geo_region_mapping
 bq-1/bigquery-public-data.google_ads_geo_mapping_us_west4.ads_geo_subcontinent_mapping
 bq-1/bigquery-public-data.google_ads_transparency_center.creative_stats
 bq-1/bigquery-public-data.google_ads_transparency_center.removed_creative_stats
+bq-1/bigquery-public-data.google_ads_transparency_center.sqlp-temp-donotremove-1708627231716091097-550PFvA3
 bq-1/bigquery-public-data.google_analytics_sample.ga_sessions_
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_1
 bq-1/bigquery-public-data.google_books_ngrams_2020.chi_sim_2
