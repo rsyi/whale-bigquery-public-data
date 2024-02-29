@@ -21,6 +21,8 @@ Fungible Tokens daily balances
   - Reward
 * [STRING]    `lockup_account_id`
   - The lockup delegator Account ID
+* [FLOAT]     `lockup_liquid`
+  - Lockup liquid balance
 * [FLOAT]     `lockup_unstaked_not_liquid`
   - Lockup unstaked balance
 * [FLOAT]     `lockup_staked`
