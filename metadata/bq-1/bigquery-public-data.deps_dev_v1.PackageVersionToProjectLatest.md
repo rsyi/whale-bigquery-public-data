@@ -9,6 +9,8 @@ This view contains the most recent snapshot in the PackageVersionToProject table
 * [STRING]    `Version`
 * [STRING]    `ProjectType`
 * [STRING]    `ProjectName`
+* [STRING]    `RelationProvenance`
+* [STRING]    `RelationType`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

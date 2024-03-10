@@ -15,6 +15,10 @@ This table represents the relation between package-versions and project. Each ro
   - The type of the project.
 * [STRING]    `ProjectName`
   - The name of the project.
+* [STRING]    `RelationProvenance`
+  - How the mapping between project and package version was discovered.
+* [STRING]    `RelationType`
+  - What the relationship between the project and the package version is.
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
