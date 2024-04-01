@@ -2,10 +2,10 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
-* [STRING]    `toxicityClass`
 * [RECORD]    `chemblIds`
 * [RECORD]    `chemblIds.list`
 * [STRING]    `chemblIds.list.element`
+* [STRING]    `toxicityClass`
 * [STRING]    `country`
 * [STRING]    `description`
 * [INTEGER]   `id`
@@ -20,7 +20,6 @@
 * [STRING]    `efo_term`
 * [STRING]    `efo_id`
 * [STRING]    `efo_id_for_warning_class`
-* [INTEGER]   `meddraSocCode`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

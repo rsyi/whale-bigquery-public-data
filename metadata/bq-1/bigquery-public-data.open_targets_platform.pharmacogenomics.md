@@ -2,17 +2,19 @@
 `bq-1` | `bigquery-public-data`
 
 ## Column details
+* [STRING]    `drugId`
+* [STRING]    `drugFromSource`
 * [STRING]    `datasourceId`
 * [STRING]    `datasourceVersion`
 * [STRING]    `datatypeId`
-* [STRING]    `drugFromSource`
+* [STRING]    `directionality`
 * [STRING]    `drugFromSourceId`
-* [STRING]    `drugId`
 * [STRING]    `evidenceLevel`
 * [STRING]    `genotype`
 * [STRING]    `genotypeAnnotationText`
 * [STRING]    `genotypeId`
-* [BOOLEAN]   `isDirectTarget`
+* [STRING]    `haplotypeFromSourceId`
+* [STRING]    `haplotypeId`
 * [RECORD]    `literature`
 * [RECORD]    `literature.list`
 * [STRING]    `literature.list.element`
@@ -23,6 +25,7 @@
 * [STRING]    `targetFromSourceId`
 * [STRING]    `variantFunctionalConsequenceId`
 * [STRING]    `variantRsId`
+* [BOOLEAN]   `isDirectTarget`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

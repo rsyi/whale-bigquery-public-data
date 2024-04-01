@@ -156,6 +156,8 @@
 * [STRING]    `diseaseId`
 * [STRING]    `id`
 * [FLOAT]     `score`
+* [STRING]    `variantEffect`
+* [STRING]    `directionOnTrait`
 * [STRING]    `sourceId`
 
 -------------------------------------------------------------------------------
