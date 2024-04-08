@@ -50,6 +50,10 @@ Data is exported using https://github.com/medvedev1088/ethereum-etl
 * [INTEGER]   `withdrawals.validator_index`
 * [STRING]    `withdrawals.address`
 * [STRING]    `withdrawals.amount`
+* [INTEGER]   `blob_gas_used`
+  - The total amount of blob gas consumed by transactions in the block
+* [INTEGER]   `excess_blob_gas`
+  - A running total of blob gas consumed in excess of the target, prior to the block. This is used to set blob gas pricing
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

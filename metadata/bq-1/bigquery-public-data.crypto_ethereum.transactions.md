@@ -48,6 +48,14 @@ Data is exported using https://github.com/medvedev1088/ethereum-etl
   - Transaction type
 * [INTEGER]   `receipt_effective_gas_price`
   - The actual value per gas deducted from the senders account. Replacement of gas_price after EIP-1559
+* [INTEGER]   `max_fee_per_blob_gas`
+  - The maximum fee a user is willing to pay per blob gas
+* [STRING]    `blob_versioned_hashes`
+  - A list of hashed outputs from kzg_to_versioned_hash
+* [INTEGER]   `receipt_blob_gas_price`
+  - Blob gas price
+* [INTEGER]   `receipt_blob_gas_used`
+  - Blob gas used
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
