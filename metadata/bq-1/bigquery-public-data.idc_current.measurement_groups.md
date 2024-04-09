@@ -165,6 +165,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicType`
 * [FLOAT]     `contentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicData`
 * [STRING]    `contentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicType`
+* [STRING]    `contentSequence.ContentSequence.GraphicType`
+* [STRING]    `contentSequence.ContentSequence.ReferencedFrameOfReferenceUID`
 * [RECORD]    `contentSequence.ContentSequence.OtherElements`
 * [STRING]    `contentSequence.ContentSequence.OtherElements.Tag`
 * [STRING]    `contentSequence.ContentSequence.OtherElements.Data`

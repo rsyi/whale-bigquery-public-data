@@ -1,0 +1,66 @@
+# `idc_v18_clinical.hcc_tace_seg_clinical`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `dicom_patient_id`
+* [INTEGER]   `source_batch`
+* [STRING]    `tcia_id`
+* [INTEGER]   `interval_bl`
+* [STRING]    `interval_fu`
+* [FLOAT]     `ttp`
+* [INTEGER]   `death_1_stillaliveorlosttofu_0`
+* [INTEGER]   `censored_0_progressed_1`
+* [FLOAT]     `os`
+* [STRING]    `hepatitis`
+* [INTEGER]   `age`
+* [STRING]    `agegp`
+* [INTEGER]   `sex`
+* [INTEGER]   `smoking`
+* [INTEGER]   `alcohol`
+* [INTEGER]   `fhx_can`
+* [INTEGER]   `fhx_livc`
+* [INTEGER]   `diabetes`
+* [INTEGER]   `personal_history_of_cancer`
+* [INTEGER]   `evidence_of_cirh`
+* [STRING]    `pathology`
+* [INTEGER]   `ps_bclc_0_0_1_2_1_3_4_3`
+* [STRING]    `cps`
+* [STRING]    `tr_size`
+* [STRING]    `tumor_nodul`
+* [INTEGER]   `vascular_invasion`
+* [INTEGER]   `metastasis`
+* [INTEGER]   `lymphnodes`
+* [INTEGER]   `portal_vein_thrombosis`
+* [STRING]    `t_involvment`
+* [FLOAT]     `afp`
+* [STRING]    `afp_group`
+* [STRING]    `clip_score`
+* [STRING]    `clip`
+* [STRING]    `okuda`
+* [STRING]    `tnm`
+* [STRING]    `bclc`
+* [STRING]    `chemotherapy`
+* [STRING]    `c_1_easl_bl`
+* [STRING]    `c_1_easl_fu`
+* [STRING]    `c_1_easl`
+* [STRING]    `c_1_recist_bl`
+* [STRING]    `c_1_recist_fu`
+* [STRING]    `c_1_recist`
+* [STRING]    `c_2_recist_bl`
+* [STRING]    `c_2_recist_fu`
+* [STRING]    `c_2_recist`
+* [STRING]    `c_3_recist_bl`
+* [STRING]    `c_3_recist_fu`
+* [STRING]    `c_3_recist`
+* [STRING]    `c_1_mrecist_bl`
+* [STRING]    `c_1_mrecist_fu`
+* [STRING]    `c_1_mrecist`
+* [STRING]    `c_2_mrecist_bl`
+* [STRING]    `c_2_mrecist_fu`
+* [STRING]    `c_2_mrecist`
+* [STRING]    `c_3_mrecist_bl`
+* [STRING]    `c_3_mrecist_fu`
+* [STRING]    `c_3_mrecist`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*

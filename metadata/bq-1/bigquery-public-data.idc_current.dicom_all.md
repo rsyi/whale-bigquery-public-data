@@ -78,6 +78,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - The DOI of a page that describes the original collection or analysis result that include this instance
 * [STRING]    `Source_URL`
   - The URL of a page that describes the original collection or analysis result that include this instance
+* [STRING]    `analysis_result_id`
+  - If this instance is an analysis result, then the ID of the analysis result, else NULL
 * [STRING]    `license_url`
   - The URL to the page describing the license of the collection that contains this instance
 * [STRING]    `license_long_name`
@@ -85,15 +87,15 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `license_short_name`
   - The short name of the license of the collection that contains this instance
 * [STRING]    `tcia_api_collection_id`
-  - The ID of the collection containing this instance as expected by the TCIA API
+  - DEPRECATED: Duplicate of collection_name
 * [STRING]    `idc_webapp_collection_id`
-  - The ID of the collection containing this instance as expected by the IDC web app and API.
+  - DEPRECATED: Duplicate of collection_id
 * [STRING]    `tcia_tumorLocation`
-  - TCIA assigned tumor location of the collection containing this instance
+  - DEPRECATED: Duplicate of collection_tumorLocation
 * [STRING]    `tcia_species`
-  - TCIA assigned species of the collection containing this instance
+  - DEPRECATED: Duplicate of collection_species
 * [STRING]    `tcia_cancerType`
-  - TCIA assigned cancer type of the collection containing this instance
+  - DEPRECATED: Duplicate of collection_cancerType
 * [STRING]    `MediaStorageSOPClassUID`
 * [STRING]    `MediaStorageSOPInstanceUID`
 * [STRING]    `TransferSyntaxUID`
@@ -320,6 +322,9 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [TIMESTAMP] `SourceImageSequence.PurposeOfReferenceCodeSequence.ContextGroupVersion`
 * [STRING]    `SourceImageSequence.PurposeOfReferenceCodeSequence.ContextGroupExtensionFlag`
 * [STRING]    `SourceImageSequence.PurposeOfReferenceCodeSequence.ContextIdentifier`
+* [STRING]    `StageNumber`
+* [STRING]    `NumberOfStages`
+* [STRING]    `NumberOfViewsInStage`
 * [STRING]    `StartTrim`
 * [STRING]    `StopTrim`
 * [STRING]    `RecommendedDisplayFrameRate`
@@ -395,6 +400,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `IssuerOfPatientID`
 * [STRING]    `TypeOfPatientID`
 * [RECORD]    `IssuerOfPatientIDQualifiersSequence`
+* [STRING]    `IssuerOfPatientIDQualifiersSequence.UniversalEntityID`
 * [STRING]    `IssuerOfPatientIDQualifiersSequence.UniversalEntityIDType`
 * [STRING]    `IssuerOfPatientIDQualifiersSequence.IdentifierTypeCode`
 * [RECORD]    `SourcePatientGroupIdentificationSequence`
@@ -546,6 +552,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `NominalInterval`
 * [STRING]    `FrameTime`
 * [STRING]    `CardiacFramingType`
+* [STRING]    `FrameTimeVector`
 * [STRING]    `FrameDelay`
 * [STRING]    `SynchronizationTrigger`
 * [STRING]    `RadiopharmaceuticalVolume`
@@ -683,6 +690,9 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [INTEGER]   `SequenceOfUltrasoundRegions.PulseRepetitionFrequency`
 * [FLOAT]     `SequenceOfUltrasoundRegions.DopplerCorrectionAngle`
 * [FLOAT]     `SequenceOfUltrasoundRegions.SteeringAngle`
+* [RECORD]    `SequenceOfUltrasoundRegions.OtherElements`
+* [STRING]    `SequenceOfUltrasoundRegions.OtherElements.Tag`
+* [STRING]    `SequenceOfUltrasoundRegions.OtherElements.Data`
 * [STRING]    `TransducerType`
 * [STRING]    `DetectorConditionsNominalFlag`
 * [STRING]    `DetectorTemperature`
@@ -1110,6 +1120,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ScheduledProtocolCodeSequence.CodeMeaning`
 * [STRING]    `ScheduledProcedureStepID`
 * [STRING]    `ScheduledStationName`
+* [STRING]    `UniversalEntityID`
 * [RECORD]    `ScheduledProcedureStepSequence`
 * [STRING]    `ScheduledProcedureStepSequence.ScheduledStationName`
 * [STRING]    `PerformedStationAETitle`
@@ -1584,6 +1595,8 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicType`
 * [FLOAT]     `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicData`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.ContentSequence.ContentSequence.GraphicType`
+* [STRING]    `ContentSequence.ContentSequence.ContentSequence.GraphicType`
+* [STRING]    `ContentSequence.ContentSequence.ContentSequence.ReferencedFrameOfReferenceUID`
 * [RECORD]    `ContentSequence.ContentSequence.ContentSequence.OtherElements`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.OtherElements.Tag`
 * [STRING]    `ContentSequence.ContentSequence.ContentSequence.OtherElements.Data`

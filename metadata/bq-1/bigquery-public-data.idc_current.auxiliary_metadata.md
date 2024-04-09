@@ -91,10 +91,6 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - Long name of license of this analysis result
 * [STRING]    `license_short_name`
   - Short name of license of this analysis result
-* [STRING]    `tcia_api_collection_id`
-  - DEPRECATED: Collection name as used externally by IDC webapp
-* [STRING]    `idc_webapp_collection_id`
-  - DEPRECATED: Collection ID as used internally by IDC webapp and accepted by the IDC API
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*

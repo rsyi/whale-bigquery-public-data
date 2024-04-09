@@ -57,6 +57,7 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `SegmentedPropertyTypeCodeSequence`
 * [INTEGER]   `SegmentNumber`
 * [STRING]    `SegmentAlgorithmType`
+* [STRING]    `SegmentAlgorithmName`
 * [STRING]    `AdditionalPatientHistory`
 * [STRING]    `Allergies`
 * [STRING]    `ImageType`

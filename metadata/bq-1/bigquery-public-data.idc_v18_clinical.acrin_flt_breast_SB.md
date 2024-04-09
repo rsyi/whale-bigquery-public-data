@@ -1,0 +1,59 @@
+# `idc_v18_clinical.acrin_flt_breast_SB`
+`bq-1` | `bigquery-public-data`
+
+## Column details
+* [STRING]    `dicom_patient_id`
+* [INTEGER]   `source_batch`
+* [INTEGER]   `cn`
+* [INTEGER]   `sbe2`
+* [INTEGER]   `sbe3`
+* [INTEGER]   `sbe4`
+* [INTEGER]   `sbe5`
+* [INTEGER]   `sbe6`
+* [INTEGER]   `sbe7`
+* [INTEGER]   `sbe8`
+* [INTEGER]   `sbe9`
+* [INTEGER]   `sbe10`
+* [INTEGER]   `sbe11`
+* [INTEGER]   `sbe14`
+* [FLOAT]     `sbe15`
+* [FLOAT]     `sbe16`
+* [INTEGER]   `sbe18`
+* [FLOAT]     `sbe19`
+* [FLOAT]     `sbe20`
+* [STRING]    `sbe22`
+* [STRING]    `sbe23`
+* [STRING]    `sbe24`
+* [STRING]    `sbe26`
+* [STRING]    `sbe27`
+* [STRING]    `sbe28`
+* [STRING]    `sbe30`
+* [STRING]    `sbe31`
+* [STRING]    `sbe32`
+* [STRING]    `sbe34`
+* [STRING]    `sbe35`
+* [STRING]    `sbe36`
+* [INTEGER]   `sbe38`
+* [FLOAT]     `sbe39`
+* [FLOAT]     `sbe40`
+* [INTEGER]   `sbe42`
+* [FLOAT]     `sbe43`
+* [INTEGER]   `sbe44`
+* [INTEGER]   `sbe46`
+* [INTEGER]   `sbe47`
+* [FLOAT]     `sbe48`
+* [INTEGER]   `sbe50`
+* [FLOAT]     `sbe51`
+* [FLOAT]     `sbe52`
+* [INTEGER]   `sbe53`
+* [INTEGER]   `sbe54`
+* [INTEGER]   `sbe55`
+* [INTEGER]   `sbe56`
+* [INTEGER]   `sbe60`
+* [INTEGER]   `sbe3d`
+* [INTEGER]   `sbe6d`
+* [INTEGER]   `sbe56d`
+* [INTEGER]   `sbe60d`
+
+-------------------------------------------------------------------------------
+*Do not make edits above this line.*

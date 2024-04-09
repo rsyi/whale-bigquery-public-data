@@ -9,16 +9,18 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - Descriptive title
 * [STRING]    `Access`
   - Limited or Public
-* [STRING]    `DOI`
+* [STRING]    `source_doi`
   - DOI that can be resolved at doi.org to a wiki page
-* [STRING]    `CancerType`
+* [STRING]    `source_url`
+  - URL of a wiki page
+* [STRING]    `CancerTypes`
   - Type(s) of cancer analyzed
-* [STRING]    `Location`
+* [STRING]    `TumorLocations`
   - Body location that was analyzed
 * [INTEGER]   `Subjects`
   - Number of subjects whose data was analyzed
 * [STRING]    `Collections`
-  - idc_webapp_collection_ids of original data collections analyzed
+  - collection_names of original data collections analyzed
 * [STRING]    `AnalysisArtifacts`
   - Types of analysis artifacts produced
 * [DATE]      `Updated`
@@ -32,7 +34,13 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `Description`
   - Analysis result description
 * [STRING]    `AnalysisArtifactsonTCIA`
-  - DEPRECATED: Types of analysis artifacts produced
+  - DEPRECATED: Duplicate of AnalysisArtifacts
+* [STRING]    `DOI`
+  - DEPRECATED: Duplicate of source_doi
+* [STRING]    `CancerType`
+  - DEPRECATED: Duplicate of CancerTypes
+* [STRING]    `Location`
+  - DEPRECATED: Duplicate of PrimarySiteLocations
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
