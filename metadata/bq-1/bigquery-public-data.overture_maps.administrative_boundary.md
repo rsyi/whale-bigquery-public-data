@@ -1,5 +1,6 @@
 # `overture_maps.administrative_boundary`
 `bq-1` | `bigquery-public-data`
+This table contains data from the Overture dataset.
 
 ## Column details
 * [STRING]    `id`
