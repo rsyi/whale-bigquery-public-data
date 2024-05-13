@@ -1,4 +1,4 @@
-# `crypto_polkadot.traces2026`
+# `crypto_polkadot.traces3367`
 `bq-1` | `bigquery-public-data`
 
 ## Column details

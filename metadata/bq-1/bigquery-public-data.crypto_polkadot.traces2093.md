@@ -7,6 +7,8 @@
 * [STRING]    `id`
 * [STRING]    `chain_name`
 * [STRING]    `trace_id`
+* [STRING]    `extrinsic_id`
+  - Extrinsic ID of extrinsic
 * [TIMESTAMP] `ts`
 * [INTEGER]   `block_number`
 * [STRING]    `block_hash`
@@ -24,6 +26,7 @@
 * [STRING]    `xcm_interior_key`
 * [STRING]    `address_ss58`
 * [STRING]    `address_pubkey`
+* [STRING]    `flags`
 * [FLOAT]     `free`
 * [FLOAT]     `free_usd`
 * [STRING]    `free_raw`
