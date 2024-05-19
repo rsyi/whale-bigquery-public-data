@@ -1,4 +1,4 @@
-# `crypto_polkadot.extrinsics2101`
+# `crypto_kusama.extrinsics1004`
 `bq-1` | `bigquery-public-data`
 
 ## Column details
@@ -22,15 +22,18 @@
   - Parameters of extrinsic
 * [FLOAT]     `fee`
   - Fee of extrinsic
+* [FLOAT]     `fee_usd`
+  - Fee USD of extrinsic (if available)
 * [INTEGER]   `weight`
   - Extrinsic weight (if available)
 * [BOOLEAN]   `signed`
   - Whether extrinsic has been signed (true) or not (false)
+* [BOOLEAN]   `status`
+  - Execution Status of the Extrinsic (true as success; false as failure)
 * [STRING]    `signer_ss58`
   - SS58 Address of Signer of extrinsic, if signed
 * [STRING]    `signer_pub_key`
   - Pub key of Signer of extrinsic
-* [BOOLEAN]   `status`
 
 -------------------------------------------------------------------------------
 *Do not make edits above this line.*
