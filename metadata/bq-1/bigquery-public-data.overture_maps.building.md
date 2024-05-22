@@ -28,6 +28,7 @@ Founded in 2022 under the Joint Development Foundation, Overture Maps Foundation
 * [STRING]    `sources.list.element.dataset`
 * [STRING]    `sources.list.element.record_id`
 * [FLOAT]     `sources.list.element.confidence`
+* [STRING]    `subtype`
 * [RECORD]    `names`
   - The used name when referring to a feature. The first entry in the array of names must have a language of "local" making it the easiest, default name to use among all options.
 * [STRING]    `names.primary`

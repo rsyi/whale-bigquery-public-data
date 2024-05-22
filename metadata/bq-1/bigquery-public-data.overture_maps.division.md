@@ -55,6 +55,10 @@ The Overture Maps divisions theme includes features that represent human settlem
 * [RECORD]    `divisions.list.element`
 * [STRING]    `divisions.list.element.division_id`
 * [BOOLEAN]   `divisions.list.element.is_disputing`
+* [RECORD]    `local_type`
+* [RECORD]    `local_type.key_value`
+* [STRING]    `local_type.key_value.key`
+* [STRING]    `local_type.key_value.value`
 * [STRING]    `country`
   - ISO 3166-1 alpha-2 country code.
 * [STRING]    `region`
