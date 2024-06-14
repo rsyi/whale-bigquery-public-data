@@ -17,6 +17,10 @@ Views in this dataset reference the tables in the dataset corresponding to the c
   - Concatenated values of `CodingSchemeDesignator` and `CodeValue` separated by `:` from SpecimenDescriptionSequence[0] > PrimaryAnatomicStructureSequence[0] (applicable in SM).
 * [STRING]    `primaryAnatomicStructure_CodeMeaning`
   - `CodeMeaning` from SpecimenDescriptionSequence[0] > PrimaryAnatomicStructureSequence[0] (applicable in SM).
+* [STRING]    `primaryAnatomicStructureModifier_code_designator_value_str`
+  - Concatenated values of `CodingSchemeDesignator` and `CodeValue` separated by `:` from SpecimenDescriptionSequence[0] > PrimaryAnatomicStructureSequence[0] > PrimaryAnatomicStructureModifierSequence[0] (applicable in SM).
+* [STRING]    `primaryAnatomicStructureModifier_CodeMeaning`
+  - `CodeMeaning` from SpecimenDescriptionSequence[0] > PrimaryAnatomicStructureSequence[0] > PrimaryAnatomicStructureModifierSequence[0] (applicable in SM).
 * [STRING]    `illuminationType_code_designator_value_str`
   - Concatenated values of `CodingSchemeDesignator` and `CodeValue` separated by `:` from OpticalPathSequence[0].IlluminationTypeCodeSequence[0] (applicable in SM).
 * [STRING]    `illuminationType_CodeMeaning`

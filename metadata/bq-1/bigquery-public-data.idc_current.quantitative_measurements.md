@@ -28,6 +28,11 @@ Views in this dataset reference the tables in the dataset corresponding to the c
 * [STRING]    `derivationModifier.CodeValue`
 * [STRING]    `derivationModifier.CodingSchemeDesignator`
 * [STRING]    `derivationModifier.CodeMeaning`
+* [RECORD]    `lateralityModifier`
+  - Value of the TID 1500 Measurement group row corresponding to the concept "Laterality"
+* [STRING]    `lateralityModifier.CodeValue`
+* [STRING]    `lateralityModifier.CodingSchemeDesignator`
+* [STRING]    `lateralityModifier.CodeMeaning`
 * [NUMERIC]   `Value`
   - Value corresponding to the concept listed in the Quantity field.
 * [RECORD]    `Units`
